@@ -1,8 +1,14 @@
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
   <title>KEXP: Today's Playlist</title>
   <info>https://www.kexp.org/playlist/</info>
-  <date>2026-04-16T17:05:28+00:00</date>
+  <date>2026-04-16T17:11:28+00:00</date>
   <trackList>
+    <track>
+      <title>Sour Times</title>
+      <creator>Portishead</creator>
+      <image>https://dn710601.ca.archive.org/0/items/mbid-8f468f36-8c7e-4fc1-9166-50664d267127/mbid-8f468f36-8c7e-4fc1-9166-50664d267127-27070117361_thumb500.jpg</image>
+      <album>Dummy</album>
+    </track>
     <track>
       <title>Boots on the Ground</title>
       <creator>Massive Attack &amp; Tom Waits</creator>
@@ -1931,18 +1937,6 @@
       <creator>Say She She</creator>
       <image>https://dn721601.ca.archive.org/0/items/mbid-404c5223-590c-4a3f-955c-9718d24c96de/mbid-404c5223-590c-4a3f-955c-9718d24c96de-42265198282_thumb500.jpg</image>
       <album>Cut &amp; Rewind</album>
-    </track>
-    <track>
-      <title>Automatic</title>
-      <creator>Jessie Ware</creator>
-      <image>https://dn710105.ca.archive.org/0/items/mbid-2178e2e3-37ad-4562-b67e-c125a38ab80b/mbid-2178e2e3-37ad-4562-b67e-c125a38ab80b-44219031428_thumb500.jpg</image>
-      <album>Superbloom</album>
-    </track>
-    <track>
-      <title>Organ Donor</title>
-      <creator>DJ Shadow</creator>
-      <image>https://dn711107.ca.archive.org/0/items/mbid-4edc4a43-bee4-41bc-aa06-ae4a3cf2ea47/mbid-4edc4a43-bee4-41bc-aa06-ae4a3cf2ea47-9776058456_thumb500.jpg</image>
-      <album>Endtroducing.....</album>
     </track>
   </trackList>
 </playlist>
