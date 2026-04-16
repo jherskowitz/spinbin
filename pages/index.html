@@ -1,12 +1,45 @@
 <!DOCTYPE html>
 <html>
-<head><title>Spinbin</title></head>
+<head>
+  <title>Spinbin</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #0d1117; color: #e6edf3; padding: 2rem; max-width: 640px; margin: 0 auto; }
+    h1 { font-size: 2rem; margin-bottom: 0.25rem; }
+    .tagline { color: #8b949e; margin-bottom: 2rem; }
+    h2 { font-size: 1.1rem; color: #8b949e; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem; }
+    .playlist { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 1.25rem; margin-bottom: 1rem; }
+    .playlist-name { font-size: 1.25rem; font-weight: 600; margin-bottom: 0.25rem; }
+    .playlist-desc { color: #8b949e; font-size: 0.9rem; margin-bottom: 1rem; }
+    .buttons { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+    .btn { display: inline-block; padding: 0.5rem 1rem; border-radius: 6px; text-decoration: none; font-size: 0.85rem; font-weight: 500; }
+    .btn-primary { background: #ff6b35; color: #fff; }
+    .btn-primary:hover { background: #e55a2b; }
+    .btn-secondary { background: #21262d; color: #e6edf3; border: 1px solid #30363d; }
+    .btn-secondary:hover { background: #30363d; }
+    footer { margin-top: 3rem; color: #484f58; font-size: 0.8rem; }
+    footer a { color: #58a6ff; text-decoration: none; }
+  </style>
+</head>
 <body>
-<h1>Spinbin</h1>
-<p>Turning the web into playlists... one page at a time.</p>
-<h2>Available Playlists</h2>
-<ul>
-  <li><a href="playlists/kexp-today.xspf">KEXP: Today's Playlist</a></li>
-</ul>
+  <h1>Spinbin</h1>
+  <p class="tagline">Turning the web into playlists... one page at a time.</p>
+
+  <h2>Playlists</h2>
+
+  <div class="playlist">
+    <div class="playlist-name">KEXP: Today's Playlist</div>
+    <div class="playlist-desc">The last 24 hours of plays from Seattle's KEXP 90.3 FM. Updates every 30 minutes.</div>
+    <div class="buttons">
+      <a class="btn btn-primary" href="parachord://import?url=https%3A%2F%2Fjherskowitz.github.io%2Fspinbin%2Fplaylists%2Fkexp-today.xspf">Add to Parachord</a>
+      <a class="btn btn-secondary" href="playlists/kexp-today.xspf">Download XSPF</a>
+    </div>
+  </div>
+
+  <footer>
+    <p>Powered by <a href="https://github.com/jherskowitz/spinbin">GitHub Actions</a>. Subscribe in <a href="https://parachord.com">Parachord</a>.</p>
+  </footer>
 </body>
 </html>
