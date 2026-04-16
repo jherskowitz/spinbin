@@ -1,8 +1,21 @@
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
-  <title>KEXP: Today's Playlist</title>
+  <title>KEXP Rewind</title>
   <info>https://www.kexp.org/playlist/</info>
-  <date>2026-04-16T17:11:28+00:00</date>
+  <creator>kexp.org</creator>
+  <date>2026-04-16T17:21:51+00:00</date>
   <trackList>
+    <track>
+      <title>Drugstore Drastic</title>
+      <creator>Throwing Muses</creator>
+      <image>https://ia801403.us.archive.org/12/items/mbid-9261275b-2fe5-40e3-87ce-391d8ce32d2b/mbid-9261275b-2fe5-40e3-87ce-391d8ce32d2b-40902832701_thumb500.jpg</image>
+      <album>Moonlight Concessions</album>
+    </track>
+    <track>
+      <title>The Wait</title>
+      <creator>Built to Spill</creator>
+      <image>https://dn721900.ca.archive.org/0/items/mbid-f0384d6c-1aae-4212-bb84-1ddd7c0e3484/mbid-f0384d6c-1aae-4212-bb84-1ddd7c0e3484-26443313555_thumb500.jpg</image>
+      <album>You in Reverse</album>
+    </track>
     <track>
       <title>Sour Times</title>
       <creator>Portishead</creator>
@@ -1925,18 +1938,6 @@
       <creator>Goldfrapp</creator>
       <image>https://dn710201.ca.archive.org/0/items/mbid-3e8be859-8347-46f1-935b-2bad5ea8df6a/mbid-3e8be859-8347-46f1-935b-2bad5ea8df6a-32826561770_thumb500.jpg</image>
       <album>Silver Eye</album>
-    </track>
-    <track>
-      <title>Il Futuro</title>
-      <creator>GiGi Girls feat. Jaakko Eino Kalevi</creator>
-      <image>https://dn721502.ca.archive.org/0/items/mbid-eb2886ca-b2f3-4ad8-8026-5c269846d977/mbid-eb2886ca-b2f3-4ad8-8026-5c269846d977-44687383762_thumb500.jpg</image>
-      <album>Il Futuro</album>
-    </track>
-    <track>
-      <title>She Who Dares</title>
-      <creator>Say She She</creator>
-      <image>https://dn721601.ca.archive.org/0/items/mbid-404c5223-590c-4a3f-955c-9718d24c96de/mbid-404c5223-590c-4a3f-955c-9718d24c96de-42265198282_thumb500.jpg</image>
-      <album>Cut &amp; Rewind</album>
     </track>
   </trackList>
 </playlist>
