@@ -19,7 +19,7 @@ def fetch_plays(hours=24, limit=200):
     }
 
     while url:
-        resp = requests.get(url, params=params)
+        resp = requests.get(url, params=params, timeout=30)
         resp.raise_for_status()
         data = resp.json()
 
