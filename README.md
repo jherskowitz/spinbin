@@ -8,7 +8,8 @@ Spinbin scrapes radio station and chart playlists, generates XSPF playlist files
 
 | Playlist | Source | Add to Parachord | XSPF |
 |----------|--------|------------------|------|
-| KEXP: Today's Playlist | [kexp.org](https://www.kexp.org/playlist/) | [Add to Parachord](https://parachord.com/go?uri=parachord%3A%2F%2Fimport%3Furl%3Dhttps%253A%252F%252Fjherskowitz.github.io%252Fspinbin%252Fplaylists%252Fkexp-today.xspf) | [XSPF](https://jherskowitz.github.io/spinbin/playlists/kexp-today.xspf) |
+| KEXP Rewind | [kexp.org](https://www.kexp.org/playlist/) | [Add to Parachord](https://parachord.com/go?uri=parachord%3A%2F%2Fimport%3Furl%3Dhttps%253A%252F%252Fjherskowitz.github.io%252Fspinbin%252Fplaylists%252Fkexp-today.xspf) | [XSPF](https://jherskowitz.github.io/spinbin/playlists/kexp-today.xspf) |
+| KCRW Rewind | [kcrw.com](https://www.kcrw.com/playlists?channel=Simulcast) | [Add to Parachord](https://parachord.com/go?uri=parachord%3A%2F%2Fimport%3Furl%3Dhttps%253A%252F%252Fjherskowitz.github.io%252Fspinbin%252Fplaylists%252Fkcrw-today.xspf) | [XSPF](https://jherskowitz.github.io/spinbin/playlists/kcrw-today.xspf) |
 
 ## How It Works
 

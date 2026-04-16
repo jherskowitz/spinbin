@@ -2,14 +2,22 @@ import os
 from datetime import datetime, timezone
 
 from xspf import Xspf
-from scrapers import kexp
+from scrapers import kexp, kcrw
 
 PLAYLISTS = {
     "kexp": {
-        "title": "KEXP: Today's Playlist",
+        "title": "KEXP Rewind",
+        "creator": "kexp.org",
         "filename": "kexp-today.xspf",
         "fetch": lambda: kexp.fetch_plays(),
         "info": "https://www.kexp.org/playlist/",
+    },
+    "kcrw": {
+        "title": "KCRW Rewind",
+        "creator": "kcrw.com",
+        "filename": "kcrw-today.xspf",
+        "fetch": lambda: kcrw.fetch_plays(),
+        "info": "https://www.kcrw.com/playlists?channel=Simulcast",
     },
 }
 
@@ -24,6 +32,7 @@ def generate_playlist(name, output_dir):
 
     playlist = Xspf()
     playlist.title = config["title"]
+    playlist.creator = config["creator"]
     playlist.info = config["info"]
     playlist.date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
 
