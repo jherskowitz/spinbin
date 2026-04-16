@@ -1,7 +1,9 @@
 import requests
 from datetime import datetime, timedelta, timezone
+from dateutil import parser as dateparser
 
 KEXP_API_URL = "https://api.kexp.org/v2/plays/"
+MAX_PAGES = 10  # Safety cap to prevent runaway pagination
 
 
 def fetch_plays(hours=24, limit=200):
@@ -18,12 +20,26 @@ def fetch_plays(hours=24, limit=200):
         "begin_airdate": since_str,
     }
 
-    while url:
+    pages_fetched = 0
+    done = False
+
+    while url and not done and pages_fetched < MAX_PAGES:
         resp = requests.get(url, params=params, timeout=30)
         resp.raise_for_status()
         data = resp.json()
+        pages_fetched += 1
 
         for play in data.get("results", []):
+            # Check if we've gone past the time window
+            airdate_str = play.get("airdate")
+            if airdate_str:
+                airdate = dateparser.parse(airdate_str)
+                if airdate.tzinfo is None:
+                    airdate = airdate.replace(tzinfo=timezone.utc)
+                if airdate < since:
+                    done = True
+                    break
+
             if play.get("play_type") != "trackplay":
                 continue
             if not play.get("song") or not play.get("artist"):
