@@ -2,8 +2,26 @@
   <title>KEXP Rewind</title>
   <info>https://www.kexp.org/playlist/</info>
   <creator>kexp.org</creator>
-  <date>2026-04-17T11:46:55+00:00</date>
+  <date>2026-04-17T12:06:31+00:00</date>
   <trackList>
+    <track>
+      <title>Ain’t It Strange</title>
+      <creator>Dr. Dog</creator>
+      <image>https://dn721801.ca.archive.org/0/items/mbid-29162da3-553b-4311-9b77-5c3dd99ddc8a/mbid-29162da3-553b-4311-9b77-5c3dd99ddc8a-34898553299_thumb500.jpg</image>
+      <album>Takers and Leavers</album>
+    </track>
+    <track>
+      <title>Hither Green</title>
+      <creator>Global Tracks</creator>
+      <image>https://coverartarchive.org/release/4c33d3b9-9b7c-4668-a533-1e0ceeb5f15c/19724640035-500.jpg</image>
+      <album>Hither Green / Shelley</album>
+    </track>
+    <track>
+      <title>A Carved Stone</title>
+      <creator>Ryuichi Sakamoto</creator>
+      <image>https://coverartarchive.org/release/50a9401d-2c02-4e68-95e2-d38f4948ee56/17043070893-500.jpg</image>
+      <album>Esperanto</album>
+    </track>
     <track>
       <title>Never Known</title>
       <creator>The Durutti Column</creator>
@@ -1825,41 +1843,6 @@
       <creator>Ms Ray</creator>
       <image>https://dn721504.ca.archive.org/0/items/mbid-236dcd45-8d11-4ff7-b064-150bc29b6f7f/mbid-236dcd45-8d11-4ff7-b064-150bc29b6f7f-44589130580_thumb500.jpg</image>
       <album>Melt</album>
-    </track>
-    <track>
-      <title>The Sound of Silence</title>
-      <creator>Chromatics</creator>
-      <image>https://ia803104.us.archive.org/6/items/mbid-504cfe95-970d-41c3-bad4-898020d93dba/mbid-504cfe95-970d-41c3-bad4-898020d93dba-24282053776_thumb500.jpg</image>
-      <album>Closer to Grey</album>
-    </track>
-    <track>
-      <title>Rain</title>
-      <creator>PVA</creator>
-      <image>https://dn721802.ca.archive.org/0/items/mbid-68c6a63d-72d9-4c69-b33d-5a93b3b1d818/mbid-68c6a63d-72d9-4c69-b33d-5a93b3b1d818-43136424930_thumb500.jpg</image>
-      <album>No More Like This</album>
-    </track>
-    <track>
-      <title>Sword of Sinew</title>
-      <creator>Welp Disney</creator>
-      <album>Eola Detritus</album>
-    </track>
-    <track>
-      <title>Waiting Room</title>
-      <creator>Jenevieve feat. Jordan Ward</creator>
-      <image>https://coverartarchive.org/release/e6836c16-6154-4b10-bf46-70fe1285282c/44725593960-500.jpg</image>
-      <album>Waiting Room</album>
-    </track>
-    <track>
-      <title>NeverFold</title>
-      <creator>DJ HARRISON</creator>
-      <image>https://coverartarchive.org/release/efa2dabe-e70c-45df-ae92-0a9b7ad3b5df/43500718547-500.jpg</image>
-      <album>ElectroSoul</album>
-    </track>
-    <track>
-      <title>Scratches</title>
-      <creator>Lava La Rue</creator>
-      <image>https://coverartarchive.org/release/b70d2d16-be1f-485c-9a6b-32cb652c952a/44732512635-500.jpg</image>
-      <album>Do You Know Everything?</album>
     </track>
   </trackList>
 </playlist>

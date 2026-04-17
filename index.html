@@ -1,54 +1,473 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Spinbin</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Spinbin — Radio playlists for Parachord</title>
+  <meta name="description" content="Automated XSPF playlists from public radio stations, updated daily. Subscribe in Parachord.">
   <style>
+    :root {
+      /* Light mode — mirrored from Parachord design tokens */
+      --bg-page: #f6f7f9;
+      --bg-card: #ffffff;
+      --bg-inset: #f3f4f6;
+
+      --text-primary: #111827;
+      --text-secondary: #6b7280;
+      --text-tertiary: #9ca3af;
+
+      --border-default: #e5e7eb;
+      --border-subtle: rgba(0, 0, 0, 0.06);
+
+      --accent-primary: #7c3aed;
+      --accent-primary-hover: #6d28d9;
+      --accent-surface: #ede9fe;
+      --accent-ring: rgba(124, 58, 237, 0.25);
+
+      --card-shadow: 0 1px 3px rgba(0, 0, 0, 0.05), 0 4px 12px rgba(0, 0, 0, 0.03);
+      --card-shadow-hover: 0 2px 6px rgba(0, 0, 0, 0.06), 0 16px 32px -8px rgba(0, 0, 0, 0.08);
+      --tile-shadow: 0 2px 8px rgba(0, 0, 0, 0.1), 0 4px 16px rgba(0, 0, 0, 0.05);
+
+      --radius-sm: 6px;
+      --radius-md: 10px;
+      --radius-lg: 16px;
+      --radius-xl: 20px;
+      --radius-pill: 999px;
+
+      --ease-out: cubic-bezier(0.4, 0, 0.2, 1);
+      --ease-spring: cubic-bezier(0.16, 1, 0.3, 1);
+
+      --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+      --font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Monaco, "Liberation Mono", monospace;
+
+      /* Station brand colors */
+      --kexp: #007A7A;   /* KEXP teal */
+      --kcrw: #E4002B;   /* KCRW red */
+    }
+
     * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #0d1117; color: #e6edf3; padding: 2rem; max-width: 640px; margin: 0 auto; }
-    h1 { font-size: 2rem; margin-bottom: 0.25rem; }
-    .tagline { color: #8b949e; margin-bottom: 2rem; }
-    h2 { font-size: 1.1rem; color: #8b949e; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem; }
-    .playlist { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 1.25rem; margin-bottom: 1rem; }
-    .playlist-name { font-size: 1.25rem; font-weight: 600; margin-bottom: 0.25rem; }
-    .playlist-desc { color: #8b949e; font-size: 0.9rem; margin-bottom: 1rem; }
-    .buttons { display: flex; gap: 0.5rem; flex-wrap: wrap; }
-    .btn { display: inline-block; padding: 0.5rem 1rem; border-radius: 6px; text-decoration: none; font-size: 0.85rem; font-weight: 500; }
-    .btn-primary { background: #ff6b35; color: #fff; }
-    .btn-primary:hover { background: #e55a2b; }
-    .btn-secondary { background: #21262d; color: #e6edf3; border: 1px solid #30363d; }
-    .btn-secondary:hover { background: #30363d; }
-    footer { margin-top: 3rem; color: #484f58; font-size: 0.8rem; }
-    footer a { color: #58a6ff; text-decoration: none; }
+
+    html, body { height: 100%; }
+
+    body {
+      font-family: var(--font-sans);
+      background: var(--bg-page);
+      color: var(--text-primary);
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      font-feature-settings: "ss01", "cv01", "cv11";
+      line-height: 1.5;
+      letter-spacing: -0.005em;
+    }
+
+    .page {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 88px 32px 120px;
+    }
+
+    /* ---------- Header ---------- */
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 48px;
+    }
+
+    .brand-mark {
+      width: 28px;
+      height: 28px;
+      position: relative;
+      animation: spin 20s linear infinite;
+    }
+
+    .brand-mark svg { display: block; }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .brand-name {
+      font-size: 16px;
+      font-weight: 600;
+      letter-spacing: -0.01em;
+      color: var(--text-primary);
+    }
+
+    .hero {
+      margin-bottom: 72px;
+      animation: fadeUp 0.6s var(--ease-spring) both;
+    }
+
+    .hero h1 {
+      font-size: clamp(36px, 5vw, 48px);
+      font-weight: 700;
+      line-height: 1.1;
+      letter-spacing: -0.03em;
+      color: var(--text-primary);
+      margin-bottom: 20px;
+    }
+
+    .hero h1 em {
+      font-style: normal;
+      color: var(--accent-primary);
+    }
+
+    .hero p {
+      font-size: 18px;
+      line-height: 1.55;
+      color: var(--text-secondary);
+      max-width: 52ch;
+    }
+
+    /* ---------- Section eyebrow ---------- */
+    .eyebrow {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 20px;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--text-tertiary);
+    }
+
+    .eyebrow::before {
+      content: "";
+      display: inline-block;
+      width: 6px;
+      height: 6px;
+      border-radius: 999px;
+      background: var(--accent-primary);
+    }
+
+    /* ---------- Station grid ---------- */
+    .stations {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 20px;
+    }
+
+    .station {
+      background: var(--bg-card);
+      border: 1px solid var(--border-default);
+      border-radius: var(--radius-xl);
+      padding: 24px;
+      box-shadow: var(--card-shadow);
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      transition: transform 0.25s var(--ease-out), box-shadow 0.25s var(--ease-out), border-color 0.25s var(--ease-out);
+      animation: fadeUp 0.5s var(--ease-spring) both;
+    }
+
+    .station:nth-child(1) { animation-delay: 0.08s; }
+    .station:nth-child(2) { animation-delay: 0.16s; }
+    .station:nth-child(3) { animation-delay: 0.24s; }
+
+    .station:hover {
+      transform: translateY(-3px);
+      box-shadow: var(--card-shadow-hover);
+      border-color: #dbdfe5;
+    }
+
+    .station:hover .tile {
+      transform: translateY(-1px) scale(1.015);
+    }
+
+    .station-head {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+    }
+
+    /* Plugin-style brand tile */
+    .tile {
+      width: 88px;
+      height: 88px;
+      flex-shrink: 0;
+      border-radius: var(--radius-lg);
+      box-shadow: var(--tile-shadow);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      overflow: hidden;
+      transition: transform 0.3s var(--ease-spring);
+    }
+
+    .tile::after {
+      /* soft inner gloss */
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(180deg, rgba(255,255,255,0.08), rgba(0,0,0,0.08));
+      pointer-events: none;
+    }
+
+    .tile--kexp { background: var(--kexp); }
+    .tile--kcrw { background: var(--kcrw); }
+
+    .tile svg {
+      position: relative;
+      z-index: 1;
+      display: block;
+    }
+
+    .station-title-block { min-width: 0; flex: 1; }
+
+    .station-name {
+      font-size: 20px;
+      font-weight: 600;
+      letter-spacing: -0.015em;
+      color: var(--text-primary);
+      margin-bottom: 4px;
+    }
+
+    .station-meta {
+      font-family: var(--font-mono);
+      font-size: 12px;
+      color: var(--text-tertiary);
+      letter-spacing: 0.01em;
+    }
+
+    .station-meta .dot { margin: 0 6px; color: #d1d5db; }
+
+    .station-desc {
+      font-size: 14.5px;
+      line-height: 1.55;
+      color: var(--text-secondary);
+      margin: 0;
+    }
+
+    /* ---------- Buttons ---------- */
+    .actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding-top: 4px;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 9px 14px;
+      border-radius: var(--radius-md);
+      font-family: var(--font-sans);
+      font-size: 13.5px;
+      font-weight: 500;
+      letter-spacing: -0.005em;
+      text-decoration: none;
+      cursor: pointer;
+      border: 1px solid transparent;
+      transition: background-color 0.15s var(--ease-out), color 0.15s var(--ease-out), border-color 0.15s var(--ease-out), box-shadow 0.15s var(--ease-out), transform 0.15s var(--ease-out);
+      white-space: nowrap;
+    }
+
+    .btn-primary {
+      background: var(--accent-primary);
+      color: #ffffff;
+      box-shadow: 0 1px 2px rgba(124, 58, 237, 0.15), inset 0 1px 0 rgba(255, 255, 255, 0.12);
+    }
+
+    .btn-primary:hover {
+      background: var(--accent-primary-hover);
+      box-shadow: 0 4px 12px rgba(124, 58, 237, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.12);
+    }
+
+    .btn-primary:active { transform: translateY(1px); }
+
+    .btn-primary svg { margin-left: 2px; }
+
+    .btn-ghost {
+      background: transparent;
+      color: var(--text-secondary);
+      border-color: var(--border-default);
+    }
+
+    .btn-ghost:hover {
+      color: var(--text-primary);
+      border-color: #d1d5db;
+      background: var(--bg-inset);
+    }
+
+    .btn-ghost svg { opacity: 0.6; }
+
+    /* ---------- Footer ---------- */
+    footer {
+      margin-top: 96px;
+      padding-top: 28px;
+      border-top: 1px solid var(--border-default);
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 8px 14px;
+      font-size: 13px;
+      color: var(--text-tertiary);
+    }
+
+    footer .meta {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    footer .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 3px 9px 3px 9px;
+      background: var(--bg-inset);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-pill);
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--text-secondary);
+      letter-spacing: 0.01em;
+    }
+
+    footer .chip::before {
+      content: "";
+      width: 6px;
+      height: 6px;
+      border-radius: 999px;
+      background: #10b981;
+      box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.15);
+    }
+
+    footer a {
+      color: var(--text-secondary);
+      text-decoration: none;
+      border-bottom: 1px solid transparent;
+      transition: color 0.15s, border-color 0.15s;
+    }
+
+    footer a:hover {
+      color: var(--accent-primary);
+      border-bottom-color: var(--accent-ring);
+    }
+
+    footer .sep { color: #d1d5db; }
+
+    /* ---------- Animations ---------- */
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(12px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    /* ---------- Responsive ---------- */
+    @media (max-width: 520px) {
+      .page { padding: 56px 20px 80px; }
+      .hero { margin-bottom: 56px; }
+      .station { padding: 20px; }
+      .station-head { gap: 16px; }
+      .tile { width: 76px; height: 76px; border-radius: 14px; }
+      .actions { flex-direction: column; align-items: stretch; }
+      .btn { justify-content: center; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .brand-mark, .station, .hero { animation: none !important; }
+      .station:hover { transform: none; }
+    }
   </style>
 </head>
 <body>
-  <h1>Spinbin</h1>
-  <p class="tagline">Turning the web into playlists... one page at a time.</p>
-
-  <h2>Playlists</h2>
-
-  <div class="playlist">
-    <div class="playlist-name">KEXP Rewind</div>
-    <div class="playlist-desc">The last 24 hours of plays from Seattle's KEXP 90.3 FM. Updates every 30 minutes.</div>
-    <div class="buttons">
-      <a class="btn btn-primary" href="parachord://import?url=https%3A%2F%2Fjherskowitz.github.io%2Fspinbin%2Fplaylists%2Fkexp-today.xspf">Add to Parachord</a>
-      <a class="btn btn-secondary" href="playlists/kexp-today.xspf">Download XSPF</a>
+  <main class="page">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">
+        <!-- Vinyl record mark -->
+        <svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="14" cy="14" r="13" fill="#111827"/>
+          <circle cx="14" cy="14" r="9.5" fill="none" stroke="#2a2f3a" stroke-width="0.5"/>
+          <circle cx="14" cy="14" r="6.5" fill="none" stroke="#2a2f3a" stroke-width="0.5"/>
+          <circle cx="14" cy="14" r="4" fill="#7c3aed"/>
+          <circle cx="14" cy="14" r="1.1" fill="#111827"/>
+        </svg>
+      </span>
+      <span class="brand-name">Spinbin</span>
     </div>
-  </div>
 
-  <div class="playlist">
-    <div class="playlist-name">KCRW Rewind</div>
-    <div class="playlist-desc">The last 24 hours of plays from LA's KCRW 89.9 FM. Updates every 30 minutes.</div>
-    <div class="buttons">
-      <a class="btn btn-primary" href="parachord://import?url=https%3A%2F%2Fjherskowitz.github.io%2Fspinbin%2Fplaylists%2Fkcrw-today.xspf">Add to Parachord</a>
-      <a class="btn btn-secondary" href="playlists/kcrw-today.xspf">Download XSPF</a>
-    </div>
-  </div>
+    <section class="hero">
+      <h1>Radio playlists, <em>automated</em> for Parachord.</h1>
+      <p>Spinbin scrapes public radio stations and publishes the last 24 hours of plays as an XSPF feed. Subscribe once — fresh tracks every morning.</p>
+    </section>
 
-  <footer>
-    <p>Powered by <a href="https://github.com/jherskowitz/spinbin">GitHub Actions</a>. Subscribe in <a href="https://parachord.com">Parachord</a>.</p>
-  </footer>
+    <section>
+      <div class="eyebrow">Stations</div>
+
+      <div class="stations">
+
+        <!-- KEXP -->
+        <article class="station">
+          <div class="station-head">
+            <div class="tile tile--kexp" aria-hidden="true">
+              <!-- KEXP wordmark -->
+              <svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+                <text x="32" y="36" text-anchor="middle" font-family="-apple-system, Helvetica Neue, sans-serif" font-weight="800" font-size="16" letter-spacing="1" fill="#ffffff">KEXP</text>
+                <text x="32" y="50" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-weight="500" font-size="7" letter-spacing="1.5" fill="#ffffff" opacity="0.75">90.3 FM</text>
+              </svg>
+            </div>
+            <div class="station-title-block">
+              <div class="station-name">KEXP</div>
+              <div class="station-meta">Seattle, WA<span class="dot">·</span>90.3 FM</div>
+            </div>
+          </div>
+          <p class="station-desc">Where the music matters. The last 24 hours of plays from KEXP's public radio stream.</p>
+          <div class="actions">
+            <a class="btn btn-primary" href="parachord://import?url=https%3A%2F%2Fjherskowitz.github.io%2Fspinbin%2Fplaylists%2Fkexp-today.xspf">
+              Add to Parachord
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2.5 7.5 6 4 9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+            <a class="btn btn-ghost" href="playlists/kexp-today.xspf">
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1.5v7m0 0L3 5.5m3 3 3-3M1.5 10.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              XSPF
+            </a>
+          </div>
+        </article>
+
+        <!-- KCRW -->
+        <article class="station">
+          <div class="station-head">
+            <div class="tile tile--kcrw" aria-hidden="true">
+              <!-- KCRW wordmark -->
+              <svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+                <text x="32" y="36" text-anchor="middle" font-family="-apple-system, Helvetica Neue, sans-serif" font-weight="800" font-size="16" letter-spacing="1" fill="#ffffff">KCRW</text>
+                <text x="32" y="50" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-weight="500" font-size="7" letter-spacing="1.5" fill="#ffffff" opacity="0.8">89.9 FM</text>
+              </svg>
+            </div>
+            <div class="station-title-block">
+              <div class="station-name">KCRW</div>
+              <div class="station-meta">Santa Monica, CA<span class="dot">·</span>89.9 FM</div>
+            </div>
+          </div>
+          <p class="station-desc">LA's independent public radio. Tracks from KCRW's Simulcast channel, updated daily.</p>
+          <div class="actions">
+            <a class="btn btn-primary" href="parachord://import?url=https%3A%2F%2Fjherskowitz.github.io%2Fspinbin%2Fplaylists%2Fkcrw-today.xspf">
+              Add to Parachord
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2.5 7.5 6 4 9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+            <a class="btn btn-ghost" href="playlists/kcrw-today.xspf">
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1.5v7m0 0L3 5.5m3 3 3-3M1.5 10.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              XSPF
+            </a>
+          </div>
+        </article>
+
+      </div>
+    </section>
+
+    <footer>
+      <span class="meta">
+        <span class="chip">live</span>
+        Updated daily at 5:00 AM EST
+      </span>
+      <span class="sep">·</span>
+      <a href="https://github.com/jherskowitz/spinbin">GitHub</a>
+      <span class="sep">·</span>
+      <a href="https://parachord.com">Parachord</a>
+    </footer>
+  </main>
 </body>
 </html>
