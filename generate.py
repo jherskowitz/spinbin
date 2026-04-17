@@ -1,4 +1,6 @@
+import html
 import os
+import re
 from datetime import datetime, timezone
 
 from xspf import Xspf
@@ -50,6 +52,27 @@ PLAYLISTS = {
 }
 
 
+def _clean(value):
+    """Normalize scraper-provided text.
+
+    - Decode HTML entities (`&amp;` → `&`, `&#39;` → `'`, etc.). Many radio
+      station feeds deliver metadata pre-encoded, which — combined with our
+      XML writer re-encoding it — results in `&amp;` appearing literally in
+      downstream players.
+    - Collapse repeated whitespace.
+    - Strip leading/trailing whitespace.
+    """
+    if not value:
+        return ""
+    # Unescape repeatedly in case the source is double-encoded
+    prev = None
+    cur = str(value)
+    while cur != prev:
+        prev = cur
+        cur = html.unescape(cur)
+    return re.sub(r"\s+", " ", cur).strip()
+
+
 def generate_playlist(name, output_dir):
     config = PLAYLISTS[name]
     tracks = config["fetch"]()
@@ -66,10 +89,10 @@ def generate_playlist(name, output_dir):
 
     for track in tracks:
         playlist.add_track(
-            title=track["title"],
-            creator=track["creator"],
-            album=track.get("album", ""),
-            image=track.get("image", ""),
+            title=_clean(track["title"]),
+            creator=_clean(track["creator"]),
+            album=_clean(track.get("album", "")),
+            image=(track.get("image") or "").strip(),
         )
 
     os.makedirs(output_dir, exist_ok=True)
