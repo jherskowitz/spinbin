@@ -1,46 +1,56 @@
+from datetime import datetime, timedelta, timezone
 from unittest.mock import patch, MagicMock
 from scrapers.kexp import fetch_plays
 
 
-MOCK_RESPONSE = {
-    "next": None,
-    "previous": None,
-    "results": [
-        {
-            "play_type": "trackplay",
-            "airdate": "2026-04-16T12:00:00-07:00",
-            "song": "Stayin' Alive",
-            "artist": "Tropical Fuck Storm",
-            "album": "A Laughing Death in Meatspace",
-            "image_uri": "https://example.com/art.jpg",
-            "comment": "",
-        },
-        {
-            "play_type": "airbreak",
-            "airdate": "2026-04-16T11:55:00-07:00",
-            "song": None,
-            "artist": None,
-            "album": None,
-            "image_uri": None,
-            "comment": "",
-        },
-        {
-            "play_type": "trackplay",
-            "airdate": "2026-04-16T11:50:00-07:00",
-            "song": "Boredom",
-            "artist": "Buzzcocks",
-            "album": "Singles Going Steady",
-            "image_uri": None,
-            "comment": "",
-        },
-    ],
-}
+def _airdate(minutes_ago):
+    """Return an ISO-8601 airdate that is `minutes_ago` minutes before now.
+
+    KEXP's scraper filters out any play whose airdate is older than the
+    24-hour cutoff, so hard-coded dates eventually fall outside the window
+    and tests go red on a calendar flip. Generate dates relative to now.
+    """
+    dt = datetime.now(timezone.utc) - timedelta(minutes=minutes_ago)
+    return dt.strftime("%Y-%m-%dT%H:%M:%S+00:00")
 
 
 @patch("scrapers.kexp.requests.get")
 def test_fetch_plays_filters_airbreaks(mock_get):
+    response = {
+        "next": None,
+        "previous": None,
+        "results": [
+            {
+                "play_type": "trackplay",
+                "airdate": _airdate(10),
+                "song": "Stayin' Alive",
+                "artist": "Tropical Fuck Storm",
+                "album": "A Laughing Death in Meatspace",
+                "image_uri": "https://example.com/art.jpg",
+                "comment": "",
+            },
+            {
+                "play_type": "airbreak",
+                "airdate": _airdate(15),
+                "song": None,
+                "artist": None,
+                "album": None,
+                "image_uri": None,
+                "comment": "",
+            },
+            {
+                "play_type": "trackplay",
+                "airdate": _airdate(20),
+                "song": "Boredom",
+                "artist": "Buzzcocks",
+                "album": "Singles Going Steady",
+                "image_uri": None,
+                "comment": "",
+            },
+        ],
+    }
     mock_resp = MagicMock()
-    mock_resp.json.return_value = MOCK_RESPONSE
+    mock_resp.json.return_value = response
     mock_resp.raise_for_status = MagicMock()
     mock_get.return_value = mock_resp
 
@@ -60,7 +70,7 @@ def test_fetch_plays_handles_pagination(mock_get):
         "results": [
             {
                 "play_type": "trackplay",
-                "airdate": "2026-04-16T12:00:00-07:00",
+                "airdate": _airdate(10),
                 "song": "Song A",
                 "artist": "Artist A",
                 "album": "Album A",
@@ -74,7 +84,7 @@ def test_fetch_plays_handles_pagination(mock_get):
         "results": [
             {
                 "play_type": "trackplay",
-                "airdate": "2026-04-16T11:00:00-07:00",
+                "airdate": _airdate(30),
                 "song": "Song B",
                 "artist": "Artist B",
                 "album": "Album B",
