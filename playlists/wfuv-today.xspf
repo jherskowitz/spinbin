@@ -2,8 +2,28 @@
   <title>WFUV Rewind</title>
   <info>https://wfuv.org/playlist</info>
   <creator>wfuv.org</creator>
-  <date>2026-04-17T19:14:30+00:00</date>
+  <date>2026-04-17T19:46:42+00:00</date>
   <trackList>
+    <track>
+      <title>Cape Cod Kwassa Kwassa</title>
+      <creator>Hot Chip and Peter Gabriel</creator>
+    </track>
+    <track>
+      <title>Train In Vain</title>
+      <creator>Annie Lennox</creator>
+    </track>
+    <track>
+      <title>Fast Car</title>
+      <creator>Black Pumas</creator>
+    </track>
+    <track>
+      <title>Murder On The Dance Floor</title>
+      <creator>Royel Otis</creator>
+    </track>
+    <track>
+      <title>The Loco-Motion</title>
+      <creator>Grand Funk Railroad</creator>
+    </track>
     <track>
       <title>Hello I Love You</title>
       <creator>The Cure</creator>
@@ -59,26 +79,6 @@
     <track>
       <title>I Want You Back</title>
       <creator>Lake Street Dive</creator>
-    </track>
-    <track>
-      <title>Don't Let Me Be Misunderstood</title>
-      <creator>Elvis Costello</creator>
-    </track>
-    <track>
-      <title>Every 1's A Winner</title>
-      <creator>Ty Segall</creator>
-    </track>
-    <track>
-      <title>God Put A Smile Upon Your Face</title>
-      <creator>Mark Ronson &amp; Daptone Horns</creator>
-    </track>
-    <track>
-      <title>Baby Love</title>
-      <creator>Annie Philippe</creator>
-    </track>
-    <track>
-      <title>Bertha</title>
-      <creator>Los Lobos</creator>
     </track>
   </trackList>
 </playlist>

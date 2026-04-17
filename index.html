@@ -48,6 +48,7 @@
       --wfuv: #003B71;   /* WFUV navy */
       --somafm: #5D3E8E; /* SomaFM violet */
       --xray: #E03A3E;   /* XRAY.fm red */
+      --vintage: #6B4423; /* Vintage Obscura sepia */
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -220,6 +221,9 @@
     .tile--wfuv { background: var(--wfuv); }
     .tile--somafm { background: var(--somafm); }
     .tile--xray { background: var(--xray); }
+    .tile--vintage {
+      background: radial-gradient(circle at 30% 25%, #8b6338 0%, var(--vintage) 55%, #3a2818 100%);
+    }
 
     .tile svg {
       position: relative;
@@ -614,6 +618,35 @@
               <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2.5 7.5 6 4 9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
             </a>
             <a class="btn btn-ghost" href="playlists/xrayfm-today.xspf">
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1.5v7m0 0L3 5.5m3 3 3-3M1.5 10.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              XSPF
+            </a>
+          </div>
+        </article>
+
+        <!-- Vintage Obscura -->
+        <article class="station">
+          <div class="station-head">
+            <div class="tile tile--vintage" aria-hidden="true">
+              <svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+                <text x="32" y="29" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="700" font-size="12" letter-spacing="0.5" fill="#f5e9d0">Vintage</text>
+                <text x="32" y="46" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="700" font-size="12" letter-spacing="0.5" fill="#f5e9d0">Obscura</text>
+                <line x1="18" y1="52" x2="46" y2="52" stroke="#f5e9d0" stroke-width="0.75" opacity="0.55"/>
+                <text x="32" y="60" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-weight="500" font-size="5.5" letter-spacing="1.5" fill="#f5e9d0" opacity="0.7">RADIO</text>
+              </svg>
+            </div>
+            <div class="station-title-block">
+              <div class="station-name">Vintage Obscura</div>
+              <div class="station-meta">Internet<span class="dot">·</span>Curated by r/vintageobscura</div>
+            </div>
+          </div>
+          <p class="station-desc">A hand-curated stream of rare vintage tracks from around the world — psychedelia, synthpop, and obscurities from the '60s–'80s.</p>
+          <div class="actions">
+            <a class="btn btn-primary" href="parachord://import?url=https%3A%2F%2Fjherskowitz.github.io%2Fspinbin%2Fplaylists%2Fvintageobscura-today.xspf">
+              Add to Parachord
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2.5 7.5 6 4 9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+            <a class="btn btn-ghost" href="playlists/vintageobscura-today.xspf">
               <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1.5v7m0 0L3 5.5m3 3 3-3M1.5 10.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
               XSPF
             </a>
