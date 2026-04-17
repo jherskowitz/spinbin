@@ -2,8 +2,12 @@
   <title>WFUV Rewind</title>
   <info>https://wfuv.org/playlist</info>
   <creator>wfuv.org</creator>
-  <date>2026-04-17T19:06:11+00:00</date>
+  <date>2026-04-17T19:14:30+00:00</date>
   <trackList>
+    <track>
+      <title>Hello I Love You</title>
+      <creator>The Cure</creator>
+    </track>
     <track>
       <title>Friday I'm in Love</title>
       <creator>Yo La Tengo</creator>
@@ -75,10 +79,6 @@
     <track>
       <title>Bertha</title>
       <creator>Los Lobos</creator>
-    </track>
-    <track>
-      <title>Shakedown Street</title>
-      <creator>Unknown Mortal Orchestra</creator>
     </track>
   </trackList>
 </playlist>

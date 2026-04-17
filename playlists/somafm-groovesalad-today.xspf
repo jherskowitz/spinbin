@@ -2,8 +2,18 @@
   <title>SomaFM Groove Salad Rewind</title>
   <info>https://somafm.com/groovesalad/</info>
   <creator>somafm.com</creator>
-  <date>2026-04-17T19:06:12+00:00</date>
+  <date>2026-04-17T19:14:30+00:00</date>
   <trackList>
+    <track>
+      <title>Premenade With Satie</title>
+      <creator>Christophe Goze</creator>
+      <album>A Day in Ibiza</album>
+    </track>
+    <track>
+      <title>Blue bay</title>
+      <creator>Gold Lounge</creator>
+      <album>Floating</album>
+    </track>
     <track>
       <title>Prap</title>
       <creator>Fascinating Earthbound Objects</creator>
@@ -83,16 +93,6 @@
       <title>Querbeat</title>
       <creator>Klangstein</creator>
       <album>Viela</album>
-    </track>
-    <track>
-      <title>Moments in minor</title>
-      <creator>Smooth Genestar</creator>
-      <album>As if music would not be a message (Radio Edits)</album>
-    </track>
-    <track>
-      <title>Halfmoon</title>
-      <creator>Richter</creator>
-      <album>Brush (EP)</album>
     </track>
   </trackList>
 </playlist>

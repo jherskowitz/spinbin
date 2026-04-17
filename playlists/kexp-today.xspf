@@ -2,8 +2,20 @@
   <title>KEXP Rewind</title>
   <info>https://www.kexp.org/playlist/</info>
   <creator>kexp.org</creator>
-  <date>2026-04-17T19:06:09+00:00</date>
+  <date>2026-04-17T19:14:26+00:00</date>
   <trackList>
+    <track>
+      <title>Do We Exist?</title>
+      <creator>Spacemoth</creator>
+      <image>https://dn721903.ca.archive.org/0/items/mbid-a574850a-9d56-4039-96c4-7885db256129/mbid-a574850a-9d56-4039-96c4-7885db256129-44867801530_thumb500.jpg</image>
+      <album>Inward Eye</album>
+    </track>
+    <track>
+      <title>Rabbit</title>
+      <creator>Hello Mary</creator>
+      <image>https://www.kexp.org/filer/canonical/1588181844/22496/</image>
+      <album>Live on KEXP</album>
+    </track>
     <track>
       <title>I Like It, I Love It</title>
       <creator>Lyrics Born</creator>
@@ -1826,12 +1838,6 @@
       <creator>Badvril</creator>
       <image>https://coverartarchive.org/release/901f77b2-9feb-47d0-99e7-8f2d4d1fa0f1/44867770812-500.jpg</image>
       <album>Golden</album>
-    </track>
-    <track>
-      <title>See A Little Light</title>
-      <creator>Bob Mould</creator>
-      <image>https://www.kexp.org/filer/canonical/1588181844/22496/</image>
-      <album>Live on KEXP</album>
     </track>
   </trackList>
 </playlist>
