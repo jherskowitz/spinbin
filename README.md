@@ -13,7 +13,7 @@ Spinbin scrapes radio station and chart playlists, generates XSPF playlist files
 
 ## How It Works
 
-A GitHub Actions workflow runs every 30 minutes, fetches playlist data from source APIs, generates XSPF files, and publishes them to GitHub Pages.
+A GitHub Actions workflow runs once a day at 5am EST, fetches playlist data from source APIs, generates XSPF files, and publishes them to GitHub Pages.
 
 ## Adding New Stations
 

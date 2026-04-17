@@ -2,8 +2,8 @@ name: Generate Playlists
 
 on:
   schedule:
-    # Every 30 minutes
-    - cron: '*/30 * * * *'
+    # Daily at 5am EST (10:00 UTC)
+    - cron: '0 10 * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
