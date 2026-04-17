@@ -4,7 +4,7 @@ import re
 from datetime import datetime, timezone
 
 from xspf import Xspf
-from scrapers import kexp, kcrw, wfmu, wfuv, somafm
+from scrapers import kexp, kcrw, wfmu, wfuv, somafm, xrayfm
 
 PLAYLISTS = {
     "kexp": {
@@ -41,6 +41,13 @@ PLAYLISTS = {
         "filename": "somafm-groovesalad-today.xspf",
         "fetch": lambda: somafm.fetch_plays(channel="groovesalad"),
         "info": "https://somafm.com/groovesalad/",
+    },
+    "xrayfm": {
+        "title": "XRAY.fm Rewind",
+        "creator": "xray.fm",
+        "filename": "xrayfm-today.xspf",
+        "fetch": lambda: xrayfm.fetch_plays(),
+        "info": "https://xray.fm/playlist",
     },
 }
 
