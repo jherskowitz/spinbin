@@ -2,8 +2,13 @@
   <title>KEXP Rewind</title>
   <info>https://www.kexp.org/playlist/</info>
   <creator>kexp.org</creator>
-  <date>2026-04-17T13:37:21+00:00</date>
+  <date>2026-04-17T13:42:40+00:00</date>
   <trackList>
+    <track>
+      <title>Good Days</title>
+      <creator>SZA</creator>
+      <album>Good Days</album>
+    </track>
     <track>
       <title>A Month of Sundays</title>
       <creator>The Church</creator>
@@ -1837,17 +1842,6 @@
       <creator>Kae Tempest</creator>
       <image>https://ia802805.us.archive.org/19/items/mbid-ebff2d3c-da71-4c21-9815-1f483a783605/mbid-ebff2d3c-da71-4c21-9815-1f483a783605-24933511224_thumb500.jpg</image>
       <album>Let Them Eat Chaos</album>
-    </track>
-    <track>
-      <title>Save Your Love For Me</title>
-      <creator>Neon Ion</creator>
-      <image>https://dn720603.ca.archive.org/0/items/mbid-aff71ed6-e7fb-4ea2-a78e-f21a04e4cc23/mbid-aff71ed6-e7fb-4ea2-a78e-f21a04e4cc23-44225935335_thumb500.jpg</image>
-      <album>Laugh Now, Cry Later</album>
-    </track>
-    <track>
-      <title>Your Life Is a Lie</title>
-      <creator>MGMT</creator>
-      <album>MGMT</album>
     </track>
   </trackList>
 </playlist>

@@ -2,8 +2,13 @@
   <title>SomaFM Groove Salad Rewind</title>
   <info>https://somafm.com/groovesalad/</info>
   <creator>somafm.com</creator>
-  <date>2026-04-17T13:37:25+00:00</date>
+  <date>2026-04-17T13:42:45+00:00</date>
   <trackList>
+    <track>
+      <title>Juno</title>
+      <creator>Thomas Lemmer &amp; Setsuna</creator>
+      <album>Autumn Time Vol. 3</album>
+    </track>
     <track>
       <title>Excitation</title>
       <creator>Eskadet</creator>
@@ -93,11 +98,6 @@
       <title>Traces Of You</title>
       <creator>Charlie North</creator>
       <album>Traces Of You</album>
-    </track>
-    <track>
-      <title>Deep River</title>
-      <creator>Lemongrass (feat. Jane Maximova)</creator>
-      <album>Chill On the Moon Vol. 2: Vision of Astronaut</album>
     </track>
   </trackList>
 </playlist>

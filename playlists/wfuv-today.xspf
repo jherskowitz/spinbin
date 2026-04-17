@@ -2,8 +2,12 @@
   <title>WFUV Rewind</title>
   <info>https://wfuv.org/playlist</info>
   <creator>wfuv.org</creator>
-  <date>2026-04-17T13:37:24+00:00</date>
+  <date>2026-04-17T13:42:44+00:00</date>
   <trackList>
+    <track>
+      <title>Jesus, Etc.</title>
+      <creator>Norah Jones</creator>
+    </track>
     <track>
       <title>Got To Get You Into My Life</title>
       <creator>Earth Wind &amp; Fire</creator>
@@ -79,10 +83,6 @@
     <track>
       <title>I Will Survive</title>
       <creator>Cake</creator>
-    </track>
-    <track>
-      <title>Be Thankful For What You've Got</title>
-      <creator>Massive Attack</creator>
     </track>
   </trackList>
 </playlist>
