@@ -9,9 +9,27 @@ WFMU_FEED_URL = "https://wfmu.org/playlistfeed.xml"
 
 
 def _strip_tags(s):
-    """Remove HTML tags and normalize whitespace."""
+    """Remove HTML tags and normalize whitespace.
+
+    WFMU's song_title cells contain the visible title plus extra junk:
+    a '<button>→</button>' (jump-to-comment arrow) and a hidden
+    '<span style="display:none" id="..._summary_html">"Title" by "Artist"</span>'
+    used by their JS for tooltips. Naive tag-stripping concatenates all of
+    these, producing 'Friday I'm in Love → "Friday I'm in Love" by "The Cure"'.
+    Strip those wrappers first, then the remaining tags.
+    """
     if not s:
         return ""
+    # Drop hidden spans (the summary_html duplicates) entirely.
+    s = re.sub(
+        r'<span[^>]*style="[^"]*display\s*:\s*none[^"]*"[^>]*>.*?</span>',
+        "",
+        s,
+        flags=re.DOTALL | re.IGNORECASE,
+    )
+    # Drop buttons (they contain glyphs like → that would leak in).
+    s = re.sub(r"<button\b[^>]*>.*?</button>", " ", s, flags=re.DOTALL | re.IGNORECASE)
+    # Strip remaining tags and normalize whitespace.
     s = re.sub(r"<[^>]+>", " ", s)
     s = html.unescape(s)
     return re.sub(r"\s+", " ", s).strip()

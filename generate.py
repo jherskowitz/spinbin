@@ -4,7 +4,7 @@ import re
 from datetime import datetime, timezone
 
 from xspf import Xspf
-from scrapers import kexp, kcrw, wfmu, thecurrent, wfuv, somafm
+from scrapers import kexp, kcrw, wfmu, wfuv, somafm
 
 PLAYLISTS = {
     "kexp": {
@@ -27,13 +27,6 @@ PLAYLISTS = {
         "filename": "wfmu-today.xspf",
         "fetch": lambda: wfmu.fetch_plays(),
         "info": "https://wfmu.org/playlists/",
-    },
-    "thecurrent": {
-        "title": "The Current Rewind",
-        "creator": "thecurrent.org",
-        "filename": "thecurrent-today.xspf",
-        "fetch": lambda: thecurrent.fetch_plays(),
-        "info": "https://www.thecurrent.org/playlist/the-current",
     },
     "wfuv": {
         "title": "WFUV Rewind",

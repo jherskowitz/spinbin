@@ -15,12 +15,19 @@ SHOW_HTML = """
   <td class="song col_song_title">&quot;Trans-Europe&quot;</td>
   <td class="song col_album_title">TE Express</td>
 </tr>
-<tr>
-  <td class="song col_artist">David Bowie</td>
-  <td class="song col_song_title">&quot;Heroes&quot;</td>
-  <td class="song col_album_title">Heroes</td>
+<tr id="drop_1">
+  <td class="song col_artist"><font size="-1">The Cure</font>&nbsp;</td>
+  <td class="song col_song_title">
+    <font size="-1">Friday I'm in Love</font>&nbsp;
+    <span class="KDBFavIcon KDBsong">
+      <button type="button" style="display:none">&#x2192;</button>
+      <button type="button" class="reply_thread_button"><i class="fa fa-comment-o"></i></button>
+      <span style="display:none" id="drop_1_summary_html">&quot;Friday I'm in Love&quot; by &quot;The Cure&quot;</span>
+    </span>
+  </td>
+  <td class="song col_album_title"><font size="-1">Wish</font>&nbsp;</td>
 </tr>
-<tr>
+<tr id="drop_2">
   <td class="song col_artist"><a href="#">Brian Eno</a></td>
   <td class="song col_song_title">Ambient 1: Music for Airports</td>
   <td class="song col_album_title">Ambient 1</td>
@@ -54,9 +61,11 @@ RSS_FEED = b"""<?xml version="1.0" encoding="UTF-8"?>
 def test_parse_show_tracks_extracts_and_filters():
     tracks = _parse_show_tracks(SHOW_HTML)
     assert len(tracks) == 2
-    assert tracks[0]["creator"] == "David Bowie"
-    assert tracks[0]["title"] == '"Heroes"'
-    assert tracks[0]["album"] == "Heroes"
+    # First real row: title should NOT include the hidden summary span or
+    # the button arrow glyph — just the clean "Friday I'm in Love".
+    assert tracks[0]["creator"] == "The Cure"
+    assert tracks[0]["title"] == "Friday I'm in Love"
+    assert tracks[0]["album"] == "Wish"
     assert tracks[1]["creator"] == "Brian Eno"
     assert tracks[1]["title"] == "Ambient 1: Music for Airports"
 
@@ -82,7 +91,7 @@ def test_fetch_plays_integrates_rss_and_show_scrape(mock_get):
     tracks = fetch_plays(hours=24 * 365 * 10)
     # Only Show One has scrapable HTML; Show Old returns empty body -> 0 tracks
     assert len(tracks) == 2
-    assert tracks[0]["creator"] == "David Bowie"
+    assert tracks[0]["creator"] == "The Cure"
 
 
 @patch("scrapers.wfmu.requests.get")
