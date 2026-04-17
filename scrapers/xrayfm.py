@@ -3,6 +3,9 @@ import html
 import requests
 
 XRAY_PLAYLIST_URL = "https://xray.fm/playlist"
+XRAY_PAGE_URL = "https://xray.fm/tracks/index/page:{page}?url=playlist"
+DEFAULT_MAX_PAGES = 15  # ~300 tracks, typically ~24h of continuous programming
+HEADERS = {"User-Agent": "Spinbin/1.0 (https://github.com/jherskowitz/spinbin)"}
 
 
 def _strip_tags(s):
@@ -43,19 +46,31 @@ def _parse_rows(html_text):
     return tracks
 
 
-def fetch_plays(hours=24):
-    """Fetch the recent tracks from XRAY.fm's public playlist page.
+def fetch_plays(hours=24, max_pages=DEFAULT_MAX_PAGES):
+    """Fetch recent tracks from XRAY.fm by paginating through their playlist.
 
-    XRAY.fm (Portland community radio) renders their playlist server-side
-    as an HTML table at `/playlist`. Each row has class `track` with cells
-    `track-artist`, `track-title`, `track-album`. The page shows roughly
-    the most recent 20 plays; `hours` is accepted for API consistency but
-    doesn't change anything since the page itself is fixed-size.
+    XRAY.fm (Portland community radio) renders a server-side playlist at
+    `/playlist` showing the most recent 20 tracks, with pagination at
+    `/tracks/index/page:N?url=playlist`. We fetch up to `max_pages` pages
+    (roughly `max_pages * 20` tracks) — 15 pages is about a day's worth.
+
+    `hours` is accepted for API consistency but XRAY doesn't expose per-track
+    timestamps with dates, so we can't filter precisely — we rely on the
+    page cap instead.
     """
-    resp = requests.get(
-        XRAY_PLAYLIST_URL,
-        timeout=30,
-        headers={"User-Agent": "Spinbin/1.0 (https://github.com/jherskowitz/spinbin)"},
-    )
-    resp.raise_for_status()
-    return _parse_rows(resp.text)
+    all_tracks = []
+    for page in range(1, max_pages + 1):
+        url = XRAY_PLAYLIST_URL if page == 1 else XRAY_PAGE_URL.format(page=page)
+        try:
+            resp = requests.get(url, timeout=30, headers=HEADERS)
+            resp.raise_for_status()
+        except requests.RequestException:
+            break
+
+        page_tracks = _parse_rows(resp.text)
+        if not page_tracks:
+            break
+
+        all_tracks.extend(page_tracks)
+
+    return all_tracks

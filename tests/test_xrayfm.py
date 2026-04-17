@@ -45,6 +45,35 @@ def test_fetch_plays_integrates_request(mock_get):
     r.text = SAMPLE
     r.raise_for_status = MagicMock()
     mock_get.return_value = r
-    tracks = fetch_plays()
+    # With max_pages=1 we only make one request
+    tracks = fetch_plays(max_pages=1)
     assert len(tracks) == 2
     assert tracks[0]["creator"] == "Saltfeend"
+
+
+@patch("scrapers.xrayfm.requests.get")
+def test_fetch_plays_paginates(mock_get):
+    """Pagination should accumulate tracks across pages and stop on empty page."""
+    page1 = """
+    <table><tr class="track"><td class="track-title">P1T1</td><td class="track-artist">A1</td></tr></table>
+    """
+    page2 = """
+    <table><tr class="track"><td class="track-title">P2T1</td><td class="track-artist">A2</td></tr></table>
+    """
+    empty = "<html><body>nothing here</body></html>"
+
+    responses = [page1, page2, empty]
+
+    def side_effect(*args, **kwargs):
+        r = MagicMock()
+        r.raise_for_status = MagicMock()
+        r.text = responses.pop(0) if responses else empty
+        return r
+
+    mock_get.side_effect = side_effect
+    tracks = fetch_plays(max_pages=5)
+    assert len(tracks) == 2
+    assert tracks[0]["title"] == "P1T1"
+    assert tracks[1]["title"] == "P2T1"
+    # Should have stopped after the empty third response, not continued to 5
+    assert mock_get.call_count == 3
