@@ -43,6 +43,10 @@
       /* Station brand colors */
       --kexp: #007A7A;   /* KEXP teal */
       --kcrw: #E4002B;   /* KCRW red */
+      --wfmu: #111111;   /* WFMU black */
+      --current: #F15A22;/* The Current orange */
+      --wfuv: #003B71;   /* WFUV navy */
+      --somafm: #5D3E8E; /* SomaFM violet */
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -161,9 +165,12 @@
       animation: fadeUp 0.5s var(--ease-spring) both;
     }
 
-    .station:nth-child(1) { animation-delay: 0.08s; }
-    .station:nth-child(2) { animation-delay: 0.16s; }
-    .station:nth-child(3) { animation-delay: 0.24s; }
+    .station:nth-child(1) { animation-delay: 0.06s; }
+    .station:nth-child(2) { animation-delay: 0.12s; }
+    .station:nth-child(3) { animation-delay: 0.18s; }
+    .station:nth-child(4) { animation-delay: 0.24s; }
+    .station:nth-child(5) { animation-delay: 0.30s; }
+    .station:nth-child(6) { animation-delay: 0.36s; }
 
     .station:hover {
       transform: translateY(-3px);
@@ -207,6 +214,10 @@
 
     .tile--kexp { background: var(--kexp); }
     .tile--kcrw { background: var(--kcrw); }
+    .tile--wfmu { background: var(--wfmu); }
+    .tile--current { background: var(--current); }
+    .tile--wfuv { background: var(--wfuv); }
+    .tile--somafm { background: var(--somafm); }
 
     .tile svg {
       position: relative;
@@ -449,6 +460,116 @@
               <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2.5 7.5 6 4 9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
             </a>
             <a class="btn btn-ghost" href="playlists/kcrw-today.xspf">
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1.5v7m0 0L3 5.5m3 3 3-3M1.5 10.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              XSPF
+            </a>
+          </div>
+        </article>
+
+        <!-- WFMU -->
+        <article class="station">
+          <div class="station-head">
+            <div class="tile tile--wfmu" aria-hidden="true">
+              <svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+                <text x="32" y="36" text-anchor="middle" font-family="-apple-system, Helvetica Neue, sans-serif" font-weight="800" font-size="16" letter-spacing="1" fill="#ffffff">WFMU</text>
+                <text x="32" y="50" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-weight="500" font-size="7" letter-spacing="1.5" fill="#ffffff" opacity="0.7">91.1 FM</text>
+              </svg>
+            </div>
+            <div class="station-title-block">
+              <div class="station-name">WFMU</div>
+              <div class="station-meta">Jersey City, NJ<span class="dot">·</span>91.1 FM</div>
+            </div>
+          </div>
+          <p class="station-desc">Freeform radio from the longest-running freeform station in the US. Tracks from each show aired today.</p>
+          <div class="actions">
+            <a class="btn btn-primary" href="parachord://import?url=https%3A%2F%2Fjherskowitz.github.io%2Fspinbin%2Fplaylists%2Fwfmu-today.xspf">
+              Add to Parachord
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2.5 7.5 6 4 9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+            <a class="btn btn-ghost" href="playlists/wfmu-today.xspf">
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1.5v7m0 0L3 5.5m3 3 3-3M1.5 10.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              XSPF
+            </a>
+          </div>
+        </article>
+
+        <!-- The Current -->
+        <article class="station">
+          <div class="station-head">
+            <div class="tile tile--current" aria-hidden="true">
+              <svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+                <text x="32" y="30" text-anchor="middle" font-family="-apple-system, Helvetica Neue, sans-serif" font-weight="800" font-size="11" letter-spacing="0.5" fill="#ffffff">THE</text>
+                <text x="32" y="46" text-anchor="middle" font-family="-apple-system, Helvetica Neue, sans-serif" font-weight="800" font-size="15" letter-spacing="0.5" fill="#ffffff">CURRENT</text>
+                <text x="32" y="56" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-weight="500" font-size="6" letter-spacing="1" fill="#ffffff" opacity="0.75">89.3 FM</text>
+              </svg>
+            </div>
+            <div class="station-title-block">
+              <div class="station-name">The Current</div>
+              <div class="station-meta">Minneapolis, MN<span class="dot">·</span>KCMP 89.3 FM</div>
+            </div>
+          </div>
+          <p class="station-desc">Minnesota Public Radio's influential taste-making station. The last 24 hours of plays.</p>
+          <div class="actions">
+            <a class="btn btn-primary" href="parachord://import?url=https%3A%2F%2Fjherskowitz.github.io%2Fspinbin%2Fplaylists%2Fthecurrent-today.xspf">
+              Add to Parachord
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2.5 7.5 6 4 9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+            <a class="btn btn-ghost" href="playlists/thecurrent-today.xspf">
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1.5v7m0 0L3 5.5m3 3 3-3M1.5 10.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              XSPF
+            </a>
+          </div>
+        </article>
+
+        <!-- WFUV -->
+        <article class="station">
+          <div class="station-head">
+            <div class="tile tile--wfuv" aria-hidden="true">
+              <svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+                <text x="32" y="36" text-anchor="middle" font-family="-apple-system, Helvetica Neue, sans-serif" font-weight="800" font-size="16" letter-spacing="1" fill="#ffffff">WFUV</text>
+                <text x="32" y="50" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-weight="500" font-size="7" letter-spacing="1.5" fill="#ffffff" opacity="0.75">90.7 FM</text>
+              </svg>
+            </div>
+            <div class="station-title-block">
+              <div class="station-name">WFUV</div>
+              <div class="station-meta">New York, NY<span class="dot">·</span>90.7 FM</div>
+            </div>
+          </div>
+          <p class="station-desc">Fordham University's public radio. Adult album alternative from the Bronx, now-playing feed.</p>
+          <div class="actions">
+            <a class="btn btn-primary" href="parachord://import?url=https%3A%2F%2Fjherskowitz.github.io%2Fspinbin%2Fplaylists%2Fwfuv-today.xspf">
+              Add to Parachord
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2.5 7.5 6 4 9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+            <a class="btn btn-ghost" href="playlists/wfuv-today.xspf">
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1.5v7m0 0L3 5.5m3 3 3-3M1.5 10.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              XSPF
+            </a>
+          </div>
+        </article>
+
+        <!-- SomaFM Groove Salad -->
+        <article class="station">
+          <div class="station-head">
+            <div class="tile tile--somafm" aria-hidden="true">
+              <svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+                <text x="32" y="30" text-anchor="middle" font-family="-apple-system, Helvetica Neue, sans-serif" font-weight="800" font-size="13" letter-spacing="0.5" fill="#ffffff">SOMAFM</text>
+                <text x="32" y="46" text-anchor="middle" font-family="-apple-system, Helvetica Neue, sans-serif" font-weight="600" font-size="8" letter-spacing="0.3" fill="#ffffff" opacity="0.85">groove</text>
+                <text x="32" y="56" text-anchor="middle" font-family="-apple-system, Helvetica Neue, sans-serif" font-weight="600" font-size="8" letter-spacing="0.3" fill="#ffffff" opacity="0.85">salad</text>
+              </svg>
+            </div>
+            <div class="station-title-block">
+              <div class="station-name">SomaFM — Groove Salad</div>
+              <div class="station-meta">San Francisco, CA<span class="dot">·</span>Internet only</div>
+            </div>
+          </div>
+          <p class="station-desc">A nicely chilled plate of ambient, downtempo, and beats. SomaFM's flagship channel.</p>
+          <div class="actions">
+            <a class="btn btn-primary" href="parachord://import?url=https%3A%2F%2Fjherskowitz.github.io%2Fspinbin%2Fplaylists%2Fsomafm-groovesalad-today.xspf">
+              Add to Parachord
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2.5 7.5 6 4 9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+            <a class="btn btn-ghost" href="playlists/somafm-groovesalad-today.xspf">
               <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1.5v7m0 0L3 5.5m3 3 3-3M1.5 10.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
               XSPF
             </a>

@@ -2,7 +2,7 @@ import os
 from datetime import datetime, timezone
 
 from xspf import Xspf
-from scrapers import kexp, kcrw
+from scrapers import kexp, kcrw, wfmu, thecurrent, wfuv, somafm
 
 PLAYLISTS = {
     "kexp": {
@@ -18,6 +18,34 @@ PLAYLISTS = {
         "filename": "kcrw-today.xspf",
         "fetch": lambda: kcrw.fetch_plays(),
         "info": "https://www.kcrw.com/playlists?channel=Simulcast",
+    },
+    "wfmu": {
+        "title": "WFMU Rewind",
+        "creator": "wfmu.org",
+        "filename": "wfmu-today.xspf",
+        "fetch": lambda: wfmu.fetch_plays(),
+        "info": "https://wfmu.org/playlists/",
+    },
+    "thecurrent": {
+        "title": "The Current Rewind",
+        "creator": "thecurrent.org",
+        "filename": "thecurrent-today.xspf",
+        "fetch": lambda: thecurrent.fetch_plays(),
+        "info": "https://www.thecurrent.org/playlist/the-current",
+    },
+    "wfuv": {
+        "title": "WFUV Rewind",
+        "creator": "wfuv.org",
+        "filename": "wfuv-today.xspf",
+        "fetch": lambda: wfuv.fetch_plays(),
+        "info": "https://wfuv.org/playlist",
+    },
+    "somafm": {
+        "title": "SomaFM Groove Salad Rewind",
+        "creator": "somafm.com",
+        "filename": "somafm-groovesalad-today.xspf",
+        "fetch": lambda: somafm.fetch_plays(channel="groovesalad"),
+        "info": "https://somafm.com/groovesalad/",
     },
 }
 
