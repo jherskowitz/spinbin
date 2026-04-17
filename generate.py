@@ -4,7 +4,7 @@ import re
 from datetime import datetime, timezone
 
 from xspf import Xspf
-from scrapers import kexp, kcrw, wfmu, wfuv, somafm, xrayfm
+from scrapers import kexp, kcrw, wfmu, wfuv, somafm, xrayfm, vintageobscura
 
 PLAYLISTS = {
     "kexp": {
@@ -48,6 +48,13 @@ PLAYLISTS = {
         "filename": "xrayfm-today.xspf",
         "fetch": lambda: xrayfm.fetch_plays(),
         "info": "https://xray.fm/playlist",
+    },
+    "vintageobscura": {
+        "title": "Vintage Obscura Rewind",
+        "creator": "vintageobscura.net",
+        "filename": "vintageobscura-today.xspf",
+        "fetch": lambda: vintageobscura.fetch_plays(),
+        "info": "https://vintageobscura.net/",
     },
 }
 
