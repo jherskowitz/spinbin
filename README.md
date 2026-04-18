@@ -16,6 +16,8 @@ Spinbin scrapes radio station and chart playlists, generates XSPF playlist files
 | SomaFM Indie Pop Rocks! Rewind | [somafm.com](https://somafm.com/indiepop/) | [Add](https://parachord.com/go?uri=parachord%3A%2F%2Fimport%3Furl%3Dhttps%253A%252F%252Fjherskowitz.github.io%252Fspinbin%252Fplaylists%252Fsomafm-indiepop-today.xspf) | [XSPF](https://jherskowitz.github.io/spinbin/playlists/somafm-indiepop-today.xspf) |
 | XRAY.fm Rewind | [xray.fm](https://xray.fm/playlist) | [Add](https://parachord.com/go?uri=parachord%3A%2F%2Fimport%3Furl%3Dhttps%253A%252F%252Fjherskowitz.github.io%252Fspinbin%252Fplaylists%252Fxrayfm-today.xspf) | [XSPF](https://jherskowitz.github.io/spinbin/playlists/xrayfm-today.xspf) |
 | Vintage Obscura Rewind | [vintageobscura.net](https://vintageobscura.net/) | [Add](https://parachord.com/go?uri=parachord%3A%2F%2Fimport%3Furl%3Dhttps%253A%252F%252Fjherskowitz.github.io%252Fspinbin%252Fplaylists%252Fvintageobscura-today.xspf) | [XSPF](https://jherskowitz.github.io/spinbin/playlists/vintageobscura-today.xspf) |
+| Radio Paradise Rewind | [radioparadise.com](https://radioparadise.com/) | [Add](https://parachord.com/go?uri=parachord%3A%2F%2Fimport%3Furl%3Dhttps%253A%252F%252Fjherskowitz.github.io%252Fspinbin%252Fplaylists%252Fradioparadise-today.xspf) | [XSPF](https://jherskowitz.github.io/spinbin/playlists/radioparadise-today.xspf) |
+| NTS Radio Rewind | [nts.live](https://www.nts.live/) | [Add](https://parachord.com/go?uri=parachord%3A%2F%2Fimport%3Furl%3Dhttps%253A%252F%252Fjherskowitz.github.io%252Fspinbin%252Fplaylists%252Fnts-today.xspf) | [XSPF](https://jherskowitz.github.io/spinbin/playlists/nts-today.xspf) |
 
 ## How It Works
 

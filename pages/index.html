@@ -50,6 +50,8 @@
       --somafm-indiepop: #E6408A; /* SomaFM Indie Pop pink */
       --xray: #E03A3E;   /* XRAY.fm red */
       --vintage: #6B4423; /* Vintage Obscura sepia */
+      --rp: #0F3B5F;      /* Radio Paradise deep blue */
+      --nts: #000000;     /* NTS Radio black */
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -444,6 +446,10 @@
     .tile--vintage {
       background: radial-gradient(circle at 30% 25%, #8b6338 0%, var(--vintage) 55%, #3a2818 100%);
     }
+    .tile--rp {
+      background: linear-gradient(180deg, #1c5480 0%, var(--rp) 100%);
+    }
+    .tile--nts { background: var(--nts); }
 
     .tile svg {
       position: relative;
@@ -708,6 +714,7 @@
           <button type="button" class="chip-filter" data-genre="community" aria-selected="false">Community</button>
           <button type="button" class="chip-filter" data-genre="freeform" aria-selected="false">Freeform</button>
           <button type="button" class="chip-filter" data-genre="vintage" aria-selected="false">Vintage</button>
+          <button type="button" class="chip-filter" data-genre="international" aria-selected="false">International</button>
         </div>
       </div>
 
@@ -929,6 +936,63 @@
               <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2.5 7.5 6 4 9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
             </a>
             <a class="btn btn-ghost" href="playlists/vintageobscura-today.xspf">
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1.5v7m0 0L3 5.5m3 3 3-3M1.5 10.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              XSPF
+            </a>
+          </div>
+        </article>
+
+        <!-- Radio Paradise -->
+        <article class="station" data-name="Radio Paradise" data-added="2026-04-19" data-genre="eclectic rock">
+          <div class="station-head">
+            <div class="tile tile--rp" aria-hidden="true">
+              <svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+                <text x="32" y="30" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="11" letter-spacing="0.5" fill="#ffffff">Radio</text>
+                <text x="32" y="45" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-style="italic" font-size="12" letter-spacing="0.3" fill="#ffffff">Paradise</text>
+                <line x1="18" y1="51" x2="46" y2="51" stroke="#ffffff" stroke-width="0.5" opacity="0.5"/>
+                <text x="32" y="60" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-weight="500" font-size="5.5" letter-spacing="1.5" fill="#ffffff" opacity="0.7">EST. 2000</text>
+              </svg>
+            </div>
+            <div class="station-title-block">
+              <div class="station-name">Radio Paradise</div>
+              <div class="station-meta">Internet<span class="dot">·</span>Listener-supported</div>
+            </div>
+          </div>
+          <p class="station-desc">Eclectic, hand-curated listener-supported internet radio. Commercial-free rock, world, blues, electronica — blended with taste.</p>
+          <div class="actions">
+            <a class="btn btn-primary" href="parachord://import?url=https%3A%2F%2Fjherskowitz.github.io%2Fspinbin%2Fplaylists%2Fradioparadise-today.xspf">
+              Add to Parachord
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2.5 7.5 6 4 9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+            <a class="btn btn-ghost" href="playlists/radioparadise-today.xspf">
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1.5v7m0 0L3 5.5m3 3 3-3M1.5 10.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              XSPF
+            </a>
+          </div>
+        </article>
+
+        <!-- NTS Radio -->
+        <article class="station" data-name="NTS Radio" data-added="2026-04-19" data-genre="eclectic electronic international">
+          <div class="station-head">
+            <div class="tile tile--nts" aria-hidden="true">
+              <svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+                <text x="32" y="40" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="900" font-size="22" letter-spacing="2" fill="#ffffff">NTS</text>
+                <line x1="16" y1="47" x2="48" y2="47" stroke="#ffffff" stroke-width="0.5" opacity="0.45"/>
+                <text x="32" y="55" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="700" font-size="5" letter-spacing="2" fill="#ffffff" opacity="0.75">DON'T ASSUME</text>
+              </svg>
+            </div>
+            <div class="station-title-block">
+              <div class="station-name">NTS Radio</div>
+              <div class="station-meta">London, UK<span class="dot">·</span>2 channels, 24/7</div>
+            </div>
+          </div>
+          <p class="station-desc">The global tastemaker's choice. DJ-led shows from London, LA, Manchester and beyond — whatever the DJ submitted today.</p>
+          <div class="actions">
+            <a class="btn btn-primary" href="parachord://import?url=https%3A%2F%2Fjherskowitz.github.io%2Fspinbin%2Fplaylists%2Fnts-today.xspf">
+              Add to Parachord
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2.5 7.5 6 4 9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+            <a class="btn btn-ghost" href="playlists/nts-today.xspf">
               <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1.5v7m0 0L3 5.5m3 3 3-3M1.5 10.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
               XSPF
             </a>

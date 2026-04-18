@@ -4,7 +4,7 @@ import re
 from datetime import datetime, timezone
 
 from xspf import Xspf
-from scrapers import kexp, kcrw, wfmu, wfuv, somafm, xrayfm, vintageobscura
+from scrapers import kexp, kcrw, wfmu, wfuv, somafm, xrayfm, vintageobscura, radioparadise, nts
 
 PLAYLISTS = {
     "kexp": {
@@ -62,6 +62,20 @@ PLAYLISTS = {
         "filename": "vintageobscura-today.xspf",
         "fetch": lambda: vintageobscura.fetch_plays(),
         "info": "https://vintageobscura.net/",
+    },
+    "radioparadise": {
+        "title": "Radio Paradise Rewind",
+        "creator": "radioparadise.com",
+        "filename": "radioparadise-today.xspf",
+        "fetch": lambda: radioparadise.fetch_plays(),
+        "info": "https://radioparadise.com/",
+    },
+    "nts": {
+        "title": "NTS Radio Rewind",
+        "creator": "nts.live",
+        "filename": "nts-today.xspf",
+        "fetch": lambda: nts.fetch_plays(),
+        "info": "https://www.nts.live/",
     },
 }
 
