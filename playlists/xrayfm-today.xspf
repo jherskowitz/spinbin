@@ -2,8 +2,33 @@
   <title>XRAY.fm Rewind</title>
   <info>https://xray.fm/playlist</info>
   <creator>xray.fm</creator>
-  <date>2026-04-18T23:17:52+00:00</date>
+  <date>2026-04-18T23:34:58+00:00</date>
   <trackList>
+    <track>
+      <title>All My Loving</title>
+      <creator>Louisa Mark</creator>
+      <album>7"</album>
+    </track>
+    <track>
+      <title>Someone Loves You Honey</title>
+      <creator>J.C. Lodge</creator>
+      <album>7"</album>
+    </track>
+    <track>
+      <title>Mighty Long Time</title>
+      <creator>Lorna Nelson</creator>
+      <album>7“</album>
+    </track>
+    <track>
+      <title>This Magic Moment</title>
+      <creator>Pat Kelly</creator>
+      <album>12"</album>
+    </track>
+    <track>
+      <title>Rockin' Chair</title>
+      <creator>Flick Wilson</creator>
+      <album>7"</album>
+    </track>
     <track>
       <title>Outstanding</title>
       <creator>Al Charles</creator>
@@ -805,11 +830,6 @@
       <album>Clean the Cage</album>
     </track>
     <track>
-      <title>Bicep</title>
-      <creator>Forty Feet Tall</creator>
-      <album>Clean the Cage</album>
-    </track>
-    <track>
       <title>Number Dreams</title>
       <creator>Sea Moss</creator>
       <album>SEAMOSS2</album>
@@ -1483,26 +1503,6 @@
       <title>The Gulf of America</title>
       <creator>Leo Moon</creator>
       <album>The Gulf of America</album>
-    </track>
-    <track>
-      <title>Your Flag Decal Won't Get You Into Heaven Anymore</title>
-      <creator>John Prine</creator>
-      <album>John Prine</album>
-    </track>
-    <track>
-      <title>Assassins of Allah (Astralasia's Magick Carpet mix)</title>
-      <creator>Hawkwind</creator>
-      <album>Right to Decide EP</album>
-    </track>
-    <track>
-      <title>talk</title>
-      <creator>talk</creator>
-      <album>talk</album>
-    </track>
-    <track>
-      <title>Up for the Get-Downs</title>
-      <creator>The Herbaliser</creator>
-      <album>Remedies</album>
     </track>
   </trackList>
 </playlist>

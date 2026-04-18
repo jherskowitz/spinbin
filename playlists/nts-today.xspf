@@ -1,0 +1,62 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>NTS Radio Rewind</title>
+  <info>https://www.nts.live/</info>
+  <creator>nts.live</creator>
+  <date>2026-04-18T23:35:00+00:00</date>
+  <trackList>
+    <track>
+      <title>Das Buch Der Klänge I ‎– XII</title>
+      <creator>Hans Otte, Herbert Henck</creator>
+      <image>https://media.ntslive.co.uk/resize/400x400/335ed5e4-4ae4-4ccb-aecc-7ee55fb46375_1723075200.png</image>
+      <album>NTS Guide to: Holy Minimalism</album>
+    </track>
+    <track>
+      <title>Come And Do Your Will In Me (Voices &amp; Strings)</title>
+      <creator>Unknown Artist</creator>
+      <image>https://media.ntslive.co.uk/resize/400x400/335ed5e4-4ae4-4ccb-aecc-7ee55fb46375_1723075200.png</image>
+      <album>NTS Guide to: Holy Minimalism</album>
+    </track>
+    <track>
+      <title>Fratres (1980 Version)</title>
+      <creator>Arvo Pärt, Tasmin Little, Martin Roscoe, Richard Studt, Bournemouth Sinfonietta</creator>
+      <image>https://media.ntslive.co.uk/resize/400x400/335ed5e4-4ae4-4ccb-aecc-7ee55fb46375_1723075200.png</image>
+      <album>NTS Guide to: Holy Minimalism</album>
+    </track>
+    <track>
+      <title>Symphony No. 3</title>
+      <creator>Górecki, The Royal Philharmonic Orchestra, Yuri Simonov, Susan Gritton</creator>
+      <image>https://media.ntslive.co.uk/resize/400x400/335ed5e4-4ae4-4ccb-aecc-7ee55fb46375_1723075200.png</image>
+      <album>NTS Guide to: Holy Minimalism</album>
+    </track>
+    <track>
+      <title>Symphony No. 6, Op. 173, 'Celestial Gate'</title>
+      <creator>Hovhaness</creator>
+      <image>https://media.ntslive.co.uk/resize/400x400/335ed5e4-4ae4-4ccb-aecc-7ee55fb46375_1723075200.png</image>
+      <album>NTS Guide to: Holy Minimalism</album>
+    </track>
+    <track>
+      <title>Miserere, Op. 44</title>
+      <creator>Henryk Górecki</creator>
+      <image>https://media.ntslive.co.uk/resize/400x400/335ed5e4-4ae4-4ccb-aecc-7ee55fb46375_1723075200.png</image>
+      <album>NTS Guide to: Holy Minimalism</album>
+    </track>
+    <track>
+      <title>The Protecting Veil</title>
+      <creator>John Tavener</creator>
+      <image>https://media.ntslive.co.uk/resize/400x400/335ed5e4-4ae4-4ccb-aecc-7ee55fb46375_1723075200.png</image>
+      <album>NTS Guide to: Holy Minimalism</album>
+    </track>
+    <track>
+      <title>Symphony No. 2, Op. 132 "Mysterious Mountain"</title>
+      <creator>John Williams, Hovhaness, Judith Leclair, London Symphony Orchestra</creator>
+      <image>https://media.ntslive.co.uk/resize/400x400/335ed5e4-4ae4-4ccb-aecc-7ee55fb46375_1723075200.png</image>
+      <album>NTS Guide to: Holy Minimalism</album>
+    </track>
+    <track>
+      <title>Diplipito</title>
+      <creator>Giya Kancheli</creator>
+      <image>https://media.ntslive.co.uk/resize/400x400/335ed5e4-4ae4-4ccb-aecc-7ee55fb46375_1723075200.png</image>
+      <album>NTS Guide to: Holy Minimalism</album>
+    </track>
+  </trackList>
+</playlist>

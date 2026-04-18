@@ -2,8 +2,23 @@
   <title>SomaFM Groove Salad Rewind</title>
   <info>https://somafm.com/groovesalad/</info>
   <creator>somafm.com</creator>
-  <date>2026-04-18T23:17:09+00:00</date>
+  <date>2026-04-18T23:34:13+00:00</date>
   <trackList>
+    <track>
+      <title>Indra's Web</title>
+      <creator>Rena Jones</creator>
+      <album>Indra's Web</album>
+    </track>
+    <track>
+      <title>Before Sunset</title>
+      <creator>Chris Coco</creator>
+      <album>My Favourite Place (Before Sunset)</album>
+    </track>
+    <track>
+      <title>Electro</title>
+      <creator>Nacho Sotomayor</creator>
+      <album>La Roca 1999/2004</album>
+    </track>
     <track>
       <title>Trees On The Moon</title>
       <creator>Merge Of Equals</creator>
@@ -78,21 +93,6 @@
       <title>Pots &amp; Pans</title>
       <creator>Fila Brazillia</creator>
       <album>Old Codes - New Chaos : 20th Anniversary remaster</album>
-    </track>
-    <track>
-      <title>Noisella</title>
-      <creator>Jens Buchert</creator>
-      <album>Gravity</album>
-    </track>
-    <track>
-      <title>Small World</title>
-      <creator>Small World</creator>
-      <album>The Livin' Free EP</album>
-    </track>
-    <track>
-      <title>Waves Of Sorrow</title>
-      <creator>BistroBoy</creator>
-      <album>evolve</album>
     </track>
   </trackList>
 </playlist>

@@ -2,8 +2,38 @@
   <title>SomaFM Indie Pop Rocks! Rewind</title>
   <info>https://somafm.com/indiepop/</info>
   <creator>somafm.com</creator>
-  <date>2026-04-18T23:17:09+00:00</date>
+  <date>2026-04-18T23:34:13+00:00</date>
   <trackList>
+    <track>
+      <title>Pine Tree Hill</title>
+      <creator>Basement Apartment</creator>
+      <album>Pine Tree Hill</album>
+    </track>
+    <track>
+      <title>Way It Goes</title>
+      <creator>Hand Habits</creator>
+      <album>Blue Reminder</album>
+    </track>
+    <track>
+      <title>Break</title>
+      <creator>Ryli</creator>
+      <album>Come And Get Me</album>
+    </track>
+    <track>
+      <title>Chequebook</title>
+      <creator>Fleece</creator>
+      <album>Tornado</album>
+    </track>
+    <track>
+      <title>The World Is Waiting (Clean)</title>
+      <creator>Crookes</creator>
+      <album>Lucky Ones</album>
+    </track>
+    <track>
+      <title>Spontaneous Skylights 2</title>
+      <creator>Natural Lines</creator>
+      <album>The Natural Lines</album>
+    </track>
     <track>
       <title>The Shortest Night</title>
       <creator>Admiral Fallow</creator>
@@ -58,36 +88,6 @@
       <title>Serial Mess</title>
       <creator>Loquat</creator>
       <album>It's Yours To Keep</album>
-    </track>
-    <track>
-      <title>Dust</title>
-      <creator>Mini Trees</creator>
-      <album>Steady Me - EP</album>
-    </track>
-    <track>
-      <title>Thought For You</title>
-      <creator>Sea Lemon</creator>
-      <album>Diving For A Prize</album>
-    </track>
-    <track>
-      <title>Father</title>
-      <creator>Wren Hinds</creator>
-      <album>Don't Die In The Bundu</album>
-    </track>
-    <track>
-      <title>Amor</title>
-      <creator>BEL</creator>
-      <album>Holy Grail</album>
-    </track>
-    <track>
-      <title>Terrestrial</title>
-      <creator>Martin Courtney</creator>
-      <album>Magic Sign</album>
-    </track>
-    <track>
-      <title>Voice Box</title>
-      <creator>Why Bonnie</creator>
-      <album>Voice Box</album>
     </track>
   </trackList>
 </playlist>

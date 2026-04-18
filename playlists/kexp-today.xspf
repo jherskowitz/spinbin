@@ -2,8 +2,38 @@
   <title>KEXP Rewind</title>
   <info>https://www.kexp.org/playlist/</info>
   <creator>kexp.org</creator>
-  <date>2026-04-18T23:17:05+00:00</date>
+  <date>2026-04-18T23:34:09+00:00</date>
   <trackList>
+    <track>
+      <title>Hyperspace Mountain</title>
+      <creator>Honey I’m Home</creator>
+      <image>https://dn720908.ca.archive.org/0/items/mbid-b55eb354-3d73-422b-88c3-240e3bc1a4b5/mbid-b55eb354-3d73-422b-88c3-240e3bc1a4b5-44866577781_thumb500.jpg</image>
+      <album>Hyperspace Mountain</album>
+    </track>
+    <track>
+      <title>STAMPEDE</title>
+      <creator>Genesis Owusu</creator>
+      <image>https://dn711207.ca.archive.org/0/items/mbid-d5dc9612-a4ab-4ccc-9e28-70ee7d1e2d09/mbid-d5dc9612-a4ab-4ccc-9e28-70ee7d1e2d09-44399453333_thumb500.jpg</image>
+      <album>STAMPEDE</album>
+    </track>
+    <track>
+      <title>Dancing on the Wall</title>
+      <creator>MUNA</creator>
+      <image>https://dn721807.ca.archive.org/0/items/mbid-11e8239f-f479-415a-9d6e-4d76dcb22c84/mbid-11e8239f-f479-415a-9d6e-4d76dcb22c84-44321576018_thumb500.jpg</image>
+      <album>Dancing On The Wall</album>
+    </track>
+    <track>
+      <title>Ride</title>
+      <creator>Jessie Ware</creator>
+      <image>https://dn710105.ca.archive.org/0/items/mbid-2178e2e3-37ad-4562-b67e-c125a38ab80b/mbid-2178e2e3-37ad-4562-b67e-c125a38ab80b-44219031428_thumb500.jpg</image>
+      <album>Superbloom</album>
+    </track>
+    <track>
+      <title>Dream House</title>
+      <creator>Empress Of</creator>
+      <image>https://dn711307.ca.archive.org/0/items/mbid-2600ff21-0d97-4617-a736-14dd73ba32bd/mbid-2600ff21-0d97-4617-a736-14dd73ba32bd-44805614996_thumb500.jpg</image>
+      <album>Dream House</album>
+    </track>
     <track>
       <title>The Promise</title>
       <creator>Samia feat. Jelani Aryeh</creator>
@@ -1829,23 +1859,6 @@
       <creator>Talking Heads</creator>
       <image>https://ia601202.us.archive.org/33/items/mbid-0e92ccea-b428-4a23-8300-ac8a86f731d6/mbid-0e92ccea-b428-4a23-8300-ac8a86f731d6-13911673485_thumb500.jpg</image>
       <album>Naked</album>
-    </track>
-    <track>
-      <title>Perfect Couples</title>
-      <creator>Belle and Sebastian</creator>
-      <image>https://dn710704.ca.archive.org/0/items/mbid-3a280b86-0a2c-4362-97c2-79f18e76a2e8/mbid-3a280b86-0a2c-4362-97c2-79f18e76a2e8-9686321620_thumb500.jpg</image>
-      <album>Girls in Peacetime Want to Dance</album>
-    </track>
-    <track>
-      <title>Hökvind</title>
-      <creator>Les Big Byrd</creator>
-      <album>Ruin Everything</album>
-    </track>
-    <track>
-      <title>Gambo</title>
-      <creator>Makthaverskan</creator>
-      <image>https://ia800307.us.archive.org/3/items/mbid-2dc4d07f-6179-467f-8cda-6551db874749/mbid-2dc4d07f-6179-467f-8cda-6551db874749-44370484117_thumb500.jpg</image>
-      <album>Glass and Bones</album>
     </track>
   </trackList>
 </playlist>
