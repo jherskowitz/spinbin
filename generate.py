@@ -42,6 +42,13 @@ PLAYLISTS = {
         "fetch": lambda: somafm.fetch_plays(channel="groovesalad"),
         "info": "https://somafm.com/groovesalad/",
     },
+    "somafm_indiepop": {
+        "title": "SomaFM Indie Pop Rocks! Rewind",
+        "creator": "somafm.com",
+        "filename": "somafm-indiepop-today.xspf",
+        "fetch": lambda: somafm.fetch_plays(channel="indiepop"),
+        "info": "https://somafm.com/indiepop/",
+    },
     "xrayfm": {
         "title": "XRAY.fm Rewind",
         "creator": "xray.fm",
