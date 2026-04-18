@@ -2,8 +2,13 @@
   <title>SomaFM Groove Salad Rewind</title>
   <info>https://somafm.com/groovesalad/</info>
   <creator>somafm.com</creator>
-  <date>2026-04-18T23:11:27+00:00</date>
+  <date>2026-04-18T23:17:09+00:00</date>
   <trackList>
+    <track>
+      <title>Trees On The Moon</title>
+      <creator>Merge Of Equals</creator>
+      <album>Intoxicating</album>
+    </track>
     <track>
       <title>The Secret</title>
       <creator>T.vs. T</creator>
@@ -88,16 +93,6 @@
       <title>Waves Of Sorrow</title>
       <creator>BistroBoy</creator>
       <album>evolve</album>
-    </track>
-    <track>
-      <title>Korona</title>
-      <creator>State Azure</creator>
-      <album>Mirror Infinite</album>
-    </track>
-    <track>
-      <title>Tiefblauhorizont</title>
-      <creator>Thomas Lemmer &amp; Christoph Sebastian Pabst</creator>
-      <album>Meerblick</album>
     </track>
   </trackList>
 </playlist>

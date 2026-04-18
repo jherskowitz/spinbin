@@ -2,8 +2,13 @@
   <title>XRAY.fm Rewind</title>
   <info>https://xray.fm/playlist</info>
   <creator>xray.fm</creator>
-  <date>2026-04-18T23:12:17+00:00</date>
+  <date>2026-04-18T23:17:52+00:00</date>
   <trackList>
+    <track>
+      <title>Outstanding</title>
+      <creator>Al Charles</creator>
+      <album>12"</album>
+    </track>
     <track>
       <title>Didn't I</title>
       <creator>The Night Owls ft. Hollie Cook</creator>
@@ -605,11 +610,6 @@
       <album>Singles</album>
     </track>
     <track>
-      <title>Cool For Cats</title>
-      <creator>Squeeze</creator>
-      <album>Singles</album>
-    </track>
-    <track>
       <title>Secret Friend</title>
       <creator>Paul McCartney</creator>
       <album>12“</album>
@@ -798,6 +798,11 @@
       <title>Keyboard Christ</title>
       <creator>The Lavender Flu</creator>
       <album>Barbarian Dust</album>
+    </track>
+    <track>
+      <title>Bicep</title>
+      <creator>Forty Feet Tall</creator>
+      <album>Clean the Cage</album>
     </track>
     <track>
       <title>Bicep</title>
@@ -1498,11 +1503,6 @@
       <title>Up for the Get-Downs</title>
       <creator>The Herbaliser</creator>
       <album>Remedies</album>
-    </track>
-    <track>
-      <title>Butter the Soul</title>
-      <creator>Cornershop</creator>
-      <album>When I Was Born For The 7th Time</album>
     </track>
   </trackList>
 </playlist>

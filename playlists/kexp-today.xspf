@@ -2,8 +2,14 @@
   <title>KEXP Rewind</title>
   <info>https://www.kexp.org/playlist/</info>
   <creator>kexp.org</creator>
-  <date>2026-04-18T23:11:23+00:00</date>
+  <date>2026-04-18T23:17:05+00:00</date>
   <trackList>
+    <track>
+      <title>The Promise</title>
+      <creator>Samia feat. Jelani Aryeh</creator>
+      <image>https://dn721607.ca.archive.org/0/items/mbid-56371d6e-7c9e-4ea9-81cc-bb9878a3ac74/mbid-56371d6e-7c9e-4ea9-81cc-bb9878a3ac74-29981341414_thumb500.jpg</image>
+      <album>Scout</album>
+    </track>
     <track>
       <title>Space Age Love Song</title>
       <creator>A Flock of Seagulls</creator>
@@ -1840,11 +1846,6 @@
       <creator>Makthaverskan</creator>
       <image>https://ia800307.us.archive.org/3/items/mbid-2dc4d07f-6179-467f-8cda-6551db874749/mbid-2dc4d07f-6179-467f-8cda-6551db874749-44370484117_thumb500.jpg</image>
       <album>Glass and Bones</album>
-    </track>
-    <track>
-      <title>I Wanna Be Adored</title>
-      <creator>Turnstile</creator>
-      <album>I Wanna Be Adored</album>
     </track>
   </trackList>
 </playlist>

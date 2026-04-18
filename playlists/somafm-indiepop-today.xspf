@@ -2,8 +2,13 @@
   <title>SomaFM Indie Pop Rocks! Rewind</title>
   <info>https://somafm.com/indiepop/</info>
   <creator>somafm.com</creator>
-  <date>2026-04-18T23:11:28+00:00</date>
+  <date>2026-04-18T23:17:09+00:00</date>
   <trackList>
+    <track>
+      <title>The Shortest Night</title>
+      <creator>Admiral Fallow</creator>
+      <album>First of the Birds</album>
+    </track>
     <track>
       <title>Dandelion</title>
       <creator>Kristin Hersh</creator>
@@ -83,11 +88,6 @@
       <title>Voice Box</title>
       <creator>Why Bonnie</creator>
       <album>Voice Box</album>
-    </track>
-    <track>
-      <title>The Actor</title>
-      <creator>Alt-J</creator>
-      <album>The Dream</album>
     </track>
   </trackList>
 </playlist>
