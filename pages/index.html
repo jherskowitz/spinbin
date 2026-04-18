@@ -52,6 +52,10 @@
       --vintage: #6B4423; /* Vintage Obscura sepia */
       --rp: #0F3B5F;      /* Radio Paradise deep blue */
       --nts: #000000;     /* NTS Radio black */
+      --wprb: #FF6600;    /* WPRB Princeton orange */
+      --kalx: #003262;    /* KALX Berkeley blue */
+      --wmbr: #A31F34;    /* WMBR MIT red */
+      --somafm-bagel: #B4884D; /* SomaFM Bagel sesame tan */
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -450,6 +454,10 @@
       background: linear-gradient(180deg, #1c5480 0%, var(--rp) 100%);
     }
     .tile--nts { background: var(--nts); }
+    .tile--wprb { background: var(--wprb); }
+    .tile--kalx { background: var(--kalx); }
+    .tile--wmbr { background: var(--wmbr); }
+    .tile--somafm-bagel { background: var(--somafm-bagel); }
 
     .tile svg {
       position: relative;
@@ -713,6 +721,8 @@
           <button type="button" class="chip-filter" data-genre="public" aria-selected="false">Public</button>
           <button type="button" class="chip-filter" data-genre="community" aria-selected="false">Community</button>
           <button type="button" class="chip-filter" data-genre="freeform" aria-selected="false">Freeform</button>
+          <button type="button" class="chip-filter" data-genre="alternative" aria-selected="false">Alternative</button>
+          <button type="button" class="chip-filter" data-genre="college" aria-selected="false">College</button>
           <button type="button" class="chip-filter" data-genre="vintage" aria-selected="false">Vintage</button>
           <button type="button" class="chip-filter" data-genre="international" aria-selected="false">International</button>
         </div>
@@ -993,6 +1003,115 @@
               <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2.5 7.5 6 4 9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
             </a>
             <a class="btn btn-ghost" href="playlists/nts-today.xspf">
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1.5v7m0 0L3 5.5m3 3 3-3M1.5 10.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              XSPF
+            </a>
+          </div>
+        </article>
+
+        <!-- WPRB -->
+        <article class="station" data-name="WPRB" data-added="2026-04-19" data-genre="freeform community college alternative">
+          <div class="station-head">
+            <div class="tile tile--wprb" aria-hidden="true">
+              <svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+                <text x="32" y="36" text-anchor="middle" font-family="-apple-system, Helvetica Neue, sans-serif" font-weight="800" font-size="16" letter-spacing="1" fill="#ffffff">WPRB</text>
+                <text x="32" y="50" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-weight="500" font-size="7" letter-spacing="1.5" fill="#ffffff" opacity="0.8">103.3 FM</text>
+              </svg>
+            </div>
+            <div class="station-title-block">
+              <div class="station-name">WPRB</div>
+              <div class="station-meta">Princeton, NJ<span class="dot">·</span>103.3 FM</div>
+            </div>
+          </div>
+          <p class="station-desc">Princeton University's legendary freeform station — one of the oldest in the US, with a reputation for adventurous programming.</p>
+          <div class="actions">
+            <a class="btn btn-primary" href="parachord://import?url=https%3A%2F%2Fjherskowitz.github.io%2Fspinbin%2Fplaylists%2Fwprb-today.xspf">
+              Add to Parachord
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2.5 7.5 6 4 9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+            <a class="btn btn-ghost" href="playlists/wprb-today.xspf">
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1.5v7m0 0L3 5.5m3 3 3-3M1.5 10.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              XSPF
+            </a>
+          </div>
+        </article>
+
+        <!-- KALX -->
+        <article class="station" data-name="KALX" data-added="2026-04-19" data-genre="freeform community college eclectic">
+          <div class="station-head">
+            <div class="tile tile--kalx" aria-hidden="true">
+              <svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+                <text x="32" y="36" text-anchor="middle" font-family="-apple-system, Helvetica Neue, sans-serif" font-weight="800" font-size="17" letter-spacing="1.5" fill="#ffffff">KALX</text>
+                <text x="32" y="50" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-weight="500" font-size="7" letter-spacing="1.5" fill="#ffffff" opacity="0.8">90.7 FM</text>
+              </svg>
+            </div>
+            <div class="station-title-block">
+              <div class="station-name">KALX</div>
+              <div class="station-meta">Berkeley, CA<span class="dot">·</span>90.7 FM</div>
+            </div>
+          </div>
+          <p class="station-desc">UC Berkeley's student-run station. Freeform across genres — noise, folk, jazz, punk — whatever the DJ brought.</p>
+          <div class="actions">
+            <a class="btn btn-primary" href="parachord://import?url=https%3A%2F%2Fjherskowitz.github.io%2Fspinbin%2Fplaylists%2Fkalx-today.xspf">
+              Add to Parachord
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2.5 7.5 6 4 9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+            <a class="btn btn-ghost" href="playlists/kalx-today.xspf">
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1.5v7m0 0L3 5.5m3 3 3-3M1.5 10.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              XSPF
+            </a>
+          </div>
+        </article>
+
+        <!-- WMBR -->
+        <article class="station" data-name="WMBR" data-added="2026-04-19" data-genre="freeform community college eclectic">
+          <div class="station-head">
+            <div class="tile tile--wmbr" aria-hidden="true">
+              <svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+                <text x="32" y="36" text-anchor="middle" font-family="-apple-system, Helvetica Neue, sans-serif" font-weight="800" font-size="16" letter-spacing="1" fill="#ffffff">WMBR</text>
+                <text x="32" y="50" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-weight="500" font-size="7" letter-spacing="1.5" fill="#ffffff" opacity="0.82">88.1 FM</text>
+              </svg>
+            </div>
+            <div class="station-title-block">
+              <div class="station-name">WMBR</div>
+              <div class="station-meta">Cambridge, MA<span class="dot">·</span>88.1 FM</div>
+            </div>
+          </div>
+          <p class="station-desc">MIT's student station — eclectic, educational, and eccentric in equal measure. Over 40 years of freeform radio.</p>
+          <div class="actions">
+            <a class="btn btn-primary" href="parachord://import?url=https%3A%2F%2Fjherskowitz.github.io%2Fspinbin%2Fplaylists%2Fwmbr-today.xspf">
+              Add to Parachord
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2.5 7.5 6 4 9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+            <a class="btn btn-ghost" href="playlists/wmbr-today.xspf">
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1.5v7m0 0L3 5.5m3 3 3-3M1.5 10.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              XSPF
+            </a>
+          </div>
+        </article>
+
+        <!-- SomaFM Bagel Radio -->
+        <article class="station" data-name="SomaFM Bagel Radio" data-added="2026-04-19" data-genre="alternative rock indie">
+          <div class="station-head">
+            <div class="tile tile--somafm-bagel" aria-hidden="true">
+              <svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+                <text x="32" y="28" text-anchor="middle" font-family="-apple-system, Helvetica Neue, sans-serif" font-weight="800" font-size="11" letter-spacing="0.5" fill="#ffffff">SOMAFM</text>
+                <text x="32" y="45" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="700" font-size="12" letter-spacing="0.3" fill="#ffffff" opacity="0.95">Bagel</text>
+                <text x="32" y="57" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="700" font-size="10" letter-spacing="0.3" fill="#ffffff" opacity="0.9">Radio</text>
+              </svg>
+            </div>
+            <div class="station-title-block">
+              <div class="station-name">SomaFM — Bagel Radio</div>
+              <div class="station-meta">San Francisco, CA<span class="dot">·</span>Internet only</div>
+            </div>
+          </div>
+          <p class="station-desc">Alternative rock for adults. Thoughtfully curated new and classic alt tracks, from post-punk to shoegaze.</p>
+          <div class="actions">
+            <a class="btn btn-primary" href="parachord://import?url=https%3A%2F%2Fjherskowitz.github.io%2Fspinbin%2Fplaylists%2Fsomafm-bagel-today.xspf">
+              Add to Parachord
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2.5 7.5 6 4 9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+            <a class="btn btn-ghost" href="playlists/somafm-bagel-today.xspf">
               <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1.5v7m0 0L3 5.5m3 3 3-3M1.5 10.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
               XSPF
             </a>

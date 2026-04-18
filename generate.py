@@ -4,7 +4,19 @@ import re
 from datetime import datetime, timezone
 
 from xspf import Xspf
-from scrapers import kexp, kcrw, wfmu, wfuv, somafm, xrayfm, vintageobscura, radioparadise, nts
+from scrapers import (
+    kexp,
+    kcrw,
+    wfmu,
+    wfuv,
+    wmbr,
+    somafm,
+    xrayfm,
+    vintageobscura,
+    radioparadise,
+    nts,
+    spinitron,
+)
 
 PLAYLISTS = {
     "kexp": {
@@ -76,6 +88,34 @@ PLAYLISTS = {
         "filename": "nts-today.xspf",
         "fetch": lambda: nts.fetch_plays(),
         "info": "https://www.nts.live/",
+    },
+    "wprb": {
+        "title": "WPRB Rewind",
+        "creator": "wprb.com",
+        "filename": "wprb-today.xspf",
+        "fetch": lambda: spinitron.fetch_plays("WPRB"),
+        "info": "https://spinitron.com/WPRB/",
+    },
+    "kalx": {
+        "title": "KALX Rewind",
+        "creator": "kalx.berkeley.edu",
+        "filename": "kalx-today.xspf",
+        "fetch": lambda: spinitron.fetch_plays("KALX"),
+        "info": "https://spinitron.com/KALX/",
+    },
+    "wmbr": {
+        "title": "WMBR Rewind",
+        "creator": "wmbr.org",
+        "filename": "wmbr-today.xspf",
+        "fetch": lambda: wmbr.fetch_plays(),
+        "info": "https://wmbr.org/",
+    },
+    "somafm_bagel": {
+        "title": "SomaFM Bagel Radio Rewind",
+        "creator": "somafm.com",
+        "filename": "somafm-bagel-today.xspf",
+        "fetch": lambda: somafm.fetch_plays(channel="bagel"),
+        "info": "https://somafm.com/bagel/",
     },
 }
 
