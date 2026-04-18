@@ -1,0 +1,93 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>SomaFM Indie Pop Rocks! Rewind</title>
+  <info>https://somafm.com/indiepop/</info>
+  <creator>somafm.com</creator>
+  <date>2026-04-18T23:11:28+00:00</date>
+  <trackList>
+    <track>
+      <title>Dandelion</title>
+      <creator>Kristin Hersh</creator>
+      <album>Clear Pond Road</album>
+    </track>
+    <track>
+      <title>Winter Song</title>
+      <creator>Oceanique</creator>
+      <album>Skylines</album>
+    </track>
+    <track>
+      <title>Sweet Morning</title>
+      <creator>Teleman</creator>
+      <album>Sweet Morning EP</album>
+    </track>
+    <track>
+      <title>Warrior</title>
+      <creator>Aurora</creator>
+      <album>All My Demons Greeting Me As A Friend</album>
+    </track>
+    <track>
+      <title>Lake Michigan</title>
+      <creator>Rogue Wave</creator>
+      <album>Asleep At Heaven's Gate</album>
+    </track>
+    <track>
+      <title>Michigan</title>
+      <creator>Red House Painters</creator>
+      <album>Old Ramon</album>
+    </track>
+    <track>
+      <title>Football (Radio Edit)</title>
+      <creator>Youth Lagoon</creator>
+      <album>Heaven Is a Junkyard</album>
+    </track>
+    <track>
+      <title>The Ones Left Behind</title>
+      <creator>Hide And Shine</creator>
+      <album>The Red Core</album>
+    </track>
+    <track>
+      <title>Paper Plane</title>
+      <creator>Soft Loft</creator>
+      <album>Modern Roses</album>
+    </track>
+    <track>
+      <title>Serial Mess</title>
+      <creator>Loquat</creator>
+      <album>It's Yours To Keep</album>
+    </track>
+    <track>
+      <title>Dust</title>
+      <creator>Mini Trees</creator>
+      <album>Steady Me - EP</album>
+    </track>
+    <track>
+      <title>Thought For You</title>
+      <creator>Sea Lemon</creator>
+      <album>Diving For A Prize</album>
+    </track>
+    <track>
+      <title>Father</title>
+      <creator>Wren Hinds</creator>
+      <album>Don't Die In The Bundu</album>
+    </track>
+    <track>
+      <title>Amor</title>
+      <creator>BEL</creator>
+      <album>Holy Grail</album>
+    </track>
+    <track>
+      <title>Terrestrial</title>
+      <creator>Martin Courtney</creator>
+      <album>Magic Sign</album>
+    </track>
+    <track>
+      <title>Voice Box</title>
+      <creator>Why Bonnie</creator>
+      <album>Voice Box</album>
+    </track>
+    <track>
+      <title>The Actor</title>
+      <creator>Alt-J</creator>
+      <album>The Dream</album>
+    </track>
+  </trackList>
+</playlist>
