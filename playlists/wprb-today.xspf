@@ -1,0 +1,103 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>WPRB Rewind</title>
+  <info>https://spinitron.com/WPRB/</info>
+  <creator>wprb.com</creator>
+  <date>2026-04-18T23:57:04+00:00</date>
+  <trackList>
+    <track>
+      <title>City of Echoes</title>
+      <creator>Pelican</creator>
+      <album>City of Echoes</album>
+    </track>
+    <track>
+      <title>What a Horrible Night to Have a Curse</title>
+      <creator>The Black Dahlia Murder</creator>
+      <album>Nocturnal</album>
+    </track>
+    <track>
+      <title>Party All the Time</title>
+      <creator>Children of Bodom</creator>
+      <album>Party All the Time - Single</album>
+    </track>
+    <track>
+      <title>Somebody Put Something In My Drink</title>
+      <creator>Children of Bodom</creator>
+      <album>Skeletons in the Closet (Deluxe)</album>
+    </track>
+    <track>
+      <title>Barracuda (feat. Goatwhore)</title>
+      <creator>BRAT</creator>
+      <album>Barracuda (feat. Goatwhore) - Single</album>
+    </track>
+    <track>
+      <title>The Art of Dying</title>
+      <creator>Gojira</creator>
+      <album>The Way of All Flesh</album>
+    </track>
+    <track>
+      <title>Duncan Hills Coffee Jingle</title>
+      <creator>Metalocalypse: Dethklok</creator>
+      <album>The Dethalbum (Expanded Edition)</album>
+    </track>
+    <track>
+      <title>Gimme Some Money (2025 Remaster)</title>
+      <creator>Spinal Tap</creator>
+      <album>This Is Spinal Tap (2025 Remaster)</album>
+    </track>
+    <track>
+      <title>Marijuanaut's Theme</title>
+      <creator>Sleep</creator>
+      <album>The Sciences</album>
+    </track>
+    <track>
+      <title>Sweet Leaf</title>
+      <creator>Black Sabbath</creator>
+      <album>Master of Reality (Remastered)</album>
+    </track>
+    <track>
+      <title>Bleed</title>
+      <creator>Meshuggah</creator>
+      <album>ObZen</album>
+    </track>
+    <track>
+      <title>Only Ash Remains</title>
+      <creator>Necrophagist</creator>
+      <album>Epitaph</album>
+    </track>
+    <track>
+      <title>Stabwound</title>
+      <creator>Necrophagist</creator>
+      <album>Epitaph</album>
+    </track>
+    <track>
+      <title>Dead Skin Mask</title>
+      <creator>Slayer</creator>
+      <album>Seasons In the Abyss</album>
+    </track>
+    <track>
+      <title>You're Cut Off</title>
+      <creator>Municipal Waste</creator>
+      <album>The Fatal Feast</album>
+    </track>
+    <track>
+      <title>Executioner's Tax (Swing of the Axe)</title>
+      <creator>Power Trip</creator>
+      <album>Nightmare Logic</album>
+    </track>
+    <track>
+      <title>Party Hard</title>
+      <creator>Andrew W.K.</creator>
+      <album>I Get Wet</album>
+    </track>
+    <track>
+      <title>The Power of Partying</title>
+      <creator>Andrew W.K.</creator>
+      <album>You're Not Alone</album>
+    </track>
+    <track>
+      <title>Poppyfields</title>
+      <creator>Blackwater Holylight</creator>
+      <album>Not Here Not Gone</album>
+    </track>
+  </trackList>
+</playlist>

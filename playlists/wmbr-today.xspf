@@ -1,0 +1,40 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>WMBR Rewind</title>
+  <info>https://wmbr.org/</info>
+  <creator>wmbr.org</creator>
+  <date>2026-04-18T23:57:09+00:00</date>
+  <trackList>
+    <track>
+      <title>Hey Hey</title>
+      <creator>The Cells</creator>
+    </track>
+    <track>
+      <title>World on Fire</title>
+      <creator>Inheaven</creator>
+    </track>
+    <track>
+      <title>Eighty Eight</title>
+      <creator>Working For a Nuclear Free City</creator>
+    </track>
+    <track>
+      <title>Drowning All Night</title>
+      <creator>Godzillionaire</creator>
+    </track>
+    <track>
+      <title>Paroxismo</title>
+      <creator>Pez Globo</creator>
+    </track>
+    <track>
+      <title>Do Yo Know It?</title>
+      <creator>Daisy Glue</creator>
+    </track>
+    <track>
+      <title>White Horse</title>
+      <creator>Laid Back</creator>
+    </track>
+    <track>
+      <title>Destroy the Heart</title>
+      <creator>Deadlights</creator>
+    </track>
+  </trackList>
+</playlist>

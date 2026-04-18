@@ -2,8 +2,37 @@
   <title>KEXP Rewind</title>
   <info>https://www.kexp.org/playlist/</info>
   <creator>kexp.org</creator>
-  <date>2026-04-18T23:34:09+00:00</date>
+  <date>2026-04-18T23:56:18+00:00</date>
   <trackList>
+    <track>
+      <title>Vessel</title>
+      <creator>Nine Inch Nails &amp; Boys Noize</creator>
+      <album>Nine Inch Noize</album>
+    </track>
+    <track>
+      <title>A Different Light</title>
+      <creator>Bibi Club</creator>
+      <image>https://dn721901.ca.archive.org/0/items/mbid-38b5252e-755e-46ce-ad18-bc9592c063e1/mbid-38b5252e-755e-46ce-ad18-bc9592c063e1-44150440577_thumb500.jpg</image>
+      <album>Amaro</album>
+    </track>
+    <track>
+      <title>Rock and Roll</title>
+      <creator>Black Pumas</creator>
+      <image>https://ia600505.us.archive.org/22/items/mbid-0d2d383f-c56d-4056-aece-91362028c897/mbid-0d2d383f-c56d-4056-aece-91362028c897-36520501623_thumb500.jpg</image>
+      <album>Chronicles of a Diamond</album>
+    </track>
+    <track>
+      <title>Like a Ship</title>
+      <creator>Leon Bridges &amp; Keite Young</creator>
+      <image>https://dn710609.ca.archive.org/0/items/mbid-7c9ba265-471f-40b4-a27f-3c3be0c389b1/mbid-7c9ba265-471f-40b4-a27f-3c3be0c389b1-44583413092_thumb500.jpg</image>
+      <album>Like a Ship</album>
+    </track>
+    <track>
+      <title>Better Days</title>
+      <creator>MRCY feat. Yazmin Lacey</creator>
+      <image>https://dn721905.ca.archive.org/0/items/mbid-7e8a5618-e87b-49aa-8bde-17940282b8c4/mbid-7e8a5618-e87b-49aa-8bde-17940282b8c4-44715881797_thumb500.jpg</image>
+      <album>Better Days</album>
+    </track>
     <track>
       <title>Hyperspace Mountain</title>
       <creator>Honey I’m Home</creator>
@@ -1835,30 +1864,6 @@
       <creator>King Tuff</creator>
       <image>https://dn721806.ca.archive.org/0/items/mbid-831290dc-bc9f-403d-810d-1a73917a82dd/mbid-831290dc-bc9f-403d-810d-1a73917a82dd-44193009402_thumb500.jpg</image>
       <album>MOO</album>
-    </track>
-    <track>
-      <title>Jeepster</title>
-      <creator>T. Rex</creator>
-      <image>https://dn710705.ca.archive.org/0/items/mbid-ee09e0b9-0c56-477b-8984-ea16636a916f/mbid-ee09e0b9-0c56-477b-8984-ea16636a916f-9992583673_thumb500.jpg</image>
-      <album>Electric Warrior</album>
-    </track>
-    <track>
-      <title>Afterlife</title>
-      <creator>Alex G</creator>
-      <image>https://dn721206.ca.archive.org/0/items/mbid-a6a89775-bb53-4115-8a93-ab7bce1c86a1/mbid-a6a89775-bb53-4115-8a93-ab7bce1c86a1-42096916314_thumb500.jpg</image>
-      <album>Headlights</album>
-    </track>
-    <track>
-      <title>Klouds Will Carry Me to Sleep</title>
-      <creator>Gelli Haha</creator>
-      <image>https://dn711206.ca.archive.org/0/items/mbid-41b0578e-87df-4165-8f54-3c4be4a11c39/mbid-41b0578e-87df-4165-8f54-3c4be4a11c39-44695444090_thumb500.jpg</image>
-      <album>Klouds Will Carry Me To Sleep</album>
-    </track>
-    <track>
-      <title>(Nothing but) Flowers</title>
-      <creator>Talking Heads</creator>
-      <image>https://ia601202.us.archive.org/33/items/mbid-0e92ccea-b428-4a23-8300-ac8a86f731d6/mbid-0e92ccea-b428-4a23-8300-ac8a86f731d6-13911673485_thumb500.jpg</image>
-      <album>Naked</album>
     </track>
   </trackList>
 </playlist>

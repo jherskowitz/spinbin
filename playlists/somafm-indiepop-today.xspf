@@ -2,8 +2,37 @@
   <title>SomaFM Indie Pop Rocks! Rewind</title>
   <info>https://somafm.com/indiepop/</info>
   <creator>somafm.com</creator>
-  <date>2026-04-18T23:34:13+00:00</date>
+  <date>2026-04-18T23:56:22+00:00</date>
   <trackList>
+    <track>
+      <title>If I Leave</title>
+      <creator>Mitski</creator>
+    </track>
+    <track>
+      <title>Sage</title>
+      <creator>Hatchie</creator>
+      <album>Liquorice</album>
+    </track>
+    <track>
+      <title>Hey You (Radio Edit)</title>
+      <creator>Belair Lip Bombs</creator>
+      <album>Again</album>
+    </track>
+    <track>
+      <title>Sleepy Tigers</title>
+      <creator>Her Space Holiday</creator>
+      <album>Sleepy Tigers</album>
+    </track>
+    <track>
+      <title>I Want To Listen</title>
+      <creator>Beths</creator>
+      <album>Expert in a Dying Field</album>
+    </track>
+    <track>
+      <title>The Arbor</title>
+      <creator>Twilight Sad</creator>
+      <album>It Won/t Be Like This All The Time</album>
+    </track>
     <track>
       <title>Pine Tree Hill</title>
       <creator>Basement Apartment</creator>
@@ -58,36 +87,6 @@
       <title>Warrior</title>
       <creator>Aurora</creator>
       <album>All My Demons Greeting Me As A Friend</album>
-    </track>
-    <track>
-      <title>Lake Michigan</title>
-      <creator>Rogue Wave</creator>
-      <album>Asleep At Heaven's Gate</album>
-    </track>
-    <track>
-      <title>Michigan</title>
-      <creator>Red House Painters</creator>
-      <album>Old Ramon</album>
-    </track>
-    <track>
-      <title>Football (Radio Edit)</title>
-      <creator>Youth Lagoon</creator>
-      <album>Heaven Is a Junkyard</album>
-    </track>
-    <track>
-      <title>The Ones Left Behind</title>
-      <creator>Hide And Shine</creator>
-      <album>The Red Core</album>
-    </track>
-    <track>
-      <title>Paper Plane</title>
-      <creator>Soft Loft</creator>
-      <album>Modern Roses</album>
-    </track>
-    <track>
-      <title>Serial Mess</title>
-      <creator>Loquat</creator>
-      <album>It's Yours To Keep</album>
     </track>
   </trackList>
 </playlist>

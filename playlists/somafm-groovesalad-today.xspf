@@ -2,8 +2,28 @@
   <title>SomaFM Groove Salad Rewind</title>
   <info>https://somafm.com/groovesalad/</info>
   <creator>somafm.com</creator>
-  <date>2026-04-18T23:34:13+00:00</date>
+  <date>2026-04-18T23:56:22+00:00</date>
   <trackList>
+    <track>
+      <title>Streams of Heaven</title>
+      <creator>Smooth Genestar</creator>
+      <album>Rem Phase [CYAN 003]</album>
+    </track>
+    <track>
+      <title>Give Thanks And Praise</title>
+      <creator>Cottonbelly</creator>
+      <album>X Amounts of Niceness</album>
+    </track>
+    <track>
+      <title>Save My Mind For Later (Dr. Toast Remix)</title>
+      <creator>Wildlight</creator>
+      <album>Hers Was as Thunder (Remixes)</album>
+    </track>
+    <track>
+      <title>Regrets Never Die</title>
+      <creator>Eskadet</creator>
+      <album>Groovy!</album>
+    </track>
     <track>
       <title>Indra's Web</title>
       <creator>Rena Jones</creator>
@@ -68,31 +88,6 @@
       <title>The Spaces In Between</title>
       <creator>Charlie North</creator>
       <album>The Spaces In Between</album>
-    </track>
-    <track>
-      <title>Heure D'or</title>
-      <creator>Steve Cobby</creator>
-      <album>Hemidemisemiquaver</album>
-    </track>
-    <track>
-      <title>Still Hope</title>
-      <creator>Eguana</creator>
-      <album>Shedding Tears</album>
-    </track>
-    <track>
-      <title>Roses</title>
-      <creator>Lemongrass</creator>
-      <album>Earth</album>
-    </track>
-    <track>
-      <title>Kind Of Imagination</title>
-      <creator>Kick Bong</creator>
-      <album>Kind Of Imagination</album>
-    </track>
-    <track>
-      <title>Pots &amp; Pans</title>
-      <creator>Fila Brazillia</creator>
-      <album>Old Codes - New Chaos : 20th Anniversary remaster</album>
     </track>
   </trackList>
 </playlist>
