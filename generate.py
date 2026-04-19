@@ -110,13 +110,6 @@ PLAYLISTS = {
         "fetch": lambda: wmbr.fetch_plays(),
         "info": "https://wmbr.org/",
     },
-    "somafm_bagel": {
-        "title": "SomaFM Bagel Radio Rewind",
-        "creator": "somafm.com",
-        "filename": "somafm-bagel-today.xspf",
-        "fetch": lambda: somafm.fetch_plays(channel="bagel"),
-        "info": "https://somafm.com/bagel/",
-    },
 }
 
 
