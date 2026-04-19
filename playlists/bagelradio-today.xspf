@@ -2,8 +2,28 @@
   <title>Bagel Radio Rewind</title>
   <info>https://bagelradio.com/</info>
   <creator>bagelradio.com</creator>
-  <date>2026-04-19T00:10:29+00:00</date>
+  <date>2026-04-19T10:36:11+00:00</date>
   <trackList>
+    <track>
+      <title>Seabird</title>
+      <creator>deary</creator>
+    </track>
+    <track>
+      <title>Karma Police (Remastered)</title>
+      <creator>Radiohead</creator>
+    </track>
+    <track>
+      <title>Don't Answer (When They Call)</title>
+      <creator>EXEK</creator>
+    </track>
+    <track>
+      <title>Junk Food</title>
+      <creator>Damaged Bug</creator>
+    </track>
+    <track>
+      <title>The Passenger</title>
+      <creator>Iggy Pop</creator>
+    </track>
     <track>
       <title>God's Lonely Man (feat. Iggy Pop)</title>
       <creator>Anna Calvi</creator>
@@ -255,10 +275,6 @@
     <track>
       <title>Honey White</title>
       <creator>Morphine</creator>
-    </track>
-    <track>
-      <title>Lazarus</title>
-      <creator>Iguana Death Cult</creator>
     </track>
     <track>
       <title>Nuage gris</title>
@@ -641,26 +657,6 @@
       <creator>Cocteau Twins</creator>
     </track>
     <track>
-      <title>Seabird</title>
-      <creator>deary</creator>
-    </track>
-    <track>
-      <title>Karma Police (Remastered)</title>
-      <creator>Radiohead</creator>
-    </track>
-    <track>
-      <title>Don't Answer (When They Call)</title>
-      <creator>EXEK</creator>
-    </track>
-    <track>
-      <title>Junk Food</title>
-      <creator>Damaged Bug</creator>
-    </track>
-    <track>
-      <title>The Passenger</title>
-      <creator>Iggy Pop</creator>
-    </track>
-    <track>
       <title>Other Side</title>
       <creator>Rosali</creator>
     </track>
@@ -723,10 +719,6 @@
     <track>
       <title>Cult of Celebrity</title>
       <creator>Lambrini Girls</creator>
-    </track>
-    <track>
-      <title>Lazarus</title>
-      <creator>Iguana Death Cult</creator>
     </track>
   </trackList>
 </playlist>
