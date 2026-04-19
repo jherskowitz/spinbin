@@ -2,8 +2,13 @@
   <title>XRAY.fm Rewind</title>
   <info>https://xray.fm/playlist</info>
   <creator>xray.fm</creator>
-  <date>2026-04-19T00:03:26+00:00</date>
+  <date>2026-04-19T00:04:54+00:00</date>
   <trackList>
+    <track>
+      <title>The Gypsies Came Marching After</title>
+      <creator>White Magic</creator>
+      <album>Through The Sun Door</album>
+    </track>
     <track>
       <title>Money</title>
       <creator>The Flying Lizards</creator>
@@ -297,11 +302,6 @@
     <track>
       <title>You're absolutely right</title>
       <creator>Apollas</creator>
-      <album>45</album>
-    </track>
-    <track>
-      <title>Mojo Workout</title>
-      <creator>larry bright and his mojo dancers</creator>
       <album>45</album>
     </track>
     <track>

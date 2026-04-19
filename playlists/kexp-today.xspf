@@ -2,8 +2,14 @@
   <title>KEXP Rewind</title>
   <info>https://www.kexp.org/playlist/</info>
   <creator>kexp.org</creator>
-  <date>2026-04-19T00:02:46+00:00</date>
+  <date>2026-04-19T00:04:04+00:00</date>
   <trackList>
+    <track>
+      <title>Just Friends</title>
+      <creator>Honey Dijon feat. Adi Oasis, Danielle Ponder &amp; Suni MF</creator>
+      <image>https://ia600606.us.archive.org/26/items/mbid-d0a1ee1b-a5fb-4e81-aaa2-611de2d8485a/mbid-d0a1ee1b-a5fb-4e81-aaa2-611de2d8485a-44558719516_thumb500.jpg</image>
+      <album>The Nightlife</album>
+    </track>
     <track>
       <title>Grip</title>
       <creator>Peaches</creator>
@@ -1858,12 +1864,6 @@
       <creator>Jack White</creator>
       <image>https://dn710406.ca.archive.org/0/items/mbid-2d681357-4ea2-4f9c-b2d1-d8ca2e66b5c5/mbid-2d681357-4ea2-4f9c-b2d1-d8ca2e66b5c5-44770341703_thumb500.jpg</image>
       <album>G.O.D. And The Broken Ribs / Derecho Demonico</album>
-    </track>
-    <track>
-      <title>Everyday</title>
-      <creator>Acapulco Lips</creator>
-      <image>https://dn721808.ca.archive.org/0/items/mbid-1ca786a1-112e-4b8f-b622-2f8ce166007a/mbid-1ca786a1-112e-4b8f-b622-2f8ce166007a-42533859003_thumb500.jpg</image>
-      <album>Now</album>
     </track>
   </trackList>
 </playlist>

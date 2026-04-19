@@ -2,8 +2,12 @@
   <title>WFUV Rewind</title>
   <info>https://wfuv.org/playlist</info>
   <creator>wfuv.org</creator>
-  <date>2026-04-19T00:02:49+00:00</date>
+  <date>2026-04-19T00:04:08+00:00</date>
   <trackList>
+    <track>
+      <title>Compared to What (Live at The Montreux Jazz Festival, Switzerland, June 1969)</title>
+      <creator>Les McCann &amp; Eddie Harris</creator>
+    </track>
     <track>
       <title>Mixed Bag with Don McGee</title>
       <creator>Don McGee</creator>
@@ -79,10 +83,6 @@
     <track>
       <title>Leaving Las Vegas</title>
       <creator>Sheryl Crow</creator>
-    </track>
-    <track>
-      <title>Javelin</title>
-      <creator>Kevin Morby</creator>
     </track>
   </trackList>
 </playlist>

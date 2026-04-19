@@ -2,8 +2,32 @@
   <title>Radio Paradise Rewind</title>
   <info>https://radioparadise.com/</info>
   <creator>radioparadise.com</creator>
-  <date>2026-04-19T00:03:26+00:00</date>
+  <date>2026-04-19T00:04:55+00:00</date>
   <trackList>
+    <track>
+      <title>Constellation</title>
+      <creator>Soccer96</creator>
+      <image>https://img.radioparadise.com/covers/l/20688.jpg</image>
+      <album>Jupiter Masterdrive - Single</album>
+    </track>
+    <track>
+      <title>Dear Dena</title>
+      <creator>Terrace Martin</creator>
+      <image>https://img.radioparadise.com/covers/l/20931.jpg</image>
+      <album>Albion Files</album>
+    </track>
+    <track>
+      <title>We Deserve to Dream</title>
+      <creator>Xavier Rudd</creator>
+      <image>https://img.radioparadise.com/covers/l/19897.jpg</image>
+      <album>We Deserve To Dream (live)</album>
+    </track>
+    <track>
+      <title>Packing Blankets</title>
+      <creator>Eels</creator>
+      <image>https://img.radioparadise.com/covers/l/6954.jpg</image>
+      <album>Daisies of the Galaxy</album>
+    </track>
     <track>
       <title>The Truth</title>
       <creator>Cimarron 615</creator>
@@ -507,24 +531,6 @@
       <creator>This Is Lorelei</creator>
       <image>https://img.radioparadise.com/covers/l/27659.jpg</image>
       <album>Box for Buddy, Box for Star (Power Snatch version)</album>
-    </track>
-    <track>
-      <title>My Wild Love</title>
-      <creator>The Doors</creator>
-      <image>https://img.radioparadise.com/covers/l/13167.jpg</image>
-      <album>Waiting For The Sun</album>
-    </track>
-    <track>
-      <title>Two Hearts Beat As One</title>
-      <creator>U2</creator>
-      <image>https://img.radioparadise.com/covers/l/6900.jpg</image>
-      <album>War</album>
-    </track>
-    <track>
-      <title>Is It All Good?</title>
-      <creator>breathe.</creator>
-      <image>https://img.radioparadise.com/covers/l/25920.jpg</image>
-      <album>For Your Darkest Days</album>
     </track>
   </trackList>
 </playlist>
