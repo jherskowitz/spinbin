@@ -2,8 +2,18 @@
   <title>SomaFM Groove Salad Rewind</title>
   <info>https://somafm.com/groovesalad/</info>
   <creator>somafm.com</creator>
-  <date>2026-04-18T23:56:22+00:00</date>
+  <date>2026-04-19T00:02:49+00:00</date>
   <trackList>
+    <track>
+      <title>Dawn Rider</title>
+      <creator>Jens Buchert</creator>
+      <album>She</album>
+    </track>
+    <track>
+      <title>Magic Touch</title>
+      <creator>Alex Cortiz</creator>
+      <album>Amsterdam Nights</album>
+    </track>
     <track>
       <title>Streams of Heaven</title>
       <creator>Smooth Genestar</creator>
@@ -78,16 +88,6 @@
       <title>Cosmos</title>
       <creator>Love Spirals Downwards</creator>
       <album>Flux Deluxe Edition</album>
-    </track>
-    <track>
-      <title>Son Of Friday</title>
-      <creator>Fresh Moods</creator>
-      <album>Carbon Islands</album>
-    </track>
-    <track>
-      <title>The Spaces In Between</title>
-      <creator>Charlie North</creator>
-      <album>The Spaces In Between</album>
     </track>
   </trackList>
 </playlist>

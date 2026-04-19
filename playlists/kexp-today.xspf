@@ -2,8 +2,14 @@
   <title>KEXP Rewind</title>
   <info>https://www.kexp.org/playlist/</info>
   <creator>kexp.org</creator>
-  <date>2026-04-18T23:56:18+00:00</date>
+  <date>2026-04-19T00:02:46+00:00</date>
   <trackList>
+    <track>
+      <title>Grip</title>
+      <creator>Peaches</creator>
+      <image>https://dn721807.ca.archive.org/0/items/mbid-a337e781-cec1-4785-854e-ef562430e509/mbid-a337e781-cec1-4785-854e-ef562430e509-43721847009_thumb500.jpg</image>
+      <album>No Lube So Rude</album>
+    </track>
     <track>
       <title>Vessel</title>
       <creator>Nine Inch Nails &amp; Boys Noize</creator>
@@ -1858,12 +1864,6 @@
       <creator>Acapulco Lips</creator>
       <image>https://dn721808.ca.archive.org/0/items/mbid-1ca786a1-112e-4b8f-b622-2f8ce166007a/mbid-1ca786a1-112e-4b8f-b622-2f8ce166007a-42533859003_thumb500.jpg</image>
       <album>Now</album>
-    </track>
-    <track>
-      <title>Stairway to Nowhere</title>
-      <creator>King Tuff</creator>
-      <image>https://dn721806.ca.archive.org/0/items/mbid-831290dc-bc9f-403d-810d-1a73917a82dd/mbid-831290dc-bc9f-403d-810d-1a73917a82dd-44193009402_thumb500.jpg</image>
-      <album>MOO</album>
     </track>
   </trackList>
 </playlist>

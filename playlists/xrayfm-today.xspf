@@ -2,8 +2,18 @@
   <title>XRAY.fm Rewind</title>
   <info>https://xray.fm/playlist</info>
   <creator>xray.fm</creator>
-  <date>2026-04-18T23:57:02+00:00</date>
+  <date>2026-04-19T00:03:26+00:00</date>
   <trackList>
+    <track>
+      <title>Money</title>
+      <creator>The Flying Lizards</creator>
+      <album>Money 7"</album>
+    </track>
+    <track>
+      <title>Rocket Man</title>
+      <creator>Kate Bush</creator>
+      <album>7"</album>
+    </track>
     <track>
       <title>Karma Police</title>
       <creator>Pyne</creator>
@@ -287,6 +297,11 @@
     <track>
       <title>You're absolutely right</title>
       <creator>Apollas</creator>
+      <album>45</album>
+    </track>
+    <track>
+      <title>Mojo Workout</title>
+      <creator>larry bright and his mojo dancers</creator>
       <album>45</album>
     </track>
     <track>
@@ -1488,21 +1503,6 @@
       <title>One Winged Bird</title>
       <creator>The Builders And The Butchers</creator>
       <album>No Tomorrow</album>
-    </track>
-    <track>
-      <title>Severed Hand</title>
-      <creator>Local News Legend</creator>
-      <album>Criterion Of Embarrassment EP</album>
-    </track>
-    <track>
-      <title>The Shuffle Man</title>
-      <creator>Robyn Hitchcock</creator>
-      <album>Shufflemania!</album>
-    </track>
-    <track>
-      <title>You Win Some, You Lose Some</title>
-      <creator>Jacob Weldon</creator>
-      <album>You Win Some, You Lose Some</album>
     </track>
   </trackList>
 </playlist>

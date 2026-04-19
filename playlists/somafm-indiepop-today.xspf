@@ -2,8 +2,18 @@
   <title>SomaFM Indie Pop Rocks! Rewind</title>
   <info>https://somafm.com/indiepop/</info>
   <creator>somafm.com</creator>
-  <date>2026-04-18T23:56:22+00:00</date>
+  <date>2026-04-19T00:02:50+00:00</date>
   <trackList>
+    <track>
+      <title>As Ever</title>
+      <creator>Sarah Jaffe</creator>
+      <album>Bad Baby</album>
+    </track>
+    <track>
+      <title>Capital Crimes</title>
+      <creator>Andrew Bird</creator>
+      <album>My Finest Work Yet</album>
+    </track>
     <track>
       <title>If I Leave</title>
       <creator>Mitski</creator>
@@ -77,16 +87,6 @@
       <title>Winter Song</title>
       <creator>Oceanique</creator>
       <album>Skylines</album>
-    </track>
-    <track>
-      <title>Sweet Morning</title>
-      <creator>Teleman</creator>
-      <album>Sweet Morning EP</album>
-    </track>
-    <track>
-      <title>Warrior</title>
-      <creator>Aurora</creator>
-      <album>All My Demons Greeting Me As A Friend</album>
     </track>
   </trackList>
 </playlist>

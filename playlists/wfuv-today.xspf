@@ -2,8 +2,16 @@
   <title>WFUV Rewind</title>
   <info>https://wfuv.org/playlist</info>
   <creator>wfuv.org</creator>
-  <date>2026-04-18T23:56:22+00:00</date>
+  <date>2026-04-19T00:02:49+00:00</date>
   <trackList>
+    <track>
+      <title>Mixed Bag with Don McGee</title>
+      <creator>Don McGee</creator>
+    </track>
+    <track>
+      <title>Shocking Blue with Delphine Blue</title>
+      <creator>Delphine Blue</creator>
+    </track>
     <track>
       <title>Mixed Bag with Don McGee</title>
       <creator>Don McGee</creator>
@@ -75,14 +83,6 @@
     <track>
       <title>Javelin</title>
       <creator>Kevin Morby</creator>
-    </track>
-    <track>
-      <title>Little Lion Man</title>
-      <creator>Mumford &amp; Sons</creator>
-    </track>
-    <track>
-      <title>Supersad</title>
-      <creator>Suki Waterhouse</creator>
     </track>
   </trackList>
 </playlist>
