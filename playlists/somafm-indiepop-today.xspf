@@ -2,8 +2,12 @@
   <title>SomaFM Indie Pop Rocks! Rewind</title>
   <info>https://somafm.com/indiepop/</info>
   <creator>somafm.com</creator>
-  <date>2026-04-19T00:04:08+00:00</date>
+  <date>2026-04-19T00:09:29+00:00</date>
   <trackList>
+    <track>
+      <title>My Light</title>
+      <creator>Mild Orange</creator>
+    </track>
     <track>
       <title>Unordinary</title>
       <creator>Helmut</creator>
@@ -81,11 +85,6 @@
       <title>The Shortest Night</title>
       <creator>Admiral Fallow</creator>
       <album>First of the Birds</album>
-    </track>
-    <track>
-      <title>Dandelion</title>
-      <creator>Kristin Hersh</creator>
-      <album>Clear Pond Road</album>
     </track>
   </trackList>
 </playlist>

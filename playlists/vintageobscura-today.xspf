@@ -2,8 +2,14 @@
   <title>Vintage Obscura Rewind</title>
   <info>https://vintageobscura.net/</info>
   <creator>vintageobscura.net</creator>
-  <date>2026-04-19T00:04:55+00:00</date>
+  <date>2026-04-19T00:10:22+00:00</date>
   <trackList>
+    <track>
+      <title>Spirit in the Sky [US, Soul/Funk] (1970)</title>
+      <creator>Dorothy Morrison</creator>
+      <image>https://vintageobscura.net/yt_img/_1w-99jJRxM.jpg</image>
+      <album>Soul</album>
+    </track>
     <track>
       <title>Krishna [Japan, Funk / Soul / CityPop] (1980)</title>
       <creator>村田有美 (Yumi Murata)</creator>
@@ -50,12 +56,6 @@
       <title>Look to Your Soul [USA, Christian Psych Pop]</title>
       <creator>The Random Sample</creator>
       <image>https://vintageobscura.net/yt_img/YfurocdBrdk.jpg</image>
-      <album>Soul</album>
-    </track>
-    <track>
-      <title>‎I Believe It's Alright [USA, Soul/Jazz] [197?]</title>
-      <creator>Jack Jacobs</creator>
-      <image>https://vintageobscura.net/yt_img/LN4P2TpcDeI.jpg</image>
       <album>Soul</album>
     </track>
   </trackList>

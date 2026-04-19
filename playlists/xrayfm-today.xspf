@@ -2,8 +2,18 @@
   <title>XRAY.fm Rewind</title>
   <info>https://xray.fm/playlist</info>
   <creator>xray.fm</creator>
-  <date>2026-04-19T00:04:54+00:00</date>
+  <date>2026-04-19T00:10:22+00:00</date>
   <trackList>
+    <track>
+      <title>Choci Loni</title>
+      <creator>Young Marble Giants</creator>
+      <album>Colossal Youth</album>
+    </track>
+    <track>
+      <title>Feather River Canyon</title>
+      <creator>Plankton Wat</creator>
+      <album>The Vanishing World</album>
+    </track>
     <track>
       <title>The Gypsies Came Marching After</title>
       <creator>White Magic</creator>
@@ -1493,16 +1503,6 @@
       <title>World's On Fire (live)</title>
       <creator>Ryan Sollee</creator>
       <album>Hello Cruel World in-studio</album>
-    </track>
-    <track>
-      <title>Rise My Son (live)</title>
-      <creator>Ryan Sollee</creator>
-      <album>Hello Cruel World in-studio</album>
-    </track>
-    <track>
-      <title>One Winged Bird</title>
-      <creator>The Builders And The Butchers</creator>
-      <album>No Tomorrow</album>
     </track>
   </trackList>
 </playlist>

@@ -2,8 +2,14 @@
   <title>KEXP Rewind</title>
   <info>https://www.kexp.org/playlist/</info>
   <creator>kexp.org</creator>
-  <date>2026-04-19T00:04:04+00:00</date>
+  <date>2026-04-19T00:09:26+00:00</date>
   <trackList>
+    <track>
+      <title>I Like It Like That</title>
+      <creator>Fcukers</creator>
+      <image>https://dn720808.ca.archive.org/0/items/mbid-b52384b1-fbbf-4ba3-8a83-cf10969e3b5f/mbid-b52384b1-fbbf-4ba3-8a83-cf10969e3b5f-44079789120_thumb500.jpg</image>
+      <album>Ö</album>
+    </track>
     <track>
       <title>Just Friends</title>
       <creator>Honey Dijon feat. Adi Oasis, Danielle Ponder &amp; Suni MF</creator>
@@ -1858,12 +1864,6 @@
       <creator>Freddie King</creator>
       <image>https://dn721800.ca.archive.org/0/items/mbid-1628a66a-1c92-452d-8443-e1e9bb0e26d1/mbid-1628a66a-1c92-452d-8443-e1e9bb0e26d1-30003269216_thumb500.jpg</image>
       <album>Getting Ready...</album>
-    </track>
-    <track>
-      <title>Derecho Demonico</title>
-      <creator>Jack White</creator>
-      <image>https://dn710406.ca.archive.org/0/items/mbid-2d681357-4ea2-4f9c-b2d1-d8ca2e66b5c5/mbid-2d681357-4ea2-4f9c-b2d1-d8ca2e66b5c5-44770341703_thumb500.jpg</image>
-      <album>G.O.D. And The Broken Ribs / Derecho Demonico</album>
     </track>
   </trackList>
 </playlist>

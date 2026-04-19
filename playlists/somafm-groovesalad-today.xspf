@@ -2,8 +2,13 @@
   <title>SomaFM Groove Salad Rewind</title>
   <info>https://somafm.com/groovesalad/</info>
   <creator>somafm.com</creator>
-  <date>2026-04-19T00:04:08+00:00</date>
+  <date>2026-04-19T00:09:29+00:00</date>
   <trackList>
+    <track>
+      <title>Flying</title>
+      <creator>Sine</creator>
+      <album>Ruhepol</album>
+    </track>
     <track>
       <title>Dawn Rider</title>
       <creator>Jens Buchert</creator>
@@ -83,11 +88,6 @@
       <title>Focus</title>
       <creator>Thomas Lemmer</creator>
       <album>Focus</album>
-    </track>
-    <track>
-      <title>Cosmos</title>
-      <creator>Love Spirals Downwards</creator>
-      <album>Flux Deluxe Edition</album>
     </track>
   </trackList>
 </playlist>
