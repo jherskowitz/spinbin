@@ -16,6 +16,7 @@ from scrapers import (
     radioparadise,
     nts,
     spinitron,
+    onlineradiobox,
 )
 
 PLAYLISTS = {
@@ -109,6 +110,13 @@ PLAYLISTS = {
         "filename": "wmbr-today.xspf",
         "fetch": lambda: wmbr.fetch_plays(),
         "info": "https://wmbr.org/",
+    },
+    "bagelradio": {
+        "title": "Bagel Radio Rewind",
+        "creator": "bagelradio.com",
+        "filename": "bagelradio-today.xspf",
+        "fetch": lambda: onlineradiobox.fetch_plays("us", "bagel"),
+        "info": "https://bagelradio.com/",
     },
 }
 

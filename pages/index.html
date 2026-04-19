@@ -59,6 +59,7 @@
       --kalx: #003262;    /* KALX Berkeley blue */
       --wmbr: #A31F34;    /* WMBR MIT red */
       --somafm-bagel: #B4884D; /* SomaFM Bagel sesame tan */
+      --bagel: #8B6F47;   /* Bagel Radio toasted brown */
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -461,6 +462,9 @@
     .tile--kalx { background: var(--kalx); }
     .tile--wmbr { background: var(--wmbr); }
     .tile--somafm-bagel { background: var(--somafm-bagel); }
+    .tile--bagel {
+      background: radial-gradient(circle at 30% 30%, #b58a5c 0%, var(--bagel) 55%, #4a3620 100%);
+    }
 
     .tile svg {
       position: relative;
@@ -1087,6 +1091,35 @@
               <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2.5 7.5 6 4 9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
             </a>
             <a class="btn btn-ghost" href="playlists/wmbr-today.xspf">
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1.5v7m0 0L3 5.5m3 3 3-3M1.5 10.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              XSPF
+            </a>
+          </div>
+        </article>
+
+        <!-- Bagel Radio -->
+        <article class="station" data-name="Bagel Radio" data-added="2026-04-19" data-genre="alternative indie rock">
+          <div class="station-head">
+            <div class="tile tile--bagel" aria-hidden="true">
+              <svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+                <text x="32" y="30" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="700" font-size="13" fill="#ffffff">BAGeL</text>
+                <line x1="18" y1="37" x2="46" y2="37" stroke="#ffffff" stroke-width="0.5" opacity="0.5"/>
+                <text x="32" y="50" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="700" font-size="12" fill="#ffffff">radio</text>
+                <text x="32" y="60" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-weight="500" font-size="5.5" letter-spacing="1.5" fill="#ffffff" opacity="0.7">SF · INTERNET</text>
+              </svg>
+            </div>
+            <div class="station-title-block">
+              <div class="station-name">Bagel Radio</div>
+              <div class="station-meta">San Francisco, CA<span class="dot">·</span>Internet only</div>
+            </div>
+          </div>
+          <p class="station-desc">Alternative rock for adults — new indie, shoegaze, post-punk, and the occasional deep cut. Independent and listener-supported.</p>
+          <div class="actions">
+            <a class="btn btn-primary" href="parachord://import?url=https%3A%2F%2Fjherskowitz.github.io%2Fspinbin%2Fplaylists%2Fbagelradio-today.xspf">
+              Add to Parachord
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2.5 7.5 6 4 9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+            <a class="btn btn-ghost" href="playlists/bagelradio-today.xspf">
               <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1.5v7m0 0L3 5.5m3 3 3-3M1.5 10.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
               XSPF
             </a>
