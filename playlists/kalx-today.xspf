@@ -2,57 +2,212 @@
   <title>KALX Rewind</title>
   <info>https://spinitron.com/KALX/</info>
   <creator>kalx.berkeley.edu</creator>
-  <date>2026-04-26T10:42:15+00:00</date>
+  <date>2026-04-27T11:43:04+00:00</date>
   <trackList>
     <track>
-      <title>Starburned and Unkissed</title>
-      <creator>Caroline Polachek</creator>
-      <album>Starburned and Unkissed</album>
+      <title>Bows + Arrows</title>
+      <creator>The Walkmen</creator>
+      <album>Bows + Arrows</album>
     </track>
     <track>
-      <title>Love Crimes</title>
+      <title>How Do You Feel</title>
+      <creator>Jefferson Airplane</creator>
+      <album>Solid Gold Jefferson Airplane</album>
+    </track>
+    <track>
+      <title>Emotional Levy</title>
+      <creator>The Aislers Set</creator>
+      <album>How I Learned To Write Backwards</album>
+    </track>
+    <track>
+      <title>In Your Ocean</title>
+      <creator>Iron &amp; Wine</creator>
+      <album>In Your Ocean</album>
+    </track>
+    <track>
+      <title>Suntory</title>
+      <creator>John Carroll Kirby</creator>
+      <album>Suntory</album>
+    </track>
+    <track>
+      <title>The Acoustic Motorbike</title>
+      <creator>Luka Bloom</creator>
+      <album>The Platinum Collection</album>
+    </track>
+    <track>
+      <title>Site Unseen</title>
+      <creator>Courtney Barnett</creator>
+      <album>Site Unseen</album>
+    </track>
+    <track>
+      <title>We're Both Alone</title>
+      <creator>Rocketship</creator>
+      <album>A Certain Smile, a Certain Sadness</album>
+    </track>
+    <track>
+      <title>I'll Change for You</title>
+      <creator>Mitski</creator>
+      <album>I'll Change for You</album>
+    </track>
+    <track>
+      <title>Warszawa - 1999 Remaster</title>
+      <creator>David Bowie</creator>
+      <album>All Saints</album>
+    </track>
+    <track>
+      <title>Olive Garden (Bottomless Shroom Basket)</title>
+      <creator>Jas Stade</creator>
+      <album>Smoke &amp; Mirrors</album>
+    </track>
+    <track>
+      <title>Peaches</title>
+      <creator>The Presidents Of The United States Of America</creator>
+      <album>The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition</album>
+    </track>
+    <track>
+      <title>Munchies for Your Love</title>
+      <creator>Bootsy Collins</creator>
+      <album>Ahh...The Name Is Bootsy, Baby!</album>
+    </track>
+    <track>
+      <title>Sushi</title>
       <creator>FKA twigs</creator>
       <album>EUSEXUA Afterglow</album>
     </track>
     <track>
-      <title>On &amp; On</title>
-      <creator>Danny L Harle</creator>
-      <album>Cerulean</album>
+      <title>That's Entertainment</title>
+      <creator>The Jam</creator>
+      <album>Las 50 Mejores Canciones De Los 80´</album>
     </track>
     <track>
-      <title>RARE LIGHTS</title>
+      <title>Bananas and Blow</title>
+      <creator>Ween</creator>
+      <album>White Pepper</album>
+    </track>
+    <track>
+      <title>Ripe Fruit Rots and Falls</title>
+      <creator>chokecherry</creator>
+      <album>Ripe Fruit Rots and Falls</album>
+    </track>
+    <track>
+      <title>Wedding Cake</title>
+      <creator>Jeff Tweedy</creator>
+      <album>Twilight Override</album>
+    </track>
+    <track>
+      <title>She Don't Use Jelly</title>
+      <creator>The Flaming Lips</creator>
+      <album>Transmissions From The Satellite Heart</album>
+    </track>
+    <track>
+      <title>Creme Brulee</title>
+      <creator>Sonic Youth</creator>
+      <album>Dirty (Deluxe Edition)</album>
+    </track>
+    <track>
+      <title>Hamburger Lady</title>
+      <creator>Xiu Xiu</creator>
+      <album>Xiu Mutha Fuckin' Xiu: Vol. 1</album>
+    </track>
+    <track>
+      <title>Junk Dub</title>
+      <creator>Mutabaruka</creator>
+      <album>Muta in Dub</album>
+    </track>
+    <track>
+      <title>Sucette</title>
+      <creator>Sugar Candy Mountain</creator>
+      <album>Sucette</album>
+    </track>
+    <track>
+      <title>JUNK FOOD</title>
       <creator>Damaged Bug</creator>
       <album>ZUZAX</album>
     </track>
     <track>
-      <title>Sour Times - Live</title>
-      <creator>Portishead</creator>
-      <album>Roseland NYC Live</album>
+      <title>Lemon Zest</title>
+      <creator>Confucius MC</creator>
+      <album>Songs for Lost Travellers</album>
     </track>
     <track>
-      <title>Star Spangled Banner - Live at The Woodstock Music &amp; Art Fair, August 18, 1969</title>
-      <creator>Jimi Hendrix</creator>
-      <album>Live at Woodstock</album>
+      <title>The Popcorn</title>
+      <creator>James Brown</creator>
+      <album>Soul Pride: The Instrumentals 1960-1969</album>
     </track>
     <track>
-      <title>Actium</title>
-      <creator>Aphex Twin</creator>
-      <album>Selected Ambient Works 85-92</album>
+      <title>Liquorice</title>
+      <creator>Hatchie</creator>
+      <album>Liquorice</album>
     </track>
     <track>
-      <title>The Son of Flynn - Remixed by Ki:Theory</title>
-      <creator>Daft Punk</creator>
-      <album>TRON: Legacy Reconfigured</album>
+      <title>Les cornichons</title>
+      <creator>Nino Ferrer</creator>
+      <album>Nino Ferrer</album>
     </track>
     <track>
-      <title>America Is Waiting</title>
-      <creator>Brian Eno</creator>
-      <album>My Life in the Bush of Ghosts</album>
+      <title>Sixteen Saltines</title>
+      <creator>Jack White</creator>
+      <album>Blunderbuss</album>
     </track>
     <track>
-      <title>Division</title>
-      <creator>Agnes Martian</creator>
-      <album>Division</album>
+      <title>Jambalaya</title>
+      <creator>Professor Longhair</creator>
+      <album>Rock'N Roll Gumbo</album>
+    </track>
+    <track>
+      <title>Two Little Fishes And Five Loaves of Bread</title>
+      <creator>Sister Rosetta Tharpe</creator>
+      <album>Gospel Blues - The Very Best Of</album>
+    </track>
+    <track>
+      <title>Pass The Dutchie - Original 7" Version</title>
+      <creator>Musical Youth</creator>
+      <album>100 80s</album>
+    </track>
+    <track>
+      <title>pineapples and lime</title>
+      <creator>Isik Kural</creator>
+      <album>in february</album>
+    </track>
+    <track>
+      <title>Egg Man</title>
+      <creator>Beastie Boys</creator>
+      <album>Paul's Boutique</album>
+    </track>
+    <track>
+      <title>Blackwidow Blues</title>
+      <creator>Buckshot LeFonque</creator>
+      <album>Buckshot Lefonque</album>
+    </track>
+    <track>
+      <title>SCRAMBLED EGGS - TBC :(</title>
+      <creator>IDK/OGI</creator>
+      <album>e.t.d.s. A Mixtape by .idk.</album>
+    </track>
+    <track>
+      <title>Coffee And TV</title>
+      <creator>Blur</creator>
+      <album>13</album>
+    </track>
+    <track>
+      <title>Night Snack</title>
+      <creator>Henry Lai</creator>
+      <album>Night Girl</album>
+    </track>
+    <track>
+      <title>Apple</title>
+      <creator>Cibo Matto</creator>
+      <album>Viva! La Woman</album>
+    </track>
+    <track>
+      <title>Eat The Menu</title>
+      <creator>The Sugarcubes</creator>
+      <album>Here Today, Tomorrow, Next Week</album>
+    </track>
+    <track>
+      <title>Milquetoast</title>
+      <creator>Hélène Barbier</creator>
+      <album>Panorama</album>
     </track>
   </trackList>
 </playlist>
