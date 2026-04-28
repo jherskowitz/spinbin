@@ -9,14 +9,24 @@ public JSON endpoint:
 with cursor-style pagination via a `next` URL using `?last=<unix-ms>`.
 This one scraper works for any SiriusXM channel xmplaylist tracks
 (Sirius XMU, Alt Nation, Lithium, Octane, The Bridge, etc.).
+
+The site sits behind Cloudflare, which routinely 403s requests from
+GitHub Actions runner IPs even with a browser User-Agent (it fingerprints
+TLS/JA3 signals, not just headers). We use the `cloudscraper` package,
+which mimics enough browser behavior to clear the challenge.
 """
-import requests
 from datetime import datetime, timedelta, timezone
+
+import requests
 from dateutil import parser as dateparser
 
+try:
+    import cloudscraper  # type: ignore
+    _SESSION = cloudscraper.create_scraper()
+except ImportError:  # pragma: no cover — only hits when dep missing locally
+    _SESSION = requests.Session()
+
 API_URL = "https://xmplaylist.com/api/station/{station}"
-# xmplaylist sits behind Cloudflare, which 403s our default Spinbin UA from
-# GitHub Actions runner IPs. Use a conventional browser UA so requests pass.
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
@@ -48,7 +58,7 @@ def fetch_plays(station, hours=24):
 
     while url and not done and pages < MAX_PAGES:
         try:
-            resp = requests.get(url, timeout=30, headers=HEADERS)
+            resp = _SESSION.get(url, timeout=30, headers=HEADERS)
             resp.raise_for_status()
             data = resp.json()
         except (requests.RequestException, ValueError):

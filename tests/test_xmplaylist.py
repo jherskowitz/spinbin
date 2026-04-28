@@ -16,9 +16,9 @@ def _resp(data):
     return r
 
 
-@patch("scrapers.xmplaylist.requests.get")
-def test_fetch_plays_parses_results(mock_get):
-    mock_get.return_value = _resp({
+@patch("scrapers.xmplaylist._SESSION")
+def test_fetch_plays_parses_results(mock_session):
+    mock_session.get.return_value = _resp({
         "next": None,
         "results": [
             {
@@ -43,9 +43,9 @@ def test_fetch_plays_parses_results(mock_get):
     assert tracks[1]["creator"] == "Artist A, Artist B"
 
 
-@patch("scrapers.xmplaylist.requests.get")
-def test_fetch_plays_filters_time_window(mock_get):
-    mock_get.return_value = _resp({
+@patch("scrapers.xmplaylist._SESSION")
+def test_fetch_plays_filters_time_window(mock_session):
+    mock_session.get.return_value = _resp({
         "next": None,
         "results": [
             {"id": "r", "timestamp": _ts(10), "track": {"title": "Recent", "artists": ["A"]}},
@@ -57,8 +57,8 @@ def test_fetch_plays_filters_time_window(mock_get):
     assert tracks[0]["title"] == "Recent"
 
 
-@patch("scrapers.xmplaylist.requests.get")
-def test_fetch_plays_follows_pagination(mock_get):
+@patch("scrapers.xmplaylist._SESSION")
+def test_fetch_plays_follows_pagination(mock_session):
     page1 = {
         "next": "https://xmplaylist.com/api/station/siriusxmu?last=1",
         "results": [
@@ -72,16 +72,16 @@ def test_fetch_plays_follows_pagination(mock_get):
         ],
     }
     responses = [_resp(page1), _resp(page2)]
-    mock_get.side_effect = lambda *a, **kw: responses.pop(0)
+    mock_session.get.side_effect = lambda *a, **kw: responses.pop(0)
 
     tracks = fetch_plays("siriusxmu")
     assert len(tracks) == 2
     assert [t["title"] for t in tracks] == ["P1", "P2"]
 
 
-@patch("scrapers.xmplaylist.requests.get")
-def test_fetch_plays_skips_incomplete_entries(mock_get):
-    mock_get.return_value = _resp({
+@patch("scrapers.xmplaylist._SESSION")
+def test_fetch_plays_skips_incomplete_entries(mock_session):
+    mock_session.get.return_value = _resp({
         "next": None,
         "results": [
             {"id": "1", "timestamp": _ts(5), "track": {"title": "", "artists": ["A"]}},
