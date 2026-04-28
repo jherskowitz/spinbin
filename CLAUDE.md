@@ -170,6 +170,17 @@ KEXP tests blew up in CI from this once — see commits around April 17.
   me up (XRAY showed "20 tracks" when the deploy actually wrote 300 — the
   CI log always has the real number).
 
+- **Cloudflare-fronted sources**: Some sites (xmplaylist.com is the first
+  we hit) sit behind Cloudflare's bot detection, which fingerprints
+  TLS/JA3 signals — not just User-Agent. GitHub Actions runner IPs get
+  403'd even with a perfect browser UA. The fix is `cloudscraper`, which
+  mimics enough browser-side handshake behavior to clear the challenge.
+  See `scrapers/xmplaylist.py` for the pattern: import `cloudscraper`,
+  `_SESSION = cloudscraper.create_scraper()`, use `_SESSION.get(...)`
+  in place of `requests.get(...)`. Tests patch `_SESSION` directly.
+  Don't reach for cloudscraper preemptively — only when a normal
+  `requests.get` returns 0 tracks in CI but works locally.
+
 ### Stations we **can't** currently scrape
 
 Don't waste time re-researching these unless something has changed:
