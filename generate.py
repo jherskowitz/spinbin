@@ -17,6 +17,7 @@ from scrapers import (
     nts,
     spinitron,
     onlineradiobox,
+    xmplaylist,
 )
 
 PLAYLISTS = {
@@ -117,6 +118,13 @@ PLAYLISTS = {
         "filename": "bagelradio-today.xspf",
         "fetch": lambda: onlineradiobox.fetch_plays("us", "bagel"),
         "info": "https://bagelradio.com/",
+    },
+    "siriusxmu": {
+        "title": "SiriusXMU Rewind",
+        "creator": "siriusxm.com",
+        "filename": "siriusxmu-today.xspf",
+        "fetch": lambda: xmplaylist.fetch_plays("siriusxmu"),
+        "info": "https://xmplaylist.com/station/siriusxmu",
     },
 }
 

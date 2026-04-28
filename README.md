@@ -22,6 +22,7 @@ Spinbin scrapes radio station and chart playlists, generates XSPF playlist files
 | KALX Rewind | [spinitron.com/KALX](https://spinitron.com/KALX/) | [Add](https://parachord.com/go?uri=parachord%3A%2F%2Fimport%3Furl%3Dhttps%253A%252F%252Fjherskowitz.github.io%252Fspinbin%252Fplaylists%252Fkalx-today.xspf) | [XSPF](https://jherskowitz.github.io/spinbin/playlists/kalx-today.xspf) |
 | WMBR Rewind | [wmbr.org](https://wmbr.org/) | [Add](https://parachord.com/go?uri=parachord%3A%2F%2Fimport%3Furl%3Dhttps%253A%252F%252Fjherskowitz.github.io%252Fspinbin%252Fplaylists%252Fwmbr-today.xspf) | [XSPF](https://jherskowitz.github.io/spinbin/playlists/wmbr-today.xspf) |
 | Bagel Radio Rewind | [bagelradio.com](https://bagelradio.com/) | [Add](https://parachord.com/go?uri=parachord%3A%2F%2Fimport%3Furl%3Dhttps%253A%252F%252Fjherskowitz.github.io%252Fspinbin%252Fplaylists%252Fbagelradio-today.xspf) | [XSPF](https://jherskowitz.github.io/spinbin/playlists/bagelradio-today.xspf) |
+| SiriusXMU Rewind | [xmplaylist.com/station/siriusxmu](https://xmplaylist.com/station/siriusxmu) | [Add](https://parachord.com/go?uri=parachord%3A%2F%2Fimport%3Furl%3Dhttps%253A%252F%252Fjherskowitz.github.io%252Fspinbin%252Fplaylists%252Fsiriusxmu-today.xspf) | [XSPF](https://jherskowitz.github.io/spinbin/playlists/siriusxmu-today.xspf) |
 
 ## How It Works
 

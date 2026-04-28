@@ -60,6 +60,7 @@
       --wmbr: #A31F34;    /* WMBR MIT red */
       --somafm-bagel: #B4884D; /* SomaFM Bagel sesame tan */
       --bagel: #8B6F47;   /* Bagel Radio toasted brown */
+      --siriusxmu: #1a1a1a; /* SiriusXMU near-black */
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -464,6 +465,9 @@
     .tile--somafm-bagel { background: var(--somafm-bagel); }
     .tile--bagel {
       background: radial-gradient(circle at 30% 30%, #b58a5c 0%, var(--bagel) 55%, #4a3620 100%);
+    }
+    .tile--siriusxmu {
+      background: linear-gradient(180deg, #2a2a2a 0%, var(--siriusxmu) 100%);
     }
 
     .tile svg {
@@ -1120,6 +1124,33 @@
               <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2.5 7.5 6 4 9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
             </a>
             <a class="btn btn-ghost" href="playlists/bagelradio-today.xspf">
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1.5v7m0 0L3 5.5m3 3 3-3M1.5 10.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              XSPF
+            </a>
+          </div>
+        </article>
+
+        <!-- SiriusXMU -->
+        <article class="station" data-name="SiriusXMU" data-added="2026-04-28" data-genre="indie alternative">
+          <div class="station-head">
+            <div class="tile tile--siriusxmu" aria-hidden="true">
+              <svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+                <text x="32" y="30" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="800" font-size="9" letter-spacing="2" fill="#ffffff" opacity="0.7">SIRIUSXM</text>
+                <text x="32" y="50" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="900" font-size="22" letter-spacing="2" fill="#ffffff">XMU</text>
+              </svg>
+            </div>
+            <div class="station-title-block">
+              <div class="station-name">SiriusXMU</div>
+              <div class="station-meta">Satellite<span class="dot">·</span>Channel 35</div>
+            </div>
+          </div>
+          <p class="station-desc">SiriusXM's indie/alternative channel — from the buzz bands to the underground, with deep cuts you won't hear on terrestrial radio.</p>
+          <div class="actions">
+            <a class="btn btn-primary" href="parachord://import?url=https%3A%2F%2Fjherskowitz.github.io%2Fspinbin%2Fplaylists%2Fsiriusxmu-today.xspf">
+              Add to Parachord
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M4 2.5 7.5 6 4 9.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+            <a class="btn btn-ghost" href="playlists/siriusxmu-today.xspf">
               <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M6 1.5v7m0 0L3 5.5m3 3 3-3M1.5 10.5h9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
               XSPF
             </a>
