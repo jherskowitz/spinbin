@@ -2,8 +2,196 @@
   <title>Bagel Radio Rewind</title>
   <info>https://bagelradio.com/</info>
   <creator>bagelradio.com</creator>
-  <date>2026-04-28T11:43:55+00:00</date>
+  <date>2026-04-28T14:20:54+00:00</date>
   <trackList>
+    <track>
+      <title>Things I've Learned</title>
+      <creator>Pagiins</creator>
+    </track>
+    <track>
+      <title>Western Biographic</title>
+      <creator>Bound Stems</creator>
+    </track>
+    <track>
+      <title>Open Doors</title>
+      <creator>...And You Will Know Us By The Trail Of Dead</creator>
+    </track>
+    <track>
+      <title>Pity Party</title>
+      <creator>Makthaverskan</creator>
+    </track>
+    <track>
+      <title>Bailing On Me</title>
+      <creator>Amyl And The Sniffers</creator>
+    </track>
+    <track>
+      <title>Safeword</title>
+      <creator>Accessory</creator>
+    </track>
+    <track>
+      <title>1901</title>
+      <creator>Phoenix</creator>
+    </track>
+    <track>
+      <title>Dog</title>
+      <creator>Widowspeak</creator>
+    </track>
+    <track>
+      <title>Twisting &amp; Turning</title>
+      <creator>Lights On</creator>
+    </track>
+    <track>
+      <title>Alma</title>
+      <creator>deary</creator>
+    </track>
+    <track>
+      <title>Quiet Little Voices</title>
+      <creator>We Were Promised Jetpacks</creator>
+    </track>
+    <track>
+      <title>Angélisme</title>
+      <creator>Population II</creator>
+    </track>
+    <track>
+      <title>Story Of My Life</title>
+      <creator>The Unrelated Segments</creator>
+    </track>
+    <track>
+      <title>Do You Love Me Now?</title>
+      <creator>The Breeders</creator>
+    </track>
+    <track>
+      <title>Wrapped Up In Books</title>
+      <creator>Belle and Sebastian</creator>
+    </track>
+    <track>
+      <title>God is an Indian and You're an Asshole</title>
+      <creator>Modest Mouse</creator>
+    </track>
+    <track>
+      <title>Anesthetic</title>
+      <creator>MX LONELY</creator>
+    </track>
+    <track>
+      <title>Too Insistent</title>
+      <creator>The Dø</creator>
+    </track>
+    <track>
+      <title>Portland Town</title>
+      <creator>Heavenly</creator>
+    </track>
+    <track>
+      <title>Thine Eyes</title>
+      <creator>Pure Bliss</creator>
+    </track>
+    <track>
+      <title>Shallow</title>
+      <creator>Catherine Wheel</creator>
+    </track>
+    <track>
+      <title>Try This At Home</title>
+      <creator>Frank Turner</creator>
+    </track>
+    <track>
+      <title>Hire A Bird</title>
+      <creator>Think Tree</creator>
+    </track>
+    <track>
+      <title>Get Down</title>
+      <creator>They Might Be Giants</creator>
+    </track>
+    <track>
+      <title>I Don't Believe You</title>
+      <creator>The Thermals</creator>
+    </track>
+    <track>
+      <title>ATTEMPT A CRASH LANDING (THEME)</title>
+      <creator>The Twilight Sad</creator>
+    </track>
+    <track>
+      <title>Surveillance</title>
+      <creator>Interpol</creator>
+    </track>
+    <track>
+      <title>Start Again</title>
+      <creator>Gillbanks</creator>
+    </track>
+    <track>
+      <title>Entertain</title>
+      <creator>Sleater-Kinney</creator>
+    </track>
+    <track>
+      <title>Bed Rock</title>
+      <creator>Shannon And The Clams</creator>
+    </track>
+    <track>
+      <title>love is a skill like painting or taxidermy</title>
+      <creator>Two-Man Giant Squid</creator>
+    </track>
+    <track>
+      <title>way of the exploding dickhead</title>
+      <creator>mclusky</creator>
+    </track>
+    <track>
+      <title>People Are Afraid</title>
+      <creator>Marlon Magnee</creator>
+    </track>
+    <track>
+      <title>Happy Up Here</title>
+      <creator>Röyksopp</creator>
+    </track>
+    <track>
+      <title>My Favorite Dress</title>
+      <creator>The Wedding Present</creator>
+    </track>
+    <track>
+      <title>1x1x1</title>
+      <creator>Cloud Cult</creator>
+    </track>
+    <track>
+      <title>Everybody Knows Everybody</title>
+      <creator>Earlimart</creator>
+    </track>
+    <track>
+      <title>M9</title>
+      <creator>Stella Diana</creator>
+    </track>
+    <track>
+      <title>Watch For Infection</title>
+      <creator>Robber Robber</creator>
+    </track>
+    <track>
+      <title>Green Fingers</title>
+      <creator>Siouxsie &amp; The Banshees</creator>
+    </track>
+    <track>
+      <title>Luggin' Hurt</title>
+      <creator>Little Barrie</creator>
+    </track>
+    <track>
+      <title>Beg Waves</title>
+      <creator>Ponytail</creator>
+    </track>
+    <track>
+      <title>Weird and Wasted Connection</title>
+      <creator>Osees</creator>
+    </track>
+    <track>
+      <title>That Is Not My Home (After Bruegel)</title>
+      <creator>Alec Ounsworth</creator>
+    </track>
+    <track>
+      <title>walken.</title>
+      <creator>Grand Hotel</creator>
+    </track>
+    <track>
+      <title>DEATH IN THE FAMILY</title>
+      <creator>The Sophs</creator>
+    </track>
+    <track>
+      <title>Kiss Me By The Candlelight (feat. Personal Trainer)</title>
+      <creator>Pip Blom</creator>
+    </track>
     <track>
       <title>Don't Answer (When They Call)</title>
       <creator>EXEK</creator>
@@ -1463,190 +1651,6 @@
     <track>
       <title>Whole New Way</title>
       <creator>The Horrors</creator>
-    </track>
-    <track>
-      <title>Close Your Eyes</title>
-      <creator>Fuzz</creator>
-    </track>
-    <track>
-      <title>SWEETIEPIE</title>
-      <creator>The Sophs</creator>
-    </track>
-    <track>
-      <title>Chemicals Collide</title>
-      <creator>Cloud Cult</creator>
-    </track>
-    <track>
-      <title>Dead In A Graveyard</title>
-      <creator>Dirty Lungs</creator>
-    </track>
-    <track>
-      <title>Ready Steady Go</title>
-      <creator>Generation X</creator>
-    </track>
-    <track>
-      <title>Same Mistake</title>
-      <creator>Clap Your Hands Say Yeah</creator>
-    </track>
-    <track>
-      <title>A Slow, Slow Death</title>
-      <creator>Los Campesinos!</creator>
-    </track>
-    <track>
-      <title>Black Friar</title>
-      <creator>Shop Talk</creator>
-    </track>
-    <track>
-      <title>Blue Skies</title>
-      <creator>Noah And The Whale</creator>
-    </track>
-    <track>
-      <title>as a dad</title>
-      <creator>mclusky</creator>
-    </track>
-    <track>
-      <title>My Body</title>
-      <creator>Young The Giant</creator>
-    </track>
-    <track>
-      <title>Hollow Hollow Eyes</title>
-      <creator>Crocodiles</creator>
-    </track>
-    <track>
-      <title>Your Hands (Together)</title>
-      <creator>The New Pornographers</creator>
-    </track>
-    <track>
-      <title>Forgive</title>
-      <creator>Highway Gimps</creator>
-    </track>
-    <track>
-      <title>Autopoiet</title>
-      <creator>The Outfit</creator>
-    </track>
-    <track>
-      <title>Michigan Hammers</title>
-      <creator>Protomartyr</creator>
-    </track>
-    <track>
-      <title>American Shark</title>
-      <creator>Sella</creator>
-    </track>
-    <track>
-      <title>Fantasy</title>
-      <creator>Pure X</creator>
-    </track>
-    <track>
-      <title>Senses Working Overtime</title>
-      <creator>XTC</creator>
-    </track>
-    <track>
-      <title>Crones</title>
-      <creator>Oranger</creator>
-    </track>
-    <track>
-      <title>Our Biology</title>
-      <creator>Dead Anyway</creator>
-    </track>
-    <track>
-      <title>Vista</title>
-      <creator>The Golden Dregs</creator>
-    </track>
-    <track>
-      <title>Fire Drill</title>
-      <creator>Skull Practitioners</creator>
-    </track>
-    <track>
-      <title>Crying Face</title>
-      <creator>The Room</creator>
-    </track>
-    <track>
-      <title>The World</title>
-      <creator>Narrow Head</creator>
-    </track>
-    <track>
-      <title>Golden Age</title>
-      <creator>The Bellwether Syndicate</creator>
-    </track>
-    <track>
-      <title>Crank</title>
-      <creator>Catherine Wheel</creator>
-    </track>
-    <track>
-      <title>Nobody</title>
-      <creator>Knifeplay</creator>
-    </track>
-    <track>
-      <title>Geronimo</title>
-      <creator>Young Fathers</creator>
-    </track>
-    <track>
-      <title>Out For Magic</title>
-      <creator>Death And Vanilla</creator>
-    </track>
-    <track>
-      <title>Since K Got Over Me</title>
-      <creator>The Clientele</creator>
-    </track>
-    <track>
-      <title>Lupa</title>
-      <creator>King Stingray</creator>
-    </track>
-    <track>
-      <title>Style</title>
-      <creator>The Lemonheads</creator>
-    </track>
-    <track>
-      <title>The Fringe</title>
-      <creator>Cheekface</creator>
-    </track>
-    <track>
-      <title>Lost Angel</title>
-      <creator>Black Lips</creator>
-    </track>
-    <track>
-      <title>Quiche Lorraine</title>
-      <creator>CO-ED DORMS</creator>
-    </track>
-    <track>
-      <title>A Song From Under The Floorboards</title>
-      <creator>The Wedding Present</creator>
-    </track>
-    <track>
-      <title>Titan</title>
-      <creator>Screaming Females</creator>
-    </track>
-    <track>
-      <title>Darl</title>
-      <creator>Buffalo Tom</creator>
-    </track>
-    <track>
-      <title>C'est La Vie</title>
-      <creator>The Church</creator>
-    </track>
-    <track>
-      <title>Crawling Off Your Pages</title>
-      <creator>Eyelids</creator>
-    </track>
-    <track>
-      <title>Veronica Mars</title>
-      <creator>Blondshell</creator>
-    </track>
-    <track>
-      <title>Melatonin</title>
-      <creator>Silversun Pickups</creator>
-    </track>
-    <track>
-      <title>Nurse!</title>
-      <creator>bar italia</creator>
-    </track>
-    <track>
-      <title>Meteora Blues</title>
-      <creator>Yves Tumor</creator>
-    </track>
-    <track>
-      <title>Even It Out</title>
-      <creator>Fever Ray</creator>
     </track>
   </trackList>
 </playlist>
