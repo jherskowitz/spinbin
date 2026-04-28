@@ -15,7 +15,17 @@ from datetime import datetime, timedelta, timezone
 from dateutil import parser as dateparser
 
 API_URL = "https://xmplaylist.com/api/station/{station}"
-HEADERS = {"User-Agent": "Spinbin/1.0 (https://github.com/jherskowitz/spinbin)"}
+# xmplaylist sits behind Cloudflare, which 403s our default Spinbin UA from
+# GitHub Actions runner IPs. Use a conventional browser UA so requests pass.
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/json",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Referer": "https://xmplaylist.com/",
+}
 MAX_PAGES = 12  # Safety cap. ~24 results/page → ~288 tracks max.
 
 
