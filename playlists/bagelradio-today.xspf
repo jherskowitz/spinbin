@@ -2,8 +2,16 @@
   <title>Bagel Radio Rewind</title>
   <info>https://bagelradio.com/</info>
   <creator>bagelradio.com</creator>
-  <date>2026-04-28T14:20:54+00:00</date>
+  <date>2026-04-28T14:26:33+00:00</date>
   <trackList>
+    <track>
+      <title>Reckless Running</title>
+      <creator>Iguana Death Cult</creator>
+    </track>
+    <track>
+      <title>Every Coin</title>
+      <creator>Spring Offensive</creator>
+    </track>
     <track>
       <title>Things I've Learned</title>
       <creator>Pagiins</creator>
@@ -1647,10 +1655,6 @@
     <track>
       <title>Caravan Breakers, They Prey On The Weak And The Old (tedit)</title>
       <creator>Frog Eyes</creator>
-    </track>
-    <track>
-      <title>Whole New Way</title>
-      <creator>The Horrors</creator>
     </track>
   </trackList>
 </playlist>

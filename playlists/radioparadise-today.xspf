@@ -2,8 +2,86 @@
   <title>Radio Paradise Rewind</title>
   <info>https://radioparadise.com/</info>
   <creator>radioparadise.com</creator>
-  <date>2026-04-28T14:20:51+00:00</date>
+  <date>2026-04-28T14:26:26+00:00</date>
   <trackList>
+    <track>
+      <title>Waltz For Debby (Take 2) - Live</title>
+      <creator>Bill Evans Trio</creator>
+      <image>https://img.radioparadise.com/covers/l/24048.jpg</image>
+      <album>Waltz For Debby</album>
+    </track>
+    <track>
+      <title>mangetout</title>
+      <creator>Wet Leg</creator>
+      <image>https://img.radioparadise.com/covers/l/22784.jpg</image>
+      <album>moisturizer</album>
+    </track>
+    <track>
+      <title>Wichita Skyline</title>
+      <creator>Shawn Colvin</creator>
+      <image>https://img.radioparadise.com/covers/l/12353.jpg</image>
+      <album>A Few Small Repairs</album>
+    </track>
+    <track>
+      <title>Limb By Limb</title>
+      <creator>Cutty Ranks</creator>
+      <image>https://img.radioparadise.com/covers/l/25662.jpg</image>
+      <album>Dancehall 101, Vol. 1</album>
+    </track>
+    <track>
+      <title>Heavenly Houseboat Blues</title>
+      <creator>Townes Van Zandt</creator>
+      <image>https://img.radioparadise.com/covers/l/11242.jpg</image>
+      <album>The Late Great Townes Van Zandt</album>
+    </track>
+    <track>
+      <title>Laniakea Supercluster</title>
+      <creator>Rule 42</creator>
+      <image>https://img.radioparadise.com/covers/l/19352.jpg</image>
+      <album>Ambient Explorations 12</album>
+    </track>
+    <track>
+      <title>Mountain O' Things</title>
+      <creator>Tracy Chapman</creator>
+      <image>https://img.radioparadise.com/covers/l/8826.jpg</image>
+      <album>Tracy Chapman</album>
+    </track>
+    <track>
+      <title>M.B.T's Sound</title>
+      <creator>M.B.T's</creator>
+      <image>https://img.radioparadise.com/covers/l/26343.jpg</image>
+      <album>Sungu Lubuka</album>
+    </track>
+    <track>
+      <title>Every Breath You Take</title>
+      <creator>The Police</creator>
+      <image>https://img.radioparadise.com/covers/l/17094.jpg</image>
+      <album>Synchronicity</album>
+    </track>
+    <track>
+      <title>Mistakes</title>
+      <creator>Caamp</creator>
+      <image>https://img.radioparadise.com/covers/l/22952.jpg</image>
+      <album>Copper Changes Color</album>
+    </track>
+    <track>
+      <title>Sun of June</title>
+      <creator>Rikard From</creator>
+      <image>https://img.radioparadise.com/covers/l/24022.jpg</image>
+      <album>Sun of June</album>
+    </track>
+    <track>
+      <title>It Leads to This</title>
+      <creator>The Pineapple Thief</creator>
+      <image>https://img.radioparadise.com/covers/l/19815.jpg</image>
+      <album>It Leads to This</album>
+    </track>
+    <track>
+      <title>Tap Water Drinking</title>
+      <creator>Lewis Del Mar</creator>
+      <image>https://img.radioparadise.com/covers/l/25544.jpg</image>
+      <album>Lewis Del Mar</album>
+    </track>
     <track>
       <title>Nursery Rhyme Of Innocence And Experience</title>
       <creator>Natalie Merchant</creator>
@@ -441,108 +519,6 @@
       <creator>Modeselektor, Catnapp</creator>
       <image>https://img.radioparadise.com/covers/l/25496.jpg</image>
       <album>EXTLP</album>
-    </track>
-    <track>
-      <title>Restless</title>
-      <creator>Jesse Daniel</creator>
-      <image>https://img.radioparadise.com/covers/l/20279.jpg</image>
-      <album>Countin’ the Miles</album>
-    </track>
-    <track>
-      <title>Woman From Tokyo</title>
-      <creator>Deep Purple</creator>
-      <image>https://img.radioparadise.com/covers/l/17771.jpg</image>
-      <album>Who Do We Think We Are</album>
-    </track>
-    <track>
-      <title>I Burn Today</title>
-      <creator>Frank Black</creator>
-      <image>https://img.radioparadise.com/covers/l/12130.jpg</image>
-      <album>Honeycomb</album>
-    </track>
-    <track>
-      <title>Politix</title>
-      <creator>Balu Brigada</creator>
-      <image>https://img.radioparadise.com/covers/l/22782.jpg</image>
-      <album>Portal</album>
-    </track>
-    <track>
-      <title>Friend Of The Devil</title>
-      <creator>Lyle Lovett</creator>
-      <image>https://img.radioparadise.com/covers/l/9039.jpg</image>
-      <album>Deadicated</album>
-    </track>
-    <track>
-      <title>Shmaali شمالي Tarweeda (Nicolas Jaar Remix)</title>
-      <creator>Yasmine Hamdan</creator>
-      <image>https://img.radioparadise.com/covers/l/23706.jpg</image>
-      <album>Shmaali شمالي Tarweeda (Nicolas Jaar Remix)</album>
-    </track>
-    <track>
-      <title>Exist (w/ Richard Houghten)</title>
-      <creator>Aukai</creator>
-      <image>https://img.radioparadise.com/covers/l/24612.jpg</image>
-      <album>Exist</album>
-    </track>
-    <track>
-      <title>Autumn Winds - Saxophone Version</title>
-      <creator>Francois de Liege, David Moses, Thierry LaMaitre</creator>
-      <image>https://img.radioparadise.com/covers/l/24884.jpg</image>
-      <album>Autumn Winds</album>
-    </track>
-    <track>
-      <title>Take It Easy Darlin'</title>
-      <creator>Sean McConnell</creator>
-      <image>https://img.radioparadise.com/covers/l/20184.jpg</image>
-      <album>SKIN</album>
-    </track>
-    <track>
-      <title>Better by You, Better Than Me</title>
-      <creator>Spooky Tooth</creator>
-      <image>https://img.radioparadise.com/covers/l/16779.jpg</image>
-      <album>Spooky Two</album>
-    </track>
-    <track>
-      <title>Et le vent ?</title>
-      <creator>Jumo</creator>
-      <image>https://img.radioparadise.com/covers/l/25464.jpg</image>
-      <album>Et le vent?</album>
-    </track>
-    <track>
-      <title>Albatross</title>
-      <creator>Fleetwood Mac</creator>
-      <image>https://img.radioparadise.com/covers/l/8659.jpg</image>
-      <album>English Rose</album>
-    </track>
-    <track>
-      <title>Me Llaman Calle</title>
-      <creator>Manu Chao</creator>
-      <image>https://img.radioparadise.com/covers/l/12796.jpg</image>
-      <album>La Radiolina</album>
-    </track>
-    <track>
-      <title>The Promised Land</title>
-      <creator>Bruce Springsteen</creator>
-      <image>https://img.radioparadise.com/covers/l/12030.jpg</image>
-      <album>Darkness On The Edge Of Town</album>
-    </track>
-    <track>
-      <title>Words Remain (feat. Josh Garrels)</title>
-      <creator>Moderator</creator>
-      <image>https://img.radioparadise.com/covers/l/22728.jpg</image>
-      <album>The World Within</album>
-    </track>
-    <track>
-      <title>I Like Birds</title>
-      <creator>Eels</creator>
-      <image>https://img.radioparadise.com/covers/l/6954.jpg</image>
-      <album>Daisies of the Galaxy</album>
-    </track>
-    <track>
-      <title>Toulouse Street</title>
-      <creator>The Doobie Brothers</creator>
-      <image>https://img.radioparadise.com/covers/l/12529.jpg</image>
-      <album>Toulouse Street</album>
     </track>
   </trackList>
 </playlist>

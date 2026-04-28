@@ -2,8 +2,13 @@
   <title>SomaFM Indie Pop Rocks! Rewind</title>
   <info>https://somafm.com/indiepop/</info>
   <creator>somafm.com</creator>
-  <date>2026-04-28T14:19:51+00:00</date>
+  <date>2026-04-28T14:25:00+00:00</date>
   <trackList>
+    <track>
+      <title>Sweetest Heart</title>
+      <creator>Rachel Bobbitt</creator>
+      <album>Swimming Towards The Sand</album>
+    </track>
     <track>
       <title>Calling It A Night</title>
       <creator>Lilacs</creator>
@@ -82,10 +87,6 @@
       <title>Hwy</title>
       <creator>Roadkill Ghost Choir</creator>
       <album>In Tongues</album>
-    </track>
-    <track>
-      <title>Straight Line Was A Lie</title>
-      <creator>Beths</creator>
     </track>
   </trackList>
 </playlist>

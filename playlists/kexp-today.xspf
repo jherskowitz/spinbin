@@ -2,8 +2,14 @@
   <title>KEXP Rewind</title>
   <info>https://www.kexp.org/playlist/</info>
   <creator>kexp.org</creator>
-  <date>2026-04-28T14:19:47+00:00</date>
+  <date>2026-04-28T14:24:55+00:00</date>
   <trackList>
+    <track>
+      <title>Space Age Love Song</title>
+      <creator>A Flock of Seagulls</creator>
+      <image>https://ia800600.us.archive.org/23/items/mbid-e8ede537-eea3-30e2-a3e8-abbe3cce2c81/mbid-e8ede537-eea3-30e2-a3e8-abbe3cce2c81-1007336670_thumb500.jpg</image>
+      <album>A Flock of Seagulls</album>
+    </track>
     <track>
       <title>Stars</title>
       <creator>Hum</creator>
@@ -1772,12 +1778,6 @@
       <creator>Brad</creator>
       <image>https://dn721502.ca.archive.org/0/items/mbid-a362c3d8-1193-440d-af03-2773fa1209ea/mbid-a362c3d8-1193-440d-af03-2773fa1209ea-23215904360_thumb500.jpg</image>
       <album>Shame</album>
-    </track>
-    <track>
-      <title>Mineral</title>
-      <creator>Buffalo Tom</creator>
-      <image>https://dn711006.ca.archive.org/0/items/mbid-589f9f54-1894-36ee-99e1-a4733a860a12/mbid-589f9f54-1894-36ee-99e1-a4733a860a12-9518501268_thumb500.jpg</image>
-      <album>Let Me Come Over</album>
     </track>
   </trackList>
 </playlist>

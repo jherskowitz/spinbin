@@ -2,8 +2,18 @@
   <title>SomaFM Groove Salad Rewind</title>
   <info>https://somafm.com/groovesalad/</info>
   <creator>somafm.com</creator>
-  <date>2026-04-28T14:19:51+00:00</date>
+  <date>2026-04-28T14:24:59+00:00</date>
   <trackList>
+    <track>
+      <title>So Loud The Noise Of Stars</title>
+      <creator>Dr. Toast</creator>
+      <album>The Wave Function</album>
+    </track>
+    <track>
+      <title>Dialog</title>
+      <creator>Fresh Moods</creator>
+      <album>Boule</album>
+    </track>
     <track>
       <title>Fixated</title>
       <creator>Trestal</creator>
@@ -83,16 +93,6 @@
       <title>Moonshot</title>
       <creator>Eguana</creator>
       <album>Life Flows</album>
-    </track>
-    <track>
-      <title>Memory Land (Reverse Edit)</title>
-      <creator>Nacho Sotomayor</creator>
-      <album>La Roca Vol.8</album>
-    </track>
-    <track>
-      <title>Razz</title>
-      <creator>Sounds From The Ground</creator>
-      <album>Luminal</album>
     </track>
   </trackList>
 </playlist>
