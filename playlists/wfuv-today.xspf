@@ -2,8 +2,16 @@
   <title>WFUV Rewind</title>
   <info>https://wfuv.org/playlist</info>
   <creator>wfuv.org</creator>
-  <date>2026-04-28T14:24:59+00:00</date>
+  <date>2026-04-28T14:30:04+00:00</date>
   <trackList>
+    <track>
+      <title>Singing Saw (Live for WFUV)</title>
+      <creator>Iron &amp; Wine</creator>
+    </track>
+    <track>
+      <title>The Jean Genie</title>
+      <creator>David Bowie</creator>
+    </track>
     <track>
       <title>Picking Dragons' Pockets</title>
       <creator>Modest Mouse</creator>
@@ -71,14 +79,6 @@
     <track>
       <title>I've Seen That Face Before (Libertango)</title>
       <creator>Grace Jones</creator>
-    </track>
-    <track>
-      <title>This is the Day</title>
-      <creator>The The</creator>
-    </track>
-    <track>
-      <title>Laid</title>
-      <creator>James</creator>
     </track>
   </trackList>
 </playlist>

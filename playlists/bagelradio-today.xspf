@@ -2,8 +2,12 @@
   <title>Bagel Radio Rewind</title>
   <info>https://bagelradio.com/</info>
   <creator>bagelradio.com</creator>
-  <date>2026-04-28T14:26:33+00:00</date>
+  <date>2026-04-28T14:31:17+00:00</date>
   <trackList>
+    <track>
+      <title>c'mon every beatbox</title>
+      <creator>big audio dynamite</creator>
+    </track>
     <track>
       <title>Reckless Running</title>
       <creator>Iguana Death Cult</creator>
@@ -1647,14 +1651,6 @@
     <track>
       <title>Sidestepping</title>
       <creator>EXEK</creator>
-    </track>
-    <track>
-      <title>Lifeissin</title>
-      <creator>Carmen Villain</creator>
-    </track>
-    <track>
-      <title>Caravan Breakers, They Prey On The Weak And The Old (tedit)</title>
-      <creator>Frog Eyes</creator>
     </track>
   </trackList>
 </playlist>

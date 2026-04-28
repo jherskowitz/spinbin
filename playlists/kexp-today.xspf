@@ -2,8 +2,14 @@
   <title>KEXP Rewind</title>
   <info>https://www.kexp.org/playlist/</info>
   <creator>kexp.org</creator>
-  <date>2026-04-28T14:24:55+00:00</date>
+  <date>2026-04-28T14:29:52+00:00</date>
   <trackList>
+    <track>
+      <title>Slave to Love (Special 12″ remix)</title>
+      <creator>Bryan Ferry</creator>
+      <image>https://dn710005.ca.archive.org/0/items/mbid-a499f57d-c9e8-4867-97c1-ff782df31b01/mbid-a499f57d-c9e8-4867-97c1-ff782df31b01-28319595263_thumb500.jpg</image>
+      <album>Slave to Love</album>
+    </track>
     <track>
       <title>Space Age Love Song</title>
       <creator>A Flock of Seagulls</creator>
@@ -1772,12 +1778,6 @@
       <creator>Gregory Alan Isakov &amp; Sylvan Esso</creator>
       <image>https://dn721902.ca.archive.org/0/items/mbid-70af9eb7-93e4-4976-aed4-a41742993e89/mbid-70af9eb7-93e4-4976-aed4-a41742993e89-44885050093_thumb500.jpg</image>
       <album>Fade Into You</album>
-    </track>
-    <track>
-      <title>Buttercup</title>
-      <creator>Brad</creator>
-      <image>https://dn721502.ca.archive.org/0/items/mbid-a362c3d8-1193-440d-af03-2773fa1209ea/mbid-a362c3d8-1193-440d-af03-2773fa1209ea-23215904360_thumb500.jpg</image>
-      <album>Shame</album>
     </track>
   </trackList>
 </playlist>

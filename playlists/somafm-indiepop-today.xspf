@@ -2,8 +2,18 @@
   <title>SomaFM Indie Pop Rocks! Rewind</title>
   <info>https://somafm.com/indiepop/</info>
   <creator>somafm.com</creator>
-  <date>2026-04-28T14:25:00+00:00</date>
+  <date>2026-04-28T14:30:05+00:00</date>
   <trackList>
+    <track>
+      <title>Great Lakes</title>
+      <creator>Telekinesis!</creator>
+      <album>Telekinesis!</album>
+    </track>
+    <track>
+      <title>Please Be My Third Eye</title>
+      <creator>La Sera</creator>
+      <album>Sees the Light</album>
+    </track>
     <track>
       <title>Sweetest Heart</title>
       <creator>Rachel Bobbitt</creator>
@@ -82,11 +92,6 @@
       <title>Taking Too Long</title>
       <creator>Birthday Club</creator>
       <album>Obscure Emotion</album>
-    </track>
-    <track>
-      <title>Hwy</title>
-      <creator>Roadkill Ghost Choir</creator>
-      <album>In Tongues</album>
     </track>
   </trackList>
 </playlist>
