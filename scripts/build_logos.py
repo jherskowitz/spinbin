@@ -8,6 +8,11 @@ else a station thumbnail is useful). Re-authoring those SVGs by hand
 would invite drift, so this script extracts them from the page and bakes
 the brand-color (or gradient) background directly into each SVG.
 
+Stations whose real logos have a distinctive form we can't approximate
+typographically (scripted wordmarks, illustrations, etc.) are listed in
+`SKIP_OFFICIAL` and produced by `build_official_logos.py` instead. This
+script will not overwrite their SVGs.
+
 Run after editing the page tiles:
 
     python scripts/build_logos.py
@@ -46,6 +51,17 @@ KEY_TO_TILE = {
     "siriusxmu": "siriusxmu",
 }
 
+# Stations whose logos are produced by `build_official_logos.py` instead
+# (real artwork bundled rather than typographic approximation). This
+# script will not overwrite their SVGs.
+SKIP_OFFICIAL = {
+    "wfmu",
+    "radioparadise",
+    "nts",
+    "vintageobscura",
+    "bagelradio",
+}
+
 
 def main():
     html = INDEX_HTML.read_text()
@@ -78,8 +94,12 @@ def main():
 
     LOGO_DIR.mkdir(exist_ok=True)
     written = []
+    skipped = []
     missing = []
     for key, tile_suffix in KEY_TO_TILE.items():
+        if key in SKIP_OFFICIAL:
+            skipped.append(key)
+            continue
         inner = stations.get(tile_suffix)
         bg = tiles.get(tile_suffix)
         if not inner or not bg:
@@ -101,6 +121,11 @@ def main():
     print(f"Wrote {len(written)} logos to {LOGO_DIR.relative_to(ROOT)}/")
     for k in written:
         print(f"  ✓ {k}.svg")
+    if skipped:
+        print(
+            f"\nSkipped {len(skipped)} (managed by build_official_logos.py): "
+            + ", ".join(skipped)
+        )
     if missing:
         print("\nMissing (check tile markup or KEY_TO_TILE map):")
         for m in missing:

@@ -39,7 +39,10 @@ spinbin/
 │   ├── nts.py               # nts.live /api/v2/live + per-show tracklist
 │   └── xmplaylist.py        # Shared: SiriusXM channels via xmplaylist.com (Cloudflare!)
 ├── scripts/
-│   └── build_logos.py       # Extracts station-logo SVGs from index.html tiles
+│   ├── build_logos.py           # Tile-derived station-logo SVGs (typographic)
+│   └── build_official_logos.py  # Wraps real station artwork into station logos
+├── assets/
+│   └── official_logos/      # Source artwork for stations with bundled logos
 ├── tests/                   # pytest; one file per scraper + generate + xspf
 ├── pages/
 │   ├── index.html           # Station directory w/ sort/filter + Parachord import buttons
@@ -134,17 +137,44 @@ can show the station's tile in subscription/library views.
 - `generate.py` sets `playlist.image = f"{LOGO_BASE_URL}/{name}.svg"`
   for every station automatically — no per-entry config needed.
 
-**How logos are produced:**
-- The directory page (`pages/index.html`) renders each station's tile as
-  an inline `<svg>` (the wordmark) on a `.tile--{suffix}` background
-  (the brand color, sometimes a gradient).
-- `scripts/build_logos.py` parses the page, extracts each tile's inner
-  SVG and its background CSS, bakes the brand color/gradient into a
-  standalone SVG via `<rect>` + optional `<defs>` gradient, and writes
-  `pages/logos/{key}.svg`. This keeps the deployed logos visually
-  identical to the on-page tiles without manual duplication.
-- Run `python scripts/build_logos.py` after editing tile markup or
-  brand-color CSS variables. Commit the regenerated SVGs.
+**Logos come from two builders:**
+
+1. **Tile-derived (typographic) — `scripts/build_logos.py`**
+   - Parses `pages/index.html`, extracts each tile's inner `<svg>`
+     (wordmark) and `.tile--{suffix}` background CSS, bakes the brand
+     color/gradient into a standalone SVG, writes `pages/logos/{key}.svg`.
+   - Used for stations whose visual identity reads cleanly as a
+     system-font wordmark on a brand-color background (most stations).
+   - Tiny output (~600–900 bytes per SVG) and trivially regenerable.
+   - Run after editing tile markup or brand-color CSS vars.
+
+2. **Official artwork — `scripts/build_official_logos.py`**
+   - Stations whose real logos have a distinctive form we can't
+     approximate well (scripted wordmarks, illustrations, custom
+     typography) are bundled with their actual artwork instead.
+   - Source files live at `assets/official_logos/{key}_source.{ext}`
+     (outside `pages/` so they don't ship to the deploy).
+   - Per-station builder functions in this script handle each one's
+     specifics: SVG sources are inlined as nested `<svg>` (sometimes
+     with fill recoloring for dark/light contrast); raster sources
+     (PNG/JPG) are base64-embedded via `<image>`.
+   - Currently overrides: WFMU, Radio Paradise, NTS, Vintage Obscura,
+     Bagel Radio. Listed in `SKIP_OFFICIAL` in `build_logos.py` so the
+     tile-derived builder won't overwrite them.
+   - Run after adding a new override or editing source files.
+
+**Workflow when adding a new official-logo override:**
+1. Drop the source artwork at `assets/official_logos/{key}_source.{ext}`.
+2. Add a `build_{key}()` function in `scripts/build_official_logos.py`
+   and register it in `main()`'s `builders` list.
+3. Add `{key}` to `SKIP_OFFICIAL` in `scripts/build_logos.py`.
+4. Run `python scripts/build_official_logos.py` and commit the output.
+
+**Image rights note:** Official logos are bundled as editorial reference
+identifying the source station — same fair-use posture as a music blog
+showing an album cover next to a review. If a station ever objects, we
+fall back to the typographic version by removing the `SKIP_OFFICIAL`
+entry and re-running `build_logos.py`.
 
 **The deploy step:** `cp -R pages/. output/` (note: `-R` and the trailing
 `/.`) — copies subdirectories including `logos/`. Don't drop the `-R`.
