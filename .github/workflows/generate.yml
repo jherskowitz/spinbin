@@ -31,7 +31,7 @@ jobs:
           OUTPUT_DIR: output/playlists
 
       - name: Copy static pages
-        run: cp pages/* output/
+        run: cp -R pages/. output/
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4

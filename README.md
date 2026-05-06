@@ -28,8 +28,15 @@ Spinbin scrapes radio station and chart playlists, generates XSPF playlist files
 
 A GitHub Actions workflow runs once a day at 5am EST, fetches playlist data from source APIs, generates XSPF files, and publishes them to GitHub Pages.
 
+Each XSPF feed includes a top-level `<image>` pointing at the station's
+brand logo at `https://jherskowitz.github.io/spinbin/logos/{key}.svg`,
+so Parachord and any XSPF-aware client can show the station's tile in
+its subscriptions/library view alongside per-track album art.
+
 ## Adding New Stations
 
 1. Create a scraper in `scrapers/` with a `fetch_plays()` function returning `[{"title", "creator", "album", "image"}]`
 2. Add an entry to `PLAYLISTS` in `generate.py`
-3. Add tests, update `pages/index.html` and this README
+3. Add the station card to `pages/index.html` and a brand color + tile class
+4. Add the new key to `KEY_TO_TILE` in `scripts/build_logos.py`, then run `python scripts/build_logos.py` to generate `pages/logos/{key}.svg`
+5. Add tests and a row to this README

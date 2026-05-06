@@ -24,6 +24,22 @@ def test_generate_creates_xspf_file(mock_fetch):
 
 
 @patch("generate.kexp.fetch_plays")
+def test_generate_includes_station_logo_as_playlist_image(mock_fetch):
+    """Each XSPF should reference its station logo at the playlist level so
+    Parachord (and any XSPF-aware player) can show the station tile."""
+    mock_fetch.return_value = MOCK_TRACKS
+    with tempfile.TemporaryDirectory() as tmpdir:
+        generate_playlist("kexp", tmpdir)
+        content = open(os.path.join(tmpdir, "kexp-today.xspf"), "rb").read()
+
+        import xml.etree.ElementTree as ET
+        ns = {"x": "http://xspf.org/ns/0/"}
+        root = ET.fromstring(content)
+        image = root.findtext("x:image", default="", namespaces=ns)
+        assert image == "https://jherskowitz.github.io/spinbin/logos/kexp.svg"
+
+
+@patch("generate.kexp.fetch_plays")
 def test_generate_skips_empty_playlist(mock_fetch):
     mock_fetch.return_value = []
     with tempfile.TemporaryDirectory() as tmpdir:

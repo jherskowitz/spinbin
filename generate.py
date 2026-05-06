@@ -4,6 +4,13 @@ import re
 from datetime import datetime, timezone
 
 from xspf import Xspf
+
+# Base URL where deployed station-logo SVGs live. Each playlist key maps
+# 1:1 to `pages/logos/{key}.svg`, regenerated from the index page tiles
+# via `scripts/build_logos.py`. Set per-XSPF via `playlist.image` so that
+# Parachord (and any XSPF-aware player) can show the station tile in its
+# subscriptions list.
+LOGO_BASE_URL = "https://jherskowitz.github.io/spinbin/logos"
 from scrapers import (
     kexp,
     kcrw,
@@ -162,6 +169,7 @@ def generate_playlist(name, output_dir):
     playlist.title = config["title"]
     playlist.creator = config["creator"]
     playlist.info = config["info"]
+    playlist.image = f"{LOGO_BASE_URL}/{name}.svg"
     playlist.date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
 
     for track in tracks:

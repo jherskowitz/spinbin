@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256" height="256" role="img" aria-label="Spinbin station logo">
+  <defs><radialGradient id="g" cx="30%" cy="30%" r="75%"><stop offset="0%" stop-color="#b58a5c"/></radialGradient></defs>
+  <rect width="64" height="64" rx="14" ry="14" fill="url(#g)"/>
+  <text x="32" y="30" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="700" font-size="13" fill="#ffffff">BAGeL</text>
+                <line x1="18" y1="37" x2="46" y2="37" stroke="#ffffff" stroke-width="0.5" opacity="0.5"/>
+                <text x="32" y="50" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="700" font-size="12" fill="#ffffff">radio</text>
+                <text x="32" y="60" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-weight="500" font-size="5.5" letter-spacing="1.5" fill="#ffffff" opacity="0.7">SF · INTERNET</text>
+</svg>

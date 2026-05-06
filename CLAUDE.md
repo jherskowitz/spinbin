@@ -36,11 +36,15 @@ spinbin/
 │   ├── spinitron.py         # Shared: scrapes data-spin="{…}" attrs (parameterized!)
 │   ├── onlineradiobox.py    # Shared: /json/{country}/{slug}/playlist/{day} (parameterized!)
 │   ├── radioparadise.py     # api.radioparadise.com/api/nowplaying_list
-│   └── nts.py               # nts.live /api/v2/live + per-show tracklist
+│   ├── nts.py               # nts.live /api/v2/live + per-show tracklist
+│   └── xmplaylist.py        # Shared: SiriusXM channels via xmplaylist.com (Cloudflare!)
+├── scripts/
+│   └── build_logos.py       # Extracts station-logo SVGs from index.html tiles
 ├── tests/                   # pytest; one file per scraper + generate + xspf
 ├── pages/
 │   ├── index.html           # Station directory w/ sort/filter + Parachord import buttons
-│   └── favicon.svg
+│   ├── favicon.svg
+│   └── logos/               # Per-station logo SVGs; embedded as <playlist><image>
 ├── .github/workflows/
 │   └── generate.yml         # Daily cron → run tests → generate → deploy
 └── output/                  # Build artifact; gitignored
@@ -113,7 +117,37 @@ Then:
 4. Add brand color `--newstation` to the `:root` block
 5. Add `.tile--newstation { background: var(--newstation); }`
 6. Tag the card with `data-name`, `data-added` (YYYY-MM-DD), `data-genre`
-7. Add a row to `README.md`
+7. Add the new station to `KEY_TO_TILE` in `scripts/build_logos.py`, then run
+   `python scripts/build_logos.py` to generate `pages/logos/{key}.svg`
+8. Add a row to `README.md`
+
+## Station logos and the playlist `<image>`
+
+Every XSPF feed gets a top-level `<image>` element pointing at a
+station-branded logo SVG, so Parachord (and any other XSPF-aware client)
+can show the station's tile in subscription/library views.
+
+**The convention:**
+- Each playlist key in `PLAYLISTS` maps 1:1 to `pages/logos/{key}.svg`.
+- Logos are deployed alongside the playlists at
+  `https://jherskowitz.github.io/spinbin/logos/{key}.svg`.
+- `generate.py` sets `playlist.image = f"{LOGO_BASE_URL}/{name}.svg"`
+  for every station automatically — no per-entry config needed.
+
+**How logos are produced:**
+- The directory page (`pages/index.html`) renders each station's tile as
+  an inline `<svg>` (the wordmark) on a `.tile--{suffix}` background
+  (the brand color, sometimes a gradient).
+- `scripts/build_logos.py` parses the page, extracts each tile's inner
+  SVG and its background CSS, bakes the brand color/gradient into a
+  standalone SVG via `<rect>` + optional `<defs>` gradient, and writes
+  `pages/logos/{key}.svg`. This keeps the deployed logos visually
+  identical to the on-page tiles without manual duplication.
+- Run `python scripts/build_logos.py` after editing tile markup or
+  brand-color CSS variables. Commit the regenerated SVGs.
+
+**The deploy step:** `cp -R pages/. output/` (note: `-R` and the trailing
+`/.`) — copies subdirectories including `logos/`. Don't drop the `-R`.
 
 ## Known gotchas (read before touching)
 
