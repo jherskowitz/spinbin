@@ -2,8 +2,25 @@
   <title>Bagel Radio Rewind</title>
   <info>https://bagelradio.com/</info>
   <creator>bagelradio.com</creator>
-  <date>2026-05-06T11:45:44+00:00</date>
+  <image>https://jherskowitz.github.io/spinbin/logos/bagelradio.svg</image>
+  <date>2026-05-06T11:59:59+00:00</date>
   <trackList>
+    <track>
+      <title>Garbage In The Sand</title>
+      <creator>Soft Palms</creator>
+    </track>
+    <track>
+      <title>Immaterial</title>
+      <creator>LoneLady</creator>
+    </track>
+    <track>
+      <title>If Looks Could Kill</title>
+      <creator>The Kicks</creator>
+    </track>
+    <track>
+      <title>My Maudlin Career</title>
+      <creator>Camera Obscura</creator>
+    </track>
     <track>
       <title>Wet Dream</title>
       <creator>Wet Leg</creator>
@@ -1323,18 +1340,6 @@
     <track>
       <title>Hot Pants</title>
       <creator>The Wedding Present</creator>
-    </track>
-    <track>
-      <title>My Corner</title>
-      <creator>The Yum Yum Tree</creator>
-    </track>
-    <track>
-      <title>Scare Me</title>
-      <creator>New Beat Fund</creator>
-    </track>
-    <track>
-      <title>Hey Man, Nice Shot</title>
-      <creator>Filter</creator>
     </track>
   </trackList>
 </playlist>

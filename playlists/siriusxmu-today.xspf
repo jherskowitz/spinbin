@@ -2,8 +2,29 @@
   <title>SiriusXMU Rewind</title>
   <info>https://xmplaylist.com/station/siriusxmu</info>
   <creator>siriusxm.com</creator>
-  <date>2026-05-06T11:45:47+00:00</date>
+  <image>https://jherskowitz.github.io/spinbin/logos/siriusxmu.svg</image>
+  <date>2026-05-06T12:00:01+00:00</date>
   <trackList>
+    <track>
+      <title>11th Dimension</title>
+      <creator>Julian Casablancas</creator>
+      <image>https://i.scdn.co/image/ab67616d00001e02c7eae07761b35ca163d75ef0</image>
+    </track>
+    <track>
+      <title>Hey You</title>
+      <creator>The Belair Lip Bombs</creator>
+      <image>https://i.scdn.co/image/ab67616d00001e02c5727f75c3d24c93b65ee7bb</image>
+    </track>
+    <track>
+      <title>Kool Thing</title>
+      <creator>Sonic Youth</creator>
+      <image>https://i.scdn.co/image/ab67616d00001e02b690940b6544fb39bf3653d2</image>
+    </track>
+    <track>
+      <title>Site Unseen</title>
+      <creator>Courtney Barnett, Waxahatchee</creator>
+      <image>https://i.scdn.co/image/ab67616d00001e028ab65683491d56023cf47d1a</image>
+    </track>
     <track>
       <title>On Hold</title>
       <creator>XX</creator>
@@ -1421,26 +1442,6 @@
       <title>How To Rent A Room</title>
       <creator>Silver Jews</creator>
       <image>https://i.scdn.co/image/ab67616d00001e02d3be14a41b75c3fc08f8f11d</image>
-    </track>
-    <track>
-      <title>catch these fists</title>
-      <creator>Wet Leg</creator>
-      <image>https://i.scdn.co/image/ab67616d00001e027276514f962f1f63c41906b8</image>
-    </track>
-    <track>
-      <title>Reckoner</title>
-      <creator>Radiohead</creator>
-      <image>https://i.scdn.co/image/ab67616d00001e02de3c04b5fc750b68899b20a9</image>
-    </track>
-    <track>
-      <title>You got time and I got money</title>
-      <creator>Smerz</creator>
-      <image>https://i.scdn.co/image/ab67616d00001e023642c8a4afaee4d856a41792</image>
-    </track>
-    <track>
-      <title>Midnight City</title>
-      <creator>M83</creator>
-      <image>https://i.scdn.co/image/ab67616d00001e0290e9adff5f77dd1ff6d24e47</image>
     </track>
   </trackList>
 </playlist>

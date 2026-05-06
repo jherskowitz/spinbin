@@ -2,8 +2,19 @@
   <title>SomaFM Groove Salad Rewind</title>
   <info>https://somafm.com/groovesalad/</info>
   <creator>somafm.com</creator>
-  <date>2026-05-06T11:45:36+00:00</date>
+  <image>https://jherskowitz.github.io/spinbin/logos/somafm.svg</image>
+  <date>2026-05-06T11:59:51+00:00</date>
   <trackList>
+    <track>
+      <title>Drift (Dave Leck Remix)</title>
+      <creator>Thomas Lemmer &amp; Oine</creator>
+      <album>Drift Remixed</album>
+    </track>
+    <track>
+      <title>Venus DNA</title>
+      <creator>Fresh Moods</creator>
+      <album>Orfine No. 6</album>
+    </track>
     <track>
       <title>Life Flows</title>
       <creator>Eguana</creator>
@@ -78,16 +89,6 @@
       <title>Dreaming</title>
       <creator>Chris Coco</creator>
       <album>Next Wave</album>
-    </track>
-    <track>
-      <title>On night watch again</title>
-      <creator>Smooth Genestar</creator>
-      <album>As if music would not be a message (Radio Edits)</album>
-    </track>
-    <track>
-      <title>Phatic Communion</title>
-      <creator>Steve Cobby</creator>
-      <album>Everliving</album>
     </track>
   </trackList>
 </playlist>

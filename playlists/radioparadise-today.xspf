@@ -2,8 +2,201 @@
   <title>Radio Paradise Rewind</title>
   <info>https://radioparadise.com/</info>
   <creator>radioparadise.com</creator>
-  <date>2026-05-06T11:45:37+00:00</date>
+  <image>https://jherskowitz.github.io/spinbin/logos/radioparadise.svg</image>
+  <date>2026-05-06T11:59:52+00:00</date>
   <trackList>
+    <track>
+      <title>Beep Street</title>
+      <creator>autechre</creator>
+      <image>https://img.radioparadise.com/covers/l/25660.jpg</image>
+      <album>Squarepusher</album>
+    </track>
+    <track>
+      <title>Ternuras</title>
+      <creator>Gipsy Kings</creator>
+      <image>https://img.radioparadise.com/covers/l/8471.jpg</image>
+      <album>este mundo</album>
+    </track>
+    <track>
+      <title>Takamba</title>
+      <creator>Habib Koité &amp; Bamada</creator>
+      <image>https://img.radioparadise.com/covers/l/12311.jpg</image>
+      <album>Baro</album>
+    </track>
+    <track>
+      <title>Niemilosc</title>
+      <creator>Mikromusic</creator>
+      <image>https://img.radioparadise.com/covers/l/26369.jpg</image>
+      <album>add</album>
+    </track>
+    <track>
+      <title>I Am The Resurrection</title>
+      <creator>The Stone Roses</creator>
+      <image>https://img.radioparadise.com/covers/l/8166.jpg</image>
+      <album>The Stone Roses</album>
+    </track>
+    <track>
+      <title>Arms of Love</title>
+      <creator>Charlie Robison</creator>
+      <image>https://img.radioparadise.com/covers/l/22495.jpg</image>
+      <album>Life of the Party</album>
+    </track>
+    <track>
+      <title>Into The Void</title>
+      <creator>Jazz Sabbath</creator>
+      <image>https://img.radioparadise.com/covers/l/24805.jpg</image>
+      <album>The 1968 Tapes</album>
+    </track>
+    <track>
+      <title>Last Night Of The World</title>
+      <creator>Bruce Cockburn</creator>
+      <image>https://img.radioparadise.com/covers/l/9083.jpg</image>
+      <album>Breakfast in New Orleans, Dinner in Timbuktu</album>
+    </track>
+    <track>
+      <title>Another Day</title>
+      <creator>Air</creator>
+      <image>https://img.radioparadise.com/covers/l/12707.jpg</image>
+      <album>Talkie Walkie</album>
+    </track>
+    <track>
+      <title>Every Other Freckle</title>
+      <creator>alt-J</creator>
+      <image>https://img.radioparadise.com/covers/l/7759.jpg</image>
+      <album>Live at Red Rocks</album>
+    </track>
+    <track>
+      <title>Your Favorite Thing</title>
+      <creator>Sugar</creator>
+      <image>https://img.radioparadise.com/covers/l/25616.jpg</image>
+      <album>File Under: Easy Listening</album>
+    </track>
+    <track>
+      <title>Without Your Light</title>
+      <creator>Captain Wilberforce</creator>
+      <image>https://img.radioparadise.com/covers/l/27456.jpg</image>
+      <album>Another World. Another Life. Another Time.</album>
+    </track>
+    <track>
+      <title>Solitary Man</title>
+      <creator>Johnny Cash</creator>
+      <image>https://img.radioparadise.com/covers/l/23059.jpg</image>
+      <album>American III: Solitary Man</album>
+    </track>
+    <track>
+      <title>Nimbus, Part 1</title>
+      <creator>Glass Museum</creator>
+      <image>https://img.radioparadise.com/covers/l/21847.jpg</image>
+      <album>Reykjavik</album>
+    </track>
+    <track>
+      <title>Sell The Farm/Something About The Rain (feat. Ben Harper)</title>
+      <creator>Another Glory</creator>
+      <image>https://img.radioparadise.com/covers/l/19490.jpg</image>
+      <album>Another Glory</album>
+    </track>
+    <track>
+      <title>Wildflowers</title>
+      <creator>Tom Petty</creator>
+      <image>https://img.radioparadise.com/covers/l/11929.jpg</image>
+      <album>Wildflowers</album>
+    </track>
+    <track>
+      <title>All in your palms</title>
+      <creator>Shingo Suzuki</creator>
+      <image>https://img.radioparadise.com/covers/l/20428.jpg</image>
+      <album>Liquid Yellow Portraits</album>
+    </track>
+    <track>
+      <title>SN 2004dj</title>
+      <creator>Rule 42</creator>
+      <image>https://img.radioparadise.com/covers/l/19335.jpg</image>
+      <album>Ambient Explorations 01</album>
+    </track>
+    <track>
+      <title>Harlem Nocturne</title>
+      <creator>Danny Gatton</creator>
+      <image>https://img.radioparadise.com/covers/l/11733.jpg</image>
+      <album>Cruisin' Deuces</album>
+    </track>
+    <track>
+      <title>Dance With You</title>
+      <creator>Mose Wilson</creator>
+      <image>https://img.radioparadise.com/covers/l/23576.jpg</image>
+      <album>That's Love</album>
+    </track>
+    <track>
+      <title>Spit of Love</title>
+      <creator>Bonnie Raitt</creator>
+      <image>https://img.radioparadise.com/covers/l/10032.jpg</image>
+      <album>Fundamental</album>
+    </track>
+    <track>
+      <title>Underwaterfall</title>
+      <creator>Bearcubs</creator>
+      <image>https://img.radioparadise.com/covers/l/25577.jpg</image>
+      <album>Underwaterfall</album>
+    </track>
+    <track>
+      <title>Cirrus</title>
+      <creator>Bonobo</creator>
+      <image>https://img.radioparadise.com/covers/l/15272.jpg</image>
+      <album>The North Borders</album>
+    </track>
+    <track>
+      <title>In A Daydream</title>
+      <creator>The Freddy Jones Band</creator>
+      <image>https://img.radioparadise.com/covers/l/7025.jpg</image>
+      <album>The Freddy Jones Band</album>
+    </track>
+    <track>
+      <title>Blue Lips</title>
+      <creator>Regina Spektor</creator>
+      <image>https://img.radioparadise.com/covers/l/11660.jpg</image>
+      <album>Far</album>
+    </track>
+    <track>
+      <title>Hang Me Up To Dry</title>
+      <creator>Cold War Kids</creator>
+      <image>https://img.radioparadise.com/covers/l/13977.jpg</image>
+      <album>Up In Rags</album>
+    </track>
+    <track>
+      <title>Be Cool</title>
+      <creator>Eddie Henderson</creator>
+      <image>https://img.radioparadise.com/covers/l/27420.jpg</image>
+      <album>Be Cool</album>
+    </track>
+    <track>
+      <title>Full Moon Rising</title>
+      <creator>Neil Halstead</creator>
+      <image>https://img.radioparadise.com/covers/l/8588.jpg</image>
+      <album>Palindrome Hunches</album>
+    </track>
+    <track>
+      <title>Dance With Me</title>
+      <creator>Los Lonely Boys</creator>
+      <image>https://img.radioparadise.com/covers/l/20232.jpg</image>
+      <album>Resurrection</album>
+    </track>
+    <track>
+      <title>Packing Blankets</title>
+      <creator>Eels</creator>
+      <image>https://img.radioparadise.com/covers/l/6954.jpg</image>
+      <album>Daisies of the Galaxy</album>
+    </track>
+    <track>
+      <title>The Pearl</title>
+      <creator>The Veils</creator>
+      <image>https://img.radioparadise.com/covers/l/12018.jpg</image>
+      <album>Time Stays, We Go</album>
+    </track>
+    <track>
+      <title>Hold On</title>
+      <creator>Spoken Bird</creator>
+      <image>https://img.radioparadise.com/covers/l/25663.jpg</image>
+      <album>Hold On</album>
+    </track>
     <track>
       <title>Sony romantic electro wave</title>
       <creator>Yoshinori Sunahara</creator>
@@ -345,198 +538,6 @@
       <creator>James McMurtry</creator>
       <image>https://img.radioparadise.com/covers/l/9614.jpg</image>
       <album>Where'd You Hide The Body</album>
-    </track>
-    <track>
-      <title>Spent Money</title>
-      <creator>Roy Rogers</creator>
-      <image>https://img.radioparadise.com/covers/l/28265.jpg</image>
-      <album>Slide Zone</album>
-    </track>
-    <track>
-      <title>Desert Rose</title>
-      <creator>BABON</creator>
-      <image>https://img.radioparadise.com/covers/l/23719.jpg</image>
-      <album>Desert Rose</album>
-    </track>
-    <track>
-      <title>Champion Sound</title>
-      <creator>Jaylib, Madlib, J Dilla</creator>
-      <image>https://img.radioparadise.com/covers/l/25528.jpg</image>
-      <album>Champion Sound</album>
-    </track>
-    <track>
-      <title>Tin Girl</title>
-      <creator>Ashley Henry</creator>
-      <image>https://img.radioparadise.com/covers/l/20427.jpg</image>
-      <album>Who We Are</album>
-    </track>
-    <track>
-      <title>Dream Scapes</title>
-      <creator>Steve Reid</creator>
-      <image>https://img.radioparadise.com/covers/l/17887.jpg</image>
-      <album>Dream Scapes</album>
-    </track>
-    <track>
-      <title>Blue Lips</title>
-      <creator>Regina Spektor</creator>
-      <image>https://img.radioparadise.com/covers/l/11660.jpg</image>
-      <album>Far</album>
-    </track>
-    <track>
-      <title>Latyrx</title>
-      <creator>The Quiet North</creator>
-      <image>https://img.radioparadise.com/covers/l/25527.jpg</image>
-      <album>SoleSides Greatest Bumps</album>
-    </track>
-    <track>
-      <title>Miss You</title>
-      <creator>Jamie Hartford</creator>
-      <image>https://img.radioparadise.com/covers/l/22543.jpg</image>
-      <album>What About Yes</album>
-    </track>
-    <track>
-      <title>Satelite</title>
-      <creator>joaquin vanrafelghem</creator>
-      <image>https://img.radioparadise.com/covers/l/22392.jpg</image>
-      <album>Expresso Magnolia</album>
-    </track>
-    <track>
-      <title>Lady</title>
-      <creator>Ezra Collective</creator>
-      <image>https://img.radioparadise.com/covers/l/19704.jpg</image>
-      <album>Lady</album>
-    </track>
-    <track>
-      <title>Bron-y-aur Stomp</title>
-      <creator>Led Zeppelin</creator>
-      <image>https://img.radioparadise.com/covers/l/8396.jpg</image>
-      <album>III</album>
-    </track>
-    <track>
-      <title>Packing Blankets</title>
-      <creator>Eels</creator>
-      <image>https://img.radioparadise.com/covers/l/6954.jpg</image>
-      <album>Daisies of the Galaxy</album>
-    </track>
-    <track>
-      <title>Doctor Congo</title>
-      <creator>Black Gold 360</creator>
-      <image>https://img.radioparadise.com/covers/l/22717.jpg</image>
-      <album>At The Still Point Of The Turning World</album>
-    </track>
-    <track>
-      <title>Do You Want My Job</title>
-      <creator>Little Village</creator>
-      <image>https://img.radioparadise.com/covers/l/7516.jpg</image>
-      <album>Little Village</album>
-    </track>
-    <track>
-      <title>Heart-Shaped Box</title>
-      <creator>Amber Mark</creator>
-      <image>https://img.radioparadise.com/covers/l/23786.jpg</image>
-      <album>Heart-Shaped Box - Single</album>
-    </track>
-    <track>
-      <title>Mansion Door</title>
-      <creator>Shakey Graves</creator>
-      <image>https://img.radioparadise.com/covers/l/18843.jpg</image>
-      <album>Can’t Wake Up</album>
-    </track>
-    <track>
-      <title>Mirror In The Bathroom</title>
-      <creator>The Beat</creator>
-      <image>https://img.radioparadise.com/covers/l/15664.jpg</image>
-      <album>I Just Can’t Stop It</album>
-    </track>
-    <track>
-      <title>Nashville Never Wanted Me</title>
-      <creator>Wylie &amp; The Wild West</creator>
-      <image>https://img.radioparadise.com/covers/l/22402.jpg</image>
-      <album>2000 Miles from Nashville</album>
-    </track>
-    <track>
-      <title>Embryonic Journey</title>
-      <creator>Jefferson Airplane</creator>
-      <image>https://img.radioparadise.com/covers/l/8300.jpg</image>
-      <album>Surrealistic Pillow</album>
-    </track>
-    <track>
-      <title>Wichita Skyline</title>
-      <creator>Shawn Colvin</creator>
-      <image>https://img.radioparadise.com/covers/l/12353.jpg</image>
-      <album>A Few Small Repairs</album>
-    </track>
-    <track>
-      <title>I Close My Eyes</title>
-      <creator>Shivaree</creator>
-      <image>https://img.radioparadise.com/covers/l/7446.jpg</image>
-      <album>Who's Got Trouble?</album>
-    </track>
-    <track>
-      <title>Take Too Much</title>
-      <creator>The Droptines</creator>
-      <image>https://img.radioparadise.com/covers/l/28022.jpg</image>
-      <album>Drought Flower</album>
-    </track>
-    <track>
-      <title>Get You The Moon</title>
-      <creator>Kina, Snøw</creator>
-      <image>https://img.radioparadise.com/covers/l/25543.jpg</image>
-      <album>Get You The Moon</album>
-    </track>
-    <track>
-      <title>A Lovers Melody (Live)</title>
-      <creator>Insxght</creator>
-      <image>https://img.radioparadise.com/covers/l/22387.jpg</image>
-      <album>A Night with INSXGHT (Live in the Studio)</album>
-    </track>
-    <track>
-      <title>Supermassive Black Hole</title>
-      <creator>Muse</creator>
-      <image>https://img.radioparadise.com/covers/l/13158.jpg</image>
-      <album>Black Holes And Revelations</album>
-    </track>
-    <track>
-      <title>Long &amp; Lost</title>
-      <creator>Florence + The Machine</creator>
-      <image>https://img.radioparadise.com/covers/l/15534.jpg</image>
-      <album>How Big, How Blue, How Beautiful</album>
-    </track>
-    <track>
-      <title>Tihilele</title>
-      <creator>Les Filles de Illighadad</creator>
-      <image>https://img.radioparadise.com/covers/l/26776.jpg</image>
-      <album>Eghass Malan</album>
-    </track>
-    <track>
-      <title>Jackhammer Rock</title>
-      <creator>Joe Ely</creator>
-      <image>https://img.radioparadise.com/covers/l/20242.jpg</image>
-      <album>Driven to Drive</album>
-    </track>
-    <track>
-      <title>Buzzin Fly</title>
-      <creator>Tim Buckley</creator>
-      <image>https://img.radioparadise.com/covers/l/7372.jpg</image>
-      <album>Happy Sad</album>
-    </track>
-    <track>
-      <title>Gild the Lily</title>
-      <creator>Billy Strings</creator>
-      <image>https://img.radioparadise.com/covers/l/19429.jpg</image>
-      <album>Highway Prayers</album>
-    </track>
-    <track>
-      <title>Nursery Rhyme Of Innocence And Experience</title>
-      <creator>Natalie Merchant</creator>
-      <image>https://img.radioparadise.com/covers/l/9309.jpg</image>
-      <album>Leave Your Sleep</album>
-    </track>
-    <track>
-      <title>55 Cancri e</title>
-      <creator>Rule 42</creator>
-      <image>https://img.radioparadise.com/covers/l/19351.jpg</image>
-      <album>Ambient Explorations 13</album>
     </track>
   </trackList>
 </playlist>

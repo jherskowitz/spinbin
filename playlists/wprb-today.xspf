@@ -2,8 +2,17 @@
   <title>WPRB Rewind</title>
   <info>https://spinitron.com/WPRB/</info>
   <creator>wprb.com</creator>
-  <date>2026-05-06T11:45:38+00:00</date>
+  <image>https://jherskowitz.github.io/spinbin/logos/wprb.svg</image>
+  <date>2026-05-06T11:59:53+00:00</date>
   <trackList>
+    <track>
+      <title>Piano Quintet</title>
+      <creator>Bartłomiej Kominek, piano, Camerata Quartet</creator>
+    </track>
+    <track>
+      <title>Veni Consolator</title>
+      <creator>Marta Boberska, soprano, Musicae Antiquae Collegium Warsoviense, Lilianna Stawarz, conductor</creator>
+    </track>
     <track>
       <title>Eight Metal Strings</title>
       <creator>Martine Sikkenk, mandolin, Asko/Schonberg, Etienne Siebens, conductor</creator>

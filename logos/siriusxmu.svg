@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256" height="256" role="img" aria-label="Spinbin station logo">
+  <defs><linearGradient id="g" x1="0%" y1="100%" x2="0%" y2="0%"><stop offset="0%" stop-color="#2a2a2a"/></linearGradient></defs>
+  <rect width="64" height="64" rx="14" ry="14" fill="url(#g)"/>
+  <text x="32" y="30" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="800" font-size="9" letter-spacing="2" fill="#ffffff" opacity="0.7">SIRIUSXM</text>
+                <text x="32" y="50" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="900" font-size="22" letter-spacing="2" fill="#ffffff">XMU</text>
+</svg>

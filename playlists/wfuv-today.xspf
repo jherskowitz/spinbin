@@ -2,8 +2,21 @@
   <title>WFUV Rewind</title>
   <info>https://wfuv.org/playlist</info>
   <creator>wfuv.org</creator>
-  <date>2026-05-06T11:45:36+00:00</date>
+  <image>https://jherskowitz.github.io/spinbin/logos/wfuv.svg</image>
+  <date>2026-05-06T11:59:50+00:00</date>
   <trackList>
+    <track>
+      <title>Tonight</title>
+      <creator>Phoenix</creator>
+    </track>
+    <track>
+      <title>Growing Pains</title>
+      <creator>Blessing Jolie</creator>
+    </track>
+    <track>
+      <title>Now I'm In It</title>
+      <creator>Haim</creator>
+    </track>
     <track>
       <title>You Got Lucky</title>
       <creator>Tom Petty And The Heartbreakers</creator>
@@ -71,18 +84,6 @@
     <track>
       <title>Malibu</title>
       <creator>Hole</creator>
-    </track>
-    <track>
-      <title>Come Undone</title>
-      <creator>Duran Duran</creator>
-    </track>
-    <track>
-      <title>Amsterdam</title>
-      <creator>Guster</creator>
-    </track>
-    <track>
-      <title>Thank You (Falettinme Be Mice Elf Agin)</title>
-      <creator>Sly and The Family Stone</creator>
     </track>
   </trackList>
 </playlist>

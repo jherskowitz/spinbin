@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256" height="256" role="img" aria-label="Spinbin station logo">
+  
+  <rect width="64" height="64" rx="14" ry="14" fill="#FF6600"/>
+  <text x="32" y="36" text-anchor="middle" font-family="-apple-system, Helvetica Neue, sans-serif" font-weight="800" font-size="16" letter-spacing="1" fill="#ffffff">WPRB</text>
+                <text x="32" y="50" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-weight="500" font-size="7" letter-spacing="1.5" fill="#ffffff" opacity="0.8">103.3 FM</text>
+</svg>

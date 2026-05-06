@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256" height="256" role="img" aria-label="Spinbin station logo">
+  
+  <rect width="64" height="64" rx="14" ry="14" fill="#000000"/>
+  <text x="32" y="40" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="900" font-size="22" letter-spacing="2" fill="#ffffff">NTS</text>
+                <line x1="16" y1="47" x2="48" y2="47" stroke="#ffffff" stroke-width="0.5" opacity="0.45"/>
+                <text x="32" y="55" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="700" font-size="5" letter-spacing="2" fill="#ffffff" opacity="0.75">DON'T ASSUME</text>
+</svg>

@@ -2,8 +2,36 @@
   <title>KEXP Rewind</title>
   <info>https://www.kexp.org/playlist/</info>
   <creator>kexp.org</creator>
-  <date>2026-05-06T11:45:31+00:00</date>
+  <image>https://jherskowitz.github.io/spinbin/logos/kexp.svg</image>
+  <date>2026-05-06T11:59:46+00:00</date>
   <trackList>
+    <track>
+      <title>Bust the Bus Stop</title>
+      <creator>Brooklyn Funk Essentials</creator>
+      <image>https://dn710406.ca.archive.org/0/items/mbid-246cac07-f8be-4720-884b-6f3f1aafe477/mbid-246cac07-f8be-4720-884b-6f3f1aafe477-44255229327_thumb500.jpg</image>
+      <album>Bust The Bus Stop</album>
+    </track>
+    <track>
+      <title>All For The Money (Instrumental)</title>
+      <creator>MC Eiht</creator>
+      <album>All For The Money</album>
+    </track>
+    <track>
+      <title>Water &amp; Sand</title>
+      <creator>Jane Handcock, Red Lotus</creator>
+    </track>
+    <track>
+      <title>Cállate</title>
+      <creator>Dua Saleh</creator>
+      <image>https://dn710109.ca.archive.org/0/items/mbid-ea6f46cd-ddcc-4b9c-84e2-e9b3f19f9df9/mbid-ea6f46cd-ddcc-4b9c-84e2-e9b3f19f9df9-44263674331_thumb500.jpg</image>
+      <album>Of Earth &amp; Wires</album>
+    </track>
+    <track>
+      <title>Say It Ain’t So - Recorded At Electric Lady Studios</title>
+      <creator>Japanese Breakfast</creator>
+      <image>https://coverartarchive.org/release/8bfb1a19-e35e-49bc-99ff-6ca5b06a1c91/39526972732-500.jpg</image>
+      <album>Live At Electric Lady</album>
+    </track>
     <track>
       <title>Spottieottiedopaliscious</title>
       <creator>Champagne Bubblebath</creator>
@@ -1910,23 +1938,6 @@
       <creator>Avalon Emerson</creator>
       <image>https://ia800101.us.archive.org/33/items/mbid-91bebc72-fd6f-4278-a400-dd87807fe46c/mbid-91bebc72-fd6f-4278-a400-dd87807fe46c-44148050339_thumb500.jpg</image>
       <album>Written into Changes</album>
-    </track>
-    <track>
-      <title>June Hymn</title>
-      <creator>The Decemberists</creator>
-      <image>https://dn711001.ca.archive.org/0/items/mbid-c8c8b00d-c6c9-31b1-a0f7-c343bae8e61c/mbid-c8c8b00d-c6c9-31b1-a0f7-c343bae8e61c-17724869792_thumb500.jpg</image>
-      <album>The King Is Dead</album>
-    </track>
-    <track>
-      <title>3rd of June</title>
-      <creator>Yello</creator>
-      <image>https://dn710007.ca.archive.org/0/items/mbid-03420556-b493-31b9-9e17-7313cce17bcd/mbid-03420556-b493-31b9-9e17-7313cce17bcd-32202670776_thumb500.jpg</image>
-      <album>Flag</album>
-    </track>
-    <track>
-      <title>June 2001</title>
-      <creator>Ernesto</creator>
-      <album>A New Blues</album>
     </track>
   </trackList>
 </playlist>
