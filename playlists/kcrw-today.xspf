@@ -3,176 +3,236 @@
   <info>https://www.kcrw.com/playlists?channel=Simulcast</info>
   <creator>kcrw.com</creator>
   <image>https://jherskowitz.github.io/spinbin/logos/kcrw.svg</image>
-  <date>2026-07-16T11:29:35+00:00</date>
+  <date>2026-07-17T11:18:18+00:00</date>
   <trackList>
     <track>
-      <title>Didi</title>
-      <creator>Animal Invisível</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b273e8170c596d050f3860daa9d9</image>
-      <album>Animal Invisível</album>
+      <title>I Think of You</title>
+      <creator>Little Annie</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b2734a700878fa2cb32922226403</image>
+      <album>Short and Sweet</album>
     </track>
     <track>
-      <title>Nobody Speak Part 2 (Feat. Run the Jewels, Denzel Curry &amp; TiaCorine)</title>
-      <creator>DJ Shadow</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b2739e87b8989a17726cdbfdd1bc</image>
-      <album>Nobody Speak Part 2</album>
+      <title>Movements (Chapter III)</title>
+      <creator>Leon Vynehall</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273db1083f417644e3e1cf47543</image>
+      <album>Nothing Is Still</album>
     </track>
     <track>
-      <title>Take Me to Tokyo</title>
-      <creator>Cannons</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b2732d7ef73d524017e6b70e20a9</image>
-      <album>Everything Glows</album>
+      <title>Someone Great</title>
+      <creator>LCD Soundsystem</creator>
+      <image>https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/82/99/00/829900af-5e26-4b70-9bf8-a0989286a03a/source/100x100bb.jpg</image>
+      <album>Sound of Silver</album>
     </track>
     <track>
-      <title>The Hurting Truth</title>
-      <creator>Kelly Finnigan</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b27330def94b9c3397c6cebe4284</image>
-      <album>The Hurting Truth</album>
+      <title>Love Is the Drug (Feat. Cha Cha)</title>
+      <creator>Kode9 + The Spaceape</creator>
+      <album>Otherman</album>
     </track>
     <track>
-      <title>Transmission (Live Les Bains Douches, Paris 18th December 1979)</title>
+      <title>Tea Leaf Dancers</title>
+      <creator>Flying Lotus</creator>
+      <album>Reset</album>
+    </track>
+    <track>
+      <title>Next to You (Feat. The Alchemist)</title>
+      <creator>Erykah Badu</creator>
+      <album>Next to You</album>
+    </track>
+    <track>
+      <title>Floette (John Glacier Mix)</title>
+      <creator>Arlo Parks</creator>
+      <album>[no album]</album>
+    </track>
+    <track>
+      <title>Walking Wounded (Omni Trio remix)</title>
+      <creator>Everything but the Girl</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273f6023678dc4e8d5c25cba500</image>
+      <album>Walking Wounded</album>
+    </track>
+    <track>
+      <title>In Your Room (The Jeep Rock mix)</title>
+      <creator>Depeche Mode</creator>
+      <album>In Your Room</album>
+    </track>
+    <track>
+      <title>New Romantic</title>
+      <creator>Andy Stott</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273a4ebb3151247c10029b3c71a</image>
+      <album>Too Many Voices</album>
+    </track>
+    <track>
+      <title>Be Honest</title>
+      <creator>A. K. Paul</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b27313f2993b7189abd02cbac822</image>
+      <album>Be Honest</album>
+    </track>
+    <track>
+      <title>Never Want to Lose You</title>
+      <creator>Virgo</creator>
+      <image>https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6c/56/30/6c56305e-e31a-486c-3bf3-1fe8b7a001a0/889845526629.jpg/100x100bb.jpg</image>
+      <album>Virgo</album>
+    </track>
+    <track>
+      <title>Olbass All Bass 004 (140 BPM)</title>
+      <creator>Vegyn</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273496831df0852e0eff0e7ab59</image>
+      <album>Text While Driving If You Want to Meet God!</album>
+    </track>
+    <track>
+      <title>Gospel for a New Century</title>
+      <creator>Yves Tumor</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273864df9b11758a5dba7f3c483</image>
+      <album>Ultra Mono</album>
+    </track>
+    <track>
+      <title>fajas</title>
+      <creator>sparklmami</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273d7181c8d7f4adbf3b3b959c6</image>
+      <album>in this body</album>
+    </track>
+    <track>
+      <title>Realization</title>
+      <creator>Frankie and the Witch Fingers</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273c8df62bf0b1089e4bb995316</image>
+      <album>ZAM</album>
+    </track>
+    <track>
+      <title>Paid</title>
+      <creator>Primitive Ring</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b27359de87faeb72e96e3e718709</image>
+      <album>Primitive Ring</album>
+    </track>
+    <track>
+      <title>Los Ojos Del Cóndor</title>
+      <creator>Hermanos Gutiérrez</creator>
+      <image>https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/92/e9/3592e99e-0204-b879-fa66-da7de95ff113/26CRGIM54925.rgb.jpg/100x100bb.jpg</image>
+      <album>Los Ojos Del Cóndor</album>
+    </track>
+    <track>
+      <title>Jesus Never Had No Porno</title>
+      <creator>Alex Cameron</creator>
+      <image>https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/5f/20/cd5f20d4-cf63-981a-73ee-d9f5870538b6/5063960172311_cover.jpg/100x100bb.jpg</image>
+      <album>Late to Set</album>
+    </track>
+    <track>
+      <title>Lilly</title>
+      <creator>Toro Y Moi</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273808c57ba4b6ce854d9bcee94</image>
+      <album>What For?</album>
+    </track>
+    <track>
+      <title>Teardrop</title>
+      <creator>Deep Sea Diver</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273c35b4db44fc57a68d6c289ef</image>
+      <album>Teardrop</album>
+    </track>
+    <track>
+      <title>Running to Nowhere</title>
+      <creator>Ty Segall</creator>
+      <image>https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/66/49/ce66499d-b120-92e4-f015-5776a7fa4d7a/781484098027.png/100x100bb.jpg</image>
+      <album>Chrome</album>
+    </track>
+    <track>
+      <title>There's Something Here …</title>
+      <creator>Nate Mercereau</creator>
+      <image>https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5a/aa/69/5aaa6998-0007-9bd5-ab4f-2717be9e7491/823375194323_Cover.jpg/100x100bb.jpg</image>
+      <album>Fantastic Thoughts</album>
+    </track>
+    <track>
+      <title>It's Enough</title>
+      <creator>Atmos Bloom</creator>
+      <album>Everythingness</album>
+    </track>
+    <track>
+      <title>Nervous As Hell</title>
+      <creator>Soft Palms</creator>
+      <image>https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/0c/e0/6c0ce0b7-74d9-be45-614a-659f5a2d6a99/123481.jpg/100x100bb.jpg</image>
+      <album>In Echo</album>
+    </track>
+    <track>
+      <title>Lost In The Sauce</title>
+      <creator>Big Fun</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273a93b0c9afa0aa792c17e108b</image>
+      <album>Deep Jock</album>
+    </track>
+    <track>
+      <title>Ceremony</title>
+      <creator>New Order</creator>
+      <album>Power, Corruption &amp; Lies</album>
+    </track>
+    <track>
+      <title>Interzone</title>
       <creator>Joy Division</creator>
-      <album>CD6: Les Bains Douches, Paris</album>
+      <album>Unknown Pleasures</album>
     </track>
     <track>
-      <title>La que puede, puede</title>
-      <creator>Ca7riel &amp; Paco Amoroso</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b27340349e09eb8cc8cac72f7959</image>
-      <album>Baño María</album>
+      <title>Me and You</title>
+      <creator>Bonobo</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273b7c5fb838d575e7a730d10bd</image>
+      <album>Fire on the Water / Drift</album>
     </track>
     <track>
-      <title>Betrayal</title>
+      <title>Several Got Away</title>
+      <creator>Dinosaur Jr.</creator>
+      <image>https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c1/85/b5/c185b583-1c72-c5b0-da34-fca0fc395f9b/66481.jpg/100x100bb.jpg</image>
+      <album>There Near</album>
+    </track>
+    <track>
+      <title>Into the Sky</title>
+      <creator>LA Priest</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b2732904ce213d9f2f46e9a9f0d4</image>
+      <album>Into The Sky</album>
+    </track>
+    <track>
+      <title>School</title>
       <creator>Madonna</creator>
       <image>https://i.scdn.co/image/ab67616d0000b2732e45924aa55275c64280cada</image>
       <album>CONFESSIONS II</album>
     </track>
     <track>
-      <title>Conspiracy</title>
-      <creator>Saul Williams</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b273ab313b390a47bef45cdfe054</image>
-      <album>Conspiracy</album>
+      <title>Level 5</title>
+      <creator>King Gizzard &amp; The Lizard Wizard</creator>
+      <album>Level 5</album>
     </track>
     <track>
-      <title>Hanging On</title>
-      <creator>Brainstory</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b273778ffc317b093728d509ffa2</image>
-      <album>Sounds Good</album>
+      <title>We're Gonna Be Okay</title>
+      <creator>Dari Bay</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b2737fec4065d0bcdb4e0c72c934</image>
+      <album>Surprise Wish</album>
     </track>
     <track>
-      <title>Be A Lover (Feat. The Cavemen. &amp; Tim Lyre)</title>
-      <creator>Jembaa Groove</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b27322b38cd4e13171c0b99ce032</image>
-      <album>Be A Lover</album>
+      <title>Cold Rain and Snow (Live at Fillmore Auditorium, San Francisco, CA 7/3/66)</title>
+      <creator>Grateful Dead</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273e8e5e0b1966623d1c0702048</image>
+      <album>Cream Puff War (Live at Fillmore Auditorium, San Francisco, CA 7/3/66)</album>
     </track>
     <track>
-      <title>How Lonely Is Lonely</title>
-      <creator>Thee Sinseers</creator>
-      <album>Love Stories</album>
+      <title>working class musicians</title>
+      <creator>aja monet</creator>
+      <album>the color of rain</album>
     </track>
     <track>
-      <title>Stay Ready (Feat. Yaya Bey)</title>
-      <creator>DJ Harrison</creator>
-      <album>ElectroSoul</album>
+      <title>Creación del Universo</title>
+      <creator>Karen y Los Remedios</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273339127034c082ffab0c5ec4d</image>
+      <album>Creación del Universo</album>
     </track>
     <track>
-      <title>I Feel Hope Coming</title>
-      <creator>Alabama Shakes</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b2733c2f4ded366d471503e5abad</image>
-      <album>I Feel Hope Coming</album>
+      <title>Camouflage</title>
+      <creator>Babe Rainbow</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273727dfede767d13b22241bfd2</image>
+      <album>Acid and Honey</album>
     </track>
     <track>
-      <title>Come As You Are</title>
-      <creator>Web Web</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b273ad7e0a42cf003b5e6c3f4825</image>
-      <album>Kover Kover</album>
+      <title>Sexy</title>
+      <creator>MFSB</creator>
+      <album>Universal Love</album>
     </track>
     <track>
-      <title>Cap in Hand</title>
-      <creator>EELS</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b273d6a18b06203c68dc41cba270</image>
-      <album>Cap in Hand</album>
-    </track>
-    <track>
-      <title>L.E.S. Artistes</title>
-      <creator>Santigold</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b27383272a60f67c2ef65f5c2c5b</image>
-      <album>Santigold</album>
-    </track>
-    <track>
-      <title>Moshpit</title>
-      <creator>Ibeyi</creator>
-      <image>https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/52/83/94/528394bc-6da8-6c5e-5b34-a2eba800e6bf/820233185707.jpg/100x100bb.jpg</image>
-      <album>Offering</album>
-    </track>
-    <track>
-      <title>Cairo FM</title>
-      <creator>Alewya</creator>
-      <image>https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/d0/0d/bcd00d6a-0eaa-b22a-937a-8fa701ce4e26/5056556175346_cover.jpg/100x100bb.jpg</image>
-      <album>Zero</album>
-    </track>
-    <track>
-      <title>Run Free</title>
-      <creator>Soulwax</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b27351215283808d4cb5f3534f95</image>
-      <album>All Systems Are Lying</album>
-    </track>
-    <track>
-      <title>Los Ojos Del Cóndor</title>
-      <creator>Hermanos Gutiérrez</creator>
-      <image>https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/73/44/d2/7344d214-ff32-73fd-06af-eddf991ed7d8/26CRGIM54925.rgb.jpg/100x100bb.jpg</image>
-      <album>Los Ojos Del Cóndor</album>
-    </track>
-    <track>
-      <title>Only Love (Feat. Pa Salieu)</title>
-      <creator>Ezra Collective</creator>
-      <album>Here Because of Hope</album>
-    </track>
-    <track>
-      <title>New Muscles</title>
-      <creator>mary in the junkyard</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b273dc2936fe857ea46b519fad18</image>
-      <album>New Muscles</album>
-    </track>
-    <track>
-      <title>Stratford &amp; 52</title>
-      <creator>Pearl &amp; The Oysters</creator>
-      <image>https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/00/5c/ea005c65-d82d-01c1-d1ff-3b5436389924/2219.jpg/100x100bb.jpg</image>
-      <album>Monkey Mind</album>
-    </track>
-    <track>
-      <title>Monroe</title>
-      <creator>Angus &amp; Julia Stone</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b2733124f03370c5bbf882b1890d</image>
-      <album>Monroe</album>
-    </track>
-    <track>
-      <title>Lebanese Blonde (Live on KCRW 11-14-00)</title>
-      <creator>Thievery Corporation</creator>
-      <album>Live From KVCRW</album>
-    </track>
-    <track>
-      <title>Discoid</title>
-      <creator>Number</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b2736a0041dbf17bc5c3eac704a6</image>
-      <album>Pollinate</album>
-    </track>
-    <track>
-      <title>Tunnel Vision (Feat. NEIL FRANCES)</title>
-      <creator>PawPaw Rod</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b2738616a9e9962a589d7d10f7b5</image>
-      <album>Picture Day: A PawPaw Rod Album</album>
-    </track>
-    <track>
-      <title>HUMAN AGAIN</title>
-      <creator>Genesis Owusu</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b273559416f7e2d68108dc14d32d</image>
-      <album>HUMAN AGAIN</album>
-    </track>
-    <track>
-      <title>Someday, Somewhere</title>
-      <creator>Jungle</creator>
-      <image>https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/79/88/0e79883e-29d9-71f5-4ddd-b183ea133123/820200658401.jpg/100x100bb.jpg</image>
-      <album>Sunshine</album>
+      <title>Stand Off</title>
+      <creator>Desert Friends</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b2732e2837d9f596079b27b548d9</image>
+      <album>Stand Off</album>
     </track>
     <track>
       <title>If I Let You</title>
@@ -181,231 +241,63 @@
       <album>The Womack Sisters</album>
     </track>
     <track>
-      <title>All My Love</title>
-      <creator>Baby Rose</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b2731d1bd14e251142f2f9b06171</image>
-      <album>YEARNALISM</album>
+      <title>I Need a Life</title>
+      <creator>Born Ruffians</creator>
+      <image>https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/01/bb/31/01bb3117-5f0a-67a8-30c6-6c04c7c01583/source/100x100bb.jpg</image>
+      <album>Red, Yellow &amp; Blue</album>
     </track>
     <track>
-      <title>Tropical Exotica</title>
-      <creator>Pupillo &amp; Alberto Continentino</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b273652dc52e47ac368ad1750352</image>
-      <album>Pupillo</album>
+      <title>Back Door</title>
+      <creator>Twin Peaks</creator>
+      <album>Down In Heaven (10 Year Anniversary Deluxe Edition)</album>
     </track>
     <track>
-      <title>Seven Nation Army</title>
-      <creator>The White Stripes</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b273a69f71a8794e2d867a52f98f</image>
-      <album>Elephant</album>
+      <title>Peaches en Regalia</title>
+      <creator>Frank Zappa</creator>
+      <image>https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/cf/ff/cc/cfffcc53-3c98-9cff-079d-262fdede78e9/12UMGIM15567.rgb.jpg/100x100bb.jpg</image>
+      <album>Hot Rats</album>
     </track>
     <track>
-      <title>Oye mi amor</title>
-      <creator>Maná</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b27363f3b7f5abf86ad483b57b77</image>
-      <album>¿Dónde jugarán los niños?</album>
+      <title>People Everywhere ii</title>
+      <creator>Khruangbin</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b2730ecc9c792f2ccc2afe81d1d9</image>
+      <album>The Universe Smiles Upon You ii</album>
     </track>
     <track>
-      <title>Wonderwall</title>
-      <creator>Oasis</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b273644ca85c2ca67b901d7b5bb4</image>
-      <album>(What’s the Story) Morning Glory?</album>
+      <title>ORACLE (Feat. Aja Monet)</title>
+      <creator>Machinedrum</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b2732e30da6ca874a2c25f7a3908</image>
+      <album>3FOR82</album>
     </track>
     <track>
-      <title>Levitate Part 1 + 2</title>
-      <creator>Ecca Vandal</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b2736d8195570025f97b289bf2f7</image>
-      <album>Looking for People to Unfollow</album>
+      <title>Terrestrials</title>
+      <creator>Pond</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b2732c26a61a49cc863619e1a208</image>
+      <album>Terrestrials</album>
     </track>
     <track>
-      <title>So Easy (To Fall in Love)</title>
-      <creator>Olivia Dean</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b2739a336bfb6d40bbd90a507417</image>
-      <album>The Art of Loving</album>
+      <title>Mood 1 "L.O.V.E. Love"</title>
+      <creator>Sunbear</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b27392db3bd0b6aab36ef694c28b</image>
+      <album>Sunbear</album>
     </track>
     <track>
-      <title>Mágica (Feat. Rogê)</title>
-      <creator>El Michels Affair</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b273254dcee8f3101eb71c2b6264</image>
-      <album>24 Hr Sports</album>
+      <title>Quit Your Job, Runaway!</title>
+      <creator>Junior Mesa</creator>
+      <image>https://is3-ssl.mzstatic.com/image/thumb/Music116/v4/0d/92/d4/0d92d4c5-13ca-0129-3f1b-9b2437e97f98/29932.jpg/100x100bb.jpg</image>
+      <album>Quit Your Job, Runaway! EP</album>
     </track>
     <track>
-      <title>Level 5</title>
-      <creator>King Gizzard &amp; The Lizard Wizard</creator>
-      <album>Level 5</album>
+      <title>Ndinje (feat. Blick Bassy)</title>
+      <creator>Bongeziwe Mabandla</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b2733c8d30ab2df2e6ac815370b9</image>
+      <album>Ndingubani</album>
     </track>
     <track>
-      <title>Vida loca</title>
-      <creator>Ca7riel &amp; Paco Amoroso</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b27354886d407d43fcf67dace104</image>
-      <album>FREE SPIRITS</album>
-    </track>
-    <track>
-      <title>For Those Who Like to Groove</title>
-      <creator>Ray Parker Jr. and Raydio</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b273b979bc9f6ac010305973fdef</image>
-      <album>Two Places at the Same Time</album>
-    </track>
-    <track>
-      <title>Just Cool</title>
-      <creator>Obongjayar</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b2730fef1a5eac3233e16489167a</image>
-      <album>Just Cool</album>
-    </track>
-    <track>
-      <title>Cairo FM</title>
-      <creator>Alewya</creator>
-      <image>https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bc/d0/0d/bcd00d6a-0eaa-b22a-937a-8fa701ce4e26/5056556175346_cover.jpg/100x100bb.jpg</image>
-      <album>Zero</album>
-    </track>
-    <track>
-      <title>Venus Hour (PBW Remix)</title>
-      <creator>Automatic</creator>
-      <album>Venus Hour</album>
-    </track>
-    <track>
-      <title>New Muscles</title>
-      <creator>mary in the junkyard</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b273dc2936fe857ea46b519fad18</image>
-      <album>New Muscles</album>
-    </track>
-    <track>
-      <title>Pump Me Up</title>
-      <creator>Trouble Funk</creator>
-      <album>Single</album>
-    </track>
-    <track>
-      <title>Shway shway</title>
-      <creator>Nu Genea with Celinatique</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b27391181e8d36c3a9a6279b824c</image>
-      <album>People of the Moon</album>
-    </track>
-    <track>
-      <title>Past the Veil</title>
-      <creator>Shannon Lay</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b27393061e16dd560ab6f1b0f919</image>
-      <album>Past the Veil</album>
-    </track>
-    <track>
-      <title>Eastside Girls</title>
-      <creator>MUNA</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b2731a42f3237a2151ca5e6b7a8e</image>
-      <album>Dancing on the Wall</album>
-    </track>
-    <track>
-      <title>Fragile</title>
-      <creator>Madonna</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b2732e45924aa55275c64280cada</image>
-      <album>CONFESSIONS II</album>
-    </track>
-    <track>
-      <title>Base-level Guilt</title>
-      <creator>Camisade</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b273928626f90dee7af1270c7657</image>
-      <album>Base-level Guilt</album>
-    </track>
-    <track>
-      <title>Hedgesitting</title>
-      <creator>Cola</creator>
-      <album>Cost of Living Adjustment</album>
-    </track>
-    <track>
-      <title>Make You Feel That Way</title>
-      <creator>Blackalicious</creator>
-      <image>https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/ec/6e/23/ec6e2320-1694-4664-bacb-6373596dadf0/source/100x100bb.jpg</image>
-      <album>Blazing Arrow</album>
-    </track>
-    <track>
-      <title>BEO</title>
-      <creator>E.VAX</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b273d0b65f87b2475e6c2552e4de</image>
-      <album>Just Like Fire</album>
-    </track>
-    <track>
-      <title>The Moon Cave (Feat. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought)</title>
-      <creator>Gorillaz</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b273eeb01b41f48210d032d1b6a4</image>
-      <album>The Mountain</album>
-    </track>
-    <track>
-      <title>On the Day You Saw the Dead Whale (Live from KCRW)</title>
-      <creator>Mary Lattimore</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b273ac1f762940e23426a2a025aa</image>
-      <album>Hundreds of Days</album>
-    </track>
-    <track>
-      <title>Chico</title>
-      <creator>Reverend Baron</creator>
-      <image>https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/7f/8c/107f8c49-ab77-eeed-f617-2677105b5c7d/65253.jpg/100x100bb.jpg</image>
-      <album>Daniel</album>
-    </track>
-    <track>
-      <title>Lucky Charm</title>
-      <creator>Panda Bear &amp; Sonic Boom</creator>
-      <album>A ? of WHEN</album>
-    </track>
-    <track>
-      <title>Here Comes My Baby</title>
-      <creator>Cat Stevens</creator>
-      <album>Rushmore: Original Motion Picture Soundtrack</album>
-    </track>
-    <track>
-      <title>But, Nvm</title>
-      <creator>Baby Rose</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b2731d1bd14e251142f2f9b06171</image>
-      <album>YEARNALISM</album>
-    </track>
-    <track>
-      <title>Bad Bad News</title>
-      <creator>Leon Bridges</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b273a47ee7a49c53ccdcb38dc874</image>
-      <album>Good Thing</album>
-    </track>
-    <track>
-      <title>Big People Music</title>
-      <creator>Reuben James &amp; Theo Croker</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b27391b61f82807a0dc502f96fb4</image>
-      <album>Big People Music</album>
-    </track>
-    <track>
-      <title>Visions Of Love</title>
-      <creator>Tapper Zukie</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b27349b2591cb516739fca15b5b9</image>
-      <album>Visions Of Love</album>
-    </track>
-    <track>
-      <title>Someday, Somewhere</title>
-      <creator>Jungle</creator>
-      <image>https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/79/88/0e79883e-29d9-71f5-4ddd-b183ea133123/820200658401.jpg/100x100bb.jpg</image>
-      <album>Sunshine</album>
-    </track>
-    <track>
-      <title>Some Velvet Morning</title>
-      <creator>Nancy Sinatra &amp; Lee Hazlewood</creator>
-      <album>The Cowboy &amp; The Ladies</album>
-    </track>
-    <track>
-      <title>Derecho Demonico</title>
-      <creator>Jack White</creator>
-      <image>https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/81/7d/3a817d4d-161f-1d85-da44-2a890b1e2ad0/65815.jpg/100x100bb.jpg</image>
-      <album>Frozen Charlotte</album>
-    </track>
-    <track>
-      <title>Pali Gap</title>
-      <creator>Jimi Hendrix</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b27320a13bddf394768a532f5547</image>
-      <album>Rainbow Bridge</album>
-    </track>
-    <track>
-      <title>Jesse</title>
-      <creator>Geese</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b273cd5e4673c843ee2e294e02d5</image>
-      <album>4D Country</album>
-    </track>
-    <track>
-      <title>Zoom 97</title>
-      <creator>Kurt Vile</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b27367b3ea39b7cfb165143c88a9</image>
-      <album>Zoom 97</album>
+      <title>Tjomme (DJ Koze Remix)</title>
+      <creator>José González</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b2734327b4a7b7bbaa2312786a86</image>
+      <album>Tjomme [DJ Koze Remix]</album>
     </track>
     <track>
       <title>Easy Street</title>
@@ -414,43 +306,207 @@
       <album>Easy Street</album>
     </track>
     <track>
-      <title>Marseille</title>
-      <creator>Oracle Sisters</creator>
-      <album>Divinations</album>
+      <title>outta time (Feat. A.K. Paul)</title>
+      <creator>Kelela</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b2738bc067587bcccc936a0d042f</image>
+      <album>outta time</album>
     </track>
     <track>
-      <title>Caviar (Feat. Mathilda Homer)</title>
-      <creator>Benny Sings</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b273f9bb2ddff6b9a31e043742cd</image>
-      <album>Beat Tape III</album>
+      <title>Inner Light</title>
+      <creator>Elderbrook &amp; Bob Moses</creator>
+      <image>https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/c8/50/40/c85040e7-a7c8-1957-7ba4-21845b392cf0/source/100x100bb.jpg</image>
+      <album>Inner Light</album>
     </track>
     <track>
-      <title>Morning Light (Feat. Andreya Triana)</title>
-      <creator>Quantic</creator>
-      <album>Morning Light (Extended Version)</album>
+      <title>Bat macumba</title>
+      <creator>Os Mutantes</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273cf5f9eaa0d3a164305c35b49</image>
+      <album>Os Mutantes</album>
     </track>
     <track>
-      <title>Some Kind Of Static (Alan Braxe Remix)</title>
-      <creator>NEIL FRANCES</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b2739f536a8ffa515d4983de4ba7</image>
-      <album>Some Kind Of Static (Alan Braxe Remix)</album>
+      <title>Someday, Somewhere</title>
+      <creator>Jungle</creator>
+      <image>https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0e/79/88/0e79883e-29d9-71f5-4ddd-b183ea133123/820200658401.jpg/100x100bb.jpg</image>
+      <album>Sunshine</album>
     </track>
     <track>
-      <title>U Got Me</title>
-      <creator>MMYYKK</creator>
-      <image>https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/45/fb/eb/45fbeb6a-ef5c-d68e-ec9c-b4bc8df2c4d7/859774586476_cover.jpg/100x100bb.jpg</image>
-      <album>U Got Me - Single</album>
+      <title>Spontaneous Simplicity</title>
+      <creator>Sun Ra</creator>
+      <image>https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/25/df/ba/25dfba28-2b89-685a-b873-c1ddd25fc89c/source/100x100bb.jpg</image>
+      <album>Exotica</album>
     </track>
     <track>
-      <title>By the Time I Get to Phoenix</title>
-      <creator>Billy Stewart</creator>
-      <album>By the Time I Get to Phoenix / We'll Always Be Together</album>
+      <title>Mannequin Love (Braxe + Falcon remix) (Feat. The Flints)</title>
+      <creator>Justice</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b2733a93370d59b7f387cbd2c575</image>
+      <album>Mannequin Love (Remixes)</album>
     </track>
     <track>
-      <title>Shining</title>
-      <creator>El Michels Affair</creator>
-      <image>https://i.scdn.co/image/ab67616d0000b273254dcee8f3101eb71c2b6264</image>
-      <album>24 Hr Sports</album>
+      <title>Nice 2 Meet Myself (Bang Bang Bang)</title>
+      <creator>Sports</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273acc350a93a9dd0e0ec9cac4b</image>
+      <album>Nice 2 Meet Myself (Bang Bang Bang)</album>
+    </track>
+    <track>
+      <title>Derecho Demonico</title>
+      <creator>Jack White</creator>
+      <image>https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/81/7d/3a817d4d-161f-1d85-da44-2a890b1e2ad0/65815.jpg/100x100bb.jpg</image>
+      <album>Frozen Charlotte</album>
+    </track>
+    <track>
+      <title>Fur</title>
+      <creator>PAKO KAAN</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b2730500a3b4a0500931b6c33cdb</image>
+      <album>Fur</album>
+    </track>
+    <track>
+      <title>Sunshine (Feat. Dan Harkna)</title>
+      <creator>TIEKS</creator>
+      <album>Sunshine</album>
+    </track>
+    <track>
+      <title>Beautiful Escape</title>
+      <creator>Tom Misch feat. Zak Abel</creator>
+      <image>https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/1c/c8/43/1cc84343-9fe5-2a4e-79da-d28778410e09/source/100x100bb.jpg</image>
+      <album>Beat Tape 2</album>
+    </track>
+    <track>
+      <title>Chan Chara</title>
+      <creator>JAJA</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273031e09633f6a477e3cc3bcaa</image>
+      <album>Tropical Bird Club</album>
+    </track>
+    <track>
+      <title>God Herself</title>
+      <creator>Madison McFerrin</creator>
+      <image>https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/98/1d/a4/981da41f-188f-736f-4964-7181987687dc/37210.jpg/100x100bb.jpg</image>
+      <album>I Hope You Can Forgive Me</album>
+    </track>
+    <track>
+      <title>I Wish</title>
+      <creator>Julia Jacklin feat. The Maes</creator>
+      <image>https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a3/93/40/a39340a9-676b-4099-c126-fcdd6b2f0bfe/191400094277.png/100x100bb.jpg</image>
+      <album>The Gem</album>
+    </track>
+    <track>
+      <title>Billy Came Back</title>
+      <creator>This Is Lorelei</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273e915b6783a2821b146ed5f4c</image>
+      <album>Billy Came Back</album>
+    </track>
+    <track>
+      <title>Summer is Almost Over</title>
+      <creator>Polo &amp; Pan</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b2733c11030decfea5e8e8c53c42</image>
+      <album>22:22</album>
+    </track>
+    <track>
+      <title>niño (Feat. Meulas de Gallo)</title>
+      <creator>Ed Maverick</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273110dd636e8583f726800432b</image>
+      <album>niño</album>
+    </track>
+    <track>
+      <title>Harlem</title>
+      <creator>Bill Withers</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273e1e350d06ffebd2e19e047ce</image>
+      <album>Just As I Am</album>
+    </track>
+    <track>
+      <title>Everybody Lies a Little (Feat. Cory Henry, Avery *Sunshine)</title>
+      <creator>B.B. King</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273c6799425bd35fa8c8adcd5e9</image>
+      <album>Lucille Talks Back 50th Anniversary</album>
+    </track>
+    <track>
+      <title>So Flute</title>
+      <creator>St Germain</creator>
+      <image>https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/d0/0f/d0/d00fd0da-015e-6888-6f5f-95b91e2d7248/source/100x100bb.jpg</image>
+      <album>Tourist</album>
+    </track>
+    <track>
+      <title>Birdsong</title>
+      <creator>Rosie Lowe</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b2730bdd39d039a83d75cfaefb56</image>
+      <album>YU</album>
+    </track>
+    <track>
+      <title>Dammi dammi</title>
+      <creator>La Vacanza</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b27305c0ad00a9cef15e52be379b</image>
+      <album>In Riva Al Mare</album>
+    </track>
+    <track>
+      <title>PEARL (Feat. Kiefer, CARRTOONS, Kenny Beats)</title>
+      <creator>Nate Smith</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b27382a70373698921606c6c227b</image>
+      <album>PEARL</album>
+    </track>
+    <track>
+      <title>Little Green Bag</title>
+      <creator>George Baker Selection</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b27390a69e9489e3402bd2268181</image>
+      <album>The Tarantino Connection</album>
+    </track>
+    <track>
+      <title>Live It Down</title>
+      <creator>Tyler Ballgame</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273e1eb6f39ccd612cd5e66b6ee</image>
+      <album>Live It Down</album>
+    </track>
+    <track>
+      <title>Can Do</title>
+      <creator>Dundundun</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b27393ab7bf370f06a1ad0c892bd</image>
+      <album>Future Hope</album>
+    </track>
+    <track>
+      <title>Där huden är tunnast</title>
+      <creator>Dina ögon</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b27339d4a4f652a6ab23d3f925b6</image>
+      <album>Människobarn</album>
+    </track>
+    <track>
+      <title>Hotel</title>
+      <creator>Ty Segall</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b2737a85962ffab720ad914b195d</image>
+      <album>Possession</album>
+    </track>
+    <track>
+      <title>You Are Mine In Those Golden Days - Cover</title>
+      <creator>Kate Bollinger</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b27383bdd16e473fba8794a53b70</image>
+      <album>You Are Mine In Those Golden Days</album>
+    </track>
+    <track>
+      <title>In The Night</title>
+      <creator>Beck</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b27331446e6d2ce76c61f0d34dc0</image>
+      <album>In The Night</album>
+    </track>
+    <track>
+      <title>Treehouse (Feat. Emily Yacina)</title>
+      <creator>Alex G</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b27358643cbaba9e57cdf9306140</image>
+      <album>Treehouse</album>
+    </track>
+    <track>
+      <title>The Age of Immunology</title>
+      <creator>Vanishing Twin</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b2733bdd66b6625eb058c3e47e37</image>
+      <album>The Age of Immunology</album>
+    </track>
+    <track>
+      <title>One Fine Summer Morning</title>
+      <creator>Britta Phillips</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b273dc6afb2d308bc5d47d1da181</image>
+      <album>Luck or Magic</album>
+    </track>
+    <track>
+      <title>Better Days</title>
+      <creator>Warm Sound</creator>
+      <image>https://i.scdn.co/image/ab67616d0000b27350703d863d47b216160686a4</image>
+      <album>Better Days</album>
     </track>
   </trackList>
 </playlist>
