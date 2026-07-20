@@ -3,12 +3,222 @@
   <info>https://spinitron.com/KALX/</info>
   <creator>kalx.berkeley.edu</creator>
   <image>https://jherskowitz.github.io/spinbin/logos/kalx.svg</image>
-  <date>2026-07-19T11:07:26+00:00</date>
+  <date>2026-07-20T12:13:49+00:00</date>
   <trackList>
     <track>
-      <title>The Plan</title>
-      <creator>Vincent</creator>
-      <album>Earth, Vol. 5</album>
+      <title>Heartbreak Hotel</title>
+      <creator>John Cale</creator>
+      <album>The Island Years</album>
+    </track>
+    <track>
+      <title>Buffalo Ballet</title>
+      <creator>John Cale</creator>
+      <album>Fear</album>
+    </track>
+    <track>
+      <title>Watts Moon Starr</title>
+      <creator>Kelley Stoltz</creator>
+      <album>Watts Moon Starr</album>
+    </track>
+    <track>
+      <title>Katrina Ballerina</title>
+      <creator>Woody Shaw</creator>
+      <album>Susman: Scattered Threads</album>
+    </track>
+    <track>
+      <title>Violin Sonata No. 2 in E Minor, Op. 36a: IV. Variation 4: Andante</title>
+      <creator>Ferruccio Busoni</creator>
+      <album>Busoni: Sonata for Piano &amp; Violin No. 2 - Enescu: Sonata for Violin &amp; Piano No. 3</album>
+    </track>
+    <track>
+      <title>The Evening Lay Down Upon Us - Live Session</title>
+      <creator>Seamus Fogarty</creator>
+      <album>God Damn You Mountain (Deluxe Edition)</album>
+    </track>
+    <track>
+      <title>Sukarita</title>
+      <creator>Judie Tzuke</creator>
+      <album>Welcome To The Cruise</album>
+    </track>
+    <track>
+      <title>The Question - Live Session with Geese</title>
+      <creator>Seamus Fogarty</creator>
+      <album>God Damn You Mountain (Deluxe Edition)</album>
+    </track>
+    <track>
+      <title>Against the Dying of the Light</title>
+      <creator>José González</creator>
+      <album>Against the Dying of the Light</album>
+    </track>
+    <track>
+      <title>Manigua</title>
+      <creator>Benny Moré</creator>
+      <album>Cubano!</album>
+    </track>
+    <track>
+      <title>Soudan Minitara</title>
+      <creator>Hassan Hakmoun</creator>
+      <album>Trance</album>
+    </track>
+    <track>
+      <title>The Dala Effect</title>
+      <creator>Simo Cell &amp; Abdullah Miniawy</creator>
+      <album>Dying Is The Internet</album>
+    </track>
+    <track>
+      <title>At Once Familiar</title>
+      <creator>Work Money Death</creator>
+      <album>Thought, Action, Reaction, Interaction</album>
+    </track>
+    <track>
+      <title>The Axis</title>
+      <creator>Thee Oh Sees</creator>
+      <album>A Weird Exits</album>
+    </track>
+    <track>
+      <title>See Out Loud</title>
+      <creator>Interpol</creator>
+      <album>This Mirror Weighs a Ton/See Out Loud</album>
+    </track>
+    <track>
+      <title>Creator, Destroyer</title>
+      <creator>Angel Olsen</creator>
+      <album>Strange Cacti</album>
+    </track>
+    <track>
+      <title>Atoms For Peace</title>
+      <creator>Thom Yorke</creator>
+      <album>The Eraser</album>
+    </track>
+    <track>
+      <title>Even God Gets Stuck In Devotion</title>
+      <creator>Dagmar Zuniga</creator>
+      <album>in filth your mystery is kingdom / far smile peasant in yellow music</album>
+    </track>
+    <track>
+      <title>nadie va a pensar en ti mejor que yo - extraído de LA NUBE EN EL JARDÍN</title>
+      <creator>Ed Maverick</creator>
+      <album>nadie va a pensar en ti mejor que yo (extraído de LA NUBE EN EL JARDÍN)</album>
+    </track>
+    <track>
+      <title>no hay problema - extraído de LA NUBE EN EL JARDÍN</title>
+      <creator>Ed Maverick</creator>
+      <album>no hay problema (extraído de LA NUBE EN EL JARDÍN)</album>
+    </track>
+    <track>
+      <title>Indian Summer</title>
+      <creator>The Doors</creator>
+      <album>Morrison Hotel</album>
+    </track>
+    <track>
+      <title>You're Leavin' Me, Baby - Remastered 2026</title>
+      <creator>John Lee Hooker</creator>
+      <album>That's My Story: John Lee Hooker Sings The Blues (Remastered 2026)</album>
+    </track>
+    <track>
+      <title>Those Years Are Over</title>
+      <creator>The Sha La Das</creator>
+      <album>Love in the Wind</album>
+    </track>
+    <track>
+      <title>Beg</title>
+      <creator>Half Calf</creator>
+      <album>Slipping/Spilling</album>
+    </track>
+    <track>
+      <title>Daffodils</title>
+      <creator>Half Calf</creator>
+      <album>Slipping/Spilling</album>
+    </track>
+    <track>
+      <title>Star Spangled Banner - Live at The Woodstock Music &amp; Art Fair, August 18, 1969</title>
+      <creator>Jimi Hendrix</creator>
+      <album>Live at Woodstock</album>
+    </track>
+    <track>
+      <title>In and out of Love</title>
+      <creator>Current Joys</creator>
+      <album>Me Oh My Mirror</album>
+    </track>
+    <track>
+      <title>Suntory</title>
+      <creator>John Carroll Kirby</creator>
+      <album>Suntory</album>
+    </track>
+    <track>
+      <title>This Mirror Weighs a Ton</title>
+      <creator>Interpol</creator>
+      <album>This Mirror Weighs a Ton/See Out Loud</album>
+    </track>
+    <track>
+      <title>Sliced by a Fingernail</title>
+      <creator>Dry Cleaning</creator>
+      <album>Sliced by a Fingernail</album>
+    </track>
+    <track>
+      <title>Daniel</title>
+      <creator>Mr Twin Sister</creator>
+      <album>In Heaven</album>
+    </track>
+    <track>
+      <title>Their Eyes</title>
+      <creator>Midnight Sister</creator>
+      <album>Saturn Over Sunset</album>
+    </track>
+    <track>
+      <title>Summertime</title>
+      <creator>The Sundays</creator>
+      <album>Static And Silence</album>
+    </track>
+    <track>
+      <title>Going Shopping</title>
+      <creator>The Strokes</creator>
+      <album>Going Shopping</album>
+    </track>
+    <track>
+      <title>Lucinda (EM)</title>
+      <creator>A Certain Ratio</creator>
+      <album>Lucinda (EM)</album>
+    </track>
+    <track>
+      <title>Rebel Girl</title>
+      <creator>Bikini Kill</creator>
+      <album>Pussy Whipped</album>
+    </track>
+    <track>
+      <title>Prophecy At 1420 MHz</title>
+      <creator>Boards of Canada</creator>
+      <album>Prophecy At 1420 MHz</album>
+    </track>
+    <track>
+      <title>OVER-EXPOSED</title>
+      <creator>Damaged Bug</creator>
+      <album>OVER-EXPOSED</album>
+    </track>
+    <track>
+      <title>Seven Degrees</title>
+      <creator>Friko</creator>
+      <album>Seven Degrees</album>
+    </track>
+    <track>
+      <title>If I Leave</title>
+      <creator>Mitski</creator>
+      <album>Nothing's About to Happen to Me</album>
+    </track>
+    <track>
+      <title>(Joe Gets Kicked Out of School for Using) Drugs With Friends (But Says This Isn't a Problem)</title>
+      <creator>Car Seat Headrest</creator>
+      <album>Teen of Denial: Joe’s Story</album>
+    </track>
+    <track>
+      <title>One Stop</title>
+      <creator>Aldous Harding</creator>
+      <album>One Stop</album>
+    </track>
+    <track>
+      <title>Some Strange Angel</title>
+      <creator>Car Seat Headrest</creator>
+      <album>Nervous Young Man</album>
     </track>
   </trackList>
 </playlist>

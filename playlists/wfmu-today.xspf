@@ -3,91 +3,391 @@
   <info>https://wfmu.org/playlists/</info>
   <creator>wfmu.org</creator>
   <image>https://jherskowitz.github.io/spinbin/logos/wfmu.svg</image>
-  <date>2026-07-19T11:06:48+00:00</date>
+  <date>2026-07-20T12:13:03+00:00</date>
   <trackList>
     <track>
-      <title>We'll Meet Again (mono LP)</title>
+      <title>Words (stereo)</title>
+      <creator>The Leaves</creator>
+    </track>
+    <track>
+      <title>New Directions</title>
+      <creator>Liverpool Five</creator>
+    </track>
+    <track>
+      <title>Don't Look Back</title>
+      <creator>The Remains</creator>
+    </track>
+    <track>
+      <title>Don't Blame Me (For Trying)</title>
+      <creator>Fountain Of Youth</creator>
+    </track>
+    <track>
+      <title>Spanish Castle Magic {Mono}</title>
+      <creator>The Jimi Hendrix Experience</creator>
+    </track>
+    <track>
+      <title>She</title>
+      <creator>The Rovin' Kind</creator>
+    </track>
+    <track>
+      <title>The Giggle-Eyed Goo!</title>
+      <creator>Steve And The Board</creator>
+    </track>
+    <track>
+      <title>What Time Is It?</title>
+      <creator>The Jive Five With Eugene Pitt</creator>
+      <album>Smash, Boom, Bang!: The Songs And Produztions Of Feldman-Goldstein-Gottehrer</album>
+    </track>
+    <track>
+      <title>The Night Is Almost Gone</title>
+      <creator>The Delicate Balance</creator>
+    </track>
+    <track>
+      <title>Goin' Too Far</title>
+      <creator>The Fifth Order</creator>
+    </track>
+    <track>
+      <title>Hurtin' All Over</title>
+      <creator>The Creatures</creator>
+    </track>
+    <track>
+      <title>I'm A Loner</title>
+      <creator>The Jaybees</creator>
+    </track>
+    <track>
+      <title>I Don't Blame You At All</title>
+      <creator>Smokey Robinson And The Miracles</creator>
+    </track>
+    <track>
+      <title>Give It Back</title>
+      <creator>Sharon Jones &amp; the Dap-Kings</creator>
+    </track>
+    <track>
+      <title>Seance</title>
+      <creator>The Ebb-Tides</creator>
+    </track>
+    <track>
+      <title>Down Down</title>
+      <creator>The Silence</creator>
+    </track>
+    <track>
+      <title>The Bullet</title>
+      <creator>Unknown</creator>
+    </track>
+    <track>
+      <title>I'm Movin' On</title>
+      <creator>The Griffin</creator>
+    </track>
+    <track>
+      <title>Misfit (demo)</title>
+      <creator>Outsiders</creator>
+    </track>
+    <track>
+      <title>Mommy (Parts 1 &amp; 2)</title>
+      <creator>Bill Doggett</creator>
+    </track>
+    <track>
+      <title>Why Pick On Me (mono 45)</title>
+      <creator>The Standells</creator>
+    </track>
+    <track>
+      <title>Little Boy Sad</title>
+      <creator>M.P.D. Limited</creator>
+    </track>
+    <track>
+      <title>I'm Captured</title>
+      <creator>The Good Feelins</creator>
+    </track>
+    <track>
+      <title>Do You Believe in Magic</title>
+      <creator>The Lovin' Spoonful</creator>
+    </track>
+    <track>
+      <title>Guess We'll Fall in Love</title>
+      <creator>Bobby Fuller</creator>
+    </track>
+    <track>
+      <title>Too Many People</title>
+      <creator>The Leaves</creator>
+    </track>
+    <track>
+      <title>Why Do I Cry</title>
+      <creator>The Remains</creator>
+    </track>
+    <track>
+      <title>Take A Bus</title>
+      <creator>Stix &amp; Stonz</creator>
+    </track>
+    <track>
+      <title>H.B. Goose Step</title>
+      <creator>Rivieras</creator>
+      <album>California Sun-The Best Of The Rivieras</album>
+    </track>
+    <track>
+      <title>The Snake</title>
+      <creator>Liverpool Five</creator>
+    </track>
+    <track>
+      <title>Turn Another Page</title>
+      <creator>Powder</creator>
+    </track>
+    <track>
+      <title>(Walking Thru The) Sleepy City</title>
+      <creator>The Mighty Avengers</creator>
+    </track>
+    <track>
+      <title>The Time Is Right For Love</title>
+      <creator>Bobby Reed</creator>
+      <album>Soul Spectrum, Volume II</album>
+    </track>
+    <track>
+      <title>Take Me In Your Arms (Rock Me A Little While)</title>
+      <creator>The Isley Brothers</creator>
+    </track>
+    <track>
+      <title>This Time Tomorrow</title>
+      <creator>The Move</creator>
+      <album>Curly / This Time Tomorrow</album>
+    </track>
+    <track>
+      <title>Mama Said</title>
+      <creator>The Shirelles</creator>
+    </track>
+    <track>
+      <title>Night Life</title>
+      <creator>THE GROOP</creator>
+    </track>
+    <track>
+      <title>Chains</title>
+      <creator>The Cookies</creator>
+    </track>
+    <track>
+      <title>Hip Hip Hurray</title>
+      <creator>Snap Shot</creator>
+    </track>
+    <track>
+      <title>Don't Leave Me This Way</title>
+      <creator>Otis Redding</creator>
+    </track>
+    <track>
+      <title>Love and Fury</title>
+      <creator>The Tornadoes</creator>
+    </track>
+    <track>
+      <title>Turangalila-Symphonie: I. Introduction</title>
+      <creator>Olivier Messiaen</creator>
+      <album>Turangalila Symphony</album>
+    </track>
+    <track>
+      <title>Turangalila-Symphonie: II. Chant d'amour 1</title>
+      <creator>Olivier Messiaen</creator>
+      <album>Turangalila Symphony</album>
+    </track>
+    <track>
+      <title>Turangalila-Symphonie: III. Turangalila 1</title>
+      <creator>Olivier Messiaen</creator>
+      <album>Turangalila Symphony</album>
+    </track>
+    <track>
+      <title>Turangalila-Symphonie: IV. Chant d'amour 2</title>
+      <creator>Olivier Messiaen</creator>
+      <album>Turangalila Symphony</album>
+    </track>
+    <track>
+      <title>Turangalila-Symphonie: V. Joie du sang des etoiles</title>
+      <creator>Olivier Messiaen</creator>
+      <album>Turangalila Symphony</album>
+    </track>
+    <track>
+      <title>Turangalila-Symphonie: VI. Jardin du sommeil d'amour</title>
+      <creator>Olivier Messiaen</creator>
+      <album>Turangalila Symphony</album>
+    </track>
+    <track>
+      <title>Turangalila-Symphonie: VII. Turangalila 2</title>
+      <creator>Olivier Messiaen</creator>
+      <album>Turangalila Symphony</album>
+    </track>
+    <track>
+      <title>Turangalila-Symphonie: VIII. Developpement de l'amour</title>
+      <creator>Olivier Messiaen</creator>
+      <album>Turangalila Symphony</album>
+    </track>
+    <track>
+      <title>Turangalila-Symphonie: IX. Turangalila 3</title>
+      <creator>Olivier Messiaen</creator>
+      <album>Turangalila Symphony</album>
+    </track>
+    <track>
+      <title>Turangalila-Symphonie: X. Final</title>
+      <creator>Olivier Messiaen</creator>
+      <album>Turangalila Symphony</album>
+    </track>
+    <track>
+      <title>Parade - Choral</title>
+      <creator>Erik Satie</creator>
+      <album>Parade</album>
+    </track>
+    <track>
+      <title>Parade - Prelude Du Rideau Rouge</title>
+      <creator>Erik Satie</creator>
+      <album>Parade</album>
+    </track>
+    <track>
+      <title>Parade - Prestidigitateur Chinois</title>
+      <creator>Erik Satie</creator>
+      <album>Parade</album>
+    </track>
+    <track>
+      <title>Parade - Petite Fille Americaine</title>
+      <creator>Erik Satie</creator>
+      <album>Parade</album>
+    </track>
+    <track>
+      <title>Parade - Acrobates</title>
+      <creator>Erik Satie</creator>
+      <album>Parade</album>
+    </track>
+    <track>
+      <title>Parade - Final - Suite au Prelude du Rideau Rouge</title>
+      <creator>Erik Satie</creator>
+      <album>Parade</album>
+    </track>
+    <track>
+      <title>Sonata for Flute, Violin &amp; Harp in F Major, L. 137: I. Pastorale</title>
+      <creator>Claude Debussy</creator>
+      <album>Sonata for Flute, Violin &amp; Harp in F Major</album>
+    </track>
+    <track>
+      <title>Sonata for Flute, Violin &amp; Harp in F Major, L. 137: II. Interlude</title>
+      <creator>Claude Debussy</creator>
+      <album>Sonata for Flute, Violin &amp; Harp in F Major</album>
+    </track>
+    <track>
+      <title>Sonata for Flute, Violin &amp; Harp in F Major, L. 137: III. Finale</title>
+      <creator>Claude Debussy</creator>
+      <album>Sonata for Flute, Violin &amp; Harp in F Major</album>
+    </track>
+    <track>
+      <title>Les Noces, Premiere Partie, Premier Tableau: Chez la mariee</title>
+      <creator>Igor Stravinsky</creator>
+      <album>Les Noces</album>
+    </track>
+    <track>
+      <title>Les Noces, Premiere Partie, Deuxieme Tableau: Chez la marie</title>
+      <creator>Igor Stravinsky</creator>
+      <album>Les Noces</album>
+    </track>
+    <track>
+      <title>Les Noces, Premiere Partie, Troisieme Tableau: Le depart de la mariee</title>
+      <creator>Igor Stravinsky</creator>
+      <album>Les Noces</album>
+    </track>
+    <track>
+      <title>Les Noces, Duexieme Partie, Quatrieme Tableau: Le repas de noces</title>
+      <creator>Igor Stravinsky</creator>
+      <album>Les Noces</album>
+    </track>
+    <track>
+      <title>Gaspard de la nuit, M. 55: I. Ondine</title>
+      <creator>Maurice Ravel</creator>
+      <album>Gaspard de la nuit</album>
+    </track>
+    <track>
+      <title>Gaspard de la nuit, M. 55: II. Le Gibet</title>
+      <creator>Maurice Ravel</creator>
+      <album>Gaspard de la nuit</album>
+    </track>
+    <track>
+      <title>Gaspard de la nuit, M. 55: III. Scarbo</title>
+      <creator>Maurice Ravel</creator>
+      <album>Gaspard de la nuit</album>
+    </track>
+    <track>
+      <title>Canteyodjaya</title>
+      <creator>Olivier Messiaen</creator>
+      <album>Canteyodjaya</album>
+    </track>
+    <track>
+      <title>Quatre Etudes de Rythme: I. Ile de feu 1</title>
+      <creator>Olivier Messiaen</creator>
+      <album>Messiaen Edition</album>
+    </track>
+    <track>
+      <title>I Know My Rider (I Know You Rider) (mono)</title>
       <creator>The Byrds</creator>
     </track>
     <track>
-      <title>Fine With Me (mono single version)</title>
+      <title>Don't Make Promises (mono)</title>
       <creator>The Beau Brummels</creator>
     </track>
     <track>
-      <title>Ivy, Ivy (mono 45 mix)</title>
+      <title>Dark Is The Bark (mono mix one)</title>
       <creator>The Left Banke</creator>
     </track>
     <track>
-      <title>Picadilly Pages</title>
-      <creator>Ronnie Burns</creator>
-    </track>
-    <track>
-      <title>Where Were You When I Needed You (mono LP)</title>
-      <creator>The Grass Roots</creator>
-    </track>
-    <track>
-      <title>Birdie Told Me (mono)</title>
-      <creator>Bee Gees</creator>
-    </track>
-    <track>
-      <title>Goodbye Baby Bunting</title>
-      <creator>Nirvana</creator>
-    </track>
-    <track>
-      <title>Put My Mind At Ease</title>
-      <creator>The Industrial Image</creator>
-    </track>
-    <track>
-      <title>Paper Cup (mono single version)</title>
-      <creator>The 5th Dimension</creator>
-    </track>
-    <track>
-      <title>Annabelle</title>
-      <creator>Barry Ryan</creator>
-    </track>
-    <track>
-      <title>Another Time (mono single mix)</title>
+      <title>You Know I've Found A Way (mono single)</title>
       <creator>Sagittarius</creator>
     </track>
     <track>
-      <title>I'm A Tiger</title>
-      <creator>Lulu</creator>
+      <title>Nice Time</title>
+      <creator>Kenny Everett</creator>
     </track>
     <track>
-      <title>Let's Think About Living</title>
-      <creator>Bob Luman</creator>
+      <title>Is It Worth A Try</title>
+      <creator>Brendan Phillips</creator>
     </track>
     <track>
-      <title>Hard Feelings</title>
-      <creator>Sanford Clark</creator>
-    </track>
-    <track>
-      <title>Kitty (mono)</title>
-      <creator>Cat Stevens</creator>
+      <title>Easy To Say (remix)</title>
+      <creator>Del Shannon</creator>
     </track>
     <track>
       <title>Twenty-Ten</title>
       <creator>Colors Of Love</creator>
     </track>
     <track>
-      <title>Hold Back The Sun</title>
-      <creator>The Scarecrow</creator>
-    </track>
-    <track>
-      <title>Think Of Rain</title>
-      <creator>Bobby Sherman</creator>
-    </track>
-    <track>
-      <title>The Lady Who Said She Could Fly (mono)</title>
-      <creator>The Idle Race</creator>
-    </track>
-    <track>
-      <title>Tinsel And Ivy (mono 45)</title>
-      <creator>The Montage</creator>
-    </track>
-    <track>
       <title>Show Me The Way (mono)</title>
       <creator>Small Faces</creator>
+    </track>
+    <track>
+      <title>It's Nice To Be Back (mono 45)</title>
+      <creator>The Hep Stars</creator>
+    </track>
+    <track>
+      <title>Village Green (mono mix)</title>
+      <creator>The Kinks</creator>
+    </track>
+    <track>
+      <title>Step Inside</title>
+      <creator>The Strangers</creator>
+    </track>
+    <track>
+      <title>Mr. Lee</title>
+      <creator>Bobbettes</creator>
+    </track>
+    <track>
+      <title>The Spinning Wheel (mono)</title>
+      <creator>Twice As Much</creator>
+    </track>
+    <track>
+      <title>Wings Of Love</title>
+      <creator>Herman's Hermits</creator>
+    </track>
+    <track>
+      <title>Here Today (stereo remix)</title>
+      <creator>Bobby Vee</creator>
+    </track>
+    <track>
+      <title>Man Of The World</title>
+      <creator>Bobby Lile And The El Montes</creator>
+    </track>
+    <track>
+      <title>My Buddy Sin</title>
+      <creator>The Stained Glass</creator>
+    </track>
+    <track>
+      <title>Daytime Girl (mono 45)</title>
+      <creator>Billy Nicholls</creator>
     </track>
     <track>
       <title>In The Courtyard Of The Stars [Mono]</title>
@@ -98,292 +398,52 @@
       <creator>Nirvana</creator>
     </track>
     <track>
-      <title>Golden Hair (Vocal Version)</title>
+      <title>Maisie [Take 2]</title>
       <creator>Syd Barrett</creator>
     </track>
     <track>
-      <title>Interstellar Overdrive (Reprise)</title>
+      <title>Corporal Clegg</title>
       <creator>Pink Floyd</creator>
-    </track>
-    <track>
-      <title>Do You Remember</title>
-      <creator>Tyrannosaurus Rex</creator>
-    </track>
-    <track>
-      <title>Are You Happy</title>
-      <creator>Iron Butterfly</creator>
-    </track>
-    <track>
-      <title>Mammoth</title>
-      <creator>Mammoth</creator>
     </track>
     <track>
       <title>Cheap Thrills</title>
       <creator>The Mothers Of Invention</creator>
     </track>
     <track>
-      <title>The Fool</title>
-      <creator>Quicksilver Messenger Service</creator>
-    </track>
-    <track>
-      <title>Love, That's Where It Is</title>
-      <creator>The Sunshine Company</creator>
-    </track>
-    <track>
-      <title>Funky Skull - Parts 1 &amp; 2</title>
-      <creator>Melvin Jackson</creator>
-    </track>
-    <track>
-      <title>Got Her Letter This Morning</title>
-      <creator>Lightnin' Hopkins</creator>
-    </track>
-    <track>
-      <title>Caledonia</title>
-      <creator>Cromagnon</creator>
-    </track>
-    <track>
-      <title>A House Is Not A Motel</title>
-      <creator>Love</creator>
-      <album>Alone Again Or / A House Is Not A Motel</album>
-    </track>
-    <track>
-      <title>Don't You Know What I Mean?</title>
-      <creator>The Koala</creator>
-    </track>
-    <track>
-      <title>Dog food</title>
-      <creator>WES DAKUS</creator>
-    </track>
-    <track>
-      <title>Space Guitar</title>
-      <creator>Johnny Guitar Watson</creator>
-      <album>Space Guitar</album>
-    </track>
-    <track>
-      <title>Exile</title>
-      <creator>SRC</creator>
-    </track>
-    <track>
-      <title>Have It - Or Grab It - Or Go</title>
-      <creator>Gershon Kingsley</creator>
-    </track>
-    <track>
-      <title>Section 43</title>
-      <creator>country joe And The Fish</creator>
-    </track>
-    <track>
-      <title>It Is Obvious [Take 1]</title>
-      <creator>Syd Barrett</creator>
-    </track>
-    <track>
-      <title>Stop And Listen</title>
-      <creator>The Shag</creator>
-    </track>
-    <track>
-      <title>Let There Be More Light</title>
-      <creator>Pink Floyd</creator>
-    </track>
-    <track>
-      <title>My Mirage</title>
-      <creator>Iron Butterfly</creator>
-    </track>
-    <track>
-      <title>Ski-ing</title>
-      <creator>George Harrison</creator>
-      <album>Wonderwall Music</album>
-    </track>
-    <track>
-      <title>Skip To My Mary J.</title>
-      <creator>Stu Phillips</creator>
-      <album>Hells Angels On Wheels: Original Motion Picture Sound Track</album>
-    </track>
-    <track>
-      <title>Later That Night</title>
-      <creator>The Mothers Of Invention</creator>
-    </track>
-    <track>
-      <title>Two Fingers Pointing On You</title>
-      <creator>The Seeds</creator>
-    </track>
-    <track>
-      <title>Dark Of The Morning</title>
-      <creator>Zoser</creator>
-    </track>
-    <track>
-      <title>Rain Falling</title>
-      <creator>Lightnin' Hopkins</creator>
-    </track>
-    <track>
-      <title>Bazooki</title>
-      <creator>Silky &amp; The Shantungs</creator>
-    </track>
-    <track>
-      <title>May Four</title>
-      <creator>G.F. Fitz-Gerald</creator>
-    </track>
-    <track>
-      <title>Susan your Mind's got Wings</title>
-      <creator>Randy Burns</creator>
-    </track>
-    <track>
-      <title>Psych-out Sanctorum</title>
-      <creator>The Storybook</creator>
-    </track>
-    <track>
-      <title>The Visitation</title>
-      <creator>White Noise</creator>
-    </track>
-    <track>
-      <title>Beyond The Moon</title>
-      <creator>Czar</creator>
-    </track>
-    <track>
-      <title>Jelly Roll Gum Drop</title>
-      <creator>Ruben And The Jets</creator>
-    </track>
-    <track>
-      <title>Poppa Duke Tyler</title>
-      <creator>The Koala</creator>
-    </track>
-    <track>
-      <title>Spazz</title>
-      <creator>The Elastik Band</creator>
-    </track>
-    <track>
-      <title>There Is No Satisfaction</title>
-      <creator>The Vampires' Sound Incorporation</creator>
-    </track>
-    <track>
-      <title>Dolly Rocker</title>
-      <creator>Syd Barrett</creator>
-    </track>
-    <track>
-      <title>A Saucerful Of Secrets</title>
-      <creator>Pink Floyd</creator>
-    </track>
-    <track>
-      <title>Don't You Remember</title>
-      <creator>the sound magics</creator>
-    </track>
-    <track>
-      <title>The Rise and Fall of Flingel Bunt</title>
-      <creator>The Shadows</creator>
-    </track>
-    <track>
-      <title>Pisces</title>
-      <creator>Sagittarius</creator>
-      <album>Another Time / Pisces</album>
-    </track>
-    <track>
-      <title>No. No. No.</title>
-      <creator>The Mothers Of Invention</creator>
-    </track>
-    <track>
-      <title>Tin Soldier</title>
-      <creator>Small Faces</creator>
-    </track>
-    <track>
-      <title>Color Dreams</title>
+      <title>When Rain Is Black</title>
       <creator>The Deep</creator>
     </track>
     <track>
-      <title>First World Of Bronze</title>
-      <creator>Cromagnon</creator>
+      <title>Reality Presented As An Alternative</title>
+      <creator>The Human Beast</creator>
     </track>
     <track>
-      <title>The Battle of the Moon</title>
-      <creator>Sonny Hall</creator>
-    </track>
-    <track>
-      <title>Ashes Of An Empire / The End</title>
-      <creator>G.F. Fitz-Gerald</creator>
-    </track>
-    <track>
-      <title>Sun Sing</title>
-      <creator>Rainbow Ffolly</creator>
-    </track>
-    <track>
-      <title>You'll Come 'Round</title>
-      <creator>Bobby And Laurie</creator>
-    </track>
-    <track>
-      <title>Peter's Trip</title>
-      <creator>the Electric Flag, an American Music Band</creator>
-      <album>Original Motion Picture Sound Track: The Trip</album>
-    </track>
-    <track>
-      <title>Beads of Innocence</title>
-      <creator>The Storybook</creator>
-    </track>
-    <track>
-      <title>Interval</title>
-      <creator>SRC</creator>
-    </track>
-    <track>
-      <title>Visions Of Molly</title>
-      <creator>Blair Smith</creator>
-    </track>
-    <track>
-      <title>The World's On Fire - Long Version</title>
-      <creator>The Strawberry Alarm Clock</creator>
-    </track>
-    <track>
-      <title>Blue Eyed Pussy Cat</title>
-      <creator>The Sound Sircus</creator>
-    </track>
-    <track>
-      <title>Two of a Kind</title>
-      <creator>Syd Barrett</creator>
-    </track>
-    <track>
-      <title>The Charge</title>
-      <creator>T K Os</creator>
-      <album>The Charge</album>
-    </track>
-    <track>
-      <title>M-23</title>
-      <creator>the Electric Flag, an American Music Band</creator>
-      <album>Original Motion Picture Sound Track: The Trip</album>
-    </track>
-    <track>
-      <title>When Daylight Comes in Everything</title>
-      <creator>Randy Burns</creator>
-    </track>
-    <track>
-      <title>Codine</title>
+      <title>Babe, I'm Gonna Leave You</title>
       <creator>The Quicksilver Messenger Service</creator>
     </track>
     <track>
-      <title>Stuff Up The Cracks</title>
-      <creator>The Mothers Of Invention</creator>
-    </track>
-    <track>
-      <title>How Hi-The-Lie</title>
-      <creator>Family</creator>
-    </track>
-    <track>
-      <title>Mary Jane</title>
-      <creator>Elmer Gantry's Velvet Opera</creator>
-    </track>
-    <track>
-      <title>On Love</title>
-      <creator>Skip Bifferty</creator>
-    </track>
-    <track>
       <title>The Fool</title>
       <creator>Quicksilver Messenger Service</creator>
     </track>
     <track>
-      <title>Mammoth</title>
-      <creator>Mammoth</creator>
+      <title>Meadowlands</title>
+      <creator>Jefferson Airplane</creator>
     </track>
     <track>
-      <title>Pink Ether</title>
-      <creator>The Deep</creator>
+      <title>Woman Of The Ghetto</title>
+      <creator>Marlena Shaw</creator>
     </track>
     <track>
-      <title>5th Movement: Pre-Dawn Retrospective Chant</title>
-      <creator>The Eclectic Mouse</creator>
+      <title>Old Man Willow</title>
+      <creator>Elephant's Memory</creator>
+    </track>
+    <track>
+      <title>No</title>
+      <creator>Rainbow Ffolly</creator>
+    </track>
+    <track>
+      <title>Hey Rat Fink</title>
+      <creator>Mr. Gasser &amp; The Weirdos</creator>
     </track>
     <track>
       <title>Soulful Jerk</title>
@@ -391,892 +451,817 @@
       <album>Northern Soul Fever 2b</album>
     </track>
     <track>
-      <title>Salt Lake City</title>
-      <creator>The Beach Boys</creator>
-      <album>Beach Boys</album>
+      <title>Got Her Letter This Morning</title>
+      <creator>Lightnin' Hopkins</creator>
     </track>
     <track>
-      <title>The Night It Darkens All Around Me</title>
-      <creator>Alison Cotton</creator>
-      <album>The Gods Laugh</album>
+      <title>Tomorrow's Child</title>
+      <creator>The Apryl Fool</creator>
     </track>
     <track>
-      <title>Blood in the Labyrinth</title>
-      <creator>Boards of Canada</creator>
-      <album>Inferno</album>
+      <title>Time Is After You</title>
+      <creator>The Peanut Butter Conspiracy</creator>
     </track>
     <track>
-      <title>Leave Behind</title>
-      <creator>Ferries</creator>
-      <album>Eye Wander</album>
+      <title>Gigolo Aunt [Take 15]</title>
+      <creator>Syd Barrett</creator>
     </track>
     <track>
-      <title>Over You</title>
-      <creator>The Velvet Underground</creator>
-      <album>1969: The Velvet Underground Live</album>
+      <title>Do What You Like</title>
+      <creator>J.C. Heavy</creator>
     </track>
     <track>
-      <title>Goodbye To All That</title>
-      <creator>Jess Williamson</creator>
-      <album>A Mile South of Heaven</album>
+      <title>A Saucerful Of Secrets</title>
+      <creator>Pink Floyd</creator>
     </track>
     <track>
-      <title>Over the Hill and Through the Woods</title>
-      <creator>Lillie Mae</creator>
-      <album>Forever and Then Some</album>
+      <title>Later That Night</title>
+      <creator>The Mothers Of Invention</creator>
     </track>
     <track>
-      <title>Part 1 / Cassavetes Picture</title>
-      <creator>Stepford Wives</creator>
-      <album>Bonnie</album>
+      <title>The Night Is Almost Gone</title>
+      <creator>The Delicate Balance</creator>
     </track>
     <track>
-      <title>Sometimes I Don't Know What to Feel</title>
-      <creator>Todd Rundgren</creator>
-      <album>A Wizard, A True Star</album>
+      <title>Psyché Rock (outro)</title>
+      <creator>Les Yper-Sound</creator>
+      <album>Too Fortiche / PsychÃ© Rock / Teen Tonic â¢ Jericho Jerk</album>
     </track>
     <track>
-      <title>I'm Gonna Love You Too</title>
-      <creator>Buddy Holly</creator>
-      <album>Greatest Hits</album>
+      <title>Your Choice To Choose</title>
+      <creator>The Deep</creator>
     </track>
     <track>
-      <title>Cat Man</title>
-      <creator>Gene Vincent &amp; His Blue Caps</creator>
-      <album>Gene Vincent And The Blue Caps</album>
+      <title>Cover Girl</title>
+      <creator>Skip Bifferty</creator>
     </track>
     <track>
-      <title>Pretty Mama</title>
-      <creator>Marty Robbins</creator>
-      <album>Single</album>
+      <title>It Comes On Anyhow</title>
+      <creator>Lothar and the Hand People</creator>
     </track>
     <track>
-      <title>Corina, Corina</title>
-      <creator>Freddy Fender</creator>
-      <album>Interpreta el Rock</album>
+      <title>Dreamy</title>
+      <creator>Elmer Gantry's Velvet Opera</creator>
     </track>
     <track>
-      <title>Dynamite</title>
-      <creator>Brenda Lee</creator>
-      <album>10 Golden Years</album>
+      <title>Peace</title>
+      <creator>Womb</creator>
     </track>
     <track>
-      <title>Let The Four Winds Blow</title>
-      <creator>Fats Domino</creator>
-      <album>The Very Best of Fats Domino</album>
+      <title>Sitting in My Class (Instr.)</title>
+      <creator>Ronnie McNeir</creator>
+      <album>The Northern Soul Story 10 (Instrumentals)</album>
     </track>
     <track>
-      <title>Tryin' To Get To You</title>
-      <creator>Roy Orbison</creator>
-      <album>Single</album>
+      <title>For Some We Loved</title>
+      <creator>dorothy ashby</creator>
     </track>
     <track>
-      <title>Bye Bye Blues</title>
-      <creator>Les Paul &amp; Mary Ford</creator>
-      <album>Bye Bye Blues</album>
+      <title>Eye Of The Storm</title>
+      <creator>SRC</creator>
     </track>
     <track>
-      <title>Long Ago and Far Away</title>
-      <creator>Betty Madigan</creator>
-      <album>The Jerome Kern Songbook</album>
+      <title>Sighing Game</title>
+      <creator>Rainbow Ffolly</creator>
     </track>
     <track>
-      <title>Me and My Shadow</title>
-      <creator>Judy Garland</creator>
-      <album>Alone</album>
+      <title>I Left You</title>
+      <creator>SMASH</creator>
     </track>
     <track>
-      <title>Down in the Willow Garden</title>
-      <creator>The Everly Brothers</creator>
-      <album>Songs Our Daddy Taught Us</album>
+      <title>Follow Me Down</title>
+      <creator>notes from the undergorund</creator>
     </track>
     <track>
-      <title>I'll Close My Eyes</title>
-      <creator>Dinah Washington with Quincy Jones and His Orchestra</creator>
-      <album>The Swingin' Miss "D"</album>
+      <title>Higher and Higher.</title>
+      <creator>The Moody Blues</creator>
     </track>
     <track>
-      <title>The Long Hot Summer</title>
-      <creator>Jimmie Rodgers</creator>
-      <album>The Best of Jimmie Rodgers</album>
+      <title>Wined and Dined</title>
+      <creator>Syd Barrett</creator>
     </track>
     <track>
-      <title>777 For All Humankind</title>
-      <creator>Brahja</creator>
-      <album>Infinity Zero</album>
+      <title>Eight Miles High</title>
+      <creator>The Byrds</creator>
+      <album>Eight Miles High / Why</album>
     </track>
     <track>
-      <title>Your Gold Teeth</title>
-      <creator>Steely Dan</creator>
-      <album>Countdown to Ecstasy</album>
+      <title>Lightning never strikes twice</title>
+      <creator>The Move</creator>
     </track>
     <track>
-      <title>Silently</title>
-      <creator>Tara Clerkin Trio</creator>
-      <album>Somewhere Good</album>
+      <title>Let There Be More Light</title>
+      <creator>Pink Floyd</creator>
     </track>
     <track>
-      <title>Dusk</title>
-      <creator>Discovery Zone</creator>
-      <album>Library Copy Do Not Remove</album>
+      <title>One-Nine-Six-Seven</title>
+      <creator>The Peanut Butter Conspiracy</creator>
     </track>
     <track>
-      <title>A Sense of In-Between</title>
-      <creator>Nomieye</creator>
-      <album>Tapestry of an Echo</album>
+      <title>C'est ca la monde</title>
+      <creator>Perkins</creator>
     </track>
     <track>
-      <title>CRACK!</title>
-      <creator>Brokenchord</creator>
-      <album>Lima Echo Crack!</album>
+      <title>The Lost Mother Land (Part 1)</title>
+      <creator>The Apryl Fool</creator>
     </track>
     <track>
-      <title>Aozora (Ft. Jimmi Jo Hueting &amp; Thomas Pol)</title>
+      <title>Love and Fury</title>
+      <creator>The Tornadoes</creator>
+    </track>
+    <track>
+      <title>H.B. Goose Step</title>
+      <creator>Rivieras</creator>
+      <album>California Sun-The Best Of The Rivieras</album>
+    </track>
+    <track>
+      <title>Every Little Prayer</title>
+      <creator>The Ashes</creator>
+    </track>
+    <track>
+      <title>Man In Black</title>
+      <creator>Skip Bifferty</creator>
+    </track>
+    <track>
+      <title>Somebody To Love</title>
+      <creator>Jefferson Airplane</creator>
+    </track>
+    <track>
+      <title>Volcano</title>
+      <creator>Elmer Gantry's Velvet Opera</creator>
+    </track>
+    <track>
+      <title>B.S.R.S.</title>
+      <creator>The Wandreres</creator>
+    </track>
+    <track>
+      <title>I Shall Call Her Mary</title>
+      <creator>Montage</creator>
+    </track>
+    <track>
+      <title>Let Me Be</title>
+      <creator>Lost &amp; Found</creator>
+    </track>
+    <track>
+      <title>New Games To Play</title>
+      <creator>The Wildlife</creator>
+    </track>
+    <track>
+      <title>Beat N° 3</title>
+      <creator>Musiche Originali Di Ennio Morricone</creator>
+    </track>
+    <track>
+      <title>One Hopeless Whisper</title>
+      <creator>SMASH</creator>
+    </track>
+    <track>
+      <title>Swan Lee (Silas Lang)</title>
+      <creator>Syd Barrett</creator>
+    </track>
+    <track>
+      <title>Giving To You</title>
+      <creator>Traffic</creator>
+    </track>
+    <track>
+      <title>Armageddon</title>
+      <creator>The Maze</creator>
+    </track>
+    <track>
+      <title>Vietnam</title>
+      <creator>Bobby Jameson</creator>
+    </track>
+    <track>
+      <title>Dies Irae Psichedelico (Versione Lunga)</title>
+      <creator>Ennio Morricone</creator>
+    </track>
+    <track>
+      <title>Music For My Mother (Instrumental)</title>
+      <creator>Funkadelic</creator>
+    </track>
+    <track>
+      <title>(She Don't Want To) Tie Me Down</title>
+      <creator>The Chambers Brothers</creator>
+    </track>
+    <track>
+      <title>Money By</title>
+      <creator>Velvet Opera</creator>
+    </track>
+    <track>
+      <title>The Angel Song</title>
+      <creator>SRC</creator>
+    </track>
+    <track>
+      <title>Runnig Wild</title>
+      <creator>Fresh Air</creator>
+    </track>
+    <track>
+      <title>Mr. Money Man</title>
+      <creator>Skip Bifferty</creator>
+    </track>
+    <track>
+      <title>Is There Anything I Can Do</title>
+      <creator>The Ashes</creator>
+    </track>
+    <track>
+      <title>Babe, I'm Gonna Leave You</title>
+      <creator>The Quicksilver Messenger Service</creator>
+    </track>
+    <track>
+      <title>The Fool</title>
+      <creator>Quicksilver Messenger Service</creator>
+    </track>
+    <track>
+      <title>Grand Pianist</title>
+      <creator>Montage</creator>
+    </track>
+    <track>
+      <title>5th Movement: Pre-Dawn Retrospective Chant</title>
+      <creator>The Eclectic Mouse</creator>
+    </track>
+    <track>
+      <title>Party Seacombe</title>
+      <creator>George Harrison</creator>
+      <album>Wonderwall Music</album>
+    </track>
+    <track>
+      <title>NRFS (feat. Jimmi Jo Hueting, Thomas Pol &amp; Tomoaki Baba)</title>
       <creator>Benjamin Herman</creator>
       <album>The Tokyo Sessions</album>
     </track>
     <track>
-      <title>Beautiful Strangers</title>
-      <creator>Kevin Morby</creator>
-      <album>Single</album>
+      <title>Three Steps</title>
+      <creator>Solar</creator>
+      <album>Aftermath and Transitions (Traces Of The Ukrainian Underground in Cologne (1994-1996))</album>
     </track>
     <track>
-      <title>Houses</title>
-      <creator>Elyse Weinberg</creator>
-      <album>Greasepaint Smile</album>
+      <title>Silhouette</title>
+      <creator>Tony Gerrano</creator>
+      <album>Gat Mort</album>
     </track>
     <track>
-      <title>River Lady</title>
-      <creator>Roger Whittaker</creator>
-      <album>The Best of Roger Whittaker 1967-1975</album>
+      <title>Severed Cord</title>
+      <creator>Auscultation</creator>
+      <album>IV</album>
     </track>
     <track>
-      <title>To Comfort Them (And All Beings)</title>
-      <creator>The Spatulas</creator>
-      <album>A Blue Dot</album>
+      <title>Slippage</title>
+      <creator>Visible Cloaks</creator>
+      <album>Paradessence</album>
     </track>
     <track>
-      <title>So Lazy</title>
-      <creator>Guilty Razors</creator>
-      <album>Complete Recordings - 1978</album>
+      <title>Daylight</title>
+      <creator>Colin Andrew Sheffield</creator>
+      <album>Images</album>
     </track>
     <track>
-      <title>Into My Eyes</title>
-      <creator>Suicide</creator>
-      <album>The First Rehearsal Tapes</album>
+      <title>Barxacova</title>
+      <creator>Alejandro Druso</creator>
+      <album>A truly magical guide</album>
     </track>
     <track>
-      <title>Hope Hope Hope</title>
-      <creator>Scott Seskind</creator>
-      <album>Chance</album>
+      <title>Let The Light Be 南から</title>
+      <creator>Tenniscoats with Tape</creator>
+      <album>Minat Soul</album>
     </track>
     <track>
-      <title>Muddy Waters</title>
-      <creator>Nikki Lane</creator>
-      <album>Highway Queen</album>
+      <title>Skata</title>
+      <creator>Lymland</creator>
+      <album>Tonrum</album>
     </track>
     <track>
-      <title>Alimente</title>
-      <creator>Novos Baianos</creator>
-      <album>Novos Baianos F.C.</album>
+      <title>My life as an artichoke</title>
+      <creator>Esse Pi Enne</creator>
+      <album>Chamber music</album>
     </track>
     <track>
-      <title>Go Bang! #5</title>
-      <creator>Dinosaur L</creator>
-      <album>12"</album>
+      <title>Quiet Place</title>
+      <creator>Svitlana Nianio / Phanton</creator>
+      <album>Aftermath and Transitions (Traces Of The Ukrainian Underground in Cologne (1994-1996))</album>
     </track>
     <track>
-      <title>The Mexican</title>
-      <creator>Babe Ruth</creator>
-      <album>First Base</album>
+      <title>Stop_Time</title>
+      <creator>Sexo y Fantasia</creator>
+      <album>Trabajando El Flex</album>
     </track>
     <track>
-      <title>We Love Dancing</title>
-      <creator>Arling &amp; Cameron</creator>
-      <album>Voulez-Vous?</album>
+      <title>Arp Angels</title>
+      <creator>Discovery Zone</creator>
+      <album>Library Copy Do Not Remove</album>
     </track>
     <track>
-      <title>Vamos A La Playa</title>
-      <creator>Righeira</creator>
-      <album>Vamos A La Playa</album>
+      <title>Dans le langage des mycorhizes</title>
+      <creator>l'arbre nu</creator>
+      <album>you are everywhere and here. a compilation of songs 2019-2023</album>
     </track>
     <track>
-      <title>Thong Song (inst) (33@45)</title>
-      <creator>Sisqó</creator>
-      <album>12"</album>
+      <title>Acid Test</title>
+      <creator>Daniel Pico</creator>
+      <album>Fangs of Love</album>
     </track>
     <track>
-      <title>Don't Fight It Feel It (Scat Mix)</title>
-      <creator>Primal Scream</creator>
+      <title>I Am Sitting On A Steep Slope</title>
+      <creator>Oidopuaa Vladimir Oiun</creator>
+      <album>Divine Music From Jail</album>
+    </track>
+    <track>
+      <title>Beloved Circus</title>
+      <creator>Andrea Pensado</creator>
+      <album>Circus Parade</album>
+    </track>
+    <track>
+      <title>Ni una Brisa</title>
+      <creator>Mariana Ingold</creator>
+      <album>Cara A Cara</album>
+    </track>
+    <track>
+      <title>anatomie</title>
+      <creator>Jérôme Noetinger &amp; Petr Vrba</creator>
+      <album>Hystérésis</album>
+    </track>
+    <track>
+      <title>Kanal</title>
+      <creator>Eikoo</creator>
+      <album>Schlicke (Aufnahmen)</album>
+    </track>
+    <track>
+      <title>New Jersey</title>
+      <creator>Lucky Dixon</creator>
+      <album>Songs Written for the "Great Ones" . . . That Were Never Heard</album>
+    </track>
+    <track>
+      <title>cosmic interception</title>
+      <creator>Von Lmo</creator>
+      <album>Cosmic Interception 7" ep</album>
+    </track>
+    <track>
+      <title>Midget Submarines (John Peel Session, 15/5/79)</title>
+      <creator>Swell Maps</creator>
+      <album>the john peel sessions</album>
+    </track>
+    <track>
+      <title>CouCou</title>
+      <creator>The Monsieurs</creator>
+      <album>deux</album>
+    </track>
+    <track>
+      <title>Weird</title>
+      <creator>Big Richard Insect</creator>
+      <album>Cop Out Animals 7"</album>
+    </track>
+    <track>
+      <title>Lizard Lips</title>
+      <creator>vibrant fiasco</creator>
       <album>7"</album>
     </track>
     <track>
-      <title>Batman</title>
-      <creator>The Invisible Man</creator>
-      <album>12"</album>
+      <title>One More Thing</title>
+      <creator>L7</creator>
+      <album>Bricks Are Heavy</album>
     </track>
     <track>
-      <title>Tadaima</title>
-      <creator>Akiko Yano</creator>
-      <album>Tadaima</album>
+      <title>girls</title>
+      <creator>Nina Winder-lind</creator>
+      <album>single</album>
     </track>
     <track>
-      <title>Tubthumping (45 @ 33)</title>
-      <creator>Chumbawamba</creator>
-      <album>45</album>
+      <title>Breaking Point</title>
+      <creator>Jack Silbert</creator>
+      <album>Hoboken Jack Weekly Spoken Word</album>
     </track>
     <track>
-      <title>Smoking On A Brighter Day</title>
-      <creator>Cities Aviv</creator>
-      <album>Man Plays The Horn</album>
+      <title>Crimson and Clover</title>
+      <creator>The Billy Syndrome</creator>
+      <album>all you gotta do is lie 7" ep</album>
     </track>
     <track>
-      <title>Non Ce N'est Pas Un Rêve</title>
-      <creator>Françoise Hardy</creator>
-      <album>L'Amitié</album>
+      <title>I.W.S. I will Survive</title>
+      <creator>Franklin Bruno</creator>
+      <album>hermetic geometry</album>
     </track>
     <track>
-      <title>A Song for You</title>
-      <creator>Al Wilson</creator>
-      <album>Show and Tell</album>
+      <title>subwoofer speaker freaker</title>
+      <creator>black meteoric star</creator>
+      <album>wet</album>
     </track>
     <track>
-      <title>Pony</title>
-      <creator>Annette Peacock</creator>
-      <album>I'm The One</album>
+      <title>electric eyes</title>
+      <creator>virginia plain</creator>
+      <album>7"</album>
     </track>
     <track>
-      <title>Satta Masa Ganna</title>
-      <creator>Cedric 'Im' Brooks</creator>
-      <album>United Africa</album>
+      <title>Chicken Kicken</title>
+      <creator>Visionstain</creator>
+      <album>the campsite 7" ep</album>
     </track>
     <track>
-      <title>I Don't Wanna Hurt No More (Radio Edit)</title>
-      <creator>Nate Dogg Feat. Danny "Butch" Means</creator>
-      <album>12"</album>
+      <title>This Train</title>
+      <creator>Bodeco</creator>
+      <album>7"</album>
     </track>
     <track>
-      <title>Make It Easy On Yourself</title>
-      <creator>Walker Brothers</creator>
-      <album>45</album>
+      <title>anything 4u</title>
+      <creator>Ville Fantome</creator>
+      <album>7"</album>
     </track>
     <track>
-      <title>Mooch</title>
-      <creator>June of 44</creator>
-      <album>Engine Takes To The Water</album>
+      <title>The Boy Whose Head Exploded (Meets Electric Girl)</title>
+      <creator>Blast Off Country Style</creator>
+      <album>c'mon and blast off country style</album>
     </track>
     <track>
-      <title>Unicycle Silencer</title>
-      <creator>Three Mile Pilot</creator>
-      <album>Nà Vuccà Dò Lupù</album>
+      <title>shut up and deal</title>
+      <creator>The Paranoid Style</creator>
+      <album>known associates</album>
     </track>
     <track>
-      <title>Paint It Black</title>
-      <creator>Gabor Szabo</creator>
-      <album>Jazz Raga</album>
+      <title>Venezuela</title>
+      <creator>Ray Charles &amp; Harry Belafonte</creator>
+      <album>The Greatest Ever</album>
     </track>
     <track>
-      <title>How Much We Grew</title>
-      <creator>Busta Rhymes</creator>
-      <album>Anarchy (clean radio edits)</album>
+      <title>Piedras Al Lago</title>
+      <creator>Valentin Y Los Volcanes</creator>
+      <album>7"</album>
     </track>
     <track>
-      <title>Yamasuki</title>
-      <creator>Yamasuki</creator>
-      <album>Le Monde Fabuleux Des Yamasuki</album>
+      <title>Lose Myself in Sound</title>
+      <creator>David Kilgour and the Heavy Eights</creator>
+      <album>End Times Undone</album>
     </track>
     <track>
-      <title>Nobody Beats The Biz</title>
-      <creator>Biz Markie</creator>
-      <album>Goin' Off</album>
+      <title>trouble is the outside</title>
+      <creator>Chelsea</creator>
+      <album>Chelsea</album>
     </track>
     <track>
-      <title>Next Level (Premier's Nytyme Radio Remix)</title>
-      <creator>Show And AG</creator>
-      <album>12"</album>
+      <title>your eyes</title>
+      <creator>White Fence</creator>
+      <album>Orange</album>
     </track>
     <track>
-      <title>Култура (Culture)</title>
-      <creator>Токму Така (Exactly Like That)</creator>
-      <album>Има Ли Забава? New Wave Macedonia 1981-1985 (v/a)</album>
+      <title>Speed Bead</title>
+      <creator>Little Wings</creator>
+      <album>Scribble Benefit Compilation Volume 2</album>
     </track>
     <track>
-      <title>Mr Le Président</title>
-      <creator>Keruda Panter</creator>
-      <album>Recherche Et Développement (v/a)</album>
+      <title>Automatico</title>
+      <creator>Tia Rosa</creator>
+      <album>thirteen automatic dreams</album>
     </track>
     <track>
-      <title>What Is Love (12" Mix)</title>
-      <creator>Haddaway</creator>
-      <album>12"</album>
+      <title>Various Tracks as Bed Music</title>
+      <creator>Evan Crankshaws Explorer's Room - VA</creator>
+      <album>Organized Zounds</album>
     </track>
     <track>
-      <title>Orphans</title>
-      <creator>Teenage Jesus And The Jerks</creator>
-      <album>Orphans</album>
+      <title>Turn Your Radio On</title>
+      <creator>The Blackwood Singers</creator>
+      <album>We Ty Harder</album>
     </track>
     <track>
-      <title>All We Want'sa Prison</title>
-      <creator>Chief Ed Guyott And The Long Arm Of The Law Band</creator>
-      <album>Is We Is?! (The Prison Rap) / All We Want'sa Prison</album>
+      <title>Starman</title>
+      <creator>Seu Jorge</creator>
+      <album>The Life Aquatic Studio Sessions featuring Seu Jorge</album>
     </track>
     <track>
-      <title>Victim of Changes</title>
-      <creator>Judas Priest</creator>
-      <album>Sad Wings of Destiny</album>
+      <title>Love Lies Bleeding</title>
+      <creator>Elton John</creator>
+      <album>Goodbye Yellow Brick Road</album>
     </track>
     <track>
-      <title>Rock &amp; Roll Mama</title>
-      <creator>Wally Gonzalez</creator>
-      <album>Hard Philippines: A Collection Of 70s Pinoy Hard Rock, Fuzzed Out Rockers, Hard Glam And Face Melting Guitar Madness !!!</album>
+      <title>Life's A Gas</title>
+      <creator>T. Rex</creator>
+      <album>Electric Warrior</album>
     </track>
     <track>
-      <title>Victims Of The Night</title>
-      <creator>Heavy Pettin</creator>
-      <album>Heavy Pettin</album>
+      <title>Baby Your Phrasing Is Bad</title>
+      <creator>Caleb Quaye</creator>
     </track>
     <track>
-      <title>We Are 138</title>
-      <creator>The Misfits</creator>
-      <album>Static Age</album>
+      <title>At The Club</title>
+      <creator>The T-Boones</creator>
+      <album>Searchin For Shakes (Swedish Beat 1965-1968)</album>
     </track>
     <track>
-      <title>La Bamba</title>
-      <creator>Los Yetis</creator>
-      <album>Los Yetis</album>
+      <title>Went Home Today</title>
+      <creator>Merriday Park</creator>
+      <album>Le Beat Bespoke Vol 11</album>
     </track>
     <track>
-      <title>I Keep Forgettin'</title>
-      <creator>Michael McDonald</creator>
-      <album>I Keep Forgettin'</album>
+      <title>20-40</title>
+      <creator>Phoung Tam</creator>
+      <album>Magical Nights - Saigon Surf Twist &amp; Soul (1964-1966)</album>
     </track>
     <track>
-      <title>When I Fell In Love</title>
-      <creator>Prophet</creator>
-      <album>Right On Time</album>
+      <title>Wiwwian Wevy</title>
+      <creator>Pastrami Malted</creator>
     </track>
     <track>
-      <title>Hay Girl</title>
-      <creator>The Chylds</creator>
+      <title>Restless Skylight - Transistor-Child: A Short Stop at the Trans-Sylvania Brain-Surgery</title>
+      <creator>Amon Duul II</creator>
+      <album>Dance of The Lemmings</album>
     </track>
     <track>
-      <title>Back On The Avenue</title>
+      <title>Never Existed</title>
+      <creator>The Basement Wall</creator>
+      <album>Le Beat Bespoke Vol 11</album>
+    </track>
+    <track>
+      <title>The Past Ain't Passed</title>
+      <creator>Chris Forsyth with Garcia Peoples</creator>
+      <album>Peoples Motel Band (Solar Live Vol. 3: 9.14.19)</album>
+    </track>
+    <track>
+      <title>East Two</title>
+      <creator>Sun Ra</creator>
+      <album>East 5 +2</album>
+    </track>
+    <track>
+      <title>On The Plane</title>
+      <creator>Kartune Kapers</creator>
+      <album>Le Beat Bespoke Vol 11</album>
+    </track>
+    <track>
+      <title>Kookie Hat</title>
+      <creator>Freddy Cannon</creator>
+    </track>
+    <track>
+      <title>Palisades Park</title>
+      <creator>Freddy Boom Boom Cannon</creator>
+      <album>The Explosive Freddy Cannon</album>
+    </track>
+    <track>
+      <title>Magic Record!</title>
+      <creator>The Nu Tornados</creator>
+    </track>
+    <track>
+      <title>Meet the Mets Instrumental</title>
+      <creator>Glenn Osser and His Orchestra</creator>
+    </track>
+    <track>
+      <title>The Creator Has A Master Plan (Peace)</title>
+      <creator>Louis Armstrong</creator>
+      <album>And His Friends</album>
+    </track>
+    <track>
+      <title>The Mystery of Two</title>
+      <creator>Sun Ra</creator>
+      <album>Somewhere Over the Rainbow</album>
+    </track>
+    <track>
+      <title>Over the Rainbow</title>
+      <creator>Sun Ra</creator>
+      <album>Somewhere Over the Rainbow</album>
+    </track>
+    <track>
+      <title>Zip-A-Dee-Doo-Dah</title>
+      <creator>Louis Armstrong</creator>
+      <album>Disney Songs The Satchmo Way</album>
+    </track>
+    <track>
+      <title>Acid Tongue</title>
+      <creator>Swamp Dogg</creator>
+      <album>Contemplates the Afterlife</album>
+    </track>
+    <track>
+      <title>He Took My Hand</title>
+      <creator>Bette Williams</creator>
+      <album>Swamp Dogg's Southern Soul Girls: Sandra Phillips &amp; Bette Williams</album>
+    </track>
+    <track>
+      <title>Lovers Heaven</title>
+      <creator>Peggy Scott &amp; Jo Jo Benson</creator>
+      <album>Lovers Heaven</album>
+    </track>
+    <track>
+      <title>Half as Much</title>
+      <creator>Tennessee Ernie Ford</creator>
+      <album>Ernie Looks at Love</album>
+    </track>
+    <track>
+      <title>Side 1: Music Arcade, Nowadays Clancy Can't Even Sing, Buffalo Springfield Again, Who Wrote This Song?</title>
+      <creator>Scott The Hoople</creator>
+      <album>Neil Vol 1</album>
+    </track>
+    <track>
+      <title>Surfin Hootenanny</title>
+      <creator>Al Casey</creator>
+      <album>Surfin Hootenanny</album>
+    </track>
+    <track>
+      <title>Pull Up To The Bumper</title>
+      <creator>Grace Jones</creator>
+      <album>Night Clubbing</album>
+    </track>
+    <track>
+      <title>Ball of Confusion!</title>
+      <creator>B.E.F.* Featuring Tina Turner</creator>
+    </track>
+    <track>
+      <title>Mechal</title>
+      <creator>Erkin Koray</creator>
+      <album>Mechal Singes and Rarities</album>
+    </track>
+    <track>
+      <title>Valsa Cideral</title>
+      <creator>Jorge Atunes</creator>
+      <album>Musica Electronica</album>
+    </track>
+    <track>
+      <title>Round About Midnight</title>
+      <creator>Bennie Wallace</creator>
+      <album>Bennie Wallace Plays Monk</album>
+    </track>
+    <track>
+      <title>Gee That Was Fun</title>
+      <creator>Sparks</creator>
+      <album>The Girl Is Crying In Her Latte</album>
+    </track>
+    <track>
+      <title>Non Stop Dancing Medley</title>
+      <creator>James Last And His Orchestra</creator>
+      <album>Non Stop Dancing 12</album>
+    </track>
+    <track>
+      <title>He Was A Friend Of Mine (stereo)</title>
       <creator>The Leaves</creator>
     </track>
     <track>
-      <title>One More Time</title>
-      <creator>Clefs Of Lavender Hill</creator>
-    </track>
-    <track>
-      <title>She's Mine</title>
+      <title>She's (Got Plenty Of Love)</title>
       <creator>Liverpool Five</creator>
     </track>
     <track>
-      <title>Again &amp; Again</title>
-      <creator>The Iguanas</creator>
+      <title>I Am What I Am</title>
+      <creator>M.P.D. Limited</creator>
     </track>
     <track>
-      <title>Say I Am</title>
-      <creator>The Fireballs</creator>
+      <title>Searchin' In The Wilderness</title>
+      <creator>Allen Pound's Get Rich</creator>
     </track>
     <track>
-      <title>Time Is After You (Vault version)</title>
-      <creator>The Peanut Butter Conspiracy</creator>
+      <title>Big Man In Town</title>
+      <creator>Frankie Valli &amp; The Four Seasons</creator>
     </track>
     <track>
-      <title>Love's Fatal Way</title>
-      <creator>Sagittarius</creator>
-      <album>Present Tense</album>
+      <title>Troubles Of My Own</title>
+      <creator>Billy And The Kid</creator>
     </track>
     <track>
-      <title>Expo 2000</title>
-      <creator>The Chocolate Watchband</creator>
-      <album>The Best Of The Chocolate Watch Band</album>
+      <title>I'll Go Crazy</title>
+      <creator>The Phantoms</creator>
     </track>
     <track>
-      <title>04 Heed The Warning</title>
-      <creator>The Thanes</creator>
+      <title>Be Mine, All Mine</title>
+      <creator>Johnny Powers</creator>
     </track>
     <track>
-      <title>Hard Times</title>
-      <creator>The Century's</creator>
+      <title>H.B. Goose Step</title>
+      <creator>Rivieras</creator>
+      <album>California Sun-The Best Of The Rivieras</album>
     </track>
     <track>
-      <title>Impressin'</title>
-      <creator>The Kreeg</creator>
+      <title>Full Measure (instrumental version)</title>
+      <creator>The Lovin' Spoonful</creator>
     </track>
     <track>
-      <title>How Do You Like It</title>
-      <creator>Sheppards</creator>
-      <album>Stubborn Heart / How Do You Like It</album>
+      <title>You Better Run</title>
+      <creator>The 'N Betweens</creator>
     </track>
     <track>
-      <title>Black Velvet</title>
-      <creator>Charles Bradley</creator>
+      <title>I'm So Restless</title>
+      <creator>Cuby + Blizzards</creator>
     </track>
     <track>
-      <title>Shapes In My Mind</title>
-      <creator>Keith Relf</creator>
+      <title>One More Heartache</title>
+      <creator>Marvin Gaye</creator>
     </track>
     <track>
-      <title>Just Give Me Time</title>
-      <creator>The "In"</creator>
+      <title>The Game Gets Old</title>
+      <creator>Sharon Jones &amp; the Dap-Kings</creator>
     </track>
     <track>
-      <title>Pay Attention To Me</title>
-      <creator>The Tikis</creator>
+      <title>Do Unto Others</title>
+      <creator>Paul Revere &amp; The Raiders</creator>
     </track>
     <track>
-      <title>Help Me Girl</title>
-      <creator>The Animals</creator>
-      <album>The Animals</album>
+      <title>Me Right Now</title>
+      <creator>The Remains</creator>
     </track>
     <track>
-      <title>Bye Bye</title>
-      <creator>The Ban</creator>
-    </track>
-    <track>
-      <title>Space Guitar</title>
-      <creator>Johnny Guitar Watson</creator>
-      <album>Space Guitar</album>
-    </track>
-    <track>
-      <title>Chime Time</title>
-      <creator>Radio Caroline Bell</creator>
-    </track>
-    <track>
-      <title>Girl Don't Tell Me</title>
-      <creator>The Smithereens</creator>
-    </track>
-    <track>
-      <title>Shapes of Things To Come</title>
-      <creator>The 13th Power</creator>
-      <album>Wild in the Streets OST</album>
-    </track>
-    <track>
-      <title>She Lives In (A Time Of Her Own)</title>
-      <creator>13th Floor Elevators</creator>
-      <album>Easter Everywhere</album>
-    </track>
-    <track>
-      <title>Starry Eyes</title>
-      <creator>Roky Erikson</creator>
-      <album>Don't Slander Me</album>
-    </track>
-    <track>
-      <title>Starry Eyes</title>
-      <creator>The Records</creator>
-      <album>The Records</album>
-    </track>
-    <track>
-      <title>Let Her Dance</title>
-      <creator>Bobby Fuller Four</creator>
-    </track>
-    <track>
-      <title>I Fought The Law</title>
-      <creator>Bobby Fuller Four</creator>
-    </track>
-    <track>
-      <title>Paint It Black</title>
+      <title>Sittin' On A Fence</title>
       <creator>The Rolling Stones</creator>
     </track>
     <track>
-      <title>Paint It Black</title>
-      <creator>Gabor Szabo</creator>
-      <album>Jazz Raga</album>
+      <title>Love Is a Beautiful Thing</title>
+      <creator>Princemen</creator>
     </track>
     <track>
-      <title>Thirteen</title>
-      <creator>Big Star</creator>
-      <album>#1 Record</album>
+      <title>Green Bottle Lover</title>
+      <creator>The Sparrow</creator>
     </track>
     <track>
-      <title>The Numbr One Fool</title>
-      <creator>These Foolish Things</creator>
+      <title>About Noon</title>
+      <creator>Mar-Keys</creator>
     </track>
     <track>
-      <title>Chain of Fools</title>
-      <creator>Paul Revere and the Raiders</creator>
-      <album>Legend of Paul Revere</album>
+      <title>Uptight (Everything's Alright)</title>
+      <creator>Ramsey Lewis</creator>
+      <album>Hang On Ramsey / Wade in the Water</album>
     </track>
     <track>
-      <title>She's A Fool</title>
-      <creator>Lesley Gore</creator>
+      <title>I'm Comin' Home</title>
+      <creator>John Hatton &amp; The Devotions</creator>
     </track>
     <track>
-      <title>Looking Through The Eyes Of A Fool</title>
-      <creator>Roy Wood</creator>
+      <title>Ban Roll On (radio spot)</title>
+      <creator>H.P. Lovecraft</creator>
     </track>
     <track>
-      <title>Sold Out</title>
-      <creator>The Fools</creator>
-      <album>Sold Out</album>
+      <title>Garbage City</title>
+      <creator>The Street Cleaners</creator>
     </track>
     <track>
-      <title>The Man Who Sold the World</title>
-      <creator>Lulu</creator>
+      <title>I Think I'm Down (Mono 45)</title>
+      <creator>The Harbinger Complex</creator>
     </track>
     <track>
-      <title>Someday We're Gonna Love Again</title>
-      <creator>The Searchers</creator>
+      <title>Show Me (mono 45)</title>
+      <creator>Del Shannon</creator>
     </track>
     <track>
-      <title>Just Got Lucky</title>
-      <creator>JoBoxers</creator>
-      <album>Like Gangbusters</album>
+      <title>Goodbye My Love</title>
+      <creator>The Leaves</creator>
     </track>
     <track>
-      <title>What I Like About You</title>
-      <creator>The Romantics</creator>
-      <album>Romantics</album>
+      <title>Hold Tight</title>
+      <creator>The Telstars</creator>
     </track>
     <track>
-      <title>I'm On Fire</title>
-      <creator>Dwight Twilley Band</creator>
+      <title>I Can't Get Her Out of My Heart</title>
+      <creator>Bay Ridge</creator>
     </track>
     <track>
-      <title>Fresh Air</title>
-      <creator>Quicksilver Messenger Service</creator>
-      <album>Just for Love</album>
+      <title>The Snake</title>
+      <creator>Liverpool Five</creator>
     </track>
     <track>
-      <title>Love Is Like Oxygen</title>
-      <creator>Sweet</creator>
+      <title>Eloise (Hang On In There)</title>
+      <creator>William Bell</creator>
     </track>
     <track>
-      <title>Something In the Air</title>
-      <creator>Thunderclap Newman</creator>
-      <album>Hollywood Dream</album>
+      <title>One Of The Bunch</title>
+      <creator>The Purple Gang</creator>
     </track>
     <track>
-      <title>The Air That I Breathe</title>
-      <creator>The Hollies</creator>
+      <title>Shut Down Again</title>
+      <creator>Billy And The Kid</creator>
     </track>
     <track>
-      <title>White Bird</title>
-      <creator>It's A Beautiful Day</creator>
-      <album>It's A Beautiful Day</album>
+      <title>Hold Your Lovin'</title>
+      <creator>Titus Turner</creator>
     </track>
     <track>
-      <title>Nowhere Man</title>
-      <creator>The Beatles</creator>
+      <title>Who Could Ever Doubt My Love</title>
+      <creator>The Isley Brothers</creator>
     </track>
     <track>
-      <title>What The Hell I Got</title>
-      <creator>Michel Pagliaro</creator>
+      <title>It's Wonderful</title>
+      <creator>The Young Rascals</creator>
+      <album>Good Lovin' and Other Hits</album>
     </track>
     <track>
-      <title>Right Place, Wrong Time</title>
-      <creator>Dr John</creator>
+      <title>Try And See Me</title>
+      <creator>The Reasons Why</creator>
     </track>
     <track>
-      <title>Whiskey Train</title>
-      <creator>Procol Harum</creator>
+      <title>Treat Me Right</title>
+      <creator>Panicks, The</creator>
     </track>
     <track>
-      <title>Birthday</title>
-      <creator>The Beatles</creator>
-      <album>White Album</album>
+      <title>Deck Five</title>
+      <creator>Saturday's Children</creator>
     </track>
     <track>
-      <title>Go Now!</title>
-      <creator>Wings</creator>
-      <album>Wings Over America</album>
+      <title>Goin' Too Far</title>
+      <creator>The Fifth Order</creator>
     </track>
     <track>
-      <title>Love and Mercy</title>
-      <creator>Brian Wilson</creator>
-      <album>Brian Wilson</album>
+      <title>Some Day</title>
+      <creator>Danny Cobb</creator>
     </track>
     <track>
-      <title>in the funhouse</title>
-      <creator>Lesley Mok</creator>
-      <album>Transient</album>
+      <title>Better Things</title>
+      <creator>Sharon Jones &amp; the Dap-Kings</creator>
     </track>
     <track>
-      <title>Masth Chantani</title>
-      <creator>Alfonso Soliano</creator>
-      <album>Tiga Trombone</album>
+      <title>Little Saint Nick</title>
+      <creator>The Beach Boys</creator>
+      <album>The Beach Boys' Christmas Album</album>
     </track>
     <track>
-      <title>Taj Mahal</title>
-      <creator>Shirley Scott &amp; Clark Terry</creator>
-      <album>Soul Duo</album>
-    </track>
-    <track>
-      <title>Nova / Free Spirits</title>
-      <creator>Nova Fellowship</creator>
-      <album>Continuum</album>
-    </track>
-    <track>
-      <title>Merdah / Take No Els</title>
-      <creator>DJ Drama</creator>
-      <album>The Second Coming - Illadelf II Mixtape</album>
-    </track>
-    <track>
-      <title>Tanganyika</title>
-      <creator>Jake Ferguson feat. Malcolm Catto</creator>
-      <album>A Life Supreme</album>
-    </track>
-    <track>
-      <title>STUB</title>
-      <creator>FATHERS (Kenneth Blume, CARRTOONS, Kiefer, Nate Smith)</creator>
-      <album>FATHERS</album>
-    </track>
-    <track>
-      <title>the élan vital</title>
-      <creator>Cities Aviv</creator>
-      <album>Even Colder Spring</album>
-    </track>
-    <track>
-      <title>Space Flight</title>
-      <creator>I Roy &amp; The Upsetters</creator>
-      <album>Flashing Echo - Lee 'Scratch' Perry Presents Jungle Lion The Upsetter Singles 1973, Chapter 2</album>
-    </track>
-    <track>
-      <title>Neptune / The Voice Of Ebah</title>
-      <creator>Sun Ra And His Arkestra</creator>
-      <album>Somewhere Over The Rainbow</album>
-    </track>
-    <track>
-      <title>Next Stop Mars</title>
-      <creator>Sun Ra And His Arkestra</creator>
-      <album>Somewhere Over The Rainbow</album>
-    </track>
-    <track>
-      <title>Images In A Mirror</title>
-      <creator>Sun Ra And His Arkestra</creator>
-      <album>Somewhere Over The Rainbow</album>
-    </track>
-    <track>
-      <title>Fluoroscope</title>
-      <creator>Henry Threadgill Zooid</creator>
-      <album>Cut You Where You Was</album>
-    </track>
-    <track>
-      <title>Libesh Kabashen (ልበሽ ካባሽን)</title>
-      <creator>Teodros Makonnen</creator>
-      <album>Teodros Makonnen With His Organ</album>
-    </track>
-    <track>
-      <title>Savannah</title>
-      <creator>Larry Stabbins</creator>
-      <album>And the birds sang... duets with Keith Tippett and Louis Moholo-Moholo</album>
-    </track>
-    <track>
-      <title>Voice of Chunk Advertisement</title>
-      <creator>Lounge Lizards</creator>
-      <album>Voice of Chunk Advertisement</album>
-    </track>
-    <track>
-      <title>My Trip To Ireland / Big Heart</title>
-      <creator>Lounge Lizards</creator>
-      <album>Live at The Nihon Seinenkan Hall, Tokyo, Japan, June 3, 1987</album>
-    </track>
-    <track>
-      <title>Thruple</title>
-      <creator>Harleighblu</creator>
-      <album>Thruple</album>
-    </track>
-    <track>
-      <title>People Be Happy</title>
-      <creator>Kieran Hebden / Steve Reid / Mats Gustafsson</creator>
-      <album>Live At The South Bank</album>
-    </track>
-    <track>
-      <title>Household of Saud</title>
-      <creator>Charles Tolliver All Stars</creator>
-      <album>Right Now... And Then</album>
-    </track>
-    <track>
-      <title>I Wanted a Map</title>
-      <creator>Henry Threadgill, Vijay Iyer, Dafnis Prieto</creator>
-      <album>Fifteen</album>
-    </track>
-    <track>
-      <title>Suspended In Time</title>
-      <creator>Group Home</creator>
-      <album>Livin' Proof</album>
-    </track>
-    <track>
-      <title>STUB</title>
-      <creator>FATHERS (Kenneth Blume, CARRTOONS, Kiefer, Nate Smith)</creator>
-      <album>Live from Wonderland Park</album>
-    </track>
-    <track>
-      <title>The Strongest Kid</title>
-      <creator>My Face Is Dancing</creator>
-      <album>My Face Is Dancing</album>
-    </track>
-    <track>
-      <title>The caligrapher's blues</title>
-      <creator>Pat Thomas, Olie Brice &amp; Gary Willcox</creator>
-      <album>The Day After</album>
-    </track>
-    <track>
-      <title>Testify</title>
-      <creator>James Brandon Lewis Quartet</creator>
-      <album>Omni</album>
-    </track>
-    <track>
-      <title>Twathiaga Tukenete</title>
-      <creator>Joseph Kamaru</creator>
-      <album>Further Combinations</album>
-    </track>
-    <track>
-      <title>Low Profile</title>
-      <creator>Lekan Animshaun</creator>
-      <album>Low Profile</album>
-    </track>
-    <track>
-      <title>Se Rere</title>
-      <creator>Lekan Animshaun</creator>
-      <album>Low Profile</album>
-    </track>
-    <track>
-      <title>Unknown Title</title>
-      <creator>Ornette Coleman &amp; Prime Time</creator>
-      <album>Live Under The Sky, Japan, July 27, 1986</album>
-    </track>
-    <track>
-      <title>Inizdjam</title>
-      <creator>Tamikrest</creator>
-      <album>Assikel</album>
-    </track>
-    <track>
-      <title>Albbas - Lynx</title>
-      <creator>Áššu</creator>
-      <album>Luohteniegut / Joik Dreams</album>
-    </track>
-    <track>
-      <title>Gochujang Forever</title>
-      <creator>Insun Park &amp; Generals</creator>
-      <album>Be Water, My Friend</album>
-    </track>
-    <track>
-      <title>Ti Nêzana</title>
-      <creator>Sakîna Têyna</creator>
-      <album>Sûret / Faces and Images</album>
-    </track>
-    <track>
-      <title>Yurush</title>
-      <creator>Savalan</creator>
-      <album>Savalan</album>
-    </track>
-    <track>
-      <title>Alb</title>
-      <creator>Maryam Saleh</creator>
-      <album>Syrr</album>
-    </track>
-    <track>
-      <title>Minl Jamal Lal Jalal Ft. JayJay</title>
-      <creator>Yusor Hamed</creator>
-      <album>Tuffah</album>
-    </track>
-    <track>
-      <title>Hak Shmata</title>
-      <creator>Najat Aâtabou</creator>
-      <album>J'en Ai Marre</album>
-    </track>
-    <track>
-      <title>Dalali Dalali</title>
-      <creator>Zeina Hamieh</creator>
-      <album>Dalaly</album>
-    </track>
-    <track>
-      <title>Dikrayat</title>
-      <creator>Abdou El Omari</creator>
-      <album>Lost Tape - 1980</album>
-    </track>
-    <track>
-      <title>Bouaamrane</title>
-      <creator>Yassine Nana</creator>
-      <album>Modern Pop from Mauritania (1984-1989)</album>
-    </track>
-    <track>
-      <title>Al Ghaba</title>
-      <creator>Assad Khoury</creator>
-      <album>Electronic Touches Belly Dance</album>
-    </track>
-    <track>
-      <title>The Old Times Came to My Mind</title>
-      <creator>Wesenyeleh Mebreku</creator>
-      <album>Resonance of Time</album>
-    </track>
-    <track>
-      <title>I Djidja</title>
-      <creator>Idrissa Soumaoro</creator>
-      <album>Various Artists: Cuban Connections</album>
-    </track>
-    <track>
-      <title>Djonkolon</title>
-      <creator>Bassekou Kouyate &amp; Amy Sacko</creator>
-      <album>Djudjon, L'oiseau De Garana</album>
-    </track>
-    <track>
-      <title>Charukeshi Constant</title>
-      <creator>Quadrature</creator>
-      <album>Live on WFMU</album>
-    </track>
-    <track>
-      <title>Interview</title>
-      <creator>Quadrature</creator>
-      <album>Live on WFMU</album>
-    </track>
-    <track>
-      <title>Spaghetti Eastern</title>
-      <creator>Quadrature</creator>
-      <album>Live on WFMU</album>
-    </track>
-    <track>
-      <title>Mr. Safala</title>
-      <creator>Quadrature</creator>
-      <album>Live on WFMU</album>
-    </track>
-    <track>
-      <title>Funkadelic Meets Ravi Shankar</title>
-      <creator>Quadrature</creator>
-      <album>Live on WFMU</album>
-    </track>
-    <track>
-      <title>Red Shift Blues</title>
-      <creator>Quadrature</creator>
-      <album>Live on WFMU</album>
-    </track>
-    <track>
-      <title>Mother Durga</title>
-      <creator>Quadrature</creator>
-      <album>Live on WFMU</album>
-    </track>
-    <track>
-      <title>Black Hole Blues</title>
-      <creator>Quadrature</creator>
-      <album>Live on WFMU</album>
-    </track>
-    <track>
-      <title>Khöömei Celebration</title>
-      <creator>Alash</creator>
-      <album>Meni Mana</album>
-    </track>
-    <track>
-      <title>Haul Kazajo</title>
-      <creator>Luis Gimenez Amoros and Dastán Navyband</creator>
-      <album>Makamatik Vol. 2</album>
-    </track>
-    <track>
-      <title>It Is Windy in Ovu</title>
-      <creator>Oidopuaa Vladimir Oiun</creator>
-      <album>Divine Music from Jail</album>
-    </track>
-    <track>
-      <title>Eruption Solaire</title>
-      <creator>Les Fils Canouche</creator>
-      <album>Les Pantophiles</album>
-    </track>
-    <track>
-      <title>Chaj Mile-a</title>
-      <creator>Roland Brival</creator>
-      <album>Créole Gypsy</album>
+      <title>Getting the Corners</title>
+      <creator>TSU Tornados</creator>
+      <album>TSU Tornados Tracks</album>
     </track>
   </trackList>
 </playlist>
