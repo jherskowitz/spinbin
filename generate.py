@@ -159,7 +159,15 @@ def _clean(value):
 
 def generate_playlist(name, output_dir):
     config = PLAYLISTS[name]
-    tracks = config["fetch"]()
+    try:
+        tracks = config["fetch"]()
+    except Exception as exc:
+        # A single flaky upstream source (timeout, 5xx, malformed JSON, …)
+        # must not abort the whole run — skip this station and continue so
+        # the other feeds still regenerate. See CLAUDE.md: scrapers should
+        # return [] on error, but we guard here too as a backstop.
+        print(f"Error fetching {name}: {exc!r}, skipping.")
+        return
 
     if not tracks:
         print(f"No tracks found for {name}, skipping.")
