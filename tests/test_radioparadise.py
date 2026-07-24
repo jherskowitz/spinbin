@@ -1,5 +1,8 @@
 import time
 from unittest.mock import patch, MagicMock
+
+import requests
+
 from scrapers.radioparadise import fetch_plays
 
 
@@ -64,3 +67,11 @@ def test_fetch_plays_skips_incomplete(mock_get):
     tracks = fetch_plays()
     assert len(tracks) == 1
     assert tracks[0]["creator"] == "Real"
+
+
+@patch("scrapers.radioparadise.requests.get")
+def test_fetch_plays_returns_empty_on_timeout(mock_get):
+    """A network timeout (or any RequestException) should yield [] rather
+    than propagating and aborting the whole generate run."""
+    mock_get.side_effect = requests.exceptions.ReadTimeout("read timed out")
+    assert fetch_plays() == []

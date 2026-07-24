@@ -16,14 +16,19 @@ def fetch_plays(channel=0, hours=24, list_num=100):
     under a `song` field. `list_num` controls how many to request — the
     API honors values up to a few hundred.
     """
-    resp = requests.get(
-        RP_API_URL,
-        params={"chan": channel, "list_num": list_num},
-        timeout=30,
-        headers=HEADERS,
-    )
-    resp.raise_for_status()
-    data = resp.json()
+    try:
+        resp = requests.get(
+            RP_API_URL,
+            params={"chan": channel, "list_num": list_num},
+            timeout=30,
+            headers=HEADERS,
+        )
+        resp.raise_for_status()
+        data = resp.json()
+    except (requests.RequestException, ValueError):
+        # Network hiccup, 5xx, or malformed JSON — return empty so the run
+        # skips this station gracefully (see CLAUDE.md scraper convention).
+        return []
 
     songs_obj = data.get("song") or {}
     since_ts = (datetime.now(timezone.utc) - timedelta(hours=hours)).timestamp()

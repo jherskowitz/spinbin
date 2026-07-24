@@ -49,6 +49,20 @@ def test_generate_skips_empty_playlist(mock_fetch):
 
 
 @patch("generate.kexp.fetch_plays")
+def test_generate_skips_station_when_fetch_raises(mock_fetch):
+    """A scraper raising (e.g. a network timeout) must not abort the run —
+    the station is skipped and no file is written, so the loop can continue
+    to the remaining stations."""
+    import requests
+    mock_fetch.side_effect = requests.exceptions.ReadTimeout("read timed out")
+    with tempfile.TemporaryDirectory() as tmpdir:
+        # Should not raise
+        generate_playlist("kexp", tmpdir)
+        outfile = os.path.join(tmpdir, "kexp-today.xspf")
+        assert not os.path.exists(outfile)
+
+
+@patch("generate.kexp.fetch_plays")
 def test_generate_unescapes_html_entities_in_metadata(mock_fetch):
     """Sources sometimes pre-encode '&' as '&amp;'. Verify we decode before
     writing, so Parachord sees 'Earth Wind & Fire', not 'Earth Wind &amp; Fire'."""
