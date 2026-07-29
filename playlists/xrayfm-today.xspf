@@ -3,8 +3,393 @@
   <info>https://xray.fm/playlist</info>
   <creator>xray.fm</creator>
   <image>https://jherskowitz.github.io/spinbin/logos/xrayfm.svg</image>
-  <date>2026-07-28T11:53:58+00:00</date>
+  <date>2026-07-29T11:58:19+00:00</date>
   <trackList>
+    <track>
+      <title>Another Country</title>
+      <creator>Meshell Ndegeocello</creator>
+      <album>No More Water: The Gospel Of James Baldwin</album>
+    </track>
+    <track>
+      <title>Never Come Down</title>
+      <creator>Gretchen Parlato</creator>
+      <album>The Wise Ones</album>
+    </track>
+    <track>
+      <title>Little Sunflower</title>
+      <creator>Sam Barsh / Keyon Harrold / Mark Giuliana</creator>
+      <album>Straight08</album>
+    </track>
+    <track>
+      <title>M.OVE</title>
+      <creator>Mark Guiliana</creator>
+      <album>BEAT MUSIC 2.0</album>
+    </track>
+    <track>
+      <title>Metanoia</title>
+      <creator>Enneads</creator>
+      <album>Enneads</album>
+    </track>
+    <track>
+      <title>Power of Water</title>
+      <creator>John Hollenbeck &amp; the Hot Club Jazz Orchestra</creator>
+      <album>Peace &amp; Justice</album>
+    </track>
+    <track>
+      <title>I Can't Be Any Other Way</title>
+      <creator>Rafael Zaldivar / Christian McBride / Francisco Mela</creator>
+      <album>Meeting in New York Vol. 1</album>
+    </track>
+    <track>
+      <title>Every Body</title>
+      <creator>Adrian Younge</creator>
+      <album>Afro Disco Makossa</album>
+    </track>
+    <track>
+      <title>All Blues</title>
+      <creator>Nicholas Payton / Butcher Brown</creator>
+      <album>A Supreme Blue</album>
+    </track>
+    <track>
+      <title>In a Silent Way / What About Time</title>
+      <creator>Joel Harrison and Friends</creator>
+      <album>Live at Big Ears: In a Silent Way: Reimagined</album>
+    </track>
+    <track>
+      <title>In a Silent Way</title>
+      <creator>Miles Davis</creator>
+      <album>In a Silent Way</album>
+    </track>
+    <track>
+      <title>My Shining Hour</title>
+      <creator>John Coltrane</creator>
+      <album>Coltrane Jazz</album>
+    </track>
+    <track>
+      <title>Compañero de ruta (feat. Luciana Insfran, Sebastián Tozzola, Iván Petrich, Fabricio Amaya &amp; Gonzalo Diaz)</title>
+      <creator>Carlos Aguirre</creator>
+      <album>Melodía que va</album>
+    </track>
+    <track>
+      <title>Maracatu</title>
+      <creator>Egberto Gismonti &amp; Academia de Danças</creator>
+      <album>Sanfona</album>
+    </track>
+    <track>
+      <title>Sixty-Six</title>
+      <creator>Pat Metheny</creator>
+      <album>From This Place</album>
+    </track>
+    <track>
+      <title>Explain Yourself</title>
+      <creator>Dev​onte Hynes, Kirin McElwain</creator>
+      <album>The Invite OST</album>
+    </track>
+    <track>
+      <title>What I Know Now</title>
+      <creator>Marty Ehrlich</creator>
+      <album>OPEN AIR - The Complete Saxophone Quartet Compositions of Julius Hemphill</album>
+    </track>
+    <track>
+      <title>no conversations</title>
+      <creator>Henry Solomon</creator>
+      <album>Solo Woodwind</album>
+    </track>
+    <track>
+      <title>Really Craft</title>
+      <creator>Caroline Shaw, Andrew Yee</creator>
+      <album>Or, The Whale</album>
+    </track>
+    <track>
+      <title>Ring Shout / Composition IX</title>
+      <creator>Immanuel Wilkins</creator>
+      <album>Immanuel Wilkins Quartet: Live at the Village Vanguard, Vol. 3</album>
+    </track>
+    <track>
+      <title>Conqueror (Action/Assault/Conquest/Consequences/Memories/Remorse/Withdrawn)</title>
+      <creator>Clap! Clap!</creator>
+      <album>Tayi Bebba</album>
+    </track>
+    <track>
+      <title>Bom Dia</title>
+      <creator>Itibere Zwarg</creator>
+      <album>Intuitivo</album>
+    </track>
+    <track>
+      <title>Angola</title>
+      <creator>Wayne Shorter</creator>
+      <album>Alegria</album>
+    </track>
+    <track>
+      <title>Angola</title>
+      <creator>Wayne Shorter</creator>
+      <album>The Soothsayer</album>
+    </track>
+    <track>
+      <title>theme (from "A Little Trouble")</title>
+      <creator>Brotherly</creator>
+      <album>Analect</album>
+    </track>
+    <track>
+      <title>Look What You Have Done / Spirit Overtek You</title>
+      <creator>Horace Ferguson / Dillinger</creator>
+      <album>12“</album>
+    </track>
+    <track>
+      <title>Return Of The Don</title>
+      <creator>Pinchers</creator>
+      <album>12“</album>
+    </track>
+    <track>
+      <title>Dream</title>
+      <creator>P. Lion</creator>
+      <album>12“</album>
+    </track>
+    <track>
+      <title>It Seems</title>
+      <creator>Colin Newman</creator>
+      <album>It Seems</album>
+    </track>
+    <track>
+      <title>Perfect Beat</title>
+      <creator>Warren Bennett</creator>
+      <album>Dream The Future</album>
+    </track>
+    <track>
+      <title>Consequence Ya La Vie</title>
+      <creator>Orchestre Super Tembessa</creator>
+      <album>Orchestre Super Tembessa</album>
+    </track>
+    <track>
+      <title>Gamel Uma Umo</title>
+      <creator>OOIOO</creator>
+      <album>Gamel</album>
+    </track>
+    <track>
+      <title>For A Reason</title>
+      <creator>Lifetones</creator>
+      <album>For A Reason</album>
+    </track>
+    <track>
+      <title>Incubus (Blue Suit)</title>
+      <creator>Tuxedomoon</creator>
+      <album>Desire</album>
+    </track>
+    <track>
+      <title>Nevermind (What Was It Anyway)</title>
+      <creator>Sonic Youth</creator>
+      <album>NYC Ghosts &amp; Flowers</album>
+    </track>
+    <track>
+      <title>Possible</title>
+      <creator>The Dingles</creator>
+      <album>7“</album>
+    </track>
+    <track>
+      <title>Sitaram Sharma</title>
+      <creator>Muslimgauze</creator>
+      <album>Syrinjia</album>
+    </track>
+    <track>
+      <title>Platinum Tips</title>
+      <creator>Royal Trux</creator>
+      <album>Pound For Pound</album>
+    </track>
+    <track>
+      <title>She Can't Love You</title>
+      <creator>Chemise</creator>
+      <album>12“</album>
+    </track>
+    <track>
+      <title>Stepping Free</title>
+      <creator>Bob Andy</creator>
+      <album>Lots Of Love And I</album>
+    </track>
+    <track>
+      <title>Papaia</title>
+      <creator>Alex Malheiros</creator>
+      <album>Atlantic Forest</album>
+    </track>
+    <track>
+      <title>I Wanna Believe</title>
+      <creator>Gina &amp; The Flexix</creator>
+      <album>Fuzz Dance</album>
+    </track>
+    <track>
+      <title>I'm In Love</title>
+      <creator>Eveyln King</creator>
+      <album>7“</album>
+    </track>
+    <track>
+      <title>Lydian</title>
+      <creator>Jim Fielder / John Raines / William Perry / George Price</creator>
+      <album>Professional Workshop Series: Jazz Improvisation Volume Tw</album>
+    </track>
+    <track>
+      <title>Still Flowers</title>
+      <creator>The Grebes</creator>
+      <album>The Grebes</album>
+    </track>
+    <track>
+      <title>Chance To Buy An Island</title>
+      <creator>Robert Pollard</creator>
+      <album>Not In My Airforce</album>
+    </track>
+    <track>
+      <title>Every Day Is Like A Holiday</title>
+      <creator>Sensations</creator>
+      <album>Hottest Hits Vol. 2</album>
+    </track>
+    <track>
+      <title>Noche De Pescadores</title>
+      <creator>Xavier Passos Y Su Conjunto Capricornio</creator>
+      <album>Coral (La Novia Del Pescador)</album>
+    </track>
+    <track>
+      <title>Brown Rice</title>
+      <creator>Don Cherry</creator>
+      <album>Don Cherry</album>
+    </track>
+    <track>
+      <title>Secret</title>
+      <creator>Embryo</creator>
+      <album>Surfin'</album>
+    </track>
+    <track>
+      <title>LL Big Basin</title>
+      <creator>Barry Walker Unit</creator>
+      <album>Corvallis, OR 1 • 30 • 26</album>
+    </track>
+    <track>
+      <title>305 Spanish Town Road Dub</title>
+      <creator>Scientist</creator>
+      <album>In The Kingdom Of Dub</album>
+    </track>
+    <track>
+      <title>Dream I [big edit]</title>
+      <creator>Mitar Subotić &amp; Goran Vejvoda</creator>
+      <album>The Dreambird</album>
+    </track>
+    <track>
+      <title>Random Security</title>
+      <creator>Gigi Masin</creator>
+      <album>Talk to the Sea</album>
+    </track>
+    <track>
+      <title>Ruminator</title>
+      <creator>Bon Odori</creator>
+      <album>Kimyo</album>
+    </track>
+    <track>
+      <title>With Trees Where We Can See</title>
+      <creator>KMRU</creator>
+      <album>Kin</album>
+    </track>
+    <track>
+      <title>Silently Spinning Around You</title>
+      <creator>Marielle V. Jakobsons</creator>
+      <album>The Patterns Lost to Air</album>
+    </track>
+    <track>
+      <title>Mundu Leunena</title>
+      <creator>Verde Prato</creator>
+      <album>Jaikiera</album>
+    </track>
+    <track>
+      <title>3</title>
+      <creator>Acchiappashpirt</creator>
+      <album>Ninulla</album>
+    </track>
+    <track>
+      <title>Selva Ancestral</title>
+      <creator>José Duarte Pinzón</creator>
+      <album>V/A: Música Electroacústica Centroamericana Vol. 1</album>
+    </track>
+    <track>
+      <title>The Limits of the Frame</title>
+      <creator>Cole Pulice</creator>
+      <album>single</album>
+    </track>
+    <track>
+      <title>Knutna Nävar</title>
+      <creator>Blod</creator>
+      <album>Knutna Nävar</album>
+    </track>
+    <track>
+      <title>Andalucia</title>
+      <creator>Alastair Galbraith</creator>
+      <album>Morse</album>
+    </track>
+    <track>
+      <title>Tusen År &amp; Sju Timmar</title>
+      <creator>Anna Själv Tredje</creator>
+      <album>Tussilago Fánfara</album>
+    </track>
+    <track>
+      <title>Portrait of the World</title>
+      <creator>The Grebes</creator>
+      <album>The Grebes</album>
+    </track>
+    <track>
+      <title>Slowly (Show Me)</title>
+      <creator>Jessica Bailiff</creator>
+      <album>At the Down-Turned Jagged Rim of the Sky</album>
+    </track>
+    <track>
+      <title>Summer Night</title>
+      <creator>Stella Kola</creator>
+      <album>Stella Kola (2022)</album>
+    </track>
+    <track>
+      <title>Feathers &amp; Friendship</title>
+      <creator>ebby</creator>
+      <album>abcde</album>
+    </track>
+    <track>
+      <title>Half A Century Down</title>
+      <creator>S.B.A.</creator>
+      <album>Heresy Museum</album>
+    </track>
+    <track>
+      <title>The Salt Rounds</title>
+      <creator>Marielle V Jakobsons</creator>
+      <album>The Patterns Lost To Air</album>
+    </track>
+    <track>
+      <title>Tenth Voice: Sound Of A Lighted Window</title>
+      <creator>Suzanni Ciani</creator>
+      <album>Voices of Packaged Souls (1970)</album>
+    </track>
+    <track>
+      <title>Luces Robóticas</title>
+      <creator>Yamila</creator>
+      <album>Noor</album>
+    </track>
+    <track>
+      <title>If All Things Were Never Said</title>
+      <creator>Fabienne Delsoul</creator>
+      <album>Indigo Red</album>
+    </track>
+    <track>
+      <title>Pyjamas</title>
+      <creator>Ciro Vitiello</creator>
+      <album>The Island Of Bouncy Memories</album>
+    </track>
+    <track>
+      <title>Stranger</title>
+      <creator>YL Hooi</creator>
+      <album>Untitled</album>
+    </track>
+    <track>
+      <title>54601</title>
+      <creator>Visit Me</creator>
+      <album>Daystar</album>
+    </track>
+    <track>
+      <title>Russian Milk</title>
+      <creator>Volcano The Bear</creator>
+      <album>Classic Erasmus Fusion</album>
+    </track>
     <track>
       <title>Sand Hill Anna and The Russian Mouse</title>
       <creator>Lee Hazelwood</creator>
@@ -1119,391 +1504,6 @@
       <title>Fine</title>
       <creator>My Raining Stars</creator>
       <album>Toy Club</album>
-    </track>
-    <track>
-      <title>Mandarin Moon</title>
-      <creator>Pearl &amp; The Oysters</creator>
-      <album>Monkey Mind</album>
-    </track>
-    <track>
-      <title>The Rain Felt Kind</title>
-      <creator>Foglights</creator>
-      <album>The Rain Felt Kind - Single</album>
-    </track>
-    <track>
-      <title>Headfirst</title>
-      <creator>Nina Winder-Lind</creator>
-      <album>Headfirst - Single</album>
-    </track>
-    <track>
-      <title>Liars</title>
-      <creator>The Durutti Column</creator>
-      <album>Scammer - Single</album>
-    </track>
-    <track>
-      <title>Teardrop</title>
-      <creator>Deep Sea Diver</creator>
-      <album>Teardrop - Single</album>
-    </track>
-    <track>
-      <title>I'm Yours (feat. Mitch Sanders)</title>
-      <creator>Tricky</creator>
-      <album>Different When It's Silent</album>
-    </track>
-    <track>
-      <title>Lasagna</title>
-      <creator>Babehoven</creator>
-      <album>Lasagna - Single</album>
-    </track>
-    <track>
-      <title>Party Lines</title>
-      <creator>Gurriers</creator>
-      <album>Party Lines - Single</album>
-    </track>
-    <track>
-      <title>Only Nothing</title>
-      <creator>Pain Gain</creator>
-      <album>Pain Gain</album>
-    </track>
-    <track>
-      <title>17</title>
-      <creator>Teilz</creator>
-      <album>17 - Single</album>
-    </track>
-    <track>
-      <title>You're Gonna Need A Little Music</title>
-      <creator>Yard Act</creator>
-      <album>You're Gonna Need A Little Music</album>
-    </track>
-    <track>
-      <title>I Know!</title>
-      <creator>Swapmeet</creator>
-      <album>Mount Zero</album>
-    </track>
-    <track>
-      <title>Are You Looking For Something</title>
-      <creator>The Hobknobs</creator>
-      <album>Helmets Off</album>
-    </track>
-    <track>
-      <title>Pretty Little Lifers</title>
-      <creator>Sad13</creator>
-      <album>1331</album>
-    </track>
-    <track>
-      <title>Photos Of The Reenactment</title>
-      <creator>Kiwi Jr.</creator>
-      <album>Photos Of The Reenactment - Single</album>
-    </track>
-    <track>
-      <title>Citywide</title>
-      <creator>Theo3 &amp; DJ Unkown</creator>
-      <album>Citywide</album>
-    </track>
-    <track>
-      <title>Step Ya Bars Up (feat. Che Noir)</title>
-      <creator>Devine Carama &amp; Amadeus360</creator>
-      <album>Step Ya Bars Up (Single)</album>
-    </track>
-    <track>
-      <title>Sunny Daze</title>
-      <creator>Alpha Centori &amp; Shyste Chronkyte</creator>
-      <album>Concrete Scriptures</album>
-    </track>
-    <track>
-      <title>Hold On [Prod. by Pilze Beats]</title>
-      <creator>M-Dot</creator>
-      <album>A Notebook With No Light</album>
-    </track>
-    <track>
-      <title>Don't Need Gimmicks (Clean) feat. The Bad Seed (DJ Kuts by Pa Pa Fresh)</title>
-      <creator>Tone Chop &amp; Frost Gamble</creator>
-      <album>Don't Need Gimmicks (Single)</album>
-    </track>
-    <track>
-      <title>No Explanation (feat. Evidence)</title>
-      <creator>DJ Premier &amp; The Alchemist</creator>
-      <album>No Explanation (Single)</album>
-    </track>
-    <track>
-      <title>Count On It (feat. Ghostface Killah)</title>
-      <creator>Mic King</creator>
-      <album>Hallelujah EP</album>
-    </track>
-    <track>
-      <title>Kisses That U Gave Me</title>
-      <creator>Potatohead People &amp; Slippery Elm</creator>
-      <album>Kisses That U Gave Me (Single)</album>
-    </track>
-    <track>
-      <title>Save Point 2 [Prod by. Crazy DJ Bazarro]</title>
-      <creator>Napolen Da Legend</creator>
-      <album>Save Point 2</album>
-    </track>
-    <track>
-      <title>Say It Again (feat. One Be Lo)</title>
-      <creator>Bop Alloy (Substantial &amp; Marcus D)</creator>
-      <album>Masters of the Artistry</album>
-    </track>
-    <track>
-      <title>At All Costs</title>
-      <creator>Benny Slumz &amp; Freddie Black</creator>
-      <album>At All Costs (Single)</album>
-    </track>
-    <track>
-      <title>Nobody Wants To Die (feat. Ice Cube)</title>
-      <creator>DJ Shadow</creator>
-      <album>The Mountain Will Fall (10th Anniversary Deluxe Edition)</album>
-    </track>
-    <track>
-      <title>Waxing In Mecca (feat. Smif N Wessun)</title>
-      <creator>John Brown The Rapper &amp; Da Beatminerz</creator>
-      <album>Waxing In America</album>
-    </track>
-    <track>
-      <title>Tears in the Water (feat. Truth Hayes &amp; Last Name Good)</title>
-      <creator>Typical Div</creator>
-      <album>Addicted To Motion</album>
-    </track>
-    <track>
-      <title>Africa (A'Revolution and Kiloriti Maasai) [Prod. by Jonny Cool]</title>
-      <creator>Mic Crenshaw</creator>
-      <album>Retribution</album>
-    </track>
-    <track>
-      <title>Rewind Heat 2 [Prod. by Stan Da Man]</title>
-      <creator>H Dot Lectur</creator>
-      <album>Rewind Heat 2</album>
-    </track>
-    <track>
-      <title>P.N.W. (feat. Vary, Easy McCoy, Wavy Josef and Aaron Abernathy)</title>
-      <creator>DJ O.G.ONE</creator>
-      <album>Testimony II - A Moment of Truth</album>
-    </track>
-    <track>
-      <title>TWICE (feat. Chilifa Nem, Engless, ivywav &amp; Neeks FM)</title>
-      <creator>The Gard3n</creator>
-      <album>HARVEST</album>
-    </track>
-    <track>
-      <title>Day In The Sun (Gettin' wit U) (feat. Q-Tip &amp; Yummy Bingham)</title>
-      <creator>De La Soul</creator>
-      <album>Cabin In The Sky</album>
-    </track>
-    <track>
-      <title>Dad Is Not A Noun (feat. Skyzoo)</title>
-      <creator>Amerigo Gazaway</creator>
-      <album>Dad Is Not A Noun (Single)</album>
-    </track>
-    <track>
-      <title>Well Aware</title>
-      <creator>Scienz Of Life</creator>
-      <album>Well Aware</album>
-    </track>
-    <track>
-      <title>World On Fire (feat. Cee-Lo Green)</title>
-      <creator>Homeboy Sandman &amp; Jack Splash</creator>
-      <album>Resonance Frequency</album>
-    </track>
-    <track>
-      <title>Tech Idol (feat. Drae Slapz)</title>
-      <creator>Mic Capes</creator>
-      <album>Tech Idol (Single)</album>
-    </track>
-    <track>
-      <title>Valley</title>
-      <creator>Thiago x DC3</creator>
-      <album>Valley</album>
-    </track>
-    <track>
-      <title>Good Nutrition (feat. Sadat X)</title>
-      <creator>K-Rec &amp; Checkmate</creator>
-      <album>Good Nutrition (Single)</album>
-    </track>
-    <track>
-      <title>Dance Like David (feat. Drea LP)</title>
-      <creator>Dex The Nerd Who Loves Jesus</creator>
-      <album>Dance Like David</album>
-    </track>
-    <track>
-      <title>Survival</title>
-      <creator>Loyalty Is Timeless</creator>
-      <album>The Message</album>
-    </track>
-    <track>
-      <title>Light the Way</title>
-      <creator>Leon Bridges</creator>
-      <album>Happiness Anytime</album>
-    </track>
-    <track>
-      <title>Limerence</title>
-      <creator>Masego</creator>
-      <album>Fix Your Face</album>
-    </track>
-    <track>
-      <title>Heaven</title>
-      <creator>Masego</creator>
-      <album>Fix Your Face</album>
-    </track>
-    <track>
-      <title>pure colour (feat. Erykah Badu)</title>
-      <creator>Steve Lacy</creator>
-      <album>Oh yeah?</album>
-    </track>
-    <track>
-      <title>Soft Wet Clay</title>
-      <creator>Nick Hakim</creator>
-      <album>I Can See</album>
-    </track>
-    <track>
-      <title>7 Days</title>
-      <creator>Nick Hakim</creator>
-      <album>I Can See</album>
-    </track>
-    <track>
-      <title>No One Lasts Forever (feat. David Cronenberg)</title>
-      <creator>Charli xcx</creator>
-      <album>Music, Fashion, Film</album>
-    </track>
-    <track>
-      <title>Magic Metal Montana</title>
-      <creator>Charli XCX</creator>
-      <album>Music, Fashion, Film</album>
-    </track>
-    <track>
-      <title>Card Declined</title>
-      <creator>Charli XCX</creator>
-      <album>Music, Fashion, Film</album>
-    </track>
-    <track>
-      <title>2007</title>
-      <creator>Charli XCX</creator>
-      <album>Music, Fashion, Film</album>
-    </track>
-    <track>
-      <title>The Thread</title>
-      <creator>Willow</creator>
-      <album>The Thread</album>
-    </track>
-    <track>
-      <title>Feel Something</title>
-      <creator>Tyla</creator>
-      <album>A*Pop</album>
-    </track>
-    <track>
-      <title>Reach Out</title>
-      <creator>Victoria Monet</creator>
-      <album>Frequency of Love</album>
-    </track>
-    <track>
-      <title>Dizziness</title>
-      <creator>Tomo Akikawabaya</creator>
-      <album>Mars</album>
-    </track>
-    <track>
-      <title>Take Me To Your Leader</title>
-      <creator>Jean-Michel Jarre</creator>
-      <album>Deserted Palace</album>
-    </track>
-    <track>
-      <title>Give Me A Call</title>
-      <creator>Saâda Bonaire</creator>
-      <album>Saâda Bonaire</album>
-    </track>
-    <track>
-      <title>Land Of Yellow</title>
-      <creator>Eleven Pond</creator>
-      <album>Assemblage - Unreleased 1987 Studio, Demo &amp; Live Recordings</album>
-    </track>
-    <track>
-      <title>Sleeper In Metropolis</title>
-      <creator>Anne Clark</creator>
-      <album>Changing Places</album>
-    </track>
-    <track>
-      <title>Cracked MIrror</title>
-      <creator>Moev</creator>
-      <album>The Early Years</album>
-    </track>
-    <track>
-      <title>Better Late Than Never</title>
-      <creator>Colin Newman</creator>
-      <album>It Seems</album>
-    </track>
-    <track>
-      <title>Ballo-Balla</title>
-      <creator>Roland P. Young</creator>
-      <album>Hearsay I-Land</album>
-    </track>
-    <track>
-      <title>Cherry-Coloured Funk (Seefeel Remix)</title>
-      <creator>Cocteau Twins</creator>
-      <album>Lullabies To Violaine - Singles and Extended Plays 1982-1996</album>
-    </track>
-    <track>
-      <title>Science Fiction</title>
-      <creator>Alan Burnham</creator>
-      <album>Music To Save The World By</album>
-    </track>
-    <track>
-      <title>Primera Impresión</title>
-      <creator>D.A.I.</creator>
-      <album>División Avanzada Independiente: Amigos Electricos I - Spanish Synth Wave: 1981-1986</album>
-    </track>
-    <track>
-      <title>Whirlwind</title>
-      <creator>Van Kaye &amp; Ignit</creator>
-      <album>Radionome</album>
-    </track>
-    <track>
-      <title>Grey Skies</title>
-      <creator>Turquoise Days</creator>
-      <album>Grey Skies 7"</album>
-    </track>
-    <track>
-      <title>Brand In De Straten</title>
-      <creator>Ambassade</creator>
-      <album>The Fool</album>
-    </track>
-    <track>
-      <title>Eternal Legs</title>
-      <creator>Yello</creator>
-      <album>Solid Pleasure</album>
-    </track>
-    <track>
-      <title>There Was A Time</title>
-      <creator>James Brown</creator>
-      <album>-</album>
-    </track>
-    <track>
-      <title>Tallahassee Lassie</title>
-      <creator>Freddie Cannon</creator>
-      <album>45</album>
-    </track>
-    <track>
-      <title>Ball N’ Chain</title>
-      <creator>Big Mama Thornton</creator>
-      <album>Ball N’ Chain</album>
-    </track>
-    <track>
-      <title>Who Will The Next Fool Be</title>
-      <creator>Charlie Rich</creator>
-      <album>Lonely Weekends</album>
-    </track>
-    <track>
-      <title>You Gotta Be My Baby</title>
-      <creator>Dolly Parton</creator>
-      <album>A Real Live Dolly</album>
-    </track>
-    <track>
-      <title>2001 a Space Odyssey (Also Sprach Zarathustra)</title>
-      <creator>Deodato</creator>
-      <album>Prelude</album>
-    </track>
-    <track>
-      <title>Maggie’s Farm</title>
-      <creator>Bob Dylan</creator>
-      <album>Greatest Hits Vol 1</album>
     </track>
   </trackList>
 </playlist>
