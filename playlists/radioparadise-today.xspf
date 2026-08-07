@@ -3,19 +3,505 @@
   <info>https://radioparadise.com/</info>
   <creator>radioparadise.com</creator>
   <image>https://jherskowitz.github.io/spinbin/logos/radioparadise.svg</image>
-  <date>2026-08-06T11:59:57+00:00</date>
+  <date>2026-08-07T10:48:14+00:00</date>
   <trackList>
     <track>
-      <title>The General</title>
-      <creator>Touchy Subject</creator>
-      <image>https://img.radioparadise.com/covers/l/25574.jpg</image>
-      <album>The General EP</album>
+      <title>La Cantiga del Fuego</title>
+      <creator>Ana Alcaide</creator>
+      <image>https://img.radioparadise.com/covers/l/17747.jpg</image>
+      <album>La Cantiga del Fuego</album>
     </track>
     <track>
-      <title>Memo From Turner</title>
-      <creator>Mick Jagger</creator>
-      <image>https://img.radioparadise.com/covers/l/8571.jpg</image>
-      <album>Performance</album>
+      <title>No Letting Go</title>
+      <creator>Wayne Wonder</creator>
+      <image>https://img.radioparadise.com/covers/l/26367.jpg</image>
+      <album>No Holding Back</album>
+    </track>
+    <track>
+      <title>liquidize</title>
+      <creator>Wet Leg</creator>
+      <image>https://img.radioparadise.com/covers/l/22784.jpg</image>
+      <album>moisturizer</album>
+    </track>
+    <track>
+      <title>Youth</title>
+      <creator>Daughter</creator>
+      <image>https://img.radioparadise.com/covers/l/8309.jpg</image>
+      <album>If You Leave</album>
+    </track>
+    <track>
+      <title>Promise Road</title>
+      <creator>Kevin Gordon</creator>
+      <image>https://img.radioparadise.com/covers/l/22245.jpg</image>
+      <album>Down to the Well</album>
+    </track>
+    <track>
+      <title>Will Soon Be A Woman - Moog Diez Remix</title>
+      <creator>Moog Diez</creator>
+      <image>https://img.radioparadise.com/covers/l/26078.jpg</image>
+      <album>Will Soon Be A Woman (Moog Diez Remix)</album>
+    </track>
+    <track>
+      <title>Cognitive Dissident</title>
+      <creator>The The</creator>
+      <image>https://img.radioparadise.com/covers/l/26434.jpg</image>
+      <album>Ensoulment</album>
+    </track>
+    <track>
+      <title>Wild Horses (stripped)</title>
+      <creator>The Rolling Stones</creator>
+      <image>https://img.radioparadise.com/covers/l/8544.jpg</image>
+      <album>Stripped</album>
+    </track>
+    <track>
+      <title>Squarehead</title>
+      <creator>Iggy Pop</creator>
+      <image>https://img.radioparadise.com/covers/l/25394.jpg</image>
+      <album>Instinct</album>
+    </track>
+    <track>
+      <title>Love Don't Leave Me Waiting</title>
+      <creator>Glen Hansard</creator>
+      <image>https://img.radioparadise.com/covers/l/12602.jpg</image>
+      <album>Rhythm and Repose</album>
+    </track>
+    <track>
+      <title>Not Too Soon</title>
+      <creator>Throwing Muses</creator>
+      <image>https://img.radioparadise.com/covers/l/9180.jpg</image>
+      <album>The Real Ramona</album>
+    </track>
+    <track>
+      <title>Minds Without Fear</title>
+      <creator>Imogen Heap &amp; Vishal-Shekhar</creator>
+      <image>https://img.radioparadise.com/covers/l/7879.jpg</image>
+      <album>Minds Without Fear</album>
+    </track>
+    <track>
+      <title>Nothin' Wrong With That</title>
+      <creator>Jack Ingram</creator>
+      <image>https://img.radioparadise.com/covers/l/21627.jpg</image>
+      <album>Livin' or Dyin'</album>
+    </track>
+    <track>
+      <title>Roundabout</title>
+      <creator>Peter Somuah</creator>
+      <image>https://img.radioparadise.com/covers/l/26842.jpg</image>
+      <album>Roundabout</album>
+    </track>
+    <track>
+      <title>The Dharma Lovers</title>
+      <creator>Eric Hilton</creator>
+      <image>https://img.radioparadise.com/covers/l/27197.jpg</image>
+      <album>A Sky So Close</album>
+    </track>
+    <track>
+      <title>Circinus X-1</title>
+      <creator>Rule 42</creator>
+      <image>https://img.radioparadise.com/covers/l/19354.jpg</image>
+      <album>Ambient Explorations 10</album>
+    </track>
+    <track>
+      <title>Tadow (w/ Masego)</title>
+      <creator>FKJ</creator>
+      <image>https://img.radioparadise.com/covers/l/25669.jpg</image>
+      <album>Tadow</album>
+    </track>
+    <track>
+      <title>Killing the Blues</title>
+      <creator>Shawn Colvin</creator>
+      <image>https://img.radioparadise.com/covers/l/12352.jpg</image>
+      <album>Cover Girl</album>
+    </track>
+    <track>
+      <title>Open the Door (w/ Hayley Williams)</title>
+      <creator>David Byrne</creator>
+      <image>https://img.radioparadise.com/covers/l/24207.jpg</image>
+      <album>Who Is The Sky?</album>
+    </track>
+    <track>
+      <title>Hollywood Waltz</title>
+      <creator>Eagles</creator>
+      <image>https://img.radioparadise.com/covers/l/7133.jpg</image>
+      <album>One of These Nights</album>
+    </track>
+    <track>
+      <title>Mana</title>
+      <creator>Mayra Andrade</creator>
+      <image>https://img.radioparadise.com/covers/l/26543.jpg</image>
+      <album>Navega</album>
+    </track>
+    <track>
+      <title>For E</title>
+      <creator>Aki Rissanen</creator>
+      <image>https://img.radioparadise.com/covers/l/24091.jpg</image>
+      <album>For E</album>
+    </track>
+    <track>
+      <title>Shades Of Gray</title>
+      <creator>Robert Earl Keen</creator>
+      <image>https://img.radioparadise.com/covers/l/10715.jpg</image>
+      <album>Picnic</album>
+    </track>
+    <track>
+      <title>Highway Star (2024 remix)</title>
+      <creator>Deep Purple</creator>
+      <image>https://img.radioparadise.com/covers/l/7796.jpg</image>
+      <album>Machine Head</album>
+    </track>
+    <track>
+      <title>Love Is on Your Side</title>
+      <creator>Sinjin Hawke</creator>
+      <image>https://img.radioparadise.com/covers/l/25715.jpg</image>
+      <album>The Lights EP</album>
+    </track>
+    <track>
+      <title>raat ki rani (Khruangbin Remix)</title>
+      <creator>Arooj Aftab</creator>
+      <image>https://img.radioparadise.com/covers/l/23658.jpg</image>
+      <album>raat ki rani (Khruangbin Remix) - Single</album>
+    </track>
+    <track>
+      <title>Whatever You Want</title>
+      <creator>Vienna Teng</creator>
+      <image>https://img.radioparadise.com/covers/l/10452.jpg</image>
+      <album>Dreaming Through the Noise</album>
+    </track>
+    <track>
+      <title>All Things Must Pass</title>
+      <creator>George Harrison</creator>
+      <image>https://img.radioparadise.com/covers/l/7640.jpg</image>
+      <album>All Things Must Pass</album>
+    </track>
+    <track>
+      <title>NU LIFE (w/ Trey Tarzia)</title>
+      <creator>cosmic collective</creator>
+      <image>https://img.radioparadise.com/covers/l/26831.jpg</image>
+      <album>NU LIFE</album>
+    </track>
+    <track>
+      <title>He's Misstra Know-It-All</title>
+      <creator>Stevie Wonder</creator>
+      <image>https://img.radioparadise.com/covers/l/7290.jpg</image>
+      <album>Innervisions</album>
+    </track>
+    <track>
+      <title>You Will Never Work in Television Again</title>
+      <creator>The Smile</creator>
+      <image>https://img.radioparadise.com/covers/l/18908.jpg</image>
+      <album>A Light for Attracting Attention</album>
+    </track>
+    <track>
+      <title>BALD! REMIX (w/ Denzel Curry)</title>
+      <creator>JPEGMAFIA</creator>
+      <image>https://img.radioparadise.com/covers/l/23548.jpg</image>
+      <album>LP!</album>
+    </track>
+    <track>
+      <title>2155</title>
+      <creator>Whitehorse</creator>
+      <image>https://img.radioparadise.com/covers/l/28506.jpg</image>
+      <album>All I Want Is All of It</album>
+    </track>
+    <track>
+      <title>Dåligt Väder</title>
+      <creator>Ishaaq Aarkistra</creator>
+      <image>https://img.radioparadise.com/covers/l/26864.jpg</image>
+      <album>Arikomban Space</album>
+    </track>
+    <track>
+      <title>Don't Shoot Guns Down</title>
+      <creator>Sault</creator>
+      <image>https://img.radioparadise.com/covers/l/18855.jpg</image>
+      <album>UNTITLED (Black Is)</album>
+    </track>
+    <track>
+      <title>Remembrance Day</title>
+      <creator>God is an Astronaut</creator>
+      <image>https://img.radioparadise.com/covers/l/12632.jpg</image>
+      <album>All is Violent, All is Bright</album>
+    </track>
+    <track>
+      <title>Bella</title>
+      <creator>Angus &amp; Julia Stone</creator>
+      <image>https://img.radioparadise.com/covers/l/10416.jpg</image>
+      <album>A Book Like This</album>
+    </track>
+    <track>
+      <title>What Are You Fighting For?</title>
+      <creator>Tindersticks</creator>
+      <image>https://img.radioparadise.com/covers/l/7719.jpg</image>
+      <album>Across Six Leap Years</album>
+    </track>
+    <track>
+      <title>Hole In the Earth</title>
+      <creator>Deftones</creator>
+      <image>https://img.radioparadise.com/covers/l/27243.jpg</image>
+      <album>Saturday Night Wrist</album>
+    </track>
+    <track>
+      <title>Black Dog</title>
+      <creator>Ray Wylie Hubbard</creator>
+      <image>https://img.radioparadise.com/covers/l/21680.jpg</image>
+      <album>Eternal and Lowdown</album>
+    </track>
+    <track>
+      <title>Oceanus Procellarum</title>
+      <creator>Beirut</creator>
+      <image>https://img.radioparadise.com/covers/l/22471.jpg</image>
+      <album>A Study of Losses</album>
+    </track>
+    <track>
+      <title>Tougher Than the Rest</title>
+      <creator>Nation of Language</creator>
+      <image>https://img.radioparadise.com/covers/l/30452.jpg</image>
+      <album>Tougher Than the Rest</album>
+    </track>
+    <track>
+      <title>Euphoria</title>
+      <creator>Sarah Slean</creator>
+      <image>https://img.radioparadise.com/covers/l/13256.jpg</image>
+      <album>The Baroness</album>
+    </track>
+    <track>
+      <title>The Forgotten Ones</title>
+      <creator>Larnell Lewis</creator>
+      <image>https://img.radioparadise.com/covers/l/20959.jpg</image>
+      <album>Relive the Moment</album>
+    </track>
+    <track>
+      <title>Hype Williams</title>
+      <creator>BC Kingdom</creator>
+      <image>https://img.radioparadise.com/covers/l/25624.jpg</image>
+      <album>Hype Williams</album>
+    </track>
+    <track>
+      <title>Never There</title>
+      <creator>Cake</creator>
+      <image>https://img.radioparadise.com/covers/l/9000.jpg</image>
+      <album>Prolonging the Magic</album>
+    </track>
+    <track>
+      <title>Thirty-Three</title>
+      <creator>The Smashing Pumpkins</creator>
+      <image>https://img.radioparadise.com/covers/l/9594.jpg</image>
+      <album>Mellon Collie and The Infinite Sadness</album>
+    </track>
+    <track>
+      <title>Crazy Mama</title>
+      <creator>J.J. Cale</creator>
+      <image>https://img.radioparadise.com/covers/l/9404.jpg</image>
+      <album>Naturally</album>
+    </track>
+    <track>
+      <title>Dumb Things</title>
+      <creator>Paul Kelly</creator>
+      <image>https://img.radioparadise.com/covers/l/8997.jpg</image>
+      <album>Nature</album>
+    </track>
+    <track>
+      <title>Pa' Los Envidiosos (w/ Lanier)</title>
+      <creator>Pitbull</creator>
+      <image>https://img.radioparadise.com/covers/l/26922.jpg</image>
+      <album>Pa' Los Envidiosos</album>
+    </track>
+    <track>
+      <title>3C 273</title>
+      <creator>Rule 42</creator>
+      <image>https://img.radioparadise.com/covers/l/19334.jpg</image>
+      <album>Ambient Explorations 04</album>
+    </track>
+    <track>
+      <title>If I Was Your Girlfriend</title>
+      <creator>Prince</creator>
+      <image>https://img.radioparadise.com/covers/l/25600.jpg</image>
+      <album>The Hits/The B-Sides</album>
+    </track>
+    <track>
+      <title>Southern Winds</title>
+      <creator>Guillemots</creator>
+      <image>https://img.radioparadise.com/covers/l/11238.jpg</image>
+      <album>Hello Land!</album>
+    </track>
+    <track>
+      <title>Swept Away</title>
+      <creator>Cult With No Name</creator>
+      <image>https://img.radioparadise.com/covers/l/19802.jpg</image>
+      <album>Another Landing</album>
+    </track>
+    <track>
+      <title>We Will Rock You</title>
+      <creator>Queen</creator>
+      <image>https://img.radioparadise.com/covers/l/9358.jpg</image>
+      <album>News Of The World</album>
+    </track>
+    <track>
+      <title>Tennessee Jed</title>
+      <creator>California Kind</creator>
+      <image>https://img.radioparadise.com/covers/l/28019.jpg</image>
+      <album>Tennessee Jed (feat. Katie Skene) - Single</album>
+    </track>
+    <track>
+      <title>Amani (feat. King Owusu)</title>
+      <creator>young.vishnu &amp; Pachakuti</creator>
+      <image>https://img.radioparadise.com/covers/l/21088.jpg</image>
+      <album>Dédalo</album>
+    </track>
+    <track>
+      <title>Let Us Go Into the House of the Lord</title>
+      <creator>Lonnie Liston Smith &amp; The Cosmic Echoes</creator>
+      <image>https://img.radioparadise.com/covers/l/20481.jpg</image>
+      <album>Astral Traveling</album>
+    </track>
+    <track>
+      <title>Namaste</title>
+      <creator>Beastie Boys</creator>
+      <image>https://img.radioparadise.com/covers/l/8736.jpg</image>
+      <album>Check Your Head</album>
+    </track>
+    <track>
+      <title>Some Day Soon</title>
+      <creator>Alexi Murdoch</creator>
+      <image>https://img.radioparadise.com/covers/l/12146.jpg</image>
+      <album>Towards the Sun</album>
+    </track>
+    <track>
+      <title>OSAKA</title>
+      <creator>Athletic Progression</creator>
+      <image>https://img.radioparadise.com/covers/l/20937.jpg</image>
+      <album>cloud high in dreams, but heavy in the air</album>
+    </track>
+    <track>
+      <title>Punching the Flowers</title>
+      <creator>Death Cab for Cutie</creator>
+      <image>https://img.radioparadise.com/covers/l/27518.jpg</image>
+      <album>I Built You a Tower</album>
+    </track>
+    <track>
+      <title>Who Needs Forever? (Thievery Corp Remix)</title>
+      <creator>Astrud Gilberto</creator>
+      <image>https://img.radioparadise.com/covers/l/15297.jpg</image>
+      <album>The Very Best of Astrud Gilberto</album>
+    </track>
+    <track>
+      <title>Hear the Willow Cry</title>
+      <creator>The SteelDrivers</creator>
+      <image>https://img.radioparadise.com/covers/l/22070.jpg</image>
+      <album>The SteelDrivers</album>
+    </track>
+    <track>
+      <title>Adia</title>
+      <creator>Sarah McLachlan</creator>
+      <image>https://img.radioparadise.com/covers/l/12771.jpg</image>
+      <album>Surfacing</album>
+    </track>
+    <track>
+      <title>Baby Elephant Walk</title>
+      <creator>Henry Mancini</creator>
+      <image>https://img.radioparadise.com/covers/l/18418.jpg</image>
+      <album>Hatari!</album>
+    </track>
+    <track>
+      <title>Battle for Peace</title>
+      <creator>Etuk Ubong</creator>
+      <image>https://img.radioparadise.com/covers/l/26444.jpg</image>
+      <album>Tales of Life</album>
+    </track>
+    <track>
+      <title>Ochun (w/ Merceditas Valdes)</title>
+      <creator>Celia Cruz</creator>
+      <image>https://img.radioparadise.com/covers/l/28072.jpg</image>
+      <album>Orishas</album>
+    </track>
+    <track>
+      <title>Paper Airplane</title>
+      <creator>Alison Krauss &amp; Union Station</creator>
+      <image>https://img.radioparadise.com/covers/l/9947.jpg</image>
+      <album>Paper Airplane</album>
+    </track>
+    <track>
+      <title>Tiger Lilies</title>
+      <creator>Kelsey Waldon</creator>
+      <image>https://img.radioparadise.com/covers/l/22857.jpg</image>
+      <album>Every Ghost</album>
+    </track>
+    <track>
+      <title>Burning and Burning</title>
+      <creator>Black River Delta</creator>
+      <image>https://img.radioparadise.com/covers/l/18122.jpg</image>
+      <album>Shakin'</album>
+    </track>
+    <track>
+      <title>Fever</title>
+      <creator>Over the Rhine</creator>
+      <image>https://img.radioparadise.com/covers/l/10520.jpg</image>
+      <album>Hidden Treasures</album>
+    </track>
+    <track>
+      <title>When I Grow Up</title>
+      <creator>First Aid Kit</creator>
+      <image>https://img.radioparadise.com/covers/l/13235.jpg</image>
+      <album>Ghost Town</album>
+    </track>
+    <track>
+      <title>Truth is a Beautiful Thing</title>
+      <creator>London Grammar</creator>
+      <image>https://img.radioparadise.com/covers/l/10136.jpg</image>
+      <album>Truth Is a Beautiful Thing</album>
+    </track>
+    <track>
+      <title>Soul Francisco</title>
+      <creator>Tony Joe White</creator>
+      <image>https://img.radioparadise.com/covers/l/8488.jpg</image>
+      <album>Black and White</album>
+    </track>
+    <track>
+      <title>Free Love</title>
+      <creator>Irreversible Entanglements</creator>
+      <image>https://img.radioparadise.com/covers/l/25313.jpg</image>
+      <album>Protect Your Light</album>
+    </track>
+    <track>
+      <title>Come and Find Me</title>
+      <creator>Josh Ritter</creator>
+      <image>https://img.radioparadise.com/covers/l/9065.jpg</image>
+      <album>Golden Age of Radio</album>
+    </track>
+    <track>
+      <title>Three Foxes Chasing Each Other</title>
+      <creator>Djrum</creator>
+      <image>https://img.radioparadise.com/covers/l/21871.jpg</image>
+      <album>Under Tangled Silence</album>
+    </track>
+    <track>
+      <title>Mr. Brightside</title>
+      <creator>The Killers</creator>
+      <image>https://img.radioparadise.com/covers/l/10386.jpg</image>
+      <album>Hot Fuss</album>
+    </track>
+    <track>
+      <title>B‐Side</title>
+      <creator>Khruangbin</creator>
+      <image>https://img.radioparadise.com/covers/l/18813.jpg</image>
+      <album>Texas Moon</album>
+    </track>
+    <track>
+      <title>Dee Moo Woor</title>
+      <creator>Orchestra Baobab</creator>
+      <image>https://img.radioparadise.com/covers/l/11717.jpg</image>
+      <album>Specialist In All Styles</album>
+    </track>
+    <track>
+      <title>Something's Gotta Change (Live)</title>
+      <creator>Yarn</creator>
+      <image>https://img.radioparadise.com/covers/l/20246.jpg</image>
+      <album>Born Blessed Grateful &amp; Alive</album>
+    </track>
+    <track>
+      <title>Nètsanèt</title>
+      <creator>Mulatu Astatke</creator>
+      <image>https://img.radioparadise.com/covers/l/26322.jpg</image>
+      <album>Nètsanèt</album>
     </track>
     <track>
       <title>C/1951 G1</title>
@@ -24,514 +510,40 @@
       <album>Ambient Explorations 10</album>
     </track>
     <track>
-      <title>Day Tripper</title>
-      <creator>Ramsey Lewis</creator>
-      <image>https://img.radioparadise.com/covers/l/23782.jpg</image>
-      <album>Wade In The Water</album>
+      <title>Diamond Mountain</title>
+      <creator>Luka Bloom</creator>
+      <image>https://img.radioparadise.com/covers/l/7500.jpg</image>
+      <album>Amsterdam</album>
     </track>
     <track>
-      <title>Everyday Is Like Sunday</title>
-      <creator>Morrissey</creator>
-      <image>https://img.radioparadise.com/covers/l/7063.jpg</image>
-      <album>Viva Hate</album>
+      <title>Awake My Soul</title>
+      <creator>Mumford &amp; Sons</creator>
+      <image>https://img.radioparadise.com/covers/l/12155.jpg</image>
+      <album>Sigh No More</album>
     </track>
     <track>
-      <title>Last Chance</title>
-      <creator>The Spy From Cairo</creator>
-      <image>https://img.radioparadise.com/covers/l/21108.jpg</image>
-      <album>Bennu</album>
+      <title>Mars</title>
+      <creator>Soulstatejazz</creator>
+      <image>https://img.radioparadise.com/covers/l/26837.jpg</image>
+      <album>Orbits</album>
     </track>
     <track>
-      <title>Tessellate (Broadbandits Afro Mix)</title>
-      <creator>alt-J</creator>
-      <image>https://img.radioparadise.com/covers/l/7758.jpg</image>
-      <album>An Awesome Wave</album>
+      <title>Mercury Blues</title>
+      <creator>David Lindley</creator>
+      <image>https://img.radioparadise.com/covers/l/8881.jpg</image>
+      <album>El Rayo-X</album>
     </track>
     <track>
-      <title>There Ain't No Going Back For Me</title>
-      <creator>Roy Rogers</creator>
-      <image>https://img.radioparadise.com/covers/l/28745.jpg</image>
-      <album>The Sky's the Limit</album>
+      <title>Breath Again</title>
+      <creator>Couros</creator>
+      <image>https://img.radioparadise.com/covers/l/25565.jpg</image>
+      <album>Breath A-gain</album>
     </track>
     <track>
-      <title>Sunshinin</title>
-      <creator>The Vines</creator>
-      <image>https://img.radioparadise.com/covers/l/10088.jpg</image>
-      <album>Highly Evolved</album>
-    </track>
-    <track>
-      <title>Satisfied (Ambient reprise)</title>
-      <creator>Catching Flies</creator>
-      <image>https://img.radioparadise.com/covers/l/19499.jpg</image>
-      <album>Satisfied</album>
-    </track>
-    <track>
-      <title>Nature Boy</title>
-      <creator>Miles Davis</creator>
-      <image>https://img.radioparadise.com/covers/l/10344.jpg</image>
-      <album>Blue Moods</album>
-    </track>
-    <track>
-      <title>I Ke Ohi</title>
-      <creator>Los Tre</creator>
-      <image>https://img.radioparadise.com/covers/l/26336.jpg</image>
-      <album>Taha Mu</album>
-    </track>
-    <track>
-      <title>Pine Barren Heart</title>
-      <creator>Colin Lynch</creator>
-      <image>https://img.radioparadise.com/covers/l/31723.jpg</image>
-      <album>Miracles Off Exit 17</album>
-    </track>
-    <track>
-      <title>Lo and Beholden</title>
-      <creator>Patti Smith</creator>
-      <image>https://img.radioparadise.com/covers/l/11341.jpg</image>
-      <album>Gung Ho</album>
-    </track>
-    <track>
-      <title>Girth</title>
-      <creator>Sex Mask</creator>
-      <image>https://img.radioparadise.com/covers/l/26490.jpg</image>
-      <album>Fuckwave Vol. 01</album>
-    </track>
-    <track>
-      <title>Fat Cat Strut</title>
-      <creator>Quincy Jones</creator>
-      <image>https://img.radioparadise.com/covers/l/20568.jpg</image>
-      <album>Music from "The Adventurers" (Soundtrack)</album>
-    </track>
-    <track>
-      <title>Shpongle Falls</title>
-      <creator>Shpongle</creator>
-      <image>https://img.radioparadise.com/covers/l/17884.jpg</image>
-      <album>Are You Shpongled?</album>
-    </track>
-    <track>
-      <title>Africana</title>
-      <creator>The Propositions</creator>
-      <image>https://img.radioparadise.com/covers/l/22825.jpg</image>
-      <album>Funky Disposition</album>
-    </track>
-    <track>
-      <title>Avalanche</title>
-      <creator>Grace Ives</creator>
-      <image>https://img.radioparadise.com/covers/l/27665.jpg</image>
-      <album>Girlfriend</album>
-    </track>
-    <track>
-      <title>You've Got to Stand for Something</title>
-      <creator>Charley Pride</creator>
-      <image>https://img.radioparadise.com/covers/l/23582.jpg</image>
-      <album>Cover Story</album>
-    </track>
-    <track>
-      <title>The Sea</title>
-      <creator>Sierra Ferrell</creator>
-      <image>https://img.radioparadise.com/covers/l/19979.jpg</image>
-      <album>Long Time Coming</album>
-    </track>
-    <track>
-      <title>Green River</title>
-      <creator>Creedence Clearwater Revival</creator>
-      <image>https://img.radioparadise.com/covers/l/7489.jpg</image>
-      <album>Mardi Gras</album>
-    </track>
-    <track>
-      <title>Tokyo Midnight (w/ Yurika Hanashima)</title>
-      <creator>Sababa 5</creator>
-      <image>https://img.radioparadise.com/covers/l/26782.jpg</image>
-      <album>Kokoro</album>
-    </track>
-    <track>
-      <title>Devil's Paintbrush Road</title>
-      <creator>The Wailin' Jennys</creator>
-      <image>https://img.radioparadise.com/covers/l/13266.jpg</image>
-      <album>Firecracker</album>
-    </track>
-    <track>
-      <title>Vampire Bat</title>
-      <creator>Glass Animals</creator>
-      <image>https://img.radioparadise.com/covers/l/24603.jpg</image>
-      <album>Vampire Bat</album>
-    </track>
-    <track>
-      <title>Protect Your Light</title>
-      <creator>Irreversible Entanglements</creator>
-      <image>https://img.radioparadise.com/covers/l/25313.jpg</image>
-      <album>Protect Your Light</album>
-    </track>
-    <track>
-      <title>Man in Black</title>
-      <creator>Johnny Cash</creator>
-      <image>https://img.radioparadise.com/covers/l/23064.jpg</image>
-      <album>Man in Black</album>
-    </track>
-    <track>
-      <title>Ital (The Universal Side) (w/ Q-Tip)</title>
-      <creator>The Roots</creator>
-      <image>https://img.radioparadise.com/covers/l/25522.jpg</image>
-      <album>Illadelph Halflife</album>
-    </track>
-    <track>
-      <title>Archer's Arrows</title>
-      <creator>Crowded House</creator>
-      <image>https://img.radioparadise.com/covers/l/11469.jpg</image>
-      <album>Intriguer</album>
-    </track>
-    <track>
-      <title>La Grande Cascade</title>
-      <creator>René Aubry</creator>
-      <image>https://img.radioparadise.com/covers/l/10752.jpg</image>
-      <album>Plaisirs D'amour</album>
-    </track>
-    <track>
-      <title>Current</title>
-      <creator>Salin</creator>
-      <image>https://img.radioparadise.com/covers/l/21735.jpg</image>
-      <album>Rammana</album>
-    </track>
-    <track>
-      <title>Prisoner of the Road</title>
-      <creator>Sivert Høyem</creator>
-      <image>https://img.radioparadise.com/covers/l/8530.jpg</image>
-      <album>Prisoners of the Road</album>
-    </track>
-    <track>
-      <title>Shovels and Ladders</title>
-      <creator>Jack Studer</creator>
-      <image>https://img.radioparadise.com/covers/l/27653.jpg</image>
-      <album>Falling Forward</album>
-    </track>
-    <track>
-      <title>Burj</title>
-      <creator>Devon Allman</creator>
-      <image>https://img.radioparadise.com/covers/l/26893.jpg</image>
-      <album>nightvision</album>
-    </track>
-    <track>
-      <title>The Hand That Feeds</title>
-      <creator>Nine Inch Nails</creator>
-      <image>https://img.radioparadise.com/covers/l/19811.jpg</image>
-      <album>With Teeth</album>
-    </track>
-    <track>
-      <title>Paper Boats</title>
-      <creator>Mammal Hands</creator>
-      <image>https://img.radioparadise.com/covers/l/26608.jpg</image>
-      <album>Paper Boats</album>
-    </track>
-    <track>
-      <title>What About You (in the World Today)</title>
-      <creator>Co-Real Artists</creator>
-      <image>https://img.radioparadise.com/covers/l/25495.jpg</image>
-      <album>The Funky 16 Corners (Expanded Edition)</album>
-    </track>
-    <track>
-      <title>All That I Know</title>
-      <creator>Fifteen0eight</creator>
-      <image>https://img.radioparadise.com/covers/l/29216.jpg</image>
-      <album>All That I Know - Single</album>
-    </track>
-    <track>
-      <title>GJ 3801</title>
-      <creator>Rule 42</creator>
-      <image>https://img.radioparadise.com/covers/l/19346.jpg</image>
-      <album>Ambient Explorations 05</album>
-    </track>
-    <track>
-      <title>Moonbeam Monkey</title>
-      <creator>Tanya Donelly</creator>
-      <image>https://img.radioparadise.com/covers/l/11870.jpg</image>
-      <album>Beautysleep</album>
-    </track>
-    <track>
-      <title>L'écume</title>
-      <creator>Anne Paceo</creator>
-      <image>https://img.radioparadise.com/covers/l/26355.jpg</image>
-      <album>L'écume</album>
-    </track>
-    <track>
-      <title>Inland Ocean</title>
-      <creator>Matt Berninger</creator>
-      <image>https://img.radioparadise.com/covers/l/20322.jpg</image>
-      <album>Get Sunk</album>
-    </track>
-    <track>
-      <title>Entirely Mine (feat. Holly Bowling)</title>
-      <creator>Greensky Bluegrass</creator>
-      <image>https://img.radioparadise.com/covers/l/20288.jpg</image>
-      <album>The Iceland Sessions (feat. Holly Bowling) - EP</album>
-    </track>
-    <track>
-      <title>Rags To Rags</title>
-      <creator>Eels</creator>
-      <image>https://img.radioparadise.com/covers/l/6952.jpg</image>
-      <album>Beautiful Freak</album>
-    </track>
-    <track>
-      <title>Love Is The Weapon</title>
-      <creator>Elephant Heart</creator>
-      <image>https://img.radioparadise.com/covers/l/25537.jpg</image>
-      <album>Seasons</album>
-    </track>
-    <track>
-      <title>Life from Below</title>
-      <creator>Polyrhythmics</creator>
-      <image>https://img.radioparadise.com/covers/l/21906.jpg</image>
-      <album>Mayo con Yayo</album>
-    </track>
-    <track>
-      <title>Play Out</title>
-      <creator>Zola Blood</creator>
-      <image>https://img.radioparadise.com/covers/l/10836.jpg</image>
-      <album>Infinite Games</album>
-    </track>
-    <track>
-      <title>Esta vez</title>
-      <creator>Sotomayor</creator>
-      <image>https://img.radioparadise.com/covers/l/26793.jpg</image>
-      <album>Origenes</album>
-    </track>
-    <track>
-      <title>Twigs</title>
-      <creator>Body Meat</creator>
-      <image>https://img.radioparadise.com/covers/l/25490.jpg</image>
-      <album>Year Of The Orc</album>
-    </track>
-    <track>
-      <title>Cat People (Giorgio Moroder version)</title>
-      <creator>David Bowie</creator>
-      <image>https://img.radioparadise.com/covers/l/10552.jpg</image>
-      <album>Let’s Dance</album>
-    </track>
-    <track>
-      <title>Your Heart Is an Empty Room</title>
-      <creator>Death Cab for Cutie</creator>
-      <image>https://img.radioparadise.com/covers/l/9805.jpg</image>
-      <album>Plans</album>
-    </track>
-    <track>
-      <title>Guinea Congo</title>
-      <creator>Lagartijeando</creator>
-      <image>https://img.radioparadise.com/covers/l/20319.jpg</image>
-      <album>7 caminos</album>
-    </track>
-    <track>
-      <title>Love Chooses You</title>
-      <creator>Laurie Lewis</creator>
-      <image>https://img.radioparadise.com/covers/l/22033.jpg</image>
-      <album>Love Chooses You</album>
-    </track>
-    <track>
-      <title>Berimbau</title>
-      <creator>Astrud Gilberto</creator>
-      <image>https://img.radioparadise.com/covers/l/27024.jpg</image>
-      <album>Look To The Rainbow</album>
-    </track>
-    <track>
-      <title>Buzzin Fly</title>
-      <creator>Tim Buckley</creator>
-      <image>https://img.radioparadise.com/covers/l/7372.jpg</image>
-      <album>Happy Sad</album>
-    </track>
-    <track>
-      <title>Pueblo (w/ lúri Oliveira)</title>
-      <creator>ONOMA</creator>
-      <image>https://img.radioparadise.com/covers/l/26461.jpg</image>
-      <album>ONOMA</album>
-    </track>
-    <track>
-      <title>One Night</title>
-      <creator>Broken Bells</creator>
-      <image>https://img.radioparadise.com/covers/l/18590.jpg</image>
-      <album>Into the Blue</album>
-    </track>
-    <track>
-      <title>Long Lost Son</title>
-      <creator>The Band of Heathens</creator>
-      <image>https://img.radioparadise.com/covers/l/21142.jpg</image>
-      <album>Simple Things</album>
-    </track>
-    <track>
-      <title>Enjoy The Silence</title>
-      <creator>Depeche Mode</creator>
-      <image>https://img.radioparadise.com/covers/l/9884.jpg</image>
-      <album>Violator</album>
-    </track>
-    <track>
-      <title>Nothin' But A Breeze</title>
-      <creator>Jesse Winchester</creator>
-      <image>https://img.radioparadise.com/covers/l/11617.jpg</image>
-      <album>Nothing but a Breeze</album>
-    </track>
-    <track>
-      <title>Cosmosis (w/ Skepta, PlaqueBoyMax)</title>
-      <creator>Fred again..</creator>
-      <image>https://img.radioparadise.com/covers/l/25671.jpg</image>
-      <album>There Is No End</album>
-    </track>
-    <track>
-      <title>Ceremony</title>
-      <creator>New Order</creator>
-      <image>https://img.radioparadise.com/covers/l/8040.jpg</image>
-      <album>Bizarre Love Triangle</album>
-    </track>
-    <track>
-      <title>Birds and Stars</title>
-      <creator>Elephant Revival</creator>
-      <image>https://img.radioparadise.com/covers/l/12958.jpg</image>
-      <album>These Changing Skies</album>
-    </track>
-    <track>
-      <title>When Everybody Comes Home</title>
-      <creator>Brewer &amp; Shipley</creator>
-      <image>https://img.radioparadise.com/covers/l/27856.jpg</image>
-      <album>Shake off the Demon</album>
-    </track>
-    <track>
-      <title>Minors Holiday</title>
-      <creator>Kenny Dorham</creator>
-      <image>https://img.radioparadise.com/covers/l/26620.jpg</image>
-      <album>Afro-Cuban (Rudy Van Gelder Edition)</album>
-    </track>
-    <track>
-      <title>Alligator</title>
-      <creator>Of Monsters and Men</creator>
-      <image>https://img.radioparadise.com/covers/l/17930.jpg</image>
-      <album>Fever Dream</album>
-    </track>
-    <track>
-      <title>Storm</title>
-      <creator>Yoshida Brothers</creator>
-      <image>https://img.radioparadise.com/covers/l/9411.jpg</image>
-      <album>Yoshida Brothers</album>
-    </track>
-    <track>
-      <title>Bishop School</title>
-      <creator>Yusef Lateef</creator>
-      <image>https://img.radioparadise.com/covers/l/20547.jpg</image>
-      <album>Yusef Lateef’s Detroit Latitude 42° 30′ Longitude 83°</album>
-    </track>
-    <track>
-      <title>Cracking Up</title>
-      <creator>Nick Lowe</creator>
-      <image>https://img.radioparadise.com/covers/l/10148.jpg</image>
-      <album>Labour of Lust</album>
-    </track>
-    <track>
-      <title>End Of The Line</title>
-      <creator>Traveling Wilburys</creator>
-      <image>https://img.radioparadise.com/covers/l/16942.jpg</image>
-      <album>Traveling Wilburys, Vol. 1</album>
-    </track>
-    <track>
-      <title>Tumba Pala Cocuyé</title>
-      <creator>Afro Cuban All Stars</creator>
-      <image>https://img.radioparadise.com/covers/l/26691.jpg</image>
-      <album>Distinto, Diferente</album>
-    </track>
-    <track>
-      <title>Followin' You</title>
-      <creator>East Nash Grass</creator>
-      <image>https://img.radioparadise.com/covers/l/24170.jpg</image>
-      <album>All God's Children</album>
-    </track>
-    <track>
-      <title>Maso Ye'eme</title>
-      <creator>Cochemea</creator>
-      <image>https://img.radioparadise.com/covers/l/19645.jpg</image>
-      <album>All My Relations</album>
-    </track>
-    <track>
-      <title>Hidden Treasure</title>
-      <creator>Traffic</creator>
-      <image>https://img.radioparadise.com/covers/l/14402.jpg</image>
-      <album>The Low Spark Of High Heeled Boys</album>
-    </track>
-    <track>
-      <title>I Will Follow</title>
-      <creator>U2</creator>
-      <image>https://img.radioparadise.com/covers/l/6913.jpg</image>
-      <album>Boy</album>
-    </track>
-    <track>
-      <title>Caldwell 69</title>
-      <creator>Rule 42</creator>
-      <image>https://img.radioparadise.com/covers/l/19569.jpg</image>
-      <album>Ambient Explorations 11</album>
-    </track>
-    <track>
-      <title>Barbarian</title>
-      <creator>AWOLNATION</creator>
-      <image>https://img.radioparadise.com/covers/l/19501.jpg</image>
-      <album>The Phantom Five</album>
-    </track>
-    <track>
-      <title>Every Day Like the Last</title>
-      <creator>Wye Oak</creator>
-      <image>https://img.radioparadise.com/covers/l/18712.jpg</image>
-      <album>Every Day Like The Last</album>
-    </track>
-    <track>
-      <title>This Is The Lost Generation</title>
-      <creator>Lost Generation</creator>
-      <image>https://img.radioparadise.com/covers/l/25480.jpg</image>
-      <album>Young, Tough and Terrible</album>
-    </track>
-    <track>
-      <title>Toughest Town In Texas</title>
-      <creator>Gloria Anderson</creator>
-      <image>https://img.radioparadise.com/covers/l/29033.jpg</image>
-      <album>Run Of the Mill</album>
-    </track>
-    <track>
-      <title>Year of the Snake</title>
-      <creator>Arcade Fire</creator>
-      <image>https://img.radioparadise.com/covers/l/22465.jpg</image>
-      <album>Pink Elephant</album>
-    </track>
-    <track>
-      <title>Flutes of The Chi</title>
-      <creator>Ween</creator>
-      <image>https://img.radioparadise.com/covers/l/6845.jpg</image>
-      <album>White Pepper</album>
-    </track>
-    <track>
-      <title>Balek</title>
-      <creator>Marc Moulin</creator>
-      <image>https://img.radioparadise.com/covers/l/26621.jpg</image>
-      <album>Placebo Years 1971 - 1974</album>
-    </track>
-    <track>
-      <title>Down To The Sea</title>
-      <creator>Angus &amp; Julia Stone</creator>
-      <image>https://img.radioparadise.com/covers/l/19116.jpg</image>
-      <album>Cape Forestier</album>
-    </track>
-    <track>
-      <title>Ring Of Fire</title>
-      <creator>Social Distortion</creator>
-      <image>https://img.radioparadise.com/covers/l/11370.jpg</image>
-      <album>Social Distortion</album>
-    </track>
-    <track>
-      <title>Hush</title>
-      <creator>Deep Purple</creator>
-      <image>https://img.radioparadise.com/covers/l/7797.jpg</image>
-      <album>Shades of Deep Purple</album>
-    </track>
-    <track>
-      <title>12 Mortal Men</title>
-      <creator>Suzanne Vega</creator>
-      <image>https://img.radioparadise.com/covers/l/13253.jpg</image>
-      <album>Lover, Beloved: Songs from an Evening with Carson McCullers</album>
-    </track>
-    <track>
-      <title>A Apolitical Blues</title>
-      <creator>Little Feat</creator>
-      <image>https://img.radioparadise.com/covers/l/8354.jpg</image>
-      <album>Sailin' Shoes</album>
+      <title>Exist (w/ Richard Houghten)</title>
+      <creator>Aukai</creator>
+      <image>https://img.radioparadise.com/covers/l/24612.jpg</image>
+      <album>Exist</album>
     </track>
   </trackList>
 </playlist>
