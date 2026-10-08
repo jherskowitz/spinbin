@@ -3,36 +3,674 @@
   <info>https://www.kexp.org/playlist/</info>
   <creator>kexp.org</creator>
   <image>https://jherskowitz.github.io/spinbin/logos/kexp.svg</image>
-  <date>2026-10-07T17:10:12+00:00</date>
+  <date>2026-10-08T17:07:45+00:00</date>
   <trackList>
     <track>
-      <title>The Sign</title>
-      <creator>Ace of Base</creator>
-      <image>https://dn710609.ca.archive.org/0/items/mbid-42c8a4d4-e732-4c81-b6c0-c5634343a5c4/mbid-42c8a4d4-e732-4c81-b6c0-c5634343a5c4-22545515143_thumb500.jpg</image>
-      <album>The Sign</album>
+      <title>Lover, You Should've Come Over</title>
+      <creator>Jeff Buckley</creator>
+      <image>https://dn710109.ca.archive.org/0/items/mbid-57109e69-326f-330a-b8b0-df9f6ac42820/mbid-57109e69-326f-330a-b8b0-df9f6ac42820-28734527560_thumb500.jpg</image>
+      <album>Grace</album>
     </track>
     <track>
-      <title>There’s No Other Way</title>
-      <creator>Blur</creator>
-      <image>https://dn710307.ca.archive.org/0/items/mbid-d81bfb74-5d2e-4dcf-956f-550cfde5eed5/mbid-d81bfb74-5d2e-4dcf-956f-550cfde5eed5-7940676289_thumb500.jpg</image>
-      <album>Leisure</album>
+      <title>What’s the Frequency, Kenneth?</title>
+      <creator>R.E.M.</creator>
+      <image>https://ia803207.us.archive.org/5/items/mbid-0622f867-2f28-38eb-a295-7c20fd2b2292/mbid-0622f867-2f28-38eb-a295-7c20fd2b2292-7915360989_thumb500.jpg</image>
+      <album>Monster</album>
     </track>
     <track>
-      <title>Rearviewmirror</title>
+      <title>Award Tour (radio version)</title>
+      <creator>A Tribe Called Quest</creator>
+      <image>https://dn721800.ca.archive.org/0/items/mbid-04aaee6c-f34f-4e11-9ab4-e0695cadb539/mbid-04aaee6c-f34f-4e11-9ab4-e0695cadb539-31391357752_thumb500.jpg</image>
+      <album>Award Tour</album>
+    </track>
+    <track>
+      <title>Tonight, Tonight</title>
+      <creator>The Smashing Pumpkins</creator>
+      <image>https://dn710306.ca.archive.org/0/items/mbid-cc8a0f30-286b-4987-9ea0-a247b54d26ce/mbid-cc8a0f30-286b-4987-9ea0-a247b54d26ce-8398913209_thumb500.jpg</image>
+      <album>Mellon Collie and the Infinite Sadness</album>
+    </track>
+    <track>
+      <title>Live Forever</title>
+      <creator>Oasis</creator>
+      <image>https://dn721609.ca.archive.org/0/items/mbid-698d1229-0724-36c1-9ef0-0705ac4d98c4/mbid-698d1229-0724-36c1-9ef0-0705ac4d98c4-38265640542_thumb500.jpg</image>
+      <album>Definitely Maybe</album>
+    </track>
+    <track>
+      <title>Corduroy</title>
       <creator>Pearl Jam</creator>
-      <image>https://dn710309.ca.archive.org/0/items/mbid-2ac069bd-cc66-4b9e-9aeb-80f0fee3f24e/mbid-2ac069bd-cc66-4b9e-9aeb-80f0fee3f24e-2452039540_thumb500.jpg</image>
-      <album>Vs.</album>
+      <image>https://ia801806.us.archive.org/13/items/mbid-1f1b25a7-6420-4c80-8560-9b38bfc0a23a/mbid-1f1b25a7-6420-4c80-8560-9b38bfc0a23a-2453060918_thumb500.jpg</image>
+      <album>Vitalogy</album>
     </track>
     <track>
-      <title>Dollar Bill</title>
-      <creator>Screaming Trees</creator>
-      <image>https://dn721907.ca.archive.org/0/items/mbid-f9c528de-287e-4c49-ad24-159648ba99e6/mbid-f9c528de-287e-4c49-ad24-159648ba99e6-26949460760_thumb500.jpg</image>
-      <album>Sweet Oblivion</album>
+      <title>Fell on Black Days</title>
+      <creator>Soundgarden</creator>
+      <image>https://ia903209.us.archive.org/8/items/mbid-53e70778-6771-4674-8933-9438b4528dd8/mbid-53e70778-6771-4674-8933-9438b4528dd8-15934451483_thumb500.jpg</image>
+      <album>Superunknown</album>
     </track>
     <track>
-      <title>Taillights Fade</title>
+      <title>Midnight in a Perfect World</title>
+      <creator>DJ Shadow</creator>
+      <image>https://ia803106.us.archive.org/34/items/mbid-4f42f3ae-730e-49b2-8315-10c6618efea0/mbid-4f42f3ae-730e-49b2-8315-10c6618efea0-24507375189_thumb500.jpg</image>
+      <album>Endtroducing.....</album>
+    </track>
+    <track>
+      <title>Passin’ Me By (video remix)</title>
+      <creator>The Pharcyde</creator>
+      <album>Passin' Me By / Pork</album>
+    </track>
+    <track>
+      <title>Holland, 1945</title>
+      <creator>Neutral Milk Hotel</creator>
+      <image>https://dn710607.ca.archive.org/0/items/mbid-023fcf90-dca7-4a4e-a4e2-ed0eaba78f9e/mbid-023fcf90-dca7-4a4e-a4e2-ed0eaba78f9e-8579764982_thumb500.jpg</image>
+      <album>In the Aeroplane Over the Sea</album>
+    </track>
+    <track>
+      <title>Block Rockin’ Beats</title>
+      <creator>The Chemical Brothers</creator>
+      <image>https://coverartarchive.org/release/9a241bf1-0092-44f7-8fb6-948aec3dd8af/29314905874-500.jpg</image>
+      <album>Block Rockin’ Beats</album>
+    </track>
+    <track>
+      <title>Disarm</title>
+      <creator>The Smashing Pumpkins</creator>
+      <image>https://dn711100.ca.archive.org/0/items/mbid-fea43bde-36f1-4b63-9d79-37d10cef137b/mbid-fea43bde-36f1-4b63-9d79-37d10cef137b-24328290725_thumb500.jpg</image>
+      <album>Disarm</album>
+    </track>
+    <track>
+      <title>Between the Bars</title>
+      <creator>Elliott Smith</creator>
+      <image>https://dn710706.ca.archive.org/0/items/mbid-0a5aa565-8158-4e81-9776-af8044f6cc1e/mbid-0a5aa565-8158-4e81-9776-af8044f6cc1e-18047694847_thumb500.jpg</image>
+      <album>Either/Or</album>
+    </track>
+    <track>
+      <title>Cut Your Hair</title>
+      <creator>Pavement</creator>
+      <image>https://dn710303.ca.archive.org/0/items/mbid-cb7ae4d4-9e86-32a6-8afb-c9b98de6f1f9/mbid-cb7ae4d4-9e86-32a6-8afb-c9b98de6f1f9-3882539681_thumb500.jpg</image>
+      <album>Crooked Rain, Crooked Rain</album>
+    </track>
+    <track>
+      <title>Little Fluffy Clouds</title>
+      <creator>The Orb</creator>
+      <image>https://dn711003.ca.archive.org/0/items/mbid-476d5ee1-266a-45d1-940a-d706663bb3f9/mbid-476d5ee1-266a-45d1-940a-d706663bb3f9-9717211777_thumb500.jpg</image>
+      <album>The Orb’s Adventures Beyond the Ultraworld</album>
+    </track>
+    <track>
+      <title>Exit Music (for a Film)</title>
+      <creator>Radiohead</creator>
+      <image>https://coverartarchive.org/release/30702389-5c67-4438-9ea0-2351c8de0f1d/43287476628-500.jpg</image>
+      <album>OK Computer</album>
+    </track>
+    <track>
+      <title>Hand in My Pocket</title>
+      <creator>Alanis Morissette</creator>
+      <image>https://dn710807.ca.archive.org/0/items/mbid-b22fa2dd-229a-4727-8e34-4f7191f5d612/mbid-b22fa2dd-229a-4727-8e34-4f7191f5d612-22072586104_thumb500.jpg</image>
+      <album>Jagged Little Pill</album>
+    </track>
+    <track>
+      <title>No Surprises</title>
+      <creator>Radiohead</creator>
+      <image>https://coverartarchive.org/release/30702389-5c67-4438-9ea0-2351c8de0f1d/43287476628-500.jpg</image>
+      <album>OK Computer</album>
+    </track>
+    <track>
+      <title>Autumn Sweater</title>
+      <creator>Yo La Tengo</creator>
+      <image>https://ia903203.us.archive.org/7/items/mbid-dc5ee2df-7e5b-4a43-b67b-b9551e65c361/mbid-dc5ee2df-7e5b-4a43-b67b-b9551e65c361-3592364273_thumb500.jpg</image>
+      <album>I Can Hear the Heart Beating as One</album>
+    </track>
+    <track>
+      <title>Dig for Fire</title>
+      <creator>Pixies</creator>
+      <album>Bossanova</album>
+    </track>
+    <track>
+      <title>There She Goes</title>
+      <creator>The La’s</creator>
+      <image>https://dn710800.ca.archive.org/0/items/mbid-b740fb8e-942a-3437-823c-26fe0d805459/mbid-b740fb8e-942a-3437-823c-26fe0d805459-10494841658_thumb500.jpg</image>
+      <album>The La's</album>
+    </track>
+    <track>
+      <title>Jesus Built My Hotrod (Short, Pusillanimous, So-They-Can-Fit-More-Commercials-on-the-Radio edit)</title>
+      <creator>Ministry</creator>
+      <image>https://dn710608.ca.archive.org/0/items/mbid-f5ac86a3-e96d-4747-8ce3-dff71cc4f486/mbid-f5ac86a3-e96d-4747-8ce3-dff71cc4f486-4119149174_thumb500.jpg</image>
+      <album>Jesus Built My Hotrod</album>
+    </track>
+    <track>
+      <title>Everybody Hurts</title>
+      <creator>R.E.M.</creator>
+      <image>https://ia601807.us.archive.org/5/items/mbid-ec92dab2-a057-4d46-b26e-bdc2f8aaa11d/mbid-ec92dab2-a057-4d46-b26e-bdc2f8aaa11d-27758205628_thumb500.jpg</image>
+      <album>Everybody Hurts</album>
+    </track>
+    <track>
+      <title>Spoonman</title>
+      <creator>Soundgarden</creator>
+      <image>https://dn721602.ca.archive.org/0/items/mbid-53e70778-6771-4674-8933-9438b4528dd8/mbid-53e70778-6771-4674-8933-9438b4528dd8-15934451483_thumb500.jpg</image>
+      <album>Superunknown</album>
+    </track>
+    <track>
+      <title>Kiss Them for Me</title>
+      <creator>Siouxsie and the Banshees</creator>
+      <image>https://dn720207.ca.archive.org/0/items/mbid-fdb4f2ea-5ea1-43cb-89b2-56dba045bfd3/mbid-fdb4f2ea-5ea1-43cb-89b2-56dba045bfd3-26948639527_thumb500.jpg</image>
+      <album>Superstition</album>
+    </track>
+    <track>
+      <title>Sometimes (Lester Piggott)</title>
+      <creator>James</creator>
+      <image>https://dn710807.ca.archive.org/0/items/mbid-ca26439f-e8eb-3926-85f4-1513ac05fcd9/mbid-ca26439f-e8eb-3926-85f4-1513ac05fcd9-24987504382_thumb500.jpg</image>
+      <album>Laid</album>
+    </track>
+    <track>
+      <title>Hoover Dam</title>
+      <creator>Sugar</creator>
+      <album>Copper Blue</album>
+    </track>
+    <track>
+      <title>From the Edge of the Deep Green Sea</title>
+      <creator>The Cure</creator>
+      <image>https://dn710202.ca.archive.org/0/items/mbid-6d73360d-75dd-3d58-a59f-119d63dcd304/mbid-6d73360d-75dd-3d58-a59f-119d63dcd304-17762645346_thumb500.jpg</image>
+      <album>Wish</album>
+    </track>
+    <track>
+      <title>Them Changes</title>
+      <creator>Thundercat</creator>
+      <image>https://coverartarchive.org/release/c69deea2-be8c-4db7-acfa-a08f8d80e885/16952158972-500.jpg</image>
+      <album>The Beyond / Where the Giants Roam</album>
+    </track>
+    <track>
+      <title>Danger</title>
+      <creator>Nia Archives</creator>
+      <image>https://coverartarchive.org/release/2a338f84-43b5-40d5-8ac5-3e50b61fb92e/45004668911-500.jpg</image>
+      <album>Emotional Junglist</album>
+    </track>
+    <track>
+      <title>Damaged Goods</title>
+      <creator>Gang of Four</creator>
+      <image>https://coverartarchive.org/release/844c0de9-d040-492b-af05-6ae2f8f6bcf5/43109848254-500.jpg</image>
+      <album>Entertainment!</album>
+    </track>
+    <track>
+      <title>Paranoid</title>
+      <creator>Black Sabbath</creator>
+      <image>https://coverartarchive.org/release/3537864f-8912-45f6-bc6c-c1fc9b3aa9ec/19005618792-500.jpg</image>
+      <album>Paranoid</album>
+    </track>
+    <track>
+      <title>Don’t Go</title>
+      <creator>Yaz</creator>
+      <image>https://coverartarchive.org/release/412f8c22-7af1-4b99-aca8-c9615aa79525/12147243166-500.jpg</image>
+      <album>Upstairs at Eric’s</album>
+    </track>
+    <track>
+      <title>HUMAN AGAIN</title>
+      <creator>Genesis Owusu</creator>
+      <image>https://coverartarchive.org/release/66d51797-e6df-42b6-bb69-3f6552bc5f79/45594508667-500.jpg</image>
+      <album>HUMAN AGAIN</album>
+    </track>
+    <track>
+      <title>The National Anthem</title>
+      <creator>Radiohead</creator>
+      <image>https://coverartarchive.org/release/0e8a1994-f0a7-481d-9be2-6c2f80e14de5/29475045164-500.jpg</image>
+      <album>Kid A</album>
+    </track>
+    <track>
+      <title>Lost Ones</title>
+      <creator>Lauryn Hill</creator>
+      <image>https://coverartarchive.org/release/4f931a2b-98eb-49bb-94b7-0ec62dcfe644/5356827241-500.jpg</image>
+      <album>The Miseducation of Lauryn Hill</album>
+    </track>
+    <track>
+      <title>Can You Get to That</title>
+      <creator>Funkadelic</creator>
+      <image>https://coverartarchive.org/release/f17855ba-2027-44c0-8a7d-bcdea711d716/8252926144-500.jpg</image>
+      <album>Maggot Brain</album>
+    </track>
+    <track>
+      <title>Rill Rill</title>
+      <creator>Sleigh Bells</creator>
+      <image>https://coverartarchive.org/release/9080cfc2-8c59-4333-8040-219ea6ac0433/5416634955-500.jpg</image>
+      <album>Treats</album>
+    </track>
+    <track>
+      <title>Always Something There to Remind Me</title>
+      <creator>Naked Eyes</creator>
+      <image>https://coverartarchive.org/release/b310d22a-7fa1-4865-bfd8-dde7209d3e56/8191049621-500.jpg</image>
+      <album>Always Something There to Remind Me</album>
+    </track>
+    <track>
+      <title>Loner</title>
+      <creator>DEHD</creator>
+      <image>https://coverartarchive.org/release/ad97eff7-c348-408e-9312-8c9ba550b287/26773803681-500.jpg</image>
+      <album>Flower of Devotion</album>
+    </track>
+    <track>
+      <title>Lovely Day</title>
+      <creator>Bill Withers</creator>
+      <image>https://coverartarchive.org/release/28ab0770-0d8c-4f11-aa02-3e6ccf06ac6f/39306822896-500.jpg</image>
+      <album>Menagerie</album>
+    </track>
+    <track>
+      <title>Juicy</title>
+      <creator>The Notorious BIG</creator>
+      <image>https://coverartarchive.org/release/c39794bb-1886-42d9-8a8e-a1be8ae8d5fa/5882590146-500.jpg</image>
+      <album>Ready to Die</album>
+    </track>
+    <track>
+      <title>Midnight Blues</title>
+      <creator>The Detroit Cobras</creator>
+      <image>https://coverartarchive.org/release/b883f70b-b1f3-422e-a206-053ad514ea3f/42435093134-500.jpg</image>
+      <album>Mink, Rat or Rabbit</album>
+    </track>
+    <track>
+      <title>Down Bad</title>
+      <creator>TATYANA</creator>
+      <album>It’s Over</album>
+    </track>
+    <track>
+      <title>(It’s) Tricky</title>
+      <creator>Run‐D.M.C.</creator>
+      <image>https://coverartarchive.org/release/70266b79-66da-4a8d-9949-7332b8b755ba/38062324215-500.jpg</image>
+      <album>Raising Hell</album>
+    </track>
+    <track>
+      <title>Young</title>
+      <creator>Little Simz</creator>
+      <image>https://coverartarchive.org/release/b29d1d8d-1dfb-4af2-8798-f963ba0b58de/41859562156-500.jpg</image>
+      <album>Lotus</album>
+    </track>
+    <track>
+      <title>Never Give Up</title>
+      <creator>Chronixx</creator>
+      <album>Never Give Up</album>
+    </track>
+    <track>
+      <title>I Want to See the Bright Lights Tonight</title>
+      <creator>Richard &amp; Linda Thompson</creator>
+      <image>https://coverartarchive.org/release/000e6233-c4e9-466e-8144-2c362e50816b/11436279650-500.jpg</image>
+      <album>I Want to See the Bright Lights Tonight</album>
+    </track>
+    <track>
+      <title>When I Saw You</title>
+      <creator>The Ronettes</creator>
+      <image>https://coverartarchive.org/release/43ceb11d-e4c6-4a7c-bab9-71bd06251dfa/35536489302-500.jpg</image>
+      <album>The Fabulous Ronettes / The Ronettes, Volume 1</album>
+    </track>
+    <track>
+      <title>Rain Forest (remix)</title>
+      <creator>Paul Hardcastle</creator>
+      <image>https://coverartarchive.org/release/14557e61-934e-4fc1-9472-45805360cc7e/21495635475-500.jpg</image>
+      <album>Rain Forest</album>
+    </track>
+    <track>
+      <title>Àṣẹ</title>
+      <creator>Jill Scott</creator>
+      <image>https://coverartarchive.org/release/9f58c975-9a0e-4dc1-82a8-a95e92036bd8/44082927702-500.jpg</image>
+      <album>To Whom This May Concern</album>
+    </track>
+    <track>
+      <title>3RD WAVE</title>
+      <creator>Stas THEE Boss feat. Hollis</creator>
+      <image>https://dn711507.ca.archive.org/0/items/mbid-ce9bd51b-e134-48ad-9e91-88e20e032cc8/mbid-ce9bd51b-e134-48ad-9e91-88e20e032cc8-46344897316_thumb500.jpg</image>
+      <album>3RD WAVE</album>
+    </track>
+    <track>
+      <title>Jheri Curl Jump</title>
+      <creator>Shabazz Palaces</creator>
+      <image>https://dn710307.ca.archive.org/0/items/mbid-81f1fc8a-2a24-4ca9-bbd7-fd94253e16fd/mbid-81f1fc8a-2a24-4ca9-bbd7-fd94253e16fd-45893802044_thumb500.jpg</image>
+      <album>It’s a Style Sport</album>
+    </track>
+    <track>
+      <title>Where It’s At</title>
+      <creator>Beck</creator>
+      <image>https://coverartarchive.org/release/c81f226e-4cf3-42bb-89a8-a92aa2055e6e/42051541914-500.jpg</image>
+      <album>Odelay</album>
+    </track>
+    <track>
+      <title>Lucky[Hymn]</title>
+      <creator>Shygirl</creator>
+      <image>https://coverartarchive.org/release/ab9b41ac-877d-4da9-a28b-1fd4b99fd2d9/46153449232-500.jpg</image>
+      <album>Lucky[Hymn]</album>
+    </track>
+    <track>
+      <title>How Love's Supposed To Go</title>
+      <creator>Alabama Shakes</creator>
+      <image>https://coverartarchive.org/release/309ba96e-b696-4f39-aed6-e8f5d07b4d43/45591472989-500.jpg</image>
+      <album>I Must Be Dreaming</album>
+    </track>
+    <track>
+      <title>I Want You (She’s So Heavy)</title>
+      <creator>The Beatles</creator>
+      <image>https://coverartarchive.org/release/31765b9f-e969-4257-855f-c7ea1f657b2a/39706767821-500.jpg</image>
+      <album>Abbey Road</album>
+    </track>
+    <track>
+      <title>Hang Up Your Hang Ups</title>
+      <creator>Herbie Hancock</creator>
+      <image>https://coverartarchive.org/release/d3221d8f-a304-4b5f-bebc-9c895f0fd7fd/6314115745-500.jpg</image>
+      <album>Man-Child</album>
+    </track>
+    <track>
+      <title>The Dagger</title>
+      <creator>Saul Williams</creator>
+      <image>https://coverartarchive.org/release/960c9586-e3c4-477f-bd00-cf9aa2cab16d/45419888913-500.jpg</image>
+      <album>Leap Life</album>
+    </track>
+    <track>
+      <title>Sorrow Tears and Blood</title>
+      <creator>Fẹla and Afrika 70</creator>
+      <image>https://coverartarchive.org/release/9dbfcc90-dabe-44f0-90ac-45e4cf4d2628/27976662120-500.jpg</image>
+      <album>Sorrow Tears and Blood</album>
+    </track>
+    <track>
+      <title>The Great Curve</title>
+      <creator>Angélique Kidjo featuring Blood Orange</creator>
+      <image>https://coverartarchive.org/release/467e5c83-f48b-4a43-8be8-397bb2fae59f/20184798943-500.jpg</image>
+      <album>Remain in Light</album>
+    </track>
+    <track>
+      <title>When You Want to Dance</title>
+      <creator>Ibibio Sound Machine</creator>
+      <image>https://coverartarchive.org/release/95130a36-9faf-4645-8343-f6bcede6260d/46319016695-500.jpg</image>
+      <album>Chopping Mountain</album>
+    </track>
+    <track>
+      <title>Sweet Echo</title>
+      <creator>Ezra Collective</creator>
+      <image>https://coverartarchive.org/release/39d91a5e-a7db-4a86-825c-ea4758383c29/45254530807-500.jpg</image>
+      <album>Here Because of Hope</album>
+    </track>
+    <track>
+      <title>Brain Brain</title>
+      <creator>The Black Tones</creator>
+      <image>https://coverartarchive.org/release/ed7614a9-60f8-49f7-a558-66e21c44dd38/46310464717-500.jpg</image>
+      <album>Brain Brain</album>
+    </track>
+    <track>
+      <title>Black Steel</title>
+      <creator>Tricky</creator>
+      <image>https://coverartarchive.org/release/849315e1-c3ee-4c1b-955a-a53a1a009e63/40597098441-500.jpg</image>
+      <album>Maxinquaye</album>
+    </track>
+    <track>
+      <title>Fell in Love With a Girl</title>
+      <creator>The White Stripes</creator>
+      <image>https://coverartarchive.org/release/4e817a8b-fe02-35e7-a7c5-e5878431a469/2976471178-500.jpg</image>
+      <album>White Blood Cells</album>
+    </track>
+    <track>
+      <title>Seven &amp; Seven Is</title>
+      <creator>Love</creator>
+      <image>https://coverartarchive.org/release/2a275931-f268-47de-8b63-d5c0fe40a23a/14562010053-500.jpg</image>
+      <album>Da Capo</album>
+    </track>
+    <track>
+      <title>Get Down, Make Love</title>
+      <creator>Queen</creator>
+      <image>https://coverartarchive.org/release/5281690f-7ba9-40d7-8417-d22473561ca4/28459870614-500.jpg</image>
+      <album>News of the World</album>
+    </track>
+    <track>
+      <title>Mihomiezinjail</title>
+      <creator>Imij</creator>
+    </track>
+    <track>
+      <title>Extra Dry Dub</title>
+      <creator>Black Uhuru</creator>
+      <image>https://coverartarchive.org/release/6d317b09-73a7-4af9-9331-dc2e0981e0c5/14664793020-500.jpg</image>
+      <album>Positive Dub</album>
+    </track>
+    <track>
+      <title>Mini</title>
+      <creator>Fab 5</creator>
+      <album>Mini</album>
+    </track>
+    <track>
+      <title>OVA SO</title>
+      <creator>Original Koffee</creator>
+      <image>https://coverartarchive.org/release/09e541fd-9294-43ac-9dce-5a0a51577c00/46141926346-500.jpg</image>
+      <album>OVA SO</album>
+    </track>
+    <track>
+      <title>Turn! Turn! Turn!</title>
+      <creator>Jennifer Lara</creator>
+      <image>https://coverartarchive.org/release/ad4bd113-20d5-4d0d-ad7c-261e9aa28a76/34515103520-500.jpg</image>
+      <album>Studio One Women Vol. 2</album>
+    </track>
+    <track>
+      <title>Seven Times</title>
+      <creator>Lianne La Havas</creator>
+      <image>https://coverartarchive.org/release/ae72beb7-525a-4066-95b3-3578c9c59cfb/26116954199-500.jpg</image>
+      <album>Lianne La Havas</album>
+    </track>
+    <track>
+      <title>'Cause I Love You</title>
+      <creator>Lenny Williams</creator>
+      <image>https://coverartarchive.org/release/79430e88-2df8-475a-90be-1b34ae9d80ff/34130771912-500.jpg</image>
+      <album>Spark of Love</album>
+    </track>
+    <track>
+      <title>Patti Duke</title>
+      <creator>Cloud One</creator>
+      <image>https://coverartarchive.org/release/a4b3ef8c-8069-4a07-b99e-e985c9710514/26519876604-500.jpg</image>
+      <album>Disco Juice</album>
+    </track>
+    <track>
+      <title>Hurt You</title>
+      <creator>MorMor</creator>
+      <image>https://coverartarchive.org/release/0288d6ea-a2d9-4a25-bb4f-42bc72675db7/46138199488-500.jpg</image>
+      <album>Hurt You</album>
+    </track>
+    <track>
+      <title>Peg</title>
+      <creator>Steely Dan</creator>
+      <image>https://coverartarchive.org/release/5e8c8780-2b25-4e43-9d0f-804131132eb6/9701088050-500.jpg</image>
+      <album>Aja</album>
+    </track>
+    <track>
+      <title>Talk It Over</title>
+      <creator>Leon Bridges</creator>
+      <image>https://coverartarchive.org/release/5d12c625-051e-4d3f-91eb-2f906f9d6ada/45680572932-500.jpg</image>
+      <album>Happiness Anytime</album>
+    </track>
+    <track>
+      <title>Hit the Road Jack</title>
+      <creator>Ray Charles</creator>
+      <image>https://coverartarchive.org/release/da9d594f-08ed-4c64-ac91-1825e9a74786/37761834056-500.jpg</image>
+      <album>Hit The Road Jack / The Danger Zone</album>
+    </track>
+    <track>
+      <title>Moanin’</title>
+      <creator>Charles Mingus</creator>
+      <image>https://coverartarchive.org/release/e2d4880b-337e-46d9-9304-6ee3b5cbd642/2550571204-500.jpg</image>
+      <album>Blues &amp; Roots</album>
+    </track>
+    <track>
+      <title>Right Place, Right Time</title>
+      <creator>Delvon Lamarr Organ Trio</creator>
+      <image>https://coverartarchive.org/release/bc7c5523-8bc0-417c-8252-f6315599f7b5/43102330724-500.jpg</image>
+      <album>I Told You So</album>
+    </track>
+    <track>
+      <title>The Choice Is Yours (revisited)</title>
+      <creator>Black Sheep</creator>
+      <image>https://coverartarchive.org/release/dad56b0a-69d8-4eab-9931-2cdc09b5edd6/11490209250-500.jpg</image>
+      <album>A Wolf in Sheep’s Clothing</album>
+    </track>
+    <track>
+      <title>I Ain't No Joke</title>
+      <creator>Eric B. &amp; Rakim</creator>
+      <image>https://coverartarchive.org/release/a9a29f09-a77a-4d2a-b1cc-e4d7c3458848/4421488020-500.jpg</image>
+      <album>Paid in Full</album>
+    </track>
+    <track>
+      <title>Back to Life (However Do You Want Me)</title>
+      <creator>Soul II Soul feat. Caron Wheeler</creator>
+      <image>https://coverartarchive.org/release/f4e8ca2a-8d79-419e-abd6-311614d711bb/37883418775-500.jpg</image>
+      <album>Club Classics Vol. One</album>
+    </track>
+    <track>
+      <title>For Life</title>
+      <creator>Jorja Smith</creator>
+      <image>https://coverartarchive.org/release/4669ee16-0143-4791-a542-49b111214030/46002348822-500.jpg</image>
+      <album>What Are The Odds</album>
+    </track>
+    <track>
+      <title>Gabrielle</title>
+      <creator>Latroit House Ensemble feat. Latroit &amp; Nick Clow</creator>
+      <image>https://ia903209.us.archive.org/14/items/mbid-8bebdb4e-a61f-4615-bd83-7dac13b237fc/mbid-8bebdb4e-a61f-4615-bd83-7dac13b237fc-46034318023_thumb500.jpg</image>
+      <album>Classics, Vol. 1</album>
+    </track>
+    <track>
+      <title>Steppin’ Out</title>
+      <creator>The Gap Band</creator>
+      <image>https://coverartarchive.org/release/ba1eef15-f8a8-45da-a213-ee52bfeba331/4135627509-500.jpg</image>
+      <album>The Gap Band II</album>
+    </track>
+    <track>
+      <title>Montrose Forest</title>
+      <creator>Butcher Brown feat. Nicholas Payton</creator>
+      <image>https://coverartarchive.org/release/75312054-5d15-459a-99aa-ef97018e1dda/40935427801-500.jpg</image>
+      <album>Letters From the Atlantic</album>
+    </track>
+    <track>
+      <title>Funky Sensation</title>
+      <creator>Gwen McCrae</creator>
+      <image>https://coverartarchive.org/release/43cb4af3-91fd-4bdf-a380-d786f2f36ae4/16150927458-500.jpg</image>
+      <album>Gwen McCrae</album>
+    </track>
+    <track>
+      <title>Don’t Stop the Music</title>
+      <creator>Meshell Ndegeocello &amp; Robert Glasper feat. Nick Hakim</creator>
+      <image>https://coverartarchive.org/release/98c936fe-2c7d-46db-80a4-80ffe2649404/45680660632-500.jpg</image>
+      <album>Synonym</album>
+    </track>
+    <track>
+      <title>It's Easier</title>
+      <creator>Stevie Wonder</creator>
+      <image>https://coverartarchive.org/release/3722b9c7-e769-4184-a255-a2ca0effa47f/46308983148-500.jpg</image>
+      <album>Songs in the Key of Life - The EP</album>
+    </track>
+    <track>
+      <title>Ironside</title>
+      <creator>Quincy Jones</creator>
+      <image>https://coverartarchive.org/release/fa2e4bed-2f89-407a-a9df-ec7259699102/2688871290-500.jpg</image>
+      <album>Smackwater Jack</album>
+    </track>
+    <track>
+      <title>Magic Drops</title>
+      <creator>Jam City</creator>
+      <image>https://coverartarchive.org/release/8a4d14ce-87e6-3b4d-8073-1f1b5ac555ea/36016884044-500.jpg</image>
+      <album>Magic Drops</album>
+    </track>
+    <track>
+      <title>Look Like My Mama</title>
+      <creator>AZ Chike feat. Tyler, The Creator</creator>
+      <image>https://coverartarchive.org/release/1f4b783f-1e0d-44a3-9d67-501e2b722c41/46037629706-500.jpg</image>
+      <album>Look Like My Mama</album>
+    </track>
+    <track>
+      <title>Skew It on the Bar‐B</title>
+      <creator>OutKast feat. Raekwon</creator>
+      <image>https://coverartarchive.org/release/63f4592c-6f58-32bb-bd9f-a431dc14e04d/6640977411-500.jpg</image>
+      <album>Aquemini</album>
+    </track>
+    <track>
+      <title>Simon Says</title>
+      <creator>Sampa the Great</creator>
+      <image>https://dn711104.ca.archive.org/0/items/mbid-fe1cb89d-ca6a-4e04-b553-a384b775d246/mbid-fe1cb89d-ca6a-4e04-b553-a384b775d246-46209459001_thumb500.jpg</image>
+      <album>Nu Zamrock</album>
+    </track>
+    <track>
+      <title>Jumpupw!nya</title>
+      <creator>Chad Hugo &amp; Leikeli47 feat. Tierra Whack</creator>
+      <image>https://coverartarchive.org/release/f81a94b8-103b-4e07-8635-b7e95f43d593/45726320232-500.jpg</image>
+      <album>Jumpupw!nya</album>
+    </track>
+    <track>
+      <title>Killing</title>
+      <creator>The Rapture</creator>
+      <image>https://coverartarchive.org/release/d5f37363-87f2-4e6c-90e6-3e7ea7a75a28/17213440528-500.jpg</image>
+      <album>Echoes</album>
+    </track>
+    <track>
+      <title>Going Places</title>
+      <creator>Kid Creole and the Coconuts</creator>
+      <image>https://coverartarchive.org/release/dc18f5d1-8a29-4547-a3b5-753513f0e0a3/15043872469-500.jpg</image>
+      <album>Fresh Fruit in Foreign Places</album>
+    </track>
+    <track>
+      <title>Acid</title>
+      <creator>Ray Barretto</creator>
+      <image>https://coverartarchive.org/release/4269cab6-2952-43cf-8813-3eb7059ec6c3/6693131507-500.jpg</image>
+      <album>Acid</album>
+    </track>
+    <track>
+      <title>No Me Voy</title>
+      <creator>Lucha Luna</creator>
+      <image>https://coverartarchive.org/release/9dab7408-1dab-400b-8c98-616244168fd4/44106639206-500.jpg</image>
+      <album>BRILLA BRILLA</album>
+    </track>
+    <track>
+      <title>I Like It Like That</title>
+      <creator>Pete Rodríguez</creator>
+      <album>I Like it Like That</album>
+    </track>
+    <track>
+      <title>El Chico Del Apartamento 512</title>
+      <creator>Selena</creator>
+      <image>https://coverartarchive.org/release/3a602a84-c2a7-48c3-9103-d708885ce870/38627889680-500.jpg</image>
+      <album>Amor Prohibido</album>
+    </track>
+    <track>
+      <title>Esta pega'o</title>
+      <creator>Proyecto Uno</creator>
+      <image>https://coverartarchive.org/release/21be796d-a0d8-4bf5-bf5d-ecb4a1f0e2c8/18080983799-500.jpg</image>
+      <album>In da House</album>
+    </track>
+    <track>
+      <title>All Seeing</title>
+      <creator>Source of Labor</creator>
+      <image>https://dn710800.ca.archive.org/0/items/mbid-c8380311-1753-40df-bfe6-708d4632366c/mbid-c8380311-1753-40df-bfe6-708d4632366c-21099429495_thumb500.jpg</image>
+      <album>Word Sound Power</album>
+    </track>
+    <track>
+      <title>How Bizarre</title>
+      <creator>OMC</creator>
+      <image>https://dn711100.ca.archive.org/0/items/mbid-332c0d0e-a6ce-4dd9-aee7-49cf8e854cf0/mbid-332c0d0e-a6ce-4dd9-aee7-49cf8e854cf0-17419854606_thumb500.jpg</image>
+      <album>How Bizarre</album>
+    </track>
+    <track>
+      <title>Unbelievable</title>
+      <creator>EMF</creator>
+      <image>https://dn721807.ca.archive.org/0/items/mbid-682f4523-96dd-4ca4-8fc6-cb69416c368e/mbid-682f4523-96dd-4ca4-8fc6-cb69416c368e-28640031469_thumb500.jpg</image>
+      <album>Schubert Dip</album>
+    </track>
+    <track>
+      <title>Song 2</title>
+      <creator>Blur</creator>
+      <image>https://ia801901.us.archive.org/35/items/mbid-1758b4c1-0def-3336-b235-cfcd5b2cfc0b/mbid-1758b4c1-0def-3336-b235-cfcd5b2cfc0b-10270946323_thumb500.jpg</image>
+      <album>Blur</album>
+    </track>
+    <track>
+      <title>Repeater</title>
+      <creator>Fugazi</creator>
+      <image>https://dn710600.ca.archive.org/0/items/mbid-abc22131-315b-409d-8a8d-ed88f688fad4/mbid-abc22131-315b-409d-8a8d-ed88f688fad4-30269134492_thumb500.jpg</image>
+      <album>Repeater + 3 Songs</album>
+    </track>
+    <track>
+      <title>Cut My Skin, It Makes Me Human</title>
+      <creator>The Gits</creator>
+      <album>Frenching the Bully</album>
+    </track>
+    <track>
+      <title>Here &amp; Now</title>
+      <creator>Letters to Cleo</creator>
+      <image>https://dn721808.ca.archive.org/0/items/mbid-413420ec-fa3c-4740-8508-fd4122782709/mbid-413420ec-fa3c-4740-8508-fd4122782709-31567994148_thumb500.jpg</image>
+      <album>Aurora Gory Alice</album>
+    </track>
+    <track>
+      <title>Velvet Roof</title>
       <creator>Buffalo Tom</creator>
-      <image>https://ia801604.us.archive.org/2/items/mbid-589f9f54-1894-36ee-99e1-a4733a860a12/mbid-589f9f54-1894-36ee-99e1-a4733a860a12-9518501268_thumb500.jpg</image>
+      <image>https://dn711006.ca.archive.org/0/items/mbid-589f9f54-1894-36ee-99e1-a4733a860a12/mbid-589f9f54-1894-36ee-99e1-a4733a860a12-9518501268_thumb500.jpg</image>
       <album>Let Me Come Over</album>
     </track>
     <track>
@@ -42,1006 +680,252 @@
       <album>Elastica</album>
     </track>
     <track>
-      <title>Creep</title>
-      <creator>TLC</creator>
-      <image>https://dn710700.ca.archive.org/0/items/mbid-8dbeeea9-6aa8-4220-8190-bef6060677d0/mbid-8dbeeea9-6aa8-4220-8190-bef6060677d0-8657994660_thumb500.jpg</image>
-      <album>CrazySexyCool</album>
+      <title>Are You Gonna Go My Way</title>
+      <creator>Lenny Kravitz</creator>
+      <image>https://dn710809.ca.archive.org/0/items/mbid-6f516fac-cffb-4313-a111-9fc2fae30bc5/mbid-6f516fac-cffb-4313-a111-9fc2fae30bc5-10925811921_thumb500.jpg</image>
+      <album>Are You Gonna Go My Way</album>
     </track>
     <track>
-      <title>Connected</title>
-      <creator>Stereo MCs</creator>
-      <image>https://dn710307.ca.archive.org/0/items/mbid-5989ed08-6420-49e6-9c21-c2c667be21af/mbid-5989ed08-6420-49e6-9c21-c2c667be21af-21812619618_thumb500.jpg</image>
-      <album>Connected</album>
+      <title>Rusty Cage</title>
+      <creator>Soundgarden</creator>
+      <image>https://dn711008.ca.archive.org/0/items/mbid-014d13d5-0a63-33a3-ab95-4a29981dfee1/mbid-014d13d5-0a63-33a3-ab95-4a29981dfee1-19307346851_thumb500.jpg</image>
+      <album>Badmotorfinger</album>
     </track>
     <track>
-      <title>Everything Is Everything</title>
-      <creator>Lauryn Hill</creator>
-      <image>https://dn710901.ca.archive.org/0/items/mbid-4f931a2b-98eb-49bb-94b7-0ec62dcfe644/mbid-4f931a2b-98eb-49bb-94b7-0ec62dcfe644-5356827241_thumb500.jpg</image>
-      <album>The Miseducation of Lauryn Hill</album>
-    </track>
-    <track>
-      <title>Jóga</title>
-      <creator>Björk</creator>
-      <image>https://dn720302.ca.archive.org/0/items/mbid-7a2ad97a-55e9-48a4-953b-45ddc10f7f0f/mbid-7a2ad97a-55e9-48a4-953b-45ddc10f7f0f-44135822976_thumb500.jpg</image>
-      <album>Homogenic</album>
-    </track>
-    <track>
-      <title>Burn</title>
-      <creator>The Cure</creator>
-      <image>https://dn710703.ca.archive.org/0/items/mbid-7352e9b3-4840-3a98-bf81-0a17fa1cc28c/mbid-7352e9b3-4840-3a98-bf81-0a17fa1cc28c-43465157913_thumb500.jpg</image>
-      <album>The Crow</album>
-    </track>
-    <track>
-      <title>What I Got</title>
-      <creator>Sublime</creator>
-      <image>https://dn721506.ca.archive.org/0/items/mbid-03b864cd-7761-314c-a892-05a89ddff00d/mbid-03b864cd-7761-314c-a892-05a89ddff00d-4692775380_thumb500.jpg</image>
-      <album>Sublime</album>
-    </track>
-    <track>
-      <title>50ft Queenie</title>
-      <creator>PJ Harvey</creator>
-      <image>https://dn711302.ca.archive.org/0/items/mbid-7ccd7178-b401-4ee8-acd6-d9bf0aaec04a/mbid-7ccd7178-b401-4ee8-acd6-d9bf0aaec04a-2380228534_thumb500.jpg</image>
-      <album>Rid of Me</album>
-    </track>
-    <track>
-      <title>Drain You</title>
-      <creator>Nirvana</creator>
-      <image>https://ia600105.us.archive.org/30/items/mbid-c12262e2-7185-4942-87ee-da27ddd45ddf/mbid-c12262e2-7185-4942-87ee-da27ddd45ddf-30305762301_thumb500.jpg</image>
-      <album>Nevermind</album>
-    </track>
-    <track>
-      <title>A Roller Skating Jam Named “Saturdays” (LP version)</title>
-      <creator>De La Soul</creator>
-      <image>https://coverartarchive.org/release/db62776a-c205-4196-b0a6-d28fdb2419f5/39231806093-500.jpg</image>
-      <album>A Roller Skating Jam Named “Saturdays”</album>
-    </track>
-    <track>
-      <title>Get It Together</title>
-      <creator>Beastie Boys</creator>
-      <image>https://ia803200.us.archive.org/15/items/mbid-a1b805e1-c67e-4ef4-a9e3-9fc8c4570467/mbid-a1b805e1-c67e-4ef4-a9e3-9fc8c4570467-31660576774_thumb500.jpg</image>
-      <album>Ill Communication</album>
-    </track>
-    <track>
-      <title>Breed</title>
-      <creator>Nirvana</creator>
-      <image>https://dn710803.ca.archive.org/0/items/mbid-c12262e2-7185-4942-87ee-da27ddd45ddf/mbid-c12262e2-7185-4942-87ee-da27ddd45ddf-30305762301_thumb500.jpg</image>
-      <album>Nevermind</album>
-    </track>
-    <track>
-      <title>Web in Front</title>
-      <creator>Archers of Loaf</creator>
-      <image>https://dn721404.ca.archive.org/0/items/mbid-7295dee6-7401-4235-a853-9d6aad253589/mbid-7295dee6-7401-4235-a853-9d6aad253589-26223337157_thumb500.jpg</image>
-      <album>Icky Mettle</album>
-    </track>
-    <track>
-      <title>Only in Dreams</title>
-      <creator>Weezer</creator>
-      <album>Weezer</album>
-    </track>
-    <track>
-      <title>Debonair</title>
-      <creator>The Afghan Whigs</creator>
-      <image>https://dn710106.ca.archive.org/0/items/mbid-840b611a-d7ae-3e0e-a0c5-149e9d918e87/mbid-840b611a-d7ae-3e0e-a0c5-149e9d918e87-7786041295_thumb500.jpg</image>
-      <album>Gentlemen</album>
-    </track>
-    <track>
-      <title>Steal My Sunshine (album edit)</title>
-      <creator>LEN</creator>
-      <image>https://dn721903.ca.archive.org/0/items/mbid-435ff18c-df84-4fcb-8839-77e68a99640d/mbid-435ff18c-df84-4fcb-8839-77e68a99640d-43174009670_thumb500.jpg</image>
-      <album>Steal My Sunshine</album>
-    </track>
-    <track>
-      <title>Popular</title>
-      <creator>Nada Surf</creator>
-      <image>https://dn711200.ca.archive.org/0/items/mbid-e5648344-7e08-4131-8a60-138676d0cfef/mbid-e5648344-7e08-4131-8a60-138676d0cfef-3370472226_thumb500.jpg</image>
-      <album>High/Low</album>
-    </track>
-    <track>
-      <title>I Am One</title>
-      <creator>The Smashing Pumpkins</creator>
-      <image>https://dn721803.ca.archive.org/0/items/mbid-97a6314b-d42a-4432-bff2-f74bb77413ba/mbid-97a6314b-d42a-4432-bff2-f74bb77413ba-22937441701_thumb500.jpg</image>
-      <album>Gish</album>
-    </track>
-    <track>
-      <title>Divine Hammer</title>
-      <creator>The Breeders</creator>
-      <image>https://dn710701.ca.archive.org/0/items/mbid-0123d225-e035-3728-ac3a-3758c9d4edad/mbid-0123d225-e035-3728-ac3a-3758c9d4edad-7940728317_thumb500.jpg</image>
-      <album>Last Splash</album>
-    </track>
-    <track>
-      <title>Novocaine for the Soul</title>
-      <creator>EELS</creator>
-      <image>https://dn710803.ca.archive.org/0/items/mbid-31c452b7-6fc4-39eb-9a0c-1f349328c745/mbid-31c452b7-6fc4-39eb-9a0c-1f349328c745-11388472171_thumb500.jpg</image>
-      <album>Beautiful Freak</album>
-    </track>
-    <track>
-      <title>It’s Oh So Quiet</title>
-      <creator>Björk</creator>
-      <image>https://dn720709.ca.archive.org/0/items/mbid-9bcd15ef-f472-3151-b4f3-ecef9d64553e/mbid-9bcd15ef-f472-3151-b4f3-ecef9d64553e-44049169561_thumb500.jpg</image>
-      <album>Post</album>
-    </track>
-    <track>
-      <title>Pets (radio edit)</title>
-      <creator>Porno for Pyros</creator>
-      <image>https://dn721309.ca.archive.org/0/items/mbid-5f2bdc51-f617-4e6e-87e2-7f8438998f46/mbid-5f2bdc51-f617-4e6e-87e2-7f8438998f46-6393745469_thumb500.jpg</image>
-      <album>Pets</album>
-    </track>
-    <track>
-      <title>Ordinary World</title>
-      <creator>Duran Duran</creator>
-      <image>https://dn710605.ca.archive.org/0/items/mbid-dc3c685e-5b77-308f-8442-95562fc37b95/mbid-dc3c685e-5b77-308f-8442-95562fc37b95-15464441337_thumb500.jpg</image>
-      <album>The Wedding Album</album>
-    </track>
-    <track>
-      <title>Buttermilk Biscuits</title>
-      <creator>Sir Mix‐A‐Lot</creator>
-      <image>https://dn711100.ca.archive.org/0/items/mbid-3a367156-8a1a-4549-b3a7-3ccb3a5d2cfa/mbid-3a367156-8a1a-4549-b3a7-3ccb3a5d2cfa-46048989670_thumb500.jpg</image>
-      <album>Swass</album>
-    </track>
-    <track>
-      <title>This Is the Day</title>
-      <creator>The The</creator>
-      <image>https://dn711003.ca.archive.org/0/items/mbid-14982a22-c2fb-410d-9103-0bb8be9c2adc/mbid-14982a22-c2fb-410d-9103-0bb8be9c2adc-11530895844_thumb500.jpg</image>
-      <album>Soul Mining</album>
-    </track>
-    <track>
-      <title>Soul Love</title>
-      <creator>David Bowie</creator>
-      <image>https://dn710907.ca.archive.org/0/items/mbid-85f61d36-afa0-3977-9b0e-45329574175b/mbid-85f61d36-afa0-3977-9b0e-45329574175b-23680963656_thumb500.jpg</image>
-      <album>The Rise and Fall of Ziggy Stardust and the Spiders From Mars</album>
-    </track>
-    <track>
-      <title>Fascination Tango</title>
-      <creator>Meg and the Suspects</creator>
-    </track>
-    <track>
-      <title>My Fun</title>
-      <creator>Suki Waterhouse</creator>
-      <image>https://dn721904.ca.archive.org/0/items/mbid-5f0e3703-9f59-4291-8fc6-a80e8232c891/mbid-5f0e3703-9f59-4291-8fc6-a80e8232c891-39137828999_thumb500.jpg</image>
-      <album>Memoir of a Sparklemuffin</album>
-    </track>
-    <track>
-      <title>Whole Lotta Love</title>
-      <creator>Led Zeppelin</creator>
-      <image>https://dn710703.ca.archive.org/0/items/mbid-44a720dd-6fe8-4c97-8503-aa9023e02bd3/mbid-44a720dd-6fe8-4c97-8503-aa9023e02bd3-26703970051_thumb500.jpg</image>
-      <album>Led Zeppelin II</album>
-    </track>
-    <track>
-      <title>ATLiens</title>
-      <creator>OutKast</creator>
-      <image>https://dn710103.ca.archive.org/0/items/mbid-a7a6ec18-9437-4a62-80f5-205922c3f9e6/mbid-a7a6ec18-9437-4a62-80f5-205922c3f9e6-40717154478_thumb500.jpg</image>
-      <album>ATLiens</album>
-    </track>
-    <track>
-      <title>Earth People</title>
-      <creator>Dr. Octagon</creator>
-      <image>https://dn711308.ca.archive.org/0/items/mbid-cddbf21f-9cd8-4665-a015-3cdc50cdcc72/mbid-cddbf21f-9cd8-4665-a015-3cdc50cdcc72-2925311149_thumb500.jpg</image>
-      <album>Dr. Octagonecologyst</album>
-    </track>
-    <track>
-      <title>Just Can't Get Enough</title>
-      <creator>Depeche Mode</creator>
-      <image>https://dn710802.ca.archive.org/0/items/mbid-90a3a0e1-5b7b-456d-af89-18e6a9836b1d/mbid-90a3a0e1-5b7b-456d-af89-18e6a9836b1d-1916440439_thumb500.jpg</image>
-      <album>Singles 1–6</album>
-    </track>
-    <track>
-      <title>Ordinary World</title>
-      <creator>Duran Duran</creator>
-      <image>https://dn710605.ca.archive.org/0/items/mbid-dc3c685e-5b77-308f-8442-95562fc37b95/mbid-dc3c685e-5b77-308f-8442-95562fc37b95-15464441337_thumb500.jpg</image>
-      <album>The Wedding Album</album>
-    </track>
-    <track>
-      <title>Once in a Lifetime</title>
-      <creator>Talking Heads</creator>
-      <image>https://dn721500.ca.archive.org/0/items/mbid-b6c6032c-1ed2-4f98-b50d-a2e1d85be723/mbid-b6c6032c-1ed2-4f98-b50d-a2e1d85be723-41876738081_thumb500.jpg</image>
-      <album>Remain in Light</album>
-    </track>
-    <track>
-      <title>Zungguzungguguzungguezeng</title>
-      <creator>Yellowman</creator>
-      <album>Dancehall Essentials in a Rub-A-Dub Style</album>
-    </track>
-    <track>
-      <title>Major Tom (Coming Home)</title>
-      <creator>Peter Schilling</creator>
-      <image>https://dn711207.ca.archive.org/0/items/mbid-544ba81e-cfa9-4a3b-87b7-6b5b6845dc10/mbid-544ba81e-cfa9-4a3b-87b7-6b5b6845dc10-21677659092_thumb500.jpg</image>
-      <album>Living in Oblivion: The 80’s Greatest Hits, Volume 5</album>
-    </track>
-    <track>
-      <title>Free Fallin’</title>
-      <creator>Tom Petty</creator>
-      <image>https://dn711101.ca.archive.org/0/items/mbid-ecaf91f3-35cc-43ab-9d6f-83f85949dc01/mbid-ecaf91f3-35cc-43ab-9d6f-83f85949dc01-16682799196_thumb500.jpg</image>
-      <album>Greatest Hits</album>
-    </track>
-    <track>
-      <title>A Horse With No Name</title>
-      <creator>America</creator>
-      <album>America</album>
-    </track>
-    <track>
-      <title>Fazon</title>
-      <creator>Sopwith Camel</creator>
-      <image>https://dn710706.ca.archive.org/0/items/mbid-9f5460a8-5f5c-40b9-b35f-9d76248c03ca/mbid-9f5460a8-5f5c-40b9-b35f-9d76248c03ca-9506804859_thumb500.jpg</image>
-      <album>The Miraculous Hump Returns From the Moon</album>
-    </track>
-    <track>
-      <title>Seven</title>
-      <creator>Sunny Day Real Estate</creator>
-      <image>https://dn711001.ca.archive.org/0/items/mbid-8838d557-42df-4ebd-88a4-f74cbc33e8f8/mbid-8838d557-42df-4ebd-88a4-f74cbc33e8f8-22584905643_thumb500.jpg</image>
-      <album>Diary</album>
-    </track>
-    <track>
-      <title>New Noise</title>
-      <creator>Refused</creator>
-      <image>https://dn721809.ca.archive.org/0/items/mbid-9164301e-cee4-3bbf-8a59-5296d997b3f9/mbid-9164301e-cee4-3bbf-8a59-5296d997b3f9-22591540791_thumb500.jpg</image>
-      <album>The Shape of Punk to Come</album>
-    </track>
-    <track>
-      <title>U Used to Hold Me</title>
-      <creator>Ralphi Rosario</creator>
-      <album>U Used to Hold Me / Washing Machine</album>
-    </track>
-    <track>
-      <title>Show Me Love</title>
-      <creator>Robin S.</creator>
-      <image>https://dn710801.ca.archive.org/0/items/mbid-20390b64-4bd6-4f8b-9c96-1bf79fbb3086/mbid-20390b64-4bd6-4f8b-9c96-1bf79fbb3086-15327686555_thumb500.jpg</image>
-      <album>Show Me Love</album>
-    </track>
-    <track>
-      <title>Fight the Power</title>
-      <creator>Public Enemy</creator>
-      <image>https://dn711103.ca.archive.org/0/items/mbid-7b952493-a2a9-4470-92b0-642fd46d191c/mbid-7b952493-a2a9-4470-92b0-642fd46d191c-9837414845_thumb500.jpg</image>
-      <album>Fear of a Black Planet</album>
-    </track>
-    <track>
-      <title>Keep Ya Head Up</title>
-      <creator>2Pac</creator>
-      <image>https://ia800403.us.archive.org/0/items/mbid-7758ecb3-eadb-49ee-998c-f439f4f12c4c/mbid-7758ecb3-eadb-49ee-998c-f439f4f12c4c-1816403489_thumb500.jpg</image>
-      <album>Greatest Hits</album>
-    </track>
-    <track>
-      <title>U.N.I.T.Y.</title>
-      <creator>Queen Latifah</creator>
-      <image>https://dn710900.ca.archive.org/0/items/mbid-99fbeb85-6c72-4180-a914-27525f29578a/mbid-99fbeb85-6c72-4180-a914-27525f29578a-9213261062_thumb500.jpg</image>
-      <album>Black Reign</album>
-    </track>
-    <track>
-      <title>Swamp Thing</title>
-      <creator>The Grid</creator>
-      <image>https://dn710704.ca.archive.org/0/items/mbid-b97143fd-be61-368c-a357-a391dd34aaa8/mbid-b97143fd-be61-368c-a357-a391dd34aaa8-16432524760_thumb500.jpg</image>
-      <album>Swamp Thing</album>
-    </track>
-    <track>
-      <title>Around the World</title>
-      <creator>Daft Punk</creator>
-      <image>https://dn711201.ca.archive.org/0/items/mbid-ce45ae00-c3e2-38db-95e3-2cc4c42f2985/mbid-ce45ae00-c3e2-38db-95e3-2cc4c42f2985-7532245373_thumb500.jpg</image>
-      <album>Homework</album>
-    </track>
-    <track>
-      <title>Sandstorm (Radio Edit)</title>
-      <creator>Darude</creator>
-      <image>https://coverartarchive.org/release/0cedb710-627c-4193-af27-737c9fedcbb0/3057784652-500.jpg</image>
-      <album>Sandstorm</album>
-    </track>
-    <track>
-      <title>Better Off Alone</title>
-      <creator>Alice DeeJay</creator>
-      <image>https://coverartarchive.org/release/dd351792-e53f-4d74-bf93-2a940edad8d1/10209301116-500.jpg</image>
-      <album>Better Off Alone</album>
-    </track>
-    <track>
-      <title>Mr. Vain</title>
-      <creator>Culture Beat</creator>
-      <image>https://coverartarchive.org/release/caba4370-6716-4c9a-8552-6c743c9d2327/36554798577-500.jpg</image>
-      <album>Mr. Vain</album>
-    </track>
-    <track>
-      <title>All I Really Want</title>
-      <creator>Alanis Morissette</creator>
-      <image>https://ia600101.us.archive.org/33/items/mbid-0c72e8d4-98a6-3a14-a407-8927d142edc2/mbid-0c72e8d4-98a6-3a14-a407-8927d142edc2-36030832301_thumb500.jpg</image>
-      <album>Jagged Little Pill</album>
-    </track>
-    <track>
-      <title>Supernova (Edit)</title>
-      <creator>Liz Phair</creator>
-      <image>https://dn721805.ca.archive.org/0/items/mbid-eca283ab-f95a-4569-845f-b146e05ae419/mbid-eca283ab-f95a-4569-845f-b146e05ae419-7422555141_thumb500.jpg</image>
-      <album>Supernova</album>
-    </track>
-    <track>
-      <title>Wish</title>
-      <creator>Nine Inch Nails</creator>
-      <image>https://dn710201.ca.archive.org/0/items/mbid-b7f2dc7e-3941-4c9c-a801-b656f295931c/mbid-b7f2dc7e-3941-4c9c-a801-b656f295931c-33866302333_thumb500.jpg</image>
-      <album>Broken</album>
-    </track>
-    <track>
-      <title>Army of Me</title>
-      <creator>Björk</creator>
-      <image>https://dn720709.ca.archive.org/0/items/mbid-9bcd15ef-f472-3151-b4f3-ecef9d64553e/mbid-9bcd15ef-f472-3151-b4f3-ecef9d64553e-44049169561_thumb500.jpg</image>
-      <album>Post</album>
-    </track>
-    <track>
-      <title>Cannonball</title>
-      <creator>The Breeders</creator>
-      <image>https://dn710701.ca.archive.org/0/items/mbid-0123d225-e035-3728-ac3a-3758c9d4edad/mbid-0123d225-e035-3728-ac3a-3758c9d4edad-7940728317_thumb500.jpg</image>
-      <album>Last Splash</album>
-    </track>
-    <track>
-      <title>Gold</title>
+      <title>Endorphinmachine</title>
       <creator>Prince</creator>
-      <image>https://dn721901.ca.archive.org/0/items/mbid-199eac33-566e-418b-96d2-09d72b3d043f/mbid-199eac33-566e-418b-96d2-09d72b3d043f-39882395247_thumb500.jpg</image>
+      <image>https://coverartarchive.org/release/b79433d4-68de-461b-acc3-bcd8d28ce476/19052137951-500.jpg</image>
       <album>The Gold Experience</album>
     </track>
     <track>
-      <title>I2I</title>
-      <creator>Tevin Campbell</creator>
-      <album>A Goofy Movie</album>
+      <title>Edible Cousins</title>
+      <creator>IMIJ</creator>
+      <album>Northwest Post-Grunge</album>
     </track>
     <track>
-      <title>3 A.M. Eternal (Live at the S.S.L.)</title>
-      <creator>The KLF</creator>
-      <image>https://dn710406.ca.archive.org/0/items/mbid-74b206e1-38d6-3131-b8fb-b5aa910012f5/mbid-74b206e1-38d6-3131-b8fb-b5aa910012f5-10480607188_thumb500.jpg</image>
-      <album>The White Room</album>
+      <title>So groovy</title>
+      <creator>Ironing Pants Definitely</creator>
+      <album>Ironing Pants Definitely</album>
     </track>
     <track>
-      <title>That’s the Way Love Goes</title>
-      <creator>Janet</creator>
-      <album>janet.</album>
+      <title>Jesus Built My Hotrod</title>
+      <creator>Ministry</creator>
+      <image>https://dn711303.ca.archive.org/0/items/mbid-6ff3abf5-4e80-41d7-a0d3-f418608a8b83/mbid-6ff3abf5-4e80-41d7-a0d3-f418608a8b83-23521785829_thumb500.jpg</image>
+      <album>ΚΕΦΑΛΗΞΘ</album>
     </track>
     <track>
-      <title>By Your Side</title>
-      <creator>Sade</creator>
-      <image>https://coverartarchive.org/release/bf4f37ba-d160-423d-98fd-7a606ae3e788/30093510562-500.jpg</image>
-      <album>By Your Side</album>
+      <title>Windowlicker</title>
+      <creator>Aphex Twin</creator>
+      <image>https://dn710909.ca.archive.org/0/items/mbid-0a25ae72-8a79-37f4-a697-591f4364e0ab/mbid-0a25ae72-8a79-37f4-a697-591f4364e0ab-22036081387_thumb500.jpg</image>
+      <album>Windowlicker</album>
     </track>
     <track>
-      <title>End of the Road</title>
-      <creator>Boyz II Men</creator>
-      <image>https://dn711107.ca.archive.org/0/items/mbid-82aabab9-a56b-4312-99ee-9e35e0991321/mbid-82aabab9-a56b-4312-99ee-9e35e0991321-6679207204_thumb500.jpg</image>
-      <album>Cooleyhighharmony</album>
+      <title>In My Room</title>
+      <creator>Bart &amp; Friends</creator>
+      <album>10 Songs About Cars &amp; Girls</album>
     </track>
     <track>
-      <title>Set Adrift on Memory Bliss (radio mix)</title>
-      <creator>P.M. Dawn</creator>
-      <image>https://dn710704.ca.archive.org/0/items/mbid-9b3ee992-06cc-4809-8a0f-cd1c2c16b233/mbid-9b3ee992-06cc-4809-8a0f-cd1c2c16b233-16937597242_thumb500.jpg</image>
-      <album>Set Adrift on Memory Bliss</album>
+      <title>I'm Lost Without You Here</title>
+      <creator>Rocketship</creator>
+      <image>https://dn710001.ca.archive.org/0/items/mbid-0578bfda-808e-472c-93cc-d027a0588ce5/mbid-0578bfda-808e-472c-93cc-d027a0588ce5-29091228263_thumb500.jpg</image>
+      <album>A Certain Smile, a Certain Sadness</album>
     </track>
     <track>
-      <title>1979</title>
-      <creator>The Smashing Pumpkins</creator>
-      <image>https://dn721204.ca.archive.org/0/items/mbid-61a93f13-72ff-4aea-97e6-9b0954cb36b0/mbid-61a93f13-72ff-4aea-97e6-9b0954cb36b0-38216215200_thumb500.jpg</image>
-      <album>Mellon Collie and the Infinite Sadness</album>
+      <title>Yeah Yeah Yeah</title>
+      <creator>The Minders</creator>
+      <image>https://dn721602.ca.archive.org/0/items/mbid-30d47e83-63e4-494e-b8d6-9cb25214f2b7/mbid-30d47e83-63e4-494e-b8d6-9cb25214f2b7-15526919857_thumb500.jpg</image>
+      <album>Hooray for Tuesday</album>
     </track>
     <track>
-      <title>Common People</title>
-      <creator>Pulp</creator>
-      <image>https://dn711105.ca.archive.org/0/items/mbid-a2536e20-e802-385d-acb7-964ed326af78/mbid-a2536e20-e802-385d-acb7-964ed326af78-19011590959_thumb500.jpg</image>
-      <album>Different Class</album>
+      <title>Don't Ask Me to Explain</title>
+      <creator>of Montreal</creator>
+      <album>Cherry Peel</album>
     </track>
     <track>
-      <title>Song 2</title>
-      <creator>Blur</creator>
-      <image>https://dn710607.ca.archive.org/0/items/mbid-1758b4c1-0def-3336-b235-cfcd5b2cfc0b/mbid-1758b4c1-0def-3336-b235-cfcd5b2cfc0b-10270946323_thumb500.jpg</image>
-      <album>Blur</album>
+      <title>Upside-Down</title>
+      <creator>Yo La Tengo</creator>
+      <image>https://dn711009.ca.archive.org/0/items/mbid-d4dcea90-1d72-4141-8b18-68f0361258dd/mbid-d4dcea90-1d72-4141-8b18-68f0361258dd-14922151616_thumb500.jpg</image>
+      <album>May I Sing With Me</album>
     </track>
     <track>
-      <title>Missing (Todd Terry Club Mix)</title>
-      <creator>Everything but the Girl</creator>
-      <album>Missing</album>
+      <title>Pale Frail Lovely One</title>
+      <creator>Outrageous Cherry</creator>
+      <image>https://coverartarchive.org/release/2769fd5c-6d17-4ac1-b07f-91896d8bcdee/17181558699-500.jpg</image>
+      <album>Outrageous Cherry</album>
     </track>
     <track>
-      <title>Go</title>
-      <creator>Moby</creator>
-      <image>https://dn721800.ca.archive.org/0/items/mbid-63c671c5-bd00-4c14-954f-7c259288a2d0/mbid-63c671c5-bd00-4c14-954f-7c259288a2d0-41056140638_thumb500.jpg</image>
-      <album>Moby</album>
+      <title>Cumbanchero</title>
+      <creator>Rubén González</creator>
+      <image>https://dn710608.ca.archive.org/0/items/mbid-a84626a2-7f1d-4608-8bbc-c5c2f42581f9/mbid-a84626a2-7f1d-4608-8bbc-c5c2f42581f9-14938825227_thumb500.jpg</image>
+      <album>Introducing... Rubén González</album>
     </track>
     <track>
-      <title>Firestarter</title>
-      <creator>The Prodigy</creator>
-      <image>https://dn721901.ca.archive.org/0/items/mbid-a9281d84-72ae-43aa-9b72-1e2e6ec0075a/mbid-a9281d84-72ae-43aa-9b72-1e2e6ec0075a-35863431742_thumb500.jpg</image>
-      <album>The Fat of the Land</album>
+      <title>Hell</title>
+      <creator>Squirrel Nut Zippers</creator>
+      <image>https://ia800901.us.archive.org/28/items/mbid-70fc4df9-1a86-4357-aac7-0694d4248aed/mbid-70fc4df9-1a86-4357-aac7-0694d4248aed-8413711733_thumb500.jpg</image>
+      <album>Hot</album>
     </track>
     <track>
-      <title>Black Steel (radio edit)</title>
-      <creator>Tricky</creator>
-      <image>https://ia600603.us.archive.org/30/items/mbid-80c9ce8c-ae15-4938-854d-dc2274488d4f/mbid-80c9ce8c-ae15-4938-854d-dc2274488d4f-4530700120_thumb500.jpg</image>
-      <album>A Ruff Guide</album>
+      <title>Cadillac</title>
+      <creator>Combustible Edison</creator>
+      <image>https://ia801408.us.archive.org/2/items/mbid-2f93069c-1331-426f-b208-6de27a68a863/mbid-2f93069c-1331-426f-b208-6de27a68a863-14581722549_thumb500.jpg</image>
+      <album>I, Swinger</album>
     </track>
     <track>
-      <title>Block Rockin’ Beats</title>
-      <creator>The Chemical Brothers</creator>
-      <image>https://dn721908.ca.archive.org/0/items/mbid-8edd6bb0-b20a-4bc7-b07c-7aad1099c3b9/mbid-8edd6bb0-b20a-4bc7-b07c-7aad1099c3b9-7941793950_thumb500.jpg</image>
-      <album>Singles 93-03</album>
-    </track>
-    <track>
-      <title>The Power</title>
-      <creator>SNAP!</creator>
-      <image>https://dn721804.ca.archive.org/0/items/mbid-ca1c62af-07bd-4188-aec2-8678f16e5592/mbid-ca1c62af-07bd-4188-aec2-8678f16e5592-33730651509_thumb500.jpg</image>
-      <album>World Power</album>
-    </track>
-    <track>
-      <title>Dark &amp; Long</title>
-      <creator>Underworld</creator>
-      <image>https://dn711107.ca.archive.org/0/items/mbid-080ddf87-234f-4dfb-9c37-b57cf4a1c9e8/mbid-080ddf87-234f-4dfb-9c37-b57cf4a1c9e8-7315318818_thumb500.jpg</image>
-      <album>Dubnobasswithmyheadman</album>
-    </track>
-    <track>
-      <title>Born Slippy (FonograF and Panniko Remix)</title>
-      <creator>Underworld</creator>
-      <album>Born Slippy (FonograF and Panniko Remix)</album>
-    </track>
-    <track>
-      <title>We Like to Party!</title>
-      <creator>Vengaboys</creator>
-      <image>https://coverartarchive.org/release/3f519bba-b069-46bf-9516-27d9c80f540f/17840766713-500.jpg</image>
-      <album>No. 1 Hits: We Like to Party Edition</album>
-    </track>
-    <track>
-      <title>What Is Love (7" mix)</title>
-      <creator>Haddaway</creator>
-      <image>https://dn710304.ca.archive.org/0/items/mbid-55e68992-e6c7-416a-b134-c31f6bc376e5/mbid-55e68992-e6c7-416a-b134-c31f6bc376e5-25191025081_thumb500.jpg</image>
-      <album>What Is Love</album>
-    </track>
-    <track>
-      <title>Another Night (radio mix)</title>
-      <creator>(MC Sar &amp;) The Real McCoy</creator>
-      <image>https://coverartarchive.org/release/ea4d44b0-7fce-4994-bb2a-86e19edbed1a/20318468829-500.jpg</image>
-      <album>Another Night</album>
-    </track>
-    <track>
-      <title>The Rhythm of the Night</title>
-      <creator>Corona</creator>
-      <image>https://coverartarchive.org/release/54a88a0b-96be-4c70-a7bf-c59e6eab8541/42319911213-500.jpg</image>
-      <album>The Rhythm of the Night</album>
-    </track>
-    <track>
-      <title>Heaven or Las Vegas</title>
-      <creator>Cocteau Twins</creator>
-      <image>https://dn710700.ca.archive.org/0/items/mbid-f96df5d2-4ef9-3ef4-a4be-c743802b6f1e/mbid-f96df5d2-4ef9-3ef4-a4be-c743802b6f1e-7946180530_thumb500.jpg</image>
-      <album>Heaven or Las Vegas</album>
-    </track>
-    <track>
-      <title>Down by the Water</title>
-      <creator>PJ Harvey</creator>
-      <image>https://dn711006.ca.archive.org/0/items/mbid-ed790ac9-8562-3192-adce-7aa890dab146/mbid-ed790ac9-8562-3192-adce-7aa890dab146-16731476172_thumb500.jpg</image>
-      <album>To Bring You My Love</album>
-    </track>
-    <track>
-      <title>Common People</title>
-      <creator>Pulp</creator>
-      <image>https://dn711105.ca.archive.org/0/items/mbid-a2536e20-e802-385d-acb7-964ed326af78/mbid-a2536e20-e802-385d-acb7-964ed326af78-19011590959_thumb500.jpg</image>
-      <album>Different Class</album>
-    </track>
-    <track>
-      <title>Teardrop</title>
-      <creator>Massive Attack</creator>
-      <image>https://dn710604.ca.archive.org/0/items/mbid-5ddf4fbc-c415-4974-9d2b-abb7b96b45f7/mbid-5ddf4fbc-c415-4974-9d2b-abb7b96b45f7-11857251899_thumb500.jpg</image>
-      <album>Mezzanine</album>
-    </track>
-    <track>
-      <title>Big Dipper</title>
-      <creator>Built to Spill</creator>
-      <image>https://dn710803.ca.archive.org/0/items/mbid-99811fb9-31c8-481f-b514-e635f2491ff2/mbid-99811fb9-31c8-481f-b514-e635f2491ff2-7940781627_thumb500.jpg</image>
-      <album>There’s Nothing Wrong With Love</album>
-    </track>
-    <track>
-      <title>I Never Cared for You</title>
-      <creator>Willie Nelson</creator>
-      <image>https://dn720302.ca.archive.org/0/items/mbid-31fda485-ebd0-3a3c-a8c5-1543839aee09/mbid-31fda485-ebd0-3a3c-a8c5-1543839aee09-10870135620_thumb500.jpg</image>
-      <album>Teatro</album>
-    </track>
-    <track>
-      <title>Say Yes</title>
-      <creator>Elliott Smith</creator>
-      <image>https://dn710706.ca.archive.org/0/items/mbid-0a5aa565-8158-4e81-9776-af8044f6cc1e/mbid-0a5aa565-8158-4e81-9776-af8044f6cc1e-18047694847_thumb500.jpg</image>
-      <album>Either/Or</album>
-    </track>
-    <track>
-      <title>The Weeping Song</title>
-      <creator>Nick Cave &amp; The Bad Seeds</creator>
-      <image>https://ia600605.us.archive.org/6/items/mbid-4ca97406-662c-4fb0-af55-5a45a1fff996/mbid-4ca97406-662c-4fb0-af55-5a45a1fff996-23238403157_thumb500.jpg</image>
-      <album>The Good Son</album>
-    </track>
-    <track>
-      <title>Doll Parts</title>
-      <creator>Hole</creator>
-      <image>https://dn710601.ca.archive.org/0/items/mbid-6d2787f1-f584-4a76-8a97-7926e96fd73e/mbid-6d2787f1-f584-4a76-8a97-7926e96fd73e-5236643887_thumb500.jpg</image>
-      <album>Live Through This</album>
-    </track>
-    <track>
-      <title>I Love You</title>
-      <creator>The Dandy Warhols</creator>
-      <image>https://dn710805.ca.archive.org/0/items/mbid-2f865ae3-9610-36cd-a1a0-0903d5d14134/mbid-2f865ae3-9610-36cd-a1a0-0903d5d14134-15800058895_thumb500.jpg</image>
-      <album>…The Dandy Warhols Come Down</album>
-    </track>
-    <track>
-      <title>There She Goes</title>
-      <creator>The La’s</creator>
-      <image>https://dn710800.ca.archive.org/0/items/mbid-b740fb8e-942a-3437-823c-26fe0d805459/mbid-b740fb8e-942a-3437-823c-26fe0d805459-10494841658_thumb500.jpg</image>
-      <album>The La's</album>
-    </track>
-    <track>
-      <title>Trinidad</title>
-      <creator>Geese</creator>
-      <image>https://dn710003.ca.archive.org/0/items/mbid-0bf006ce-45a5-4963-89cb-cd285fd768bb/mbid-0bf006ce-45a5-4963-89cb-cd285fd768bb-42446231661_thumb500.jpg</image>
-      <album>Getting Killed</album>
-    </track>
-    <track>
-      <title>G#</title>
-      <creator>Kitten</creator>
-      <image>https://coverartarchive.org/release/22b21864-3978-4264-9411-e288c27e501d/3091060360-500.jpg</image>
-      <album>Cut It Out</album>
-    </track>
-    <track>
-      <title>The Bug Collector</title>
-      <creator>Haley Heynderickx</creator>
-      <album>The Bug Collector EP</album>
-    </track>
-    <track>
-      <title>Historical Event</title>
-      <creator>Small Shake</creator>
-      <image>https://dn710104.ca.archive.org/0/items/mbid-e2772283-0653-41be-be6d-b80f18a0fabc/mbid-e2772283-0653-41be-be6d-b80f18a0fabc-42766897144_thumb500.jpg</image>
-      <album>Platonics</album>
-    </track>
-    <track>
-      <title>Pavement</title>
-      <creator>Chastity Belt</creator>
-      <image>https://dn721803.ca.archive.org/0/items/mbid-c386dd3f-8d25-43bb-9b3d-0721e4e45def/mbid-c386dd3f-8d25-43bb-9b3d-0721e4e45def-46142927267_thumb500.jpg</image>
-      <album>I Could Say Less / Pavement</album>
-    </track>
-    <track>
-      <title>Spitting Off The Edge Of The World feat. Perfume Genius</title>
-      <creator>Yeah Yeah Yeahs</creator>
-      <image>https://dn721902.ca.archive.org/0/items/mbid-e1e9506e-a1ae-41c8-87e4-8cdddba7c16d/mbid-e1e9506e-a1ae-41c8-87e4-8cdddba7c16d-32672425059_thumb500.jpg</image>
-      <album>Cool It Down</album>
-    </track>
-    <track>
-      <title>Never Let Me Down Again</title>
-      <creator>Depeche Mode</creator>
-      <image>https://dn710906.ca.archive.org/0/items/mbid-3f9d1a59-f16f-3408-9731-af829637df56/mbid-3f9d1a59-f16f-3408-9731-af829637df56-6192763824_thumb500.jpg</image>
-      <album>Music for the Masses</album>
-    </track>
-    <track>
-      <title>Shoom</title>
-      <creator>TR/ST</creator>
-      <image>https://dn710008.ca.archive.org/0/items/mbid-e013c386-7d9a-40a4-b6ac-00961c7cd764/mbid-e013c386-7d9a-40a4-b6ac-00961c7cd764-42458357783_thumb500.jpg</image>
-      <album>TRST</album>
-    </track>
-    <track>
-      <title>Cahokia</title>
-      <creator>Greg Freeman</creator>
-      <image>https://dn711503.ca.archive.org/0/items/mbid-0a1457ce-eb89-4af2-9f0d-0b7c919e51eb/mbid-0a1457ce-eb89-4af2-9f0d-0b7c919e51eb-45712144141_thumb500.jpg</image>
-      <album>All Set The Bone</album>
-    </track>
-    <track>
-      <title>Streets of Your Town</title>
-      <creator>The Go‐Betweens</creator>
-      <image>https://dn711002.ca.archive.org/0/items/mbid-ca7f4cb8-fc5e-4623-96d2-77445f22c14e/mbid-ca7f4cb8-fc5e-4623-96d2-77445f22c14e-9589299381_thumb500.jpg</image>
-      <album>16 Lovers Lane</album>
-    </track>
-    <track>
-      <title>Expert In A Dying Field</title>
-      <creator>The Beths</creator>
-      <album>Expert in a Dying Field</album>
-    </track>
-    <track>
-      <title>Tell me I never knew that</title>
-      <creator>caroline &amp; Caroline Polachek</creator>
-      <image>https://dn721508.ca.archive.org/0/items/mbid-04767aff-4a84-4bc8-8cd9-3afff4d78bb7/mbid-04767aff-4a84-4bc8-8cd9-3afff4d78bb7-41725390419_thumb500.jpg</image>
-      <album>caroline 2</album>
-    </track>
-    <track>
-      <title>Autosmile</title>
-      <creator>@</creator>
-      <image>https://dn711101.ca.archive.org/0/items/mbid-51f01e1b-2a5a-4b1e-9975-405ae13be1d7/mbid-51f01e1b-2a5a-4b1e-9975-405ae13be1d7-45478232985_thumb500.jpg</image>
-      <album>Autosmile</album>
-    </track>
-    <track>
-      <title>Tongue</title>
-      <creator>Fontaines D.C.</creator>
-      <image>https://dn721908.ca.archive.org/0/items/mbid-532d9b99-48a8-45af-8552-5f697fe5e8dd/mbid-532d9b99-48a8-45af-8552-5f697fe5e8dd-45951664105_thumb500.jpg</image>
-      <album>Dopamine Chamber</album>
-    </track>
-    <track>
-      <title>OMG</title>
-      <creator>Suki Waterhouse</creator>
-      <image>https://dn721904.ca.archive.org/0/items/mbid-5f0e3703-9f59-4291-8fc6-a80e8232c891/mbid-5f0e3703-9f59-4291-8fc6-a80e8232c891-39137828999_thumb500.jpg</image>
-      <album>Memoir of a Sparklemuffin</album>
-    </track>
-    <track>
-      <title>Rill Rill</title>
-      <creator>Sleigh Bells</creator>
-      <image>https://dn711002.ca.archive.org/0/items/mbid-9080cfc2-8c59-4333-8040-219ea6ac0433/mbid-9080cfc2-8c59-4333-8040-219ea6ac0433-5416634955_thumb500.jpg</image>
-      <album>Treats</album>
-    </track>
-    <track>
-      <title>Reckless</title>
-      <creator>Kassie Krut</creator>
-      <image>https://dn710007.ca.archive.org/0/items/mbid-a81ac9ba-eb70-46c9-b17b-35ac747ed073/mbid-a81ac9ba-eb70-46c9-b17b-35ac747ed073-40044399044_thumb500.jpg</image>
-      <album>Reckless</album>
-    </track>
-    <track>
-      <title>Faulty</title>
-      <creator>Boy Harsher</creator>
-      <album>GET MEAN</album>
-    </track>
-    <track>
-      <title>Cowgirl</title>
-      <creator>cutouts feat. Tomberlin</creator>
-      <image>https://dn710807.ca.archive.org/0/items/mbid-dd824457-ce7c-4cee-bc75-9207d2c5edfa/mbid-dd824457-ce7c-4cee-bc75-9207d2c5edfa-41250073908_thumb500.jpg</image>
-      <album>Snakeskin</album>
-    </track>
-    <track>
-      <title>Hard Boiled Babe</title>
-      <creator>Lizzy Mercier Descloux</creator>
-      <album>Press Color</album>
-    </track>
-    <track>
-      <title>Fire on the Water</title>
-      <creator>Bonobo feat. Arooj Aftab</creator>
-      <image>https://ia601803.us.archive.org/1/items/mbid-9159c68d-bc24-4711-b53e-93ee5b59238e/mbid-9159c68d-bc24-4711-b53e-93ee5b59238e-45349913013_thumb500.jpg</image>
-      <album>Distance in Static</album>
-    </track>
-    <track>
-      <title>Mohabbat</title>
-      <creator>Arooj Aftab</creator>
-      <image>https://dn710209.ca.archive.org/0/items/mbid-974e90c5-bb34-4ac0-b1e0-a8713e5a8a86/mbid-974e90c5-bb34-4ac0-b1e0-a8713e5a8a86-29173882718_thumb500.jpg</image>
-      <album>Vulture Prince</album>
-    </track>
-    <track>
-      <title>Amor de loca juventud</title>
-      <creator>Buena Vista Social Club</creator>
-      <image>https://dn710802.ca.archive.org/0/items/mbid-2e18e017-0a62-4c50-a708-b6fbea29612e/mbid-2e18e017-0a62-4c50-a708-b6fbea29612e-23975175806_thumb500.jpg</image>
-      <album>Buena Vista Social Club</album>
-    </track>
-    <track>
-      <title>Ai Du</title>
-      <creator>Ali Farka Touré with Ry Cooder</creator>
-      <image>https://dn721605.ca.archive.org/0/items/mbid-1e54dda5-c64b-42e8-9eed-ed50639e134b/mbid-1e54dda5-c64b-42e8-9eed-ed50639e134b-34338224438_thumb500.jpg</image>
-      <album>Talking Timbuktu</album>
-    </track>
-    <track>
-      <title>First Time</title>
-      <creator>Jam Nation</creator>
-      <image>https://dn721905.ca.archive.org/0/items/mbid-2aecfffe-6d5c-48f0-868f-d30149ab7d26/mbid-2aecfffe-6d5c-48f0-868f-d30149ab7d26-38866452751_thumb500.jpg</image>
-      <album>Way Down Below Buffalo Hell</album>
-    </track>
-    <track>
-      <title>Mustt Mustt (Massive Attack remix)</title>
-      <creator>Nusrat Fateh Ali Khan</creator>
-      <image>https://dn710700.ca.archive.org/0/items/mbid-726f0060-e882-45fd-ba88-2da2aad29b9c/mbid-726f0060-e882-45fd-ba88-2da2aad29b9c-5130536045_thumb500.jpg</image>
-      <album>Outcaste Too Untouchable</album>
-    </track>
-    <track>
-      <title>Yalla Chant</title>
-      <creator>Natacha Atlas</creator>
-      <image>https://dn721802.ca.archive.org/0/items/mbid-8998c8ba-4729-3d2f-946c-c7df41ddeae1/mbid-8998c8ba-4729-3d2f-946c-c7df41ddeae1-31793798958_thumb500.jpg</image>
-      <album>Diaspora</album>
-    </track>
-    <track>
-      <title>Um dia comum (em SP)</title>
-      <creator>Suba</creator>
-      <image>https://dn710207.ca.archive.org/0/items/mbid-b38b1f0d-1d43-499e-a1c0-a71506013ba3/mbid-b38b1f0d-1d43-499e-a1c0-a71506013ba3-15539781016_thumb500.jpg</image>
-      <album>São Paulo Confessions</album>
-    </track>
-    <track>
-      <title>Beng Beng Beng (Ashley Beedle's Afrikans on Marz mix)</title>
-      <creator>Femi Kuti</creator>
-      <image>https://dn721900.ca.archive.org/0/items/mbid-4c5ebd62-ca16-4e41-8bc5-fc39ae7398fb/mbid-4c5ebd62-ca16-4e41-8bc5-fc39ae7398fb-32183827212_thumb500.jpg</image>
-      <album>Afrobeat Sessions</album>
-    </track>
-    <track>
-      <title>Magic Carpet Ride</title>
+      <title>Twiggy Twiggy / Twiggy vs. James Bond</title>
       <creator>Pizzicato Five</creator>
       <image>https://dn710300.ca.archive.org/0/items/mbid-4c2a6565-f33d-4f45-861c-16b9b6a501f6/mbid-4c2a6565-f33d-4f45-861c-16b9b6a501f6-4835946636_thumb500.jpg</image>
       <album>Made in USA</album>
     </track>
     <track>
-      <title>My 1997</title>
-      <creator>艾敬</creator>
-      <image>https://ia601806.us.archive.org/3/items/mbid-1b3c40e0-cb19-4079-9322-7266f8bb9142/mbid-1b3c40e0-cb19-4079-9322-7266f8bb9142-29018704111_thumb500.jpg</image>
-      <album>The Rough Guide to the Music of China</album>
+      <title>Tukka Yoot's Riddim</title>
+      <creator>Us3</creator>
+      <image>https://dn710807.ca.archive.org/0/items/mbid-2bf11d4c-8505-4589-856d-30ee505669dd/mbid-2bf11d4c-8505-4589-856d-30ee505669dd-12029998374_thumb500.jpg</image>
+      <album>Hand on the Torch</album>
     </track>
     <track>
-      <title>Agolo</title>
-      <creator>Angélique Kidjo</creator>
-      <image>https://coverartarchive.org/release/22661780-a01a-4394-b816-07cfef9ec6c9/29919143506-500.jpg</image>
-      <album>Agolo</album>
+      <title>So What’cha Want</title>
+      <creator>Beastie Boys</creator>
+      <image>https://dn721509.ca.archive.org/0/items/mbid-8484a2a1-2e69-3bc0-99ea-bae409746722/mbid-8484a2a1-2e69-3bc0-99ea-bae409746722-7792952448_thumb500.jpg</image>
+      <album>Check Your Head</album>
     </track>
     <track>
-      <title>Emigrant's song</title>
-      <creator>Kultur Shock</creator>
-      <album>Live in Amerika</album>
+      <title>Multi-Family Garage Sale (bargain-bin mix)</title>
+      <creator>Land of the Loops</creator>
+      <image>https://dn710600.ca.archive.org/0/items/mbid-925b3251-65e4-41b5-bc7d-715e8eb61a79/mbid-925b3251-65e4-41b5-bc7d-715e8eb61a79-22010731308_thumb500.jpg</image>
+      <album>Bundle of Joy</album>
     </track>
     <track>
-      <title>Gas Gas Gas</title>
-      <creator>Goran Bregović</creator>
-      <album>Welcome to Goran Bregović</album>
+      <title>Alright</title>
+      <creator>Kitty Craft</creator>
+      <image>https://coverartarchive.org/release/cfd4503a-bc0e-457f-90ba-bc1dd7f441ec/26917467753-500.jpg</image>
+      <album>Beats and Breaks From the Flower Patch</album>
     </track>
     <track>
-      <title>'Allo 'Allo</title>
-      <creator>Zap Mama</creator>
-      <album>A Ma Zone</album>
+      <title>Know Your Chicken</title>
+      <creator>Cibo Matto</creator>
+      <image>https://dn710700.ca.archive.org/0/items/mbid-9ce67ed8-8d47-4fc8-a341-ca5a108914fd/mbid-9ce67ed8-8d47-4fc8-a341-ca5a108914fd-4508097202_thumb500.jpg</image>
+      <album>Viva! La Woman</album>
     </track>
     <track>
-      <title>Mu-Getsu</title>
-      <creator>DJ Krush &amp; Toshinori Kondo</creator>
-      <album>記憶 Ki-Oku</album>
+      <title>Passing Me By</title>
+      <creator>The Pharcyde</creator>
+      <image>https://coverartarchive.org/release/1c6f2a35-4288-4f5d-9eec-97ca32e2a226/32304157771-500.jpg</image>
+      <album>Bizarre Ride II the Pharcyde</album>
     </track>
     <track>
-      <title>Bongo Bong (Francis Mercier remix extended)</title>
-      <creator>Manu Chao</creator>
-      <album>Bongo Bong - Je ne t’aime plus (Francis Mercier remix)</album>
+      <title>I Missed the Bus</title>
+      <creator>Kris Kross</creator>
+      <image>https://dn710708.ca.archive.org/0/items/mbid-0cb25b63-069a-407f-a4e6-086a69984915/mbid-0cb25b63-069a-407f-a4e6-086a69984915-12232707403_thumb500.jpg</image>
+      <album>Totally Krossed Out</album>
     </track>
     <track>
-      <title>Didi</title>
-      <creator>Khaled</creator>
-      <album>Khaled</album>
+      <title>I Missed the Bus</title>
+      <creator>Skankin’ Pickle</creator>
+      <image>https://coverartarchive.org/release/86ccdd38-fd32-4ef7-9a5a-2a245aaea3a2/27612207781-500.jpg</image>
+      <album>Skankin' Pickle Fever</album>
     </track>
     <track>
-      <title>Brimful of Asha (Norman Cook Remix)</title>
-      <creator>Cornershop</creator>
-      <album>Why Try Harder: The Greatest Hits</album>
+      <title>Let’s Go</title>
+      <creator>Rancid</creator>
+      <image>https://coverartarchive.org/release/3b1b3eda-a20c-40cb-8426-20742847fdda/26263028626-500.jpg</image>
+      <album>Let’s Go</album>
     </track>
     <track>
-      <title>Independent Girl</title>
-      <creator>Apache Indian</creator>
-      <album>Real People</album>
+      <title>The Beer Song (Original 7" Mix)</title>
+      <creator>Mustard Plug</creator>
+      <image>https://coverartarchive.org/release/349e91cc-dafe-4fc6-a5e7-d486337c7883/23385371680-500.jpg</image>
+      <album>Big Daddy Multitude</album>
     </track>
     <track>
-      <title>Assassin</title>
-      <creator>Asian Dub Foundation</creator>
-      <album>Rafi's Revenge</album>
+      <title>Sound System</title>
+      <creator>Operation Ivy</creator>
+      <image>https://dn710805.ca.archive.org/0/items/mbid-0d042b03-1058-372d-9034-fabd8579df55/mbid-0d042b03-1058-372d-9034-fabd8579df55-5889594334_thumb500.jpg</image>
+      <album>Operation Ivy</album>
     </track>
     <track>
-      <title>Vuli ndlela</title>
-      <creator>Brenda Fassie</creator>
-      <image>https://coverartarchive.org/release/e7a819ea-af00-4973-bd6d-cc27f3a6bc04/10756195324-500.jpg</image>
-      <album>Brenda Fassie</album>
+      <title>Tendancy Right Foot Forward</title>
+      <creator>Kleenex Girl Wonder</creator>
+      <image>https://coverartarchive.org/release/582bc9f5-11d4-4d70-aee2-d53be431ba1e/16129058308-500.jpg</image>
+      <album>Ponyoak</album>
     </track>
     <track>
-      <title>Mari Ye Phepha</title>
-      <creator>Bongo Maffin</creator>
-      <album>Marti Ye Phepha</album>
-    </track>
-    <track>
-      <title>Simarik</title>
-      <creator>Tarkan</creator>
-      <image>https://coverartarchive.org/release/74556f93-c21a-4317-929d-e38fc2013dc4/28415587162-500.jpg</image>
-      <album>Hit Explosion '99 Volume 3</album>
-    </track>
-    <track>
-      <title>Nour El Ain</title>
-      <creator>عمرو دياب</creator>
-      <image>https://dn721607.ca.archive.org/0/items/mbid-e7de9e27-d525-4f13-96dc-f73a2e1750fd/mbid-e7de9e27-d525-4f13-96dc-f73a2e1750fd-31964703359_thumb500.jpg</image>
-      <album>Putumayo Presents: North African Groove</album>
-    </track>
-    <track>
-      <title>Bamboléo (Pumped Up Mix)</title>
-      <creator>Gipsy Kings</creator>
-      <image>https://coverartarchive.org/release/d15cd276-d4d9-4569-943c-87e09de7b74c/35542650476-500.jpg</image>
-      <album>Bamboleo (Remixes)</album>
-    </track>
-    <track>
-      <title>World in My Eyes</title>
-      <creator>Depeche Mode</creator>
-      <image>https://ia803202.us.archive.org/29/items/mbid-0644af17-471f-3736-830c-888b3205c009/mbid-0644af17-471f-3736-830c-888b3205c009-4135620147_thumb500.jpg</image>
-      <album>Violator</album>
-    </track>
-    <track>
-      <title>Until the End of the World</title>
-      <creator>U2</creator>
-      <image>https://dn711306.ca.archive.org/0/items/mbid-0f20dea8-bf8a-3d93-bfa2-56d543209641/mbid-0f20dea8-bf8a-3d93-bfa2-56d543209641-20376051883_thumb500.jpg</image>
-      <album>Achtung Baby</album>
-    </track>
-    <track>
-      <title>Stereo</title>
-      <creator>Pavement</creator>
-      <image>https://dn721903.ca.archive.org/0/items/mbid-3b7c9589-d3e1-4a83-bc7b-a5b3f300840f/mbid-3b7c9589-d3e1-4a83-bc7b-a5b3f300840f-32906840769_thumb500.jpg</image>
-      <album>Brighten the Corners: Nicene Creedence Edition</album>
-    </track>
-    <track>
-      <title>Disco 2000</title>
-      <creator>Pulp</creator>
-      <image>https://dn711105.ca.archive.org/0/items/mbid-a2536e20-e802-385d-acb7-964ed326af78/mbid-a2536e20-e802-385d-acb7-964ed326af78-19011590959_thumb500.jpg</image>
-      <album>Different Class</album>
-    </track>
-    <track>
-      <title>The Plan</title>
-      <creator>Built to Spill</creator>
-      <image>https://dn721601.ca.archive.org/0/items/mbid-1bec9ee0-ed2e-4a80-a59b-6aadb394f169/mbid-1bec9ee0-ed2e-4a80-a59b-6aadb394f169-44386039412_thumb500.jpg</image>
-      <album>Keep It Like A Secret</album>
-    </track>
-    <track>
-      <title>Them Bones</title>
-      <creator>Alice in Chains</creator>
-      <image>https://dn710800.ca.archive.org/0/items/mbid-47f3efa5-137c-40e8-ab1b-42d57f5cfbbf/mbid-47f3efa5-137c-40e8-ab1b-42d57f5cfbbf-9835602113_thumb500.jpg</image>
-      <album>Dirt</album>
-    </track>
-    <track>
-      <title>Shook Ones, Part II</title>
-      <creator>Mobb Deep</creator>
-      <image>https://dn721607.ca.archive.org/0/items/mbid-fc6ef0f1-5dc9-4b30-bdad-22cb9db92220/mbid-fc6ef0f1-5dc9-4b30-bdad-22cb9db92220-20158533713_thumb500.jpg</image>
-      <album>The Infamous…</album>
-    </track>
-    <track>
-      <title>Round Here</title>
-      <creator>Counting Crows</creator>
-      <image>https://dn710300.ca.archive.org/0/items/mbid-0201c645-c8fe-46b0-b785-815a617a1136/mbid-0201c645-c8fe-46b0-b785-815a617a1136-12007562771_thumb500.jpg</image>
-      <album>August and Everything After</album>
-    </track>
-    <track>
-      <title>Never Said</title>
+      <title>6′1″</title>
       <creator>Liz Phair</creator>
-      <image>https://ia800101.us.archive.org/10/items/mbid-b08b6174-7f4d-4064-a4d8-b6824e0dc1c3/mbid-b08b6174-7f4d-4064-a4d8-b6824e0dc1c3-45625054360_thumb500.jpg</image>
+      <image>https://dn710708.ca.archive.org/0/items/mbid-b08b6174-7f4d-4064-a4d8-b6824e0dc1c3/mbid-b08b6174-7f4d-4064-a4d8-b6824e0dc1c3-45625054360_thumb500.jpg</image>
       <album>Exile in Guyville</album>
     </track>
     <track>
-      <title>Jump Around</title>
-      <creator>House of Pain</creator>
-      <image>https://dn711007.ca.archive.org/0/items/mbid-f9490168-7fa1-4076-a5e2-ee6a246584c6/mbid-f9490168-7fa1-4076-a5e2-ee6a246584c6-14461396695_thumb500.jpg</image>
-      <album>House of Pain</album>
+      <title>Vincent Come on Down</title>
+      <creator>Brainiac</creator>
+      <image>https://coverartarchive.org/release/c0a65fa1-79dc-4ed6-b2c7-3a314dd55beb/7940707335-500.jpg</image>
+      <album>Hissing Prigs in Static Couture</album>
     </track>
     <track>
-      <title>Blow Up the Outside World</title>
-      <creator>Soundgarden</creator>
-      <image>https://dn721500.ca.archive.org/0/items/mbid-70329b27-980f-4e2f-9c96-85ad945bf9d7/mbid-70329b27-980f-4e2f-9c96-85ad945bf9d7-43724289533_thumb500.jpg</image>
-      <album>Down on the Upside</album>
+      <title>How We Connect</title>
+      <creator>Dog Faced Hermans</creator>
+      <image>https://dn710006.ca.archive.org/0/items/mbid-b6752bc6-89f3-47f7-88fe-a8584d7125f1/mbid-b6752bc6-89f3-47f7-88fe-a8584d7125f1-32484214064_thumb500.jpg</image>
+      <album>Hum of Life</album>
     </track>
     <track>
-      <title>La Femme d’argent</title>
-      <creator>Air</creator>
-      <image>https://ia800702.us.archive.org/6/items/mbid-0ba087fc-7cee-46f5-874f-9e92ab43408e/mbid-0ba087fc-7cee-46f5-874f-9e92ab43408e-17731118219_thumb500.jpg</image>
-      <album>Moon Safari</album>
-    </track>
-    <track>
-      <title>100%</title>
+      <title>Sugar Kane</title>
       <creator>Sonic Youth</creator>
-      <image>https://dn710705.ca.archive.org/0/items/mbid-c8c59a0a-5464-4eac-8251-5cfa102de5ac/mbid-c8c59a0a-5464-4eac-8251-5cfa102de5ac-15872226838_thumb500.jpg</image>
+      <image>https://coverartarchive.org/release/7053ea26-cd46-415f-8620-d0d0d0a2ff72/44104465577-500.jpg</image>
       <album>Dirty</album>
     </track>
     <track>
-      <title>Buena</title>
-      <creator>Morphine</creator>
-      <image>https://dn710300.ca.archive.org/0/items/mbid-c6f2297e-4083-439e-b141-f947de988576/mbid-c6f2297e-4083-439e-b141-f947de988576-14670890955_thumb500.jpg</image>
-      <album>Cure for Pain</album>
+      <title>Cannonball</title>
+      <creator>The Breeders</creator>
+      <image>https://coverartarchive.org/release/ef99ecda-76ae-3d00-aff4-719d33db6ffe/13112946175-500.jpg</image>
+      <album>Last Splash</album>
     </track>
     <track>
-      <title>Root Down</title>
-      <creator>Beastie Boys</creator>
-      <image>https://dn721800.ca.archive.org/0/items/mbid-a1b805e1-c67e-4ef4-a9e3-9fc8c4570467/mbid-a1b805e1-c67e-4ef4-a9e3-9fc8c4570467-31660576774_thumb500.jpg</image>
-      <album>Ill Communication</album>
+      <title>Half-Man / Half-Mole</title>
+      <creator>Chris Knox</creator>
+      <image>https://dn710104.ca.archive.org/0/items/mbid-0b3e30e7-9cc1-33ad-a625-62b62c1441a5/mbid-0b3e30e7-9cc1-33ad-a625-62b62c1441a5-40610571927_thumb500.jpg</image>
+      <album>Songs of You and Me</album>
     </track>
     <track>
-      <title>N.Y. State of Mind</title>
-      <creator>Nas</creator>
-      <image>https://dn710304.ca.archive.org/0/items/mbid-b965cc3c-2034-4e4f-903d-9b95f3779c9a/mbid-b965cc3c-2034-4e4f-903d-9b95f3779c9a-13967811639_thumb500.jpg</image>
-      <album>Illmatic</album>
+      <title>No Information</title>
+      <creator>Fastbacks</creator>
+      <image>https://dn721901.ca.archive.org/0/items/mbid-6b777bc8-844f-4afe-bb4d-0bdb0103cb79/mbid-6b777bc8-844f-4afe-bb4d-0bdb0103cb79-27757378069_thumb500.jpg</image>
+      <album>New Mansions In Sound</album>
     </track>
     <track>
-      <title>Malibu</title>
-      <creator>Hole</creator>
-      <image>https://dn710602.ca.archive.org/0/items/mbid-4d7f5ee8-f4fc-49b2-bc4a-cc675d8eb1f2/mbid-4d7f5ee8-f4fc-49b2-bc4a-cc675d8eb1f2-27082267622_thumb500.jpg</image>
-      <album>Celebrity Skin</album>
+      <title>Space Man</title>
+      <creator>The Dentists</creator>
+      <image>https://dn721801.ca.archive.org/0/items/mbid-d1809030-43c7-45ad-bc35-7864e254fe70/mbid-d1809030-43c7-45ad-bc35-7864e254fe70-35429621146_thumb500.jpg</image>
+      <album>Behind the Door I Keep the Universe</album>
     </track>
     <track>
-      <title>Daughter</title>
-      <creator>Pearl Jam</creator>
-      <image>https://dn710608.ca.archive.org/0/items/mbid-7244f710-6090-43a2-a4e0-772623d71cf5/mbid-7244f710-6090-43a2-a4e0-772623d71cf5-2452991174_thumb500.jpg</image>
-      <album>Vs.</album>
+      <title>Tidal Wave</title>
+      <creator>The Apples in Stereo</creator>
+      <image>https://dn721301.ca.archive.org/0/items/mbid-e7d3e351-2931-45f5-a735-217e0ca8c245/mbid-e7d3e351-2931-45f5-a735-217e0ca8c245-7786693010_thumb500.jpg</image>
+      <album>Fun Trick Noisemaker</album>
     </track>
     <track>
-      <title>The Rockafeller Skank</title>
-      <creator>Fatboy Slim</creator>
-      <image>https://dn720704.ca.archive.org/0/items/mbid-148ca65a-b481-3f76-8f76-c120efb3a5fb/mbid-148ca65a-b481-3f76-8f76-c120efb3a5fb-11809741408_thumb500.jpg</image>
-      <album>Why Try Harder: The Greatest Hits</album>
+      <title>I’m Comin’ Down</title>
+      <creator>Primal Scream</creator>
+      <image>https://dn710605.ca.archive.org/0/items/mbid-51769fbe-5aea-442c-bd77-e98a47ce4453/mbid-51769fbe-5aea-442c-bd77-e98a47ce4453-5376385316_thumb500.jpg</image>
+      <album>Screamadelica</album>
     </track>
     <track>
-      <title>Crank</title>
-      <creator>Catherine Wheel</creator>
-      <image>https://dn710709.ca.archive.org/0/items/mbid-eadaefae-7bbc-34ab-9d0f-b5607cf0d4ff/mbid-eadaefae-7bbc-34ab-9d0f-b5607cf0d4ff-7941640265_thumb500.jpg</image>
-      <album>Chrome</album>
+      <title>Ten Storey Love Song</title>
+      <creator>The Stone Roses</creator>
+      <image>https://dn710303.ca.archive.org/0/items/mbid-785abe21-1194-4db3-8e4e-108345a74626/mbid-785abe21-1194-4db3-8e4e-108345a74626-8225904032_thumb500.jpg</image>
+      <album>Second Coming</album>
     </track>
     <track>
-      <title>Subterranean Homesick Alien</title>
-      <creator>Radiohead</creator>
-      <image>https://dn720706.ca.archive.org/0/items/mbid-30702389-5c67-4438-9ea0-2351c8de0f1d/mbid-30702389-5c67-4438-9ea0-2351c8de0f1d-43287476628_thumb500.jpg</image>
-      <album>OK Computer</album>
+      <title>Goddess on a Hiway</title>
+      <creator>Mercury Rev</creator>
+      <image>https://dn711401.ca.archive.org/0/items/mbid-5fea793f-4ce8-4041-a742-63c69508b25e/mbid-5fea793f-4ce8-4041-a742-63c69508b25e-3715410658_thumb500.jpg</image>
+      <album>Deserter's Songs</album>
     </track>
     <track>
-      <title>Seasons</title>
-      <creator>Chris Cornell</creator>
-      <image>https://dn710702.ca.archive.org/0/items/mbid-59752819-1e3f-4ff5-bad2-7b8fc92b4b18/mbid-59752819-1e3f-4ff5-bad2-7b8fc92b4b18-10335245464_thumb500.jpg</image>
-      <album>Singles: Original Motion Picture Soundtrack</album>
-    </track>
-    <track>
-      <title>Rhinoceros</title>
-      <creator>The Smashing Pumpkins</creator>
-      <image>https://dn721803.ca.archive.org/0/items/mbid-97a6314b-d42a-4432-bff2-f74bb77413ba/mbid-97a6314b-d42a-4432-bff2-f74bb77413ba-22937441701_thumb500.jpg</image>
-      <album>Gish</album>
-    </track>
-    <track>
-      <title>Come Undone</title>
-      <creator>Duran Duran</creator>
-      <image>https://dn710605.ca.archive.org/0/items/mbid-dc3c685e-5b77-308f-8442-95562fc37b95/mbid-dc3c685e-5b77-308f-8442-95562fc37b95-15464441337_thumb500.jpg</image>
-      <album>Duran Duran</album>
-    </track>
-    <track>
-      <title>Building Steam With a Grain of Salt</title>
-      <creator>DJ Shadow</creator>
-      <image>https://dn711107.ca.archive.org/0/items/mbid-4edc4a43-bee4-41bc-aa06-ae4a3cf2ea47/mbid-4edc4a43-bee4-41bc-aa06-ae4a3cf2ea47-9776058456_thumb500.jpg</image>
-      <album>Endtroducing.....</album>
-    </track>
-    <track>
-      <title>Backwater</title>
-      <creator>Meat Puppets</creator>
-      <image>https://dn720706.ca.archive.org/0/items/mbid-767c1710-27aa-491b-8145-112d42e198ed/mbid-767c1710-27aa-491b-8145-112d42e198ed-18894008778_thumb500.jpg</image>
-      <album>Too High to Die</album>
-    </track>
-    <track>
-      <title>A Shot in the Arm</title>
-      <creator>Wilco</creator>
-      <image>https://dn711008.ca.archive.org/0/items/mbid-38a40944-ac73-4c8e-8638-ec0075b170ea/mbid-38a40944-ac73-4c8e-8638-ec0075b170ea-4530840085_thumb500.jpg</image>
-      <album>Summerteeth</album>
-    </track>
-    <track>
-      <title>Given to Fly</title>
-      <creator>Pearl Jam</creator>
-      <image>https://dn710109.ca.archive.org/0/items/mbid-d8f9a99d-18f4-4d4a-b6ff-ff1402165e31/mbid-d8f9a99d-18f4-4d4a-b6ff-ff1402165e31-16958516624_thumb500.jpg</image>
-      <album>Yield</album>
-    </track>
-    <track>
-      <title>The Last Day of Our Acquaintance</title>
-      <creator>Sinéad O’Connor</creator>
-      <image>https://dn710206.ca.archive.org/0/items/mbid-80063c26-4fd4-3e0c-97b1-2597750e51e4/mbid-80063c26-4fd4-3e0c-97b1-2597750e51e4-35350948468_thumb500.jpg</image>
-      <album>I Do Not Want What I Haven't Got</album>
-    </track>
-    <track>
-      <title>A Girl Like You</title>
-      <creator>Edwyn Collins</creator>
-      <image>https://dn711005.ca.archive.org/0/items/mbid-c1f07e5d-f842-3276-aa6a-c892dc5f3ea2/mbid-c1f07e5d-f842-3276-aa6a-c892dc5f3ea2-24745455412_thumb500.jpg</image>
-      <album>Gorgeous George</album>
-    </track>
-    <track>
-      <title>Give It Away</title>
-      <creator>Red Hot Chili Peppers</creator>
-      <image>https://dn711102.ca.archive.org/0/items/mbid-0d88387e-5bdc-3669-b24a-8ce9772932a9/mbid-0d88387e-5bdc-3669-b24a-8ce9772932a9-2229745652_thumb500.jpg</image>
-      <album>Blood Sugar Sex Magik</album>
-    </track>
-    <track>
-      <title>Protect Ya Neck</title>
-      <creator>Wu-Tang Clan</creator>
-      <image>https://dn711305.ca.archive.org/0/items/mbid-2a059e43-e66c-4d6d-9a4f-dea9a6919061/mbid-2a059e43-e66c-4d6d-9a4f-dea9a6919061-10112836421_thumb500.jpg</image>
-      <album>Enter The Wu-Tang (36 Chambers) (Clean)</album>
-    </track>
-    <track>
-      <title>November Rain</title>
-      <creator>Guns Roses</creator>
-      <image>https://coverartarchive.org/release/4cf70429-bdda-3842-9af9-54596620195d/2107697875-500.jpg</image>
-      <album>Use Your Illusion I</album>
-    </track>
-    <track>
-      <title>My Lovin’ (You’re Never Gonna Get It)</title>
-      <creator>En Vogue</creator>
-      <image>https://dn710803.ca.archive.org/0/items/mbid-db9ecb67-4541-47ef-9054-78a8b64188bd/mbid-db9ecb67-4541-47ef-9054-78a8b64188bd-13862933495_thumb500.jpg</image>
-      <album>Funky Divas</album>
-    </track>
-    <track>
-      <title>Miss World</title>
-      <creator>Hole</creator>
-      <image>https://dn710601.ca.archive.org/0/items/mbid-6d2787f1-f584-4a76-8a97-7926e96fd73e/mbid-6d2787f1-f584-4a76-8a97-7926e96fd73e-5236643887_thumb500.jpg</image>
-      <album>Live Through This</album>
-    </track>
-    <track>
-      <title>Lightning Crashes</title>
-      <creator>Live</creator>
-      <image>https://coverartarchive.org/release/5cf8bec1-6677-405a-9d75-ac37efec5d91/1263393318-500.jpg</image>
-      <album>Throwing Copper</album>
-    </track>
-    <track>
-      <title>The New Pollution</title>
-      <creator>Beck</creator>
-      <image>https://dn711004.ca.archive.org/0/items/mbid-36aa4fbb-776d-445a-a2f8-065f2fb012a0/mbid-36aa4fbb-776d-445a-a2f8-065f2fb012a0-989663639_thumb500.jpg</image>
-      <album>Odelay</album>
+      <title>Race for the Prize</title>
+      <creator>The Flaming Lips</creator>
+      <image>https://ia801901.us.archive.org/18/items/mbid-780823a5-a852-4958-bcb3-b291ceb66ea1/mbid-780823a5-a852-4958-bcb3-b291ceb66ea1-2973789684_thumb500.jpg</image>
+      <album>The Soft Bulletin</album>
     </track>
     <track>
       <title>Sometimes Always</title>
@@ -1050,257 +934,623 @@
       <album>Stoned &amp; Dethroned</album>
     </track>
     <track>
-      <title>Something in the Way</title>
-      <creator>Nirvana</creator>
-      <image>https://dn710803.ca.archive.org/0/items/mbid-c12262e2-7185-4942-87ee-da27ddd45ddf/mbid-c12262e2-7185-4942-87ee-da27ddd45ddf-30305762301_thumb500.jpg</image>
-      <album>Nevermind</album>
+      <title>Not If You Were the Last Junkie on Earth</title>
+      <creator>The Dandy Warhols</creator>
+      <image>https://coverartarchive.org/release/fc154aea-2469-4f8b-a5fb-708f223f82a5/18256165185-500.jpg</image>
+      <album>…The Dandy Warhols Come Down</album>
     </track>
     <track>
-      <title>Slaves &amp; Bulldozers</title>
-      <creator>Soundgarden</creator>
-      <image>https://dn711008.ca.archive.org/0/items/mbid-014d13d5-0a63-33a3-ab95-4a29981dfee1/mbid-014d13d5-0a63-33a3-ab95-4a29981dfee1-19307346851_thumb500.jpg</image>
-      <album>Badmotorfinger</album>
+      <title>Evergreen</title>
+      <creator>The Brian Jonestown Massacre</creator>
+      <image>https://coverartarchive.org/release/14d10939-087c-4fb3-8741-859f774d4d5a/19368707018-500.jpg</image>
+      <album>Methodrone</album>
     </track>
     <track>
-      <title>32 Flavors</title>
-      <creator>Ani DiFranco</creator>
-      <image>https://dn721800.ca.archive.org/0/items/mbid-865c700d-e728-4860-b005-a88b0228ebee/mbid-865c700d-e728-4860-b005-a88b0228ebee-20286989310_thumb500.jpg</image>
-      <album>Not a Pretty Girl</album>
+      <title>What a Sorry Way to Go</title>
+      <creator>The Asteroid #4</creator>
+      <image>https://coverartarchive.org/release/114febd3-42be-4ddf-80a7-a4044e061674/26761856928-500.jpg</image>
+      <album>Introducing...</album>
     </track>
     <track>
-      <title>Tender</title>
-      <creator>Blur</creator>
-      <image>https://dn710307.ca.archive.org/0/items/mbid-fb23d746-f4c6-4403-a891-815a767ae53f/mbid-fb23d746-f4c6-4403-a891-815a767ae53f-39881316058_thumb500.jpg</image>
-      <album>13</album>
+      <title>Buckingham Green</title>
+      <creator>Ween</creator>
+      <image>https://dn711007.ca.archive.org/0/items/mbid-98d4e2e0-2ed1-43af-81d4-e5182d871a16/mbid-98d4e2e0-2ed1-43af-81d4-e5182d871a16-22395043395_thumb500.jpg</image>
+      <album>The Mollusk</album>
     </track>
     <track>
-      <title>The Wagon</title>
-      <creator>Dinosaur Jr.</creator>
-      <image>https://dn710801.ca.archive.org/0/items/mbid-3d12c416-5188-305a-8ae7-f15380dcf0f2/mbid-3d12c416-5188-305a-8ae7-f15380dcf0f2-13434157598_thumb500.jpg</image>
-      <album>Green Mind</album>
+      <title>Pepper</title>
+      <creator>Butthole Surfers</creator>
+      <image>https://dn710607.ca.archive.org/0/items/mbid-a4702c2a-3b5e-4b8f-84bd-ccb86074bc1b/mbid-a4702c2a-3b5e-4b8f-84bd-ccb86074bc1b-44827422298_thumb500.jpg</image>
+      <album>Electriclarryland</album>
     </track>
     <track>
-      <title>Hunter</title>
-      <creator>Björk</creator>
-      <image>https://dn720302.ca.archive.org/0/items/mbid-7a2ad97a-55e9-48a4-953b-45ddc10f7f0f/mbid-7a2ad97a-55e9-48a4-953b-45ddc10f7f0f-44135822976_thumb500.jpg</image>
-      <album>Homogenic</album>
-    </track>
-    <track>
-      <title>Sober</title>
-      <creator>Tool</creator>
-      <album>Undertow</album>
-    </track>
-    <track>
-      <title>Leave Them All Behind</title>
-      <creator>Ride</creator>
-      <image>https://ia801402.us.archive.org/32/items/mbid-d5a1ccd0-a820-3f51-bdd6-df30fe938933/mbid-d5a1ccd0-a820-3f51-bdd6-df30fe938933-21305458187_thumb500.jpg</image>
-      <album>Going Blank Again</album>
-    </track>
-    <track>
-      <title>Kiss Me</title>
-      <creator>Sixpence None the Richer</creator>
-      <image>https://dn710609.ca.archive.org/0/items/mbid-416122a2-c0d9-4aa4-be6b-2ea164b58c31/mbid-416122a2-c0d9-4aa4-be6b-2ea164b58c31-14898305586_thumb500.jpg</image>
-      <album>Sixpence None the Richer</album>
-    </track>
-    <track>
-      <title>Kill Your Television</title>
-      <creator>Ned’s Atomic Dustbin</creator>
-      <image>https://dn710805.ca.archive.org/0/items/mbid-88fbc543-ea3c-4475-9b74-f088750843da/mbid-88fbc543-ea3c-4475-9b74-f088750843da-13367313770_thumb500.jpg</image>
-      <album>God Fodder</album>
-    </track>
-    <track>
-      <title>Self Esteem</title>
-      <creator>Offspring</creator>
-      <image>https://coverartarchive.org/release/ae20115c-0c0f-401e-b50e-27154016c38c/13611298099-500.jpg</image>
-      <album>Self Esteem</album>
-    </track>
-    <track>
-      <title>Down in a Hole</title>
-      <creator>Alice in Chains</creator>
-      <album>Dirt</album>
-    </track>
-    <track>
-      <title>Bellbottoms</title>
-      <creator>The Jon Spencer Blues Explosion</creator>
-      <image>https://dn710909.ca.archive.org/0/items/mbid-7c828267-c3de-4542-b250-55b308cd1c5d/mbid-7c828267-c3de-4542-b250-55b308cd1c5d-17526681921_thumb500.jpg</image>
-      <album>Orange</album>
-    </track>
-    <track>
-      <title>Car Wheels on a Gravel Road</title>
-      <creator>Lucinda Williams</creator>
-      <image>https://dn711104.ca.archive.org/0/items/mbid-36876f89-c7fb-4b08-87ac-8f4f82bfd02e/mbid-36876f89-c7fb-4b08-87ac-8f4f82bfd02e-6139546167_thumb500.jpg</image>
-      <album>Car Wheels on a Gravel Road</album>
-    </track>
-    <track>
-      <title>Crazy</title>
-      <creator>Seal</creator>
-      <image>https://dn710700.ca.archive.org/0/items/mbid-09735c70-9b05-4cc2-8153-b39f675171de/mbid-09735c70-9b05-4cc2-8153-b39f675171de-13754117751_thumb500.jpg</image>
-      <album>Just Say Yes, Volume V: Just Say Anything</album>
-    </track>
-    <track>
-      <title>Pure Morning</title>
-      <creator>Placebo</creator>
-      <image>https://dn710608.ca.archive.org/0/items/mbid-354fb345-3273-3756-9893-43860bb16600/mbid-354fb345-3273-3756-9893-43860bb16600-4871009343_thumb500.jpg</image>
-      <album>Without You I’m Nothing</album>
-    </track>
-    <track>
-      <title>The King of Carrot Flowers Pt. One</title>
-      <creator>Neutral Milk Hotel</creator>
-      <image>https://dn710607.ca.archive.org/0/items/mbid-023fcf90-dca7-4a4e-a4e2-ed0eaba78f9e/mbid-023fcf90-dca7-4a4e-a4e2-ed0eaba78f9e-8579764982_thumb500.jpg</image>
-      <album>In the Aeroplane Over the Sea</album>
-    </track>
-    <track>
-      <title>Into My Arms</title>
-      <creator>Nick Cave &amp; The Bad Seeds</creator>
-      <image>https://dn711208.ca.archive.org/0/items/mbid-517aa3ad-d629-3f19-9576-2e8433942ff1/mbid-517aa3ad-d629-3f19-9576-2e8433942ff1-37732270509_thumb500.jpg</image>
-      <album>The Boatman’s Call</album>
-    </track>
-    <track>
-      <title>High</title>
-      <creator>The Cure</creator>
-      <image>https://dn710308.ca.archive.org/0/items/mbid-4284b81f-1731-313a-a4de-58b4c18a754a/mbid-4284b81f-1731-313a-a4de-58b4c18a754a-5808321423_thumb500.jpg</image>
-      <album>Wish</album>
-    </track>
-    <track>
-      <title>Galileo</title>
-      <creator>Indigo Girls</creator>
-      <image>https://dn710803.ca.archive.org/0/items/mbid-d5bfb4ba-39db-4c54-834a-cbd5bb67ac7f/mbid-d5bfb4ba-39db-4c54-834a-cbd5bb67ac7f-13979422992_thumb500.jpg</image>
-      <album>Rites of Passage</album>
-    </track>
-    <track>
-      <title>Be Quiet and Drive (Far Away)</title>
-      <creator>Deftones</creator>
-      <image>https://dn711106.ca.archive.org/0/items/mbid-2148735a-d5d1-437b-b184-643bdf20656f/mbid-2148735a-d5d1-437b-b184-643bdf20656f-8707692267_thumb500.jpg</image>
-      <album>Around the Fur</album>
-    </track>
-    <track>
-      <title>Aneurysm</title>
-      <creator>Nirvana</creator>
-      <album>Hormoaning</album>
-    </track>
-    <track>
-      <title>Crash Into Me</title>
-      <creator>Dave Matthews Band</creator>
-      <image>https://dn710301.ca.archive.org/0/items/mbid-2c7e3b15-e5c9-43a1-acd1-05fec4e20703/mbid-2c7e3b15-e5c9-43a1-acd1-05fec4e20703-18176007717_thumb500.jpg</image>
-      <album>Crash</album>
-    </track>
-    <track>
-      <title>Debra</title>
-      <creator>Beck</creator>
-      <image>https://dn721604.ca.archive.org/0/items/mbid-53014f5f-355a-4bf3-aeab-70be7b6bb97c/mbid-53014f5f-355a-4bf3-aeab-70be7b6bb97c-43096301269_thumb500.jpg</image>
-      <album>Midnite Vultures</album>
-    </track>
-    <track>
-      <title>Release</title>
-      <creator>Pearl Jam</creator>
-      <image>https://dn710701.ca.archive.org/0/items/mbid-9154cfe5-ef58-458f-b5d4-eb6ca3e404c4/mbid-9154cfe5-ef58-458f-b5d4-eb6ca3e404c4-7950788257_thumb500.jpg</image>
-      <album>Ten</album>
-    </track>
-    <track>
-      <title>Sweetness and Light</title>
-      <creator>Lush</creator>
-      <image>https://dn711206.ca.archive.org/0/items/mbid-9353f811-70e9-3c32-ac8c-f9dd113c8a9f/mbid-9353f811-70e9-3c32-ac8c-f9dd113c8a9f-3810258865_thumb500.jpg</image>
-      <album>Gala</album>
-    </track>
-    <track>
-      <title>Super Bon Bon</title>
-      <creator>Soul Coughing</creator>
-      <image>https://dn710303.ca.archive.org/0/items/mbid-75adaf84-964d-4ead-96b8-f8499ef6899b/mbid-75adaf84-964d-4ead-96b8-f8499ef6899b-27829239803_thumb500.jpg</image>
-      <album>Irresistible Bliss</album>
-    </track>
-    <track>
-      <title>Siva</title>
+      <title>Bury Me</title>
       <creator>Smashing Pumpkins</creator>
+      <image>https://coverartarchive.org/release/97a6314b-d42a-4432-bff2-f74bb77413ba/22937441701-500.jpg</image>
       <album>Gish</album>
     </track>
     <track>
-      <title>Two-Headed Boy</title>
-      <creator>Neutral Milk Hotel</creator>
-      <image>https://dn710607.ca.archive.org/0/items/mbid-023fcf90-dca7-4a4e-a4e2-ed0eaba78f9e/mbid-023fcf90-dca7-4a4e-a4e2-ed0eaba78f9e-8579764982_thumb500.jpg</image>
-      <album>In the Aeroplane Over the Sea</album>
+      <title>Moonbathing</title>
+      <creator>Sky Cries Mary</creator>
+      <image>https://coverartarchive.org/release/f5e984e2-3224-498e-a66c-787825a372cc/19031873488-500.jpg</image>
+      <album>Moonbathing on Sleeping Leaves</album>
     </track>
     <track>
-      <title>Time Bomb</title>
-      <creator>Rancid</creator>
-      <image>https://dn710703.ca.archive.org/0/items/mbid-a4326c18-4cf9-4e16-a289-2e6e7508d450/mbid-a4326c18-4cf9-4e16-a289-2e6e7508d450-4208016520_thumb500.jpg</image>
-      <album>…and Out Come the Wolves</album>
+      <title>Journey to Arnhemland</title>
+      <creator>Jamiroquai</creator>
+      <album>The Return of the Space Cowboy</album>
     </track>
     <track>
-      <title>Thursday</title>
+      <title>Blowing Down</title>
+      <creator>Digable Planets</creator>
+      <image>https://coverartarchive.org/release/36c2799b-30b2-4d45-9ccd-79ae609bd4ea/26547938598-500.jpg</image>
+      <album>Blowout Comb</album>
+    </track>
+    <track>
+      <title>Funky Ride</title>
+      <creator>OutKast</creator>
+      <image>https://coverartarchive.org/release/c1daac98-531b-4290-8c74-76c2c9a2ef42/4685570252-500.jpg</image>
+      <album>Southernplayalisticadillacmuzik</album>
+    </track>
+    <track>
+      <title>Sanctuary</title>
+      <creator>High Rise</creator>
+      <image>https://coverartarchive.org/release/d71347ee-e48c-4d7e-b5d9-ee9175e0ee56/27828896958-500.jpg</image>
+      <album>Dispersion</album>
+    </track>
+    <track>
+      <title>僕だけが…</title>
+      <creator>Angel’in Heavy Syrup</creator>
+      <image>https://coverartarchive.org/release/b15d0684-512d-4a08-baf3-23520359b21a/19452657957-500.jpg</image>
+      <album>Angel’in Heavy Syrup III</album>
+    </track>
+    <track>
+      <title>Guru in the Echo</title>
+      <creator>Ghost</creator>
+      <image>https://coverartarchive.org/release/2c793886-4583-36eb-96cc-005c0d3d9e41/29043224082-500.jpg</image>
+      <album>Ghost</album>
+    </track>
+    <track>
+      <title>Be My Angel</title>
+      <creator>Mazzy Star</creator>
+      <image>https://dn710905.ca.archive.org/0/items/mbid-d277c19d-71e9-4d70-892b-7a9fb1ff0b78/mbid-d277c19d-71e9-4d70-892b-7a9fb1ff0b78-17361517341_thumb500.jpg</image>
+      <album>She Hangs Brightly</album>
+    </track>
+    <track>
+      <title>Mrs. Bean</title>
+      <creator>The Essex Green</creator>
+      <image>https://coverartarchive.org/release/d9660b6f-71c1-4919-8974-2398ce290da3/13913122595-500.jpg</image>
+      <album>Everything Is Green</album>
+    </track>
+    <track>
+      <title>Tattva</title>
+      <creator>Kula Shaker</creator>
+      <image>https://coverartarchive.org/release/d87c29b0-2b6c-43ee-b299-9a5025274e7e/44703994652-500.jpg</image>
+      <album>K</album>
+    </track>
+    <track>
+      <title>Chrome Waves</title>
+      <creator>Ride</creator>
+      <image>https://dn710302.ca.archive.org/0/items/mbid-d5a1ccd0-a820-3f51-bdd6-df30fe938933/mbid-d5a1ccd0-a820-3f51-bdd6-df30fe938933-21305458187_thumb500.jpg</image>
+      <album>Going Blank Again</album>
+    </track>
+    <track>
+      <title>Sugarcube</title>
+      <creator>Yo La Tengo</creator>
+      <image>https://dn710608.ca.archive.org/0/items/mbid-67e1bc08-7f97-4d38-998c-34f16ba4387c/mbid-67e1bc08-7f97-4d38-998c-34f16ba4387c-11915448647_thumb500.jpg</image>
+      <album>I Can Hear the Heart Beating as One</album>
+    </track>
+    <track>
+      <title>Indian Summer</title>
+      <creator>Spectrum</creator>
+      <image>https://coverartarchive.org/release/db093374-e1eb-4836-a912-acbe83b478fc/5667822305-500.jpg</image>
+      <album>What Came Before After</album>
+    </track>
+    <track>
+      <title>I Love You</title>
+      <creator>Spacemen 3</creator>
+      <image>https://dn710005.ca.archive.org/0/items/mbid-b7bbea81-3362-4d7b-9ad0-290aaf497f2e/mbid-b7bbea81-3362-4d7b-9ad0-290aaf497f2e-27761341433_thumb500.jpg</image>
+      <album>Recurring</album>
+    </track>
+    <track>
+      <title>Electricity</title>
+      <creator>Spiritualized</creator>
+      <image>https://ia803201.us.archive.org/15/items/mbid-02c019fd-a51a-48b2-bd8f-a64803537dc1/mbid-02c019fd-a51a-48b2-bd8f-a64803537dc1-15204271910_thumb500.jpg</image>
+      <album>Ladies and Gentlemen We Are Floating in Space</album>
+    </track>
+    <track>
+      <title>Breathing Iron Oxide</title>
+      <creator>Man or Astro‐Man?</creator>
+      <image>https://dn721905.ca.archive.org/0/items/mbid-a2aeb13b-230e-30a8-a802-412ad8266ed9/mbid-a2aeb13b-230e-30a8-a802-412ad8266ed9-34551157307_thumb500.jpg</image>
+      <album>Made From Technetium</album>
+    </track>
+    <track>
+      <title>Ping Pong</title>
+      <creator>Stereolab</creator>
+      <image>https://ia803102.us.archive.org/8/items/mbid-189ae079-a0a3-3104-93ad-8d3bf148855f/mbid-189ae079-a0a3-3104-93ad-8d3bf148855f-24646440382_thumb500.jpg</image>
+      <album>Mars Audiac Quintet</album>
+    </track>
+    <track>
+      <title>Living Room</title>
+      <creator>Broadcast</creator>
+      <image>https://ia600706.us.archive.org/0/items/mbid-09d62aa5-a265-4cb2-b3e4-da80c0e60d9d/mbid-09d62aa5-a265-4cb2-b3e4-da80c0e60d9d-6009849109_thumb500.jpg</image>
+      <album>Work and Non Work</album>
+    </track>
+    <track>
+      <title>Strawberryfire</title>
+      <creator>The Apples in Stereo</creator>
+      <image>https://dn710602.ca.archive.org/0/items/mbid-017f3877-e165-4bd5-a0ae-128e19ed7f84/mbid-017f3877-e165-4bd5-a0ae-128e19ed7f84-5792700223_thumb500.jpg</image>
+      <album>Her Wallpaper Reverie</album>
+    </track>
+    <track>
+      <title>Jumping Fences</title>
+      <creator>The Olivia Tremor Control</creator>
+      <image>https://dn710607.ca.archive.org/0/items/mbid-79ab2158-0eb0-4a54-aa69-fd49311a2aeb/mbid-79ab2158-0eb0-4a54-aa69-fd49311a2aeb-16203888870_thumb500.jpg</image>
+      <album>Music From the Unrealized Film Script, Dusk at Cubist Castle</album>
+    </track>
+    <track>
+      <title>Drown</title>
+      <creator>The Smashing Pumpkins</creator>
+      <image>https://dn710702.ca.archive.org/0/items/mbid-59752819-1e3f-4ff5-bad2-7b8fc92b4b18/mbid-59752819-1e3f-4ff5-bad2-7b8fc92b4b18-10335245464_thumb500.jpg</image>
+      <album>Singles: Original Motion Picture Soundtrack</album>
+    </track>
+    <track>
+      <title>Electric Relaxation</title>
+      <creator>A Tribe Called Quest</creator>
+      <image>https://dn710809.ca.archive.org/0/items/mbid-66970091-71ab-47a6-a62a-30ee44109fae/mbid-66970091-71ab-47a6-a62a-30ee44109fae-15178572418_thumb500.jpg</image>
+      <album>Midnight Marauders</album>
+    </track>
+    <track>
+      <title>Roads</title>
+      <creator>Portishead</creator>
+      <image>https://dn711103.ca.archive.org/0/items/mbid-76df3287-6cda-33eb-8e9a-044b5e15ffdd/mbid-76df3287-6cda-33eb-8e9a-044b5e15ffdd-829521842_thumb500.jpg</image>
+      <album>Dummy</album>
+    </track>
+    <track>
+      <title>Unsung</title>
+      <creator>Helmet</creator>
+      <image>https://dn711005.ca.archive.org/0/items/mbid-4f79360f-dec8-4135-9cf8-f5543b62b8b4/mbid-4f79360f-dec8-4135-9cf8-f5543b62b8b4-2228075128_thumb500.jpg</image>
+      <album>Meantime</album>
+    </track>
+    <track>
+      <title>Possession</title>
+      <creator>Sarah McLachlan</creator>
+      <image>https://dn711309.ca.archive.org/0/items/mbid-42500ccf-6e3c-39b8-ad17-2beb62b795fd/mbid-42500ccf-6e3c-39b8-ad17-2beb62b795fd-4534872028_thumb500.jpg</image>
+      <album>Fumbling Towards Ecstasy</album>
+    </track>
+    <track>
+      <title>Firestarter</title>
+      <creator>The Prodigy</creator>
+      <image>https://dn721901.ca.archive.org/0/items/mbid-a9281d84-72ae-43aa-9b72-1e2e6ec0075a/mbid-a9281d84-72ae-43aa-9b72-1e2e6ec0075a-35863431742_thumb500.jpg</image>
+      <album>The Fat of the Land</album>
+    </track>
+    <track>
+      <title>If I Can’t Change Your Mind</title>
+      <creator>Sugar</creator>
+      <image>https://dn710706.ca.archive.org/0/items/mbid-9da227d1-9283-44f9-8545-f01b796eabb8/mbid-9da227d1-9283-44f9-8545-f01b796eabb8-14527973395_thumb500.jpg</image>
+      <album>Copper Blue</album>
+    </track>
+    <track>
+      <title>Devils Haircut</title>
+      <creator>Beck</creator>
+      <image>https://dn710302.ca.archive.org/0/items/mbid-804b7f78-0bbc-3479-887a-ab28390357d4/mbid-804b7f78-0bbc-3479-887a-ab28390357d4-4507123240_thumb500.jpg</image>
+      <album>Odelay</album>
+    </track>
+    <track>
+      <title>6′1″</title>
+      <creator>Liz Phair</creator>
+      <image>https://dn710708.ca.archive.org/0/items/mbid-b08b6174-7f4d-4064-a4d8-b6824e0dc1c3/mbid-b08b6174-7f4d-4064-a4d8-b6824e0dc1c3-45625054360_thumb500.jpg</image>
+      <album>Exile in Guyville</album>
+    </track>
+    <track>
+      <title>I’m Afraid of Americans (V1)</title>
+      <creator>David Bowie</creator>
+      <image>https://dn710906.ca.archive.org/0/items/mbid-75aa0b1d-c11f-3dfc-bf60-05f5fbf55ad2/mbid-75aa0b1d-c11f-3dfc-bf60-05f5fbf55ad2-11639680608_thumb500.jpg</image>
+      <album>Best of Bowie</album>
+    </track>
+    <track>
+      <title>Check the Rhime</title>
+      <creator>A Tribe Called Quest</creator>
+      <image>https://dn710805.ca.archive.org/0/items/mbid-69959f4a-29fd-4867-83ec-bfb4036b30d1/mbid-69959f4a-29fd-4867-83ec-bfb4036b30d1-1672879787_thumb500.jpg</image>
+      <album>The Low End Theory</album>
+    </track>
+    <track>
+      <title>No Diggity</title>
+      <creator>Blackstreet featuring Dr. Dre</creator>
+      <image>https://dn710705.ca.archive.org/0/items/mbid-d72bcc5b-714f-4d4e-995e-498c7f89ed99/mbid-d72bcc5b-714f-4d4e-995e-498c7f89ed99-5970467541_thumb500.jpg</image>
+      <album>Another Level</album>
+    </track>
+    <track>
+      <title>It’s a Shame About Ray</title>
+      <creator>The Lemonheads</creator>
+      <image>https://dn710301.ca.archive.org/0/items/mbid-c6f59916-965f-4d15-abf6-bad4fb372837/mbid-c6f59916-965f-4d15-abf6-bad4fb372837-24875996093_thumb500.jpg</image>
+      <album>It's a Shame About Ray</album>
+    </track>
+    <track>
+      <title>Low</title>
+      <creator>Cracker</creator>
+      <image>https://dn710706.ca.archive.org/0/items/mbid-d24b7264-1235-48ce-aa9b-a36eee9a0e4f/mbid-d24b7264-1235-48ce-aa9b-a36eee9a0e4f-12179678635_thumb500.jpg</image>
+      <album>Kerosene Hat</album>
+    </track>
+    <track>
+      <title>Personal Jesus</title>
+      <creator>Depeche Mode</creator>
+      <image>https://dn711306.ca.archive.org/0/items/mbid-0644af17-471f-3736-830c-888b3205c009/mbid-0644af17-471f-3736-830c-888b3205c009-4135620147_thumb500.jpg</image>
+      <album>Violator</album>
+    </track>
+    <track>
+      <title>Elderly Woman Behind the Counter in a Small Town</title>
+      <creator>Pearl Jam</creator>
+      <image>https://dn710608.ca.archive.org/0/items/mbid-7244f710-6090-43a2-a4e0-772623d71cf5/mbid-7244f710-6090-43a2-a4e0-772623d71cf5-2452991174_thumb500.jpg</image>
+      <album>Vs.</album>
+    </track>
+    <track>
+      <title>Cure for Pain</title>
       <creator>Morphine</creator>
-      <image>https://ia600505.us.archive.org/27/items/mbid-c6f2297e-4083-439e-b141-f947de988576/mbid-c6f2297e-4083-439e-b141-f947de988576-14670890955_thumb500.jpg</image>
+      <image>https://dn710300.ca.archive.org/0/items/mbid-c6f2297e-4083-439e-b141-f947de988576/mbid-c6f2297e-4083-439e-b141-f947de988576-14670890955_thumb500.jpg</image>
       <album>Cure for Pain</album>
     </track>
     <track>
-      <title>Lucky Man</title>
-      <creator>The Verve</creator>
-      <album>Urban Hymns</album>
+      <title>Praise You</title>
+      <creator>Fatboy Slim</creator>
+      <image>https://coverartarchive.org/release/bea082e9-f79d-31d6-8497-f280defb6775/5678958512-500.jpg</image>
+      <album>You’ve Come a Long Way, Baby</album>
     </track>
     <track>
-      <title>Loaded</title>
-      <creator>Primal Scream</creator>
-      <image>https://dn710605.ca.archive.org/0/items/mbid-51769fbe-5aea-442c-bd77-e98a47ce4453/mbid-51769fbe-5aea-442c-bd77-e98a47ce4453-5376385316_thumb500.jpg</image>
-      <album>Screamadelica</album>
+      <title>A Letter to Elise</title>
+      <creator>The Cure</creator>
+      <image>https://dn710202.ca.archive.org/0/items/mbid-6d73360d-75dd-3d58-a59f-119d63dcd304/mbid-6d73360d-75dd-3d58-a59f-119d63dcd304-17762645346_thumb500.jpg</image>
+      <album>Wish</album>
     </track>
     <track>
-      <title>One More Hour</title>
-      <creator>Sleater‐Kinney</creator>
-      <image>https://dn710704.ca.archive.org/0/items/mbid-d3bca172-fa17-4f55-8011-0a2851e59d19/mbid-d3bca172-fa17-4f55-8011-0a2851e59d19-17353601806_thumb500.jpg</image>
-      <album>Dig Me Out</album>
+      <title>Shadowboxer</title>
+      <creator>Fiona Apple</creator>
+      <image>https://dn710806.ca.archive.org/0/items/mbid-e1bba6de-84e1-37db-9123-6901cb01ec8d/mbid-e1bba6de-84e1-37db-9123-6901cb01ec8d-1402280819_thumb500.jpg</image>
+      <album>Tidal</album>
     </track>
     <track>
-      <title>Return to Innocence</title>
-      <creator>Enigma</creator>
-      <image>https://dn710609.ca.archive.org/0/items/mbid-ab3e62d5-c044-48bd-adee-00f303b61bc9/mbid-ab3e62d5-c044-48bd-adee-00f303b61bc9-1892319202_thumb500.jpg</image>
-      <album>Return to Innocence</album>
+      <title>Breathe</title>
+      <creator>The Prodigy</creator>
+      <image>https://ia800607.us.archive.org/5/items/mbid-a9281d84-72ae-43aa-9b72-1e2e6ec0075a/mbid-a9281d84-72ae-43aa-9b72-1e2e6ec0075a-35863431742_thumb500.jpg</image>
+      <album>The Fat of the Land</album>
     </track>
     <track>
-      <title>Wish</title>
-      <creator>Nine Inch Nails</creator>
-      <image>https://ia801901.us.archive.org/12/items/mbid-b7f2dc7e-3941-4c9c-a801-b656f295931c/mbid-b7f2dc7e-3941-4c9c-a801-b656f295931c-33866302333_thumb500.jpg</image>
-      <album>Broken</album>
+      <title>Fantasy</title>
+      <creator>Mariah Carey</creator>
+      <image>https://dn710106.ca.archive.org/0/items/mbid-520e7583-668d-43bf-998d-1fa206773402/mbid-520e7583-668d-43bf-998d-1fa206773402-43435893290_thumb500.jpg</image>
+      <album>Daydream</album>
     </track>
     <track>
-      <title>No Excuses</title>
-      <creator>Alice in Chains</creator>
-      <image>https://dn710902.ca.archive.org/0/items/mbid-2857f72f-fe40-3149-9f3d-f29f1276997a/mbid-2857f72f-fe40-3149-9f3d-f29f1276997a-1623267859_thumb500.jpg</image>
-      <album>Jar of Flies</album>
+      <title>I Am a Scientist</title>
+      <creator>Guided by Voices</creator>
+      <image>https://dn711004.ca.archive.org/0/items/mbid-80727694-3ec0-3bb7-9c08-afa06dae8f3d/mbid-80727694-3ec0-3bb7-9c08-afa06dae8f3d-5507836043_thumb500.jpg</image>
+      <album>Bee Thousand</album>
     </track>
     <track>
-      <title>Natural One</title>
-      <creator>The Folk Implosion</creator>
-      <image>https://dn721505.ca.archive.org/0/items/mbid-b526cad7-982a-4a37-9d1b-89b9c95279bc/mbid-b526cad7-982a-4a37-9d1b-89b9c95279bc-19965517553_thumb500.jpg</image>
-      <album>Kids: Original Motion Picture Soundtrack</album>
+      <title>When the Sun Hits</title>
+      <creator>Slowdive</creator>
+      <image>https://dn721701.ca.archive.org/0/items/mbid-07d02411-6722-4071-8130-14fb8512288a/mbid-07d02411-6722-4071-8130-14fb8512288a-20158302627_thumb500.jpg</image>
+      <album>Souvlaki</album>
     </track>
     <track>
-      <title>Out There</title>
-      <creator>Dinosaur Jr.</creator>
-      <image>https://dn710606.ca.archive.org/0/items/mbid-1d874434-bce9-4641-84e2-5e58e9ded1ad/mbid-1d874434-bce9-4641-84e2-5e58e9ded1ad-7404752961_thumb500.jpg</image>
-      <album>Where You Been</album>
+      <title>…Baby One More Time</title>
+      <creator>Britney Spears</creator>
+      <image>https://dn721903.ca.archive.org/0/items/mbid-6b6b16e1-1bc8-46f3-b651-ef4db46dbc40/mbid-6b6b16e1-1bc8-46f3-b651-ef4db46dbc40-31084688699_thumb500.jpg</image>
+      <album>…Baby One More Time</album>
     </track>
     <track>
-      <title>All I Want</title>
-      <creator>Toad the Wet Sprocket</creator>
-      <image>https://ia800602.us.archive.org/18/items/mbid-6b12a43f-840e-4923-a1aa-b015790c5383/mbid-6b12a43f-840e-4923-a1aa-b015790c5383-43664852723_thumb500.jpg</image>
-      <album>Fear</album>
+      <title>Red Right Hand</title>
+      <creator>Nick Cave &amp; The Bad Seeds</creator>
+      <image>https://dn721309.ca.archive.org/0/items/mbid-e54dd5f8-9fc7-37ed-ae32-17fcee9f6fea/mbid-e54dd5f8-9fc7-37ed-ae32-17fcee9f6fea-38373180050_thumb500.jpg</image>
+      <album>Let Love In</album>
     </track>
     <track>
-      <title>Crossroads</title>
-      <creator>Bone Thugs-N-Harmony</creator>
-      <image>https://dn721900.ca.archive.org/0/items/mbid-518237b2-def4-4b6b-a4c3-b1ba36a4553b/mbid-518237b2-def4-4b6b-a4c3-b1ba36a4553b-45479169103_thumb500.jpg</image>
-      <album>E. 1999 Eternal</album>
+      <title>When I Come Around</title>
+      <creator>Green Day</creator>
+      <image>https://dn710207.ca.archive.org/0/items/mbid-7ff04291-9f33-455a-92d7-3b2326c9cfc4/mbid-7ff04291-9f33-455a-92d7-3b2326c9cfc4-26651531312_thumb500.jpg</image>
+      <album>Dookie</album>
     </track>
     <track>
-      <title>7</title>
-      <creator>Prince &amp; The New Power Generation</creator>
-      <image>https://dn721604.ca.archive.org/0/items/mbid-76a378e6-f85b-48d4-98b6-457cd726c51b/mbid-76a378e6-f85b-48d4-98b6-457cd726c51b-40030570202_thumb500.jpg</image>
-      <album>Symbol Album (clean)</album>
+      <title>The Man Who Sold the World</title>
+      <creator>Nirvana</creator>
+      <image>https://dn710900.ca.archive.org/0/items/mbid-34749ba4-c4c7-3354-9619-1b0f88d8222b/mbid-34749ba4-c4c7-3354-9619-1b0f88d8222b-5930774942_thumb500.jpg</image>
+      <album>MTV Unplugged in New York</album>
     </track>
     <track>
-      <title>Brick</title>
-      <creator>Ben Folds Five</creator>
-      <image>https://coverartarchive.org/release/1b9e67a2-c2db-4bed-8c7c-4edef56df07f/33833404056-500.jpg</image>
-      <album>Whatever and Ever Amen</album>
+      <title>Wildflowers</title>
+      <creator>Tom Petty</creator>
+      <image>https://dn711102.ca.archive.org/0/items/mbid-4b5e44fd-018b-4fc7-9729-c9d9b011e459/mbid-4b5e44fd-018b-4fc7-9729-c9d9b011e459-5409931838_thumb500.jpg</image>
+      <album>Wildflowers</album>
+    </track>
+    <track>
+      <title>River of Deceit</title>
+      <creator>Mad Season</creator>
+      <image>https://dn721706.ca.archive.org/0/items/mbid-d73f3127-8750-423d-ba0e-304aa8803069/mbid-d73f3127-8750-423d-ba0e-304aa8803069-42289846371_thumb500.jpg</image>
+      <album>Above</album>
+    </track>
+    <track>
+      <title>Supersonic</title>
+      <creator>Oasis</creator>
+      <image>https://dn721907.ca.archive.org/0/items/mbid-b8525314-995d-4b27-ac42-2a4652172ac8/mbid-b8525314-995d-4b27-ac42-2a4652172ac8-40101243471_thumb500.jpg</image>
+      <album>Definitely Maybe</album>
+    </track>
+    <track>
+      <title>Porcelain</title>
+      <creator>Moby</creator>
+      <image>https://dn721807.ca.archive.org/0/items/mbid-679841df-599d-402f-9f89-0d0bb6e94368/mbid-679841df-599d-402f-9f89-0d0bb6e94368-44547305047_thumb500.jpg</image>
+      <album>Play</album>
+    </track>
+    <track>
+      <title>Gin and Juice</title>
+      <creator>Snoop Doggy Dogg feat. Dat N***a Daz</creator>
+      <image>https://dn721509.ca.archive.org/0/items/mbid-e1dcc685-0508-4ca4-8dd3-a68f35c6eb01/mbid-e1dcc685-0508-4ca4-8dd3-a68f35c6eb01-20592859200_thumb500.jpg</image>
+      <album>Doggystyle</album>
+    </track>
+    <track>
+      <title>Hypnotize</title>
+      <creator>The Notorious B.I.G.</creator>
+      <image>https://dn711202.ca.archive.org/0/items/mbid-03aa0355-70d2-4032-9985-f9a040978520/mbid-03aa0355-70d2-4032-9985-f9a040978520-3409750467_thumb500.jpg</image>
+      <album>Life After Death</album>
+    </track>
+    <track>
+      <title>Deceptacon</title>
+      <creator>Le Tigre</creator>
+      <image>https://dn711106.ca.archive.org/0/items/mbid-9b852313-4da3-42d9-a975-48f9cff8c98b/mbid-9b852313-4da3-42d9-a975-48f9cff8c98b-15204489896_thumb500.jpg</image>
+      <album>Le Tigre</album>
+    </track>
+    <track>
+      <title>Standing Outside a Broken Phone Booth With Money in My Hand</title>
+      <creator>Primitive Radio Gods</creator>
+      <image>https://dn711308.ca.archive.org/0/items/mbid-4e0383b3-ca53-4e2e-b4f3-6973d09d7f22/mbid-4e0383b3-ca53-4e2e-b4f3-6973d09d7f22-18016479630_thumb500.jpg</image>
+      <album>Rocket</album>
+    </track>
+    <track>
+      <title>The Only One I Know</title>
+      <creator>The Charlatans</creator>
+      <image>https://dn710808.ca.archive.org/0/items/mbid-44d5ba8f-f919-3bc5-88d2-f472aaf5ed4a/mbid-44d5ba8f-f919-3bc5-88d2-f472aaf5ed4a-21352924897_thumb500.jpg</image>
+      <album>Some Friendly</album>
+    </track>
+    <track>
+      <title>Joey</title>
+      <creator>Concrete Blonde</creator>
+      <image>https://ia801505.us.archive.org/31/items/mbid-5a3ed308-b700-3b07-ad40-bf429388bdd5/mbid-5a3ed308-b700-3b07-ad40-bf429388bdd5-20224136391_thumb500.jpg</image>
+      <album>Bloodletting</album>
+    </track>
+    <track>
+      <title>Grace</title>
+      <creator>Jeff Buckley</creator>
+      <image>https://dn711105.ca.archive.org/0/items/mbid-b2f862e5-a1f3-475d-85a1-6cb1160286aa/mbid-b2f862e5-a1f3-475d-85a1-6cb1160286aa-7928896921_thumb500.jpg</image>
+      <album>Grace</album>
+    </track>
+    <track>
+      <title>Good Morning, Captain</title>
+      <creator>Slint</creator>
+      <image>https://dn710705.ca.archive.org/0/items/mbid-35ff10b7-f69d-47e8-8921-79e0ffd2a51b/mbid-35ff10b7-f69d-47e8-8921-79e0ffd2a51b-5946312071_thumb500.jpg</image>
+      <album>Spiderland</album>
+    </track>
+    <track>
+      <title>The Boy With the Arab Strap</title>
+      <creator>Belle and Sebastian</creator>
+      <album>The Boy With the Arab Strap</album>
+    </track>
+    <track>
+      <title>Glycerine</title>
+      <creator>Bush</creator>
+      <image>https://coverartarchive.org/release/768aede4-065b-4351-829e-3bde529d2856/5156046636-500.jpg</image>
+      <album>Sixteen Stone</album>
+    </track>
+    <track>
+      <title>On &amp; On</title>
+      <creator>Erykah Badu</creator>
+      <image>https://dn710306.ca.archive.org/0/items/mbid-92c85c68-e8e4-3c39-bf4e-dd9e7339427c/mbid-92c85c68-e8e4-3c39-bf4e-dd9e7339427c-882514536_thumb500.jpg</image>
+      <album>Baduizm</album>
+    </track>
+    <track>
+      <title>The Emperor's New Clothes</title>
+      <creator>Sinéad O’Connor</creator>
+      <image>https://dn710206.ca.archive.org/0/items/mbid-80063c26-4fd4-3e0c-97b1-2597750e51e4/mbid-80063c26-4fd4-3e0c-97b1-2597750e51e4-35350948468_thumb500.jpg</image>
+      <album>I Do Not Want What I Haven't Got</album>
+    </track>
+    <track>
+      <title>Sleep to Dream</title>
+      <creator>Fiona Apple</creator>
+      <image>https://dn710806.ca.archive.org/0/items/mbid-e1bba6de-84e1-37db-9123-6901cb01ec8d/mbid-e1bba6de-84e1-37db-9123-6901cb01ec8d-1402280819_thumb500.jpg</image>
+      <album>Tidal</album>
+    </track>
+    <track>
+      <title>She Don’t Use Jelly</title>
+      <creator>The Flaming Lips</creator>
+      <album>Transmissions From the Satellite Heart</album>
+    </track>
+    <track>
+      <title>Plush</title>
+      <creator>Stone Temple Pilots</creator>
+      <image>https://dn710809.ca.archive.org/0/items/mbid-ee77b5b9-5ded-4209-8481-e6fed5661d46/mbid-ee77b5b9-5ded-4209-8481-e6fed5661d46-7041442393_thumb500.jpg</image>
+      <album>Core</album>
+    </track>
+    <track>
+      <title>Just</title>
+      <creator>Radiohead</creator>
+      <image>https://dn721503.ca.archive.org/0/items/mbid-9c886aef-6616-4959-842d-2b3dd7fbe610/mbid-9c886aef-6616-4959-842d-2b3dd7fbe610-5553943056_thumb500.jpg</image>
+      <album>The Bends</album>
+    </track>
+    <track>
+      <title>I Will Always Love You</title>
+      <creator>Whitney Houston</creator>
+      <image>https://dn710705.ca.archive.org/0/items/mbid-903e2eee-957f-42b7-b048-6007c81c59e0/mbid-903e2eee-957f-42b7-b048-6007c81c59e0-17736109421_thumb500.jpg</image>
+      <album>The Bodyguard: Original Soundtrack Album</album>
+    </track>
+    <track>
+      <title>Burden in My Hand</title>
+      <creator>Soundgarden</creator>
+      <image>https://dn721500.ca.archive.org/0/items/mbid-70329b27-980f-4e2f-9c96-85ad945bf9d7/mbid-70329b27-980f-4e2f-9c96-85ad945bf9d7-43724289533_thumb500.jpg</image>
+      <album>Down on the Upside</album>
+    </track>
+    <track>
+      <title>Bullet With Butterfly Wings</title>
+      <creator>The Smashing Pumpkins</creator>
+      <image>https://dn710709.ca.archive.org/0/items/mbid-e4c0a2dc-49cb-382b-9bb3-a40d09669583/mbid-e4c0a2dc-49cb-382b-9bb3-a40d09669583-38550587176_thumb500.jpg</image>
+      <album>Mellon Collie and the Infinite Sadness</album>
+    </track>
+    <track>
+      <title>Policy of Truth</title>
+      <creator>Depeche Mode</creator>
+      <image>https://dn711306.ca.archive.org/0/items/mbid-0644af17-471f-3736-830c-888b3205c009/mbid-0644af17-471f-3736-830c-888b3205c009-4135620147_thumb500.jpg</image>
+      <album>Violator</album>
+    </track>
+    <track>
+      <title>Kiss From a Rose</title>
+      <creator>Seal</creator>
+      <image>https://ia600703.us.archive.org/9/items/mbid-2b4a02d6-0ec8-3eb1-8c5e-48ce58b994ed/mbid-2b4a02d6-0ec8-3eb1-8c5e-48ce58b994ed-8187130894_thumb500.jpg</image>
+      <album>Batman Forever: Music From the Motion Picture</album>
+    </track>
+    <track>
+      <title>Ex‐Factor</title>
+      <creator>Lauryn Hill</creator>
+      <image>https://dn710901.ca.archive.org/0/items/mbid-4f931a2b-98eb-49bb-94b7-0ec62dcfe644/mbid-4f931a2b-98eb-49bb-94b7-0ec62dcfe644-5356827241_thumb500.jpg</image>
+      <album>The Miseducation of Lauryn Hill</album>
+    </track>
+    <track>
+      <title>Car</title>
+      <creator>Built to Spill</creator>
+      <image>https://ia803209.us.archive.org/34/items/mbid-99811fb9-31c8-481f-b514-e635f2491ff2/mbid-99811fb9-31c8-481f-b514-e635f2491ff2-7940781627_thumb500.jpg</image>
+      <album>There’s Nothing Wrong With Love</album>
+    </track>
+    <track>
+      <title>Better Man</title>
+      <creator>Pearl Jam</creator>
+      <image>https://ia801806.us.archive.org/13/items/mbid-1f1b25a7-6420-4c80-8560-9b38bfc0a23a/mbid-1f1b25a7-6420-4c80-8560-9b38bfc0a23a-2453060918_thumb500.jpg</image>
+      <album>Vitalogy</album>
+    </track>
+    <track>
+      <title>Angeles</title>
+      <creator>Elliott Smith</creator>
+      <image>https://dn710706.ca.archive.org/0/items/mbid-0a5aa565-8158-4e81-9776-af8044f6cc1e/mbid-0a5aa565-8158-4e81-9776-af8044f6cc1e-18047694847_thumb500.jpg</image>
+      <album>Either/Or</album>
+    </track>
+    <track>
+      <title>The Day I Tried to Live</title>
+      <creator>Soundgarden</creator>
+      <image>https://dn721602.ca.archive.org/0/items/mbid-53e70778-6771-4674-8933-9438b4528dd8/mbid-53e70778-6771-4674-8933-9438b4528dd8-15934451483_thumb500.jpg</image>
+      <album>Superunknown</album>
+    </track>
+    <track>
+      <title>Say Hello 2 Heaven</title>
+      <creator>Temple of the Dog</creator>
+      <image>https://dn711203.ca.archive.org/0/items/mbid-b0ce1c97-728d-379e-b3e1-2a4a1f6417b1/mbid-b0ce1c97-728d-379e-b3e1-2a4a1f6417b1-15135704076_thumb500.jpg</image>
+      <album>Temple of the Dog</album>
+    </track>
+    <track>
+      <title>Not Too Soon</title>
+      <creator>Throwing Muses</creator>
+      <image>https://ia801807.us.archive.org/3/items/mbid-6e5fe8df-c66c-412d-97d7-2ace0f9af571/mbid-6e5fe8df-c66c-412d-97d7-2ace0f9af571-44985093128_thumb500.jpg</image>
+      <album>The Real Ramona</album>
+    </track>
+    <track>
+      <title>Via Chicago</title>
+      <creator>Wilco</creator>
+      <image>https://dn711008.ca.archive.org/0/items/mbid-38a40944-ac73-4c8e-8638-ec0075b170ea/mbid-38a40944-ac73-4c8e-8638-ec0075b170ea-4530840085_thumb500.jpg</image>
+      <album>Summerteeth</album>
+    </track>
+    <track>
+      <title>Shoop</title>
+      <creator>Salt‐N‐Pepa</creator>
+      <image>https://dn711103.ca.archive.org/0/items/mbid-0dc50c5f-cc34-48bc-b62e-2df02a77dbae/mbid-0dc50c5f-cc34-48bc-b62e-2df02a77dbae-22922071662_thumb500.jpg</image>
+      <album>Very Necessary</album>
+    </track>
+    <track>
+      <title>My Name Is Jonas</title>
+      <creator>Weezer</creator>
+      <image>https://dn710708.ca.archive.org/0/items/mbid-2279443f-991e-3f3e-9705-861d0aba339d/mbid-2279443f-991e-3f3e-9705-861d0aba339d-4256961612_thumb500.jpg</image>
+      <album>Weezer</album>
+    </track>
+    <track>
+      <title>Brimful of Asha</title>
+      <creator>Cornershop</creator>
+      <image>https://dn710205.ca.archive.org/0/items/mbid-b0b0dba5-fb1f-3750-8fcb-42ad53856ad3/mbid-b0b0dba5-fb1f-3750-8fcb-42ad53856ad3-23577569469_thumb500.jpg</image>
+      <album>When I Was Born for the 7th Time</album>
+    </track>
+    <track>
+      <title>Longview (radio version)</title>
+      <creator>Green Day</creator>
+      <image>https://ia601405.us.archive.org/5/items/mbid-2fa3cb5b-4211-49a1-ab67-b5fc3e7a8b6c/mbid-2fa3cb5b-4211-49a1-ab67-b5fc3e7a8b6c-33010180108_thumb500.jpg</image>
+      <album>Longview</album>
+    </track>
+    <track>
+      <title>Right Here, Right Now</title>
+      <creator>Jesus Jones</creator>
+      <image>https://dn710000.ca.archive.org/0/items/mbid-4aeecc98-594f-32f9-8c42-4ff315d41dcc/mbid-4aeecc98-594f-32f9-8c42-4ff315d41dcc-15543969471_thumb500.jpg</image>
+      <album>Doubt</album>
+    </track>
+    <track>
+      <title>Pass the Mic</title>
+      <creator>Beastie Boys</creator>
+      <image>https://dn721509.ca.archive.org/0/items/mbid-8484a2a1-2e69-3bc0-99ea-bae409746722/mbid-8484a2a1-2e69-3bc0-99ea-bae409746722-7792952448_thumb500.jpg</image>
+      <album>Check Your Head</album>
+    </track>
+    <track>
+      <title>Parklife</title>
+      <creator>Blur</creator>
+      <image>https://dn711101.ca.archive.org/0/items/mbid-226cf4f4-bd6a-30d0-84b8-889e55e3d099/mbid-226cf4f4-bd6a-30d0-84b8-889e55e3d099-23545645563_thumb500.jpg</image>
+      <album>Parklife</album>
+    </track>
+    <track>
+      <title>Hummer</title>
+      <creator>Smashing Pumpkins</creator>
+      <image>https://dn710603.ca.archive.org/0/items/mbid-a829531e-06fd-307b-a5b1-0f04481984a1/mbid-a829531e-06fd-307b-a5b1-0f04481984a1-4381238167_thumb500.jpg</image>
+      <album>Siamese Dream</album>
+    </track>
+    <track>
+      <title>Give Me One Reason</title>
+      <creator>Tracy Chapman</creator>
+      <image>https://dn710706.ca.archive.org/0/items/mbid-d9bef07b-1f5e-456d-85e6-c4ad3f42eeda/mbid-d9bef07b-1f5e-456d-85e6-c4ad3f42eeda-5503035726_thumb500.jpg</image>
+      <album>New Beginning</album>
+    </track>
+    <track>
+      <title>Trailer Trash</title>
+      <creator>Modest Mouse</creator>
+      <image>https://dn710703.ca.archive.org/0/items/mbid-2a6d8f7c-8cca-4fb1-9f8c-0de137837f0f/mbid-2a6d8f7c-8cca-4fb1-9f8c-0de137837f0f-33419350946_thumb500.jpg</image>
+      <album>The Lonesome Crowded West</album>
+    </track>
+    <track>
+      <title>Street Spirit (Fade Out)</title>
+      <creator>Radiohead</creator>
+      <image>https://dn710101.ca.archive.org/0/items/mbid-64fb2359-b570-39c2-9c82-431dc602199f/mbid-64fb2359-b570-39c2-9c82-431dc602199f-10429562959_thumb500.jpg</image>
+      <album>The Bends</album>
+    </track>
+    <track>
+      <title>Stop!</title>
+      <creator>Jane’s Addiction</creator>
+      <image>https://dn710906.ca.archive.org/0/items/mbid-b3ef5857-6501-4f45-be08-632967ccd479/mbid-b3ef5857-6501-4f45-be08-632967ccd479-36625385914_thumb500.jpg</image>
+      <album>Ritual de lo habitual</album>
+    </track>
+    <track>
+      <title>Santa Monica</title>
+      <creator>Everclear</creator>
+      <image>https://dn710808.ca.archive.org/0/items/mbid-8f4c61e4-fd52-4ab1-bba2-3da2fa929499/mbid-8f4c61e4-fd52-4ab1-bba2-3da2fa929499-1608200466_thumb500.jpg</image>
+      <album>Sparkle and Fade</album>
+    </track>
+    <track>
+      <title>No Ordinary Love</title>
+      <creator>Sade</creator>
+      <album>Love Deluxe</album>
+    </track>
+    <track>
+      <title>That’s the Way Love Goes</title>
+      <creator>Janet</creator>
+      <album>janet.</album>
+    </track>
+    <track>
+      <title>SpottieOttieDopaliscious</title>
+      <creator>OutKast</creator>
+      <image>https://dn711202.ca.archive.org/0/items/mbid-06438d71-3a7d-3f41-9338-3dc08351e19f/mbid-06438d71-3a7d-3f41-9338-3dc08351e19f-3982214456_thumb500.jpg</image>
+      <album>Aquemini</album>
+    </track>
+    <track>
+      <title>The Sign</title>
+      <creator>Ace of Base</creator>
+      <image>https://dn710609.ca.archive.org/0/items/mbid-42c8a4d4-e732-4c81-b6c0-c5634343a5c4/mbid-42c8a4d4-e732-4c81-b6c0-c5634343a5c4-22545515143_thumb500.jpg</image>
+      <album>The Sign</album>
     </track>
   </trackList>
 </playlist>
