@@ -3,1391 +3,323 @@
   <info>https://bagelradio.com/</info>
   <creator>bagelradio.com</creator>
   <image>https://jherskowitz.github.io/spinbin/logos/bagelradio.svg</image>
-  <date>2026-10-21T14:49:48+00:00</date>
+  <date>2026-10-22T14:50:30+00:00</date>
   <trackList>
     <track>
-      <title>No Whiskey</title>
-      <creator>Matching Outfits</creator>
-    </track>
-    <track>
-      <title>Everything Evil</title>
+      <title>Revival</title>
       <creator>Elephant Stone</creator>
     </track>
     <track>
-      <title>Heels</title>
-      <creator>Billy Nomates</creator>
+      <title>Welcome to Earth</title>
+      <creator>Death Valley Girls</creator>
     </track>
     <track>
-      <title>Never Enough</title>
-      <creator>John Doe</creator>
+      <title>Step On</title>
+      <creator>Happy Mondays</creator>
     </track>
     <track>
-      <title>Collect</title>
-      <creator>TORRES</creator>
+      <title>Worried Age</title>
+      <creator>Westside Cowboy</creator>
     </track>
     <track>
-      <title>Closer</title>
-      <creator>Silver Starling</creator>
+      <title>Overflow</title>
+      <creator>Miss Grit</creator>
     </track>
     <track>
-      <title>Obvious Signs</title>
-      <creator>Grape Soda</creator>
+      <title>In Chains</title>
+      <creator>Depeche Mode</creator>
     </track>
     <track>
-      <title>U Can't Do It</title>
-      <creator>Cheekface</creator>
+      <title>Tora, Tora, Tora</title>
+      <creator>Pretty &amp; Nice</creator>
     </track>
     <track>
-      <title>Black Eyes</title>
-      <creator>Radical Face</creator>
+      <title>Dealer</title>
+      <creator>Japan Suicide</creator>
     </track>
     <track>
-      <title>Sonic Reducer</title>
-      <creator>Dead Boys</creator>
-    </track>
-    <track>
-      <title>Iguana</title>
-      <creator>Man Man</creator>
-    </track>
-    <track>
-      <title>Juke Box Hero</title>
-      <creator>Renny Wilson</creator>
-    </track>
-    <track>
-      <title>The Big Three Killed My Baby</title>
-      <creator>The White Stripes</creator>
-    </track>
-    <track>
-      <title>Madness</title>
-      <creator>Ceremony</creator>
-    </track>
-    <track>
-      <title>Bee B Movie</title>
-      <creator>Artichoke</creator>
-    </track>
-    <track>
-      <title>Lie Down With Dogs Stand Up With Fleas</title>
-      <creator>British Birds</creator>
-    </track>
-    <track>
-      <title>I Have So Much Love To Give</title>
-      <creator>Occurrence</creator>
-    </track>
-    <track>
-      <title>Awestruck</title>
-      <creator>...And You Will Know Us By The Trail Of Dead</creator>
-    </track>
-    <track>
-      <title>Bae Bae Bae</title>
-      <creator>Gruff Rhys</creator>
-    </track>
-    <track>
-      <title>Section 25</title>
-      <creator>The Polyphonic Spree</creator>
-    </track>
-    <track>
-      <title>How to Feel Alright</title>
-      <creator>Robyn Hitchcock</creator>
-    </track>
-    <track>
-      <title>Heartbeat</title>
-      <creator>Seasfire</creator>
-    </track>
-    <track>
-      <title>Painting After Painting</title>
-      <creator>Kiwi Jr.</creator>
-    </track>
-    <track>
-      <title>Lucidity</title>
-      <creator>Tame Impala</creator>
-    </track>
-    <track>
-      <title>Doggy Head</title>
-      <creator>Drink Up Buttercup</creator>
-    </track>
-    <track>
-      <title>You Leave Me Hanging</title>
-      <creator>Ten Million Lights</creator>
-    </track>
-    <track>
-      <title>Lethal</title>
-      <creator>Badvril</creator>
-    </track>
-    <track>
-      <title>Catch Me Jumping</title>
-      <creator>Dimes</creator>
-    </track>
-    <track>
-      <title>Bread Bag</title>
-      <creator>Cor de Lux</creator>
-    </track>
-    <track>
-      <title>Champion</title>
-      <creator>Pom Poko</creator>
-    </track>
-    <track>
-      <title>Everyone Is Totally Insane</title>
-      <creator>The Dandy Warhols</creator>
-    </track>
-    <track>
-      <title>Fallen</title>
-      <creator>Summer Cannibals</creator>
-    </track>
-    <track>
-      <title>Door</title>
-      <creator>Tearjerker</creator>
-    </track>
-    <track>
-      <title>House of I</title>
-      <creator>The Afghan Whigs</creator>
-    </track>
-    <track>
-      <title>Uncertainly</title>
-      <creator>Panthers</creator>
-    </track>
-    <track>
-      <title>Bender</title>
-      <creator>Soul Dive</creator>
-    </track>
-    <track>
-      <title>Moving to New York</title>
-      <creator>The Wombats</creator>
-    </track>
-    <track>
-      <title>Bandages</title>
-      <creator>Hot Hot Heat</creator>
-    </track>
-    <track>
-      <title>Lobotomy</title>
-      <creator>Ell V Gore</creator>
-    </track>
-    <track>
-      <title>You Can Tell</title>
-      <creator>Bears</creator>
-    </track>
-    <track>
-      <title>All The Rage</title>
-      <creator>Wishy</creator>
-    </track>
-    <track>
-      <title>Tremble And Tear</title>
-      <creator>John Vanderslice</creator>
-    </track>
-    <track>
-      <title>Television Loveseat</title>
-      <creator>Gurry Wurry</creator>
-    </track>
-    <track>
-      <title>True Thrush</title>
-      <creator>Dan Deacon</creator>
-    </track>
-    <track>
-      <title>can't stop me from dying</title>
-      <creator>Ada Lea</creator>
-    </track>
-    <track>
-      <title>Follow Me Down (Featuring Sleepy Sun)</title>
-      <creator>UNKLE</creator>
-    </track>
-    <track>
-      <title>Life Is Hard, Not For Us</title>
-      <creator>The Midwest Quiet</creator>
-    </track>
-    <track>
-      <title>No More Kings</title>
-      <creator>Artichoke</creator>
-    </track>
-    <track>
-      <title>All Alone</title>
-      <creator>Julie Ocean</creator>
-    </track>
-    <track>
-      <title>Parallel And Contrary Motion</title>
-      <creator>Elephant Stone</creator>
-    </track>
-    <track>
-      <title>Seasons</title>
-      <creator>Medications</creator>
-    </track>
-    <track>
-      <title>Smells Like Cigarettes</title>
-      <creator>HIJK</creator>
-    </track>
-    <track>
-      <title>The Cooks Of Cake And Kindness</title>
-      <creator>The Californians</creator>
-    </track>
-    <track>
-      <title>Constant Connection</title>
-      <creator>Erasers</creator>
-    </track>
-    <track>
-      <title>Paradise Lost</title>
-      <creator>Hunter As A Horse</creator>
-    </track>
-    <track>
-      <title>Pace or the Patience</title>
-      <creator>Love Of Diagrams</creator>
-    </track>
-    <track>
-      <title>Superstar</title>
-      <creator>Stalefish</creator>
-    </track>
-    <track>
-      <title>Bad Things (The Theme From 'True Blood')</title>
-      <creator>Jace Everett</creator>
-    </track>
-    <track>
-      <title>Warning Signs</title>
-      <creator>Band of Horses</creator>
-    </track>
-    <track>
-      <title>Waves</title>
-      <creator>Hum</creator>
-    </track>
-    <track>
-      <title>38 Special</title>
-      <creator>Jack Splash</creator>
-    </track>
-    <track>
-      <title>Photos Of The Reenactment</title>
-      <creator>Kiwi Jr.</creator>
-    </track>
-    <track>
-      <title>Lite The Fuse</title>
-      <creator>The Death Set</creator>
-    </track>
-    <track>
-      <title>Rearview</title>
-      <creator>Badvril</creator>
-    </track>
-    <track>
-      <title>Mantra</title>
-      <creator>Lovetones</creator>
-    </track>
-    <track>
-      <title>A Hard Day's Night</title>
-      <creator>The Beatles</creator>
-    </track>
-    <track>
-      <title>Who’s Got Time?</title>
-      <creator>Flasher</creator>
-    </track>
-    <track>
-      <title>Meditations</title>
-      <creator>Holograms</creator>
-    </track>
-    <track>
-      <title>Bleak</title>
-      <creator>Froth</creator>
-    </track>
-    <track>
-      <title>Kamikaze</title>
-      <creator>Heaters</creator>
-    </track>
-    <track>
-      <title>Super Fucked</title>
-      <creator>The Brian Jonestown Massacre</creator>
-    </track>
-    <track>
-      <title>Soul Kitchen</title>
-      <creator>The Black Angels</creator>
-    </track>
-    <track>
-      <title>Spirit in Front of Me</title>
-      <creator>Crystal Stilts</creator>
-    </track>
-    <track>
-      <title>Run</title>
-      <creator>Spiritualized</creator>
-    </track>
-    <track>
-      <title>Turquoise Tandem Cycle</title>
-      <creator>Jason Crest</creator>
-    </track>
-    <track>
-      <title>Who Needs A Man</title>
-      <creator>The Fresh and Onlys</creator>
-    </track>
-    <track>
-      <title>Crime Don't Pay</title>
-      <creator>Chain &amp; The Gang</creator>
-    </track>
-    <track>
-      <title>Telstar</title>
-      <creator>The Tornados</creator>
-    </track>
-    <track>
-      <title>Fire Hose</title>
-      <creator>Pow!</creator>
-    </track>
-    <track>
-      <title>Merry Go Round</title>
-      <creator>The Coathangers</creator>
-    </track>
-    <track>
-      <title>Pleasure Blimps</title>
-      <creator>Thee Oh Sees</creator>
-    </track>
-    <track>
-      <title>Make up Your Mind</title>
-      <creator>Death By Unga Bunga</creator>
-    </track>
-    <track>
-      <title>Mellow Yellow</title>
-      <creator>Donovan</creator>
-    </track>
-    <track>
-      <title>Fire</title>
-      <creator>Cymbeline</creator>
-    </track>
-    <track>
-      <title>Ferus Gallery</title>
-      <creator>Allah-Las</creator>
-    </track>
-    <track>
-      <title>The Bomb</title>
-      <creator>Potty Mouth</creator>
-    </track>
-    <track>
-      <title>Francis</title>
-      <creator>Gary Walker And The Rain</creator>
-    </track>
-    <track>
-      <title>Jargon of Clones</title>
-      <creator>Ricked Wicky</creator>
-    </track>
-    <track>
-      <title>Black Out Stout</title>
-      <creator>Fidlar</creator>
-    </track>
-    <track>
-      <title>Dr. Stone</title>
-      <creator>The Leaves</creator>
-    </track>
-    <track>
-      <title>Modafinil</title>
-      <creator>The Yeah Dads</creator>
-    </track>
-    <track>
-      <title>Wire Frame Mattress</title>
-      <creator>The Wytches</creator>
-    </track>
-    <track>
-      <title>Pushin' Too Hard</title>
-      <creator>The Seeds</creator>
-    </track>
-    <track>
-      <title>Rip Van Winkle</title>
-      <creator>Shannon And The Clams</creator>
-    </track>
-    <track>
-      <title>Point of Being Right</title>
-      <creator>Shannon And The Clams</creator>
-    </track>
-    <track>
-      <title>These Boots Are Made For Walkin'</title>
-      <creator>Parquet Courts</creator>
-    </track>
-    <track>
-      <title>April 15th</title>
-      <creator>The Human Beinz</creator>
-    </track>
-    <track>
-      <title>Sheena Is A Parasite</title>
-      <creator>The Horrors</creator>
-    </track>
-    <track>
-      <title>Pearl and Oyster</title>
-      <creator>The Muscadettes</creator>
-    </track>
-    <track>
-      <title>The Kid From Cinncy</title>
-      <creator>The Hatfields</creator>
-    </track>
-    <track>
-      <title>Take My Hand</title>
-      <creator>Matthew Melton</creator>
-    </track>
-    <track>
-      <title>I Cut Like A Buffalo</title>
-      <creator>The Dead Weather</creator>
-    </track>
-    <track>
-      <title>Tell The World</title>
-      <creator>Vivian Girls</creator>
-    </track>
-    <track>
-      <title>Stepped In Shit</title>
-      <creator>Ausmuteants</creator>
-    </track>
-    <track>
-      <title>That's A Start</title>
-      <creator>Haircut 100</creator>
-    </track>
-    <track>
-      <title>Hypnotic Regression</title>
-      <creator>Girls Names</creator>
-    </track>
-    <track>
-      <title>Go To Hell, Adam!</title>
-      <creator>Yellow Pills</creator>
-    </track>
-    <track>
-      <title>Shame &amp; Scandal</title>
-      <creator>Madness</creator>
-    </track>
-    <track>
-      <title>What's In It For?</title>
-      <creator>Avi Buffalo</creator>
-    </track>
-    <track>
-      <title>My Sharona</title>
-      <creator>POLYSICS</creator>
-    </track>
-    <track>
-      <title>Wednesdays</title>
+      <title>Gravity's Pull</title>
       <creator>Soft Loft</creator>
     </track>
     <track>
-      <title>What She Said</title>
-      <creator>The Smiths</creator>
+      <title>Dissolve</title>
+      <creator>Naked Giants</creator>
     </track>
     <track>
-      <title>Dented Heart</title>
-      <creator>Gurry Wurry</creator>
+      <title>Thunderbolt II</title>
+      <creator>The Crooked Stuff</creator>
     </track>
     <track>
-      <title>Funeral X</title>
-      <creator>The Radio Fields</creator>
+      <title>Pretend We Live Forever</title>
+      <creator>Chelan</creator>
     </track>
     <track>
-      <title>Beneath The Rose</title>
-      <creator>Micah Paul Hinson</creator>
+      <title>Ripped</title>
+      <creator>Sextile</creator>
     </track>
     <track>
-      <title>Secrets</title>
-      <creator>Boyskout</creator>
+      <title>Black Site</title>
+      <creator>Cheekface</creator>
     </track>
     <track>
-      <title>See The Light</title>
-      <creator>Animal Electricity</creator>
+      <title>Dead End</title>
+      <creator>Snail Mail</creator>
     </track>
     <track>
-      <title>Perfect Angel</title>
-      <creator>Dorio</creator>
+      <title>Because You're Sad</title>
+      <creator>The Muffs</creator>
     </track>
     <track>
-      <title>Timothy</title>
-      <creator>The Scots Of St James</creator>
+      <title>Above it All</title>
+      <creator>Rykarda Parasol</creator>
     </track>
     <track>
-      <title>Journey's End</title>
-      <creator>The Cat's Miaow</creator>
+      <title>Mucho Mistrust</title>
+      <creator>Fake Fruit</creator>
     </track>
     <track>
-      <title>White Wedding (Part 1)</title>
-      <creator>Billy Idol</creator>
-    </track>
-    <track>
-      <title>K.I.D.S.</title>
-      <creator>Tiny Masters Of Today</creator>
-    </track>
-    <track>
-      <title>Loline</title>
-      <creator>The Bats</creator>
-    </track>
-    <track>
-      <title>Guess I'm Fallin in Love</title>
-      <creator>Spoon</creator>
-    </track>
-    <track>
-      <title>You You You</title>
-      <creator>Arab Strap</creator>
-    </track>
-    <track>
-      <title>One</title>
-      <creator>Electric Six</creator>
-    </track>
-    <track>
-      <title>hollow (mixtape version)</title>
-      <creator>Winter</creator>
-    </track>
-    <track>
-      <title>Lost In The Light</title>
-      <creator>The Heavenly States</creator>
-    </track>
-    <track>
-      <title>Tom Boy</title>
-      <creator>Bettie Serveert</creator>
-    </track>
-    <track>
-      <title>Girl on the Beach</title>
-      <creator>Jack Oblivian</creator>
-    </track>
-    <track>
-      <title>I Can Do No Wrong</title>
-      <creator>American Wrestlers</creator>
-    </track>
-    <track>
-      <title>Freedom Means Something</title>
+      <title>Never Alone (feat. The Interrupters)</title>
       <creator>Dead Pioneers</creator>
     </track>
     <track>
-      <title>Nadine</title>
-      <creator>Frank Black &amp; The Catholics</creator>
-    </track>
-    <track>
-      <title>Converts</title>
-      <creator>Protomartyr</creator>
-    </track>
-    <track>
-      <title>Do It With A Rockstar</title>
-      <creator>Amanda Palmer &amp; The Grand Theft Orchestra</creator>
-    </track>
-    <track>
-      <title>ugly</title>
-      <creator>violent femmes</creator>
-    </track>
-    <track>
-      <title>Sonic You</title>
-      <creator>The Coathangers</creator>
-    </track>
-    <track>
-      <title>Kill It In The Morning</title>
-      <creator>The Twilight Sad</creator>
-    </track>
-    <track>
-      <title>New Beginnings</title>
-      <creator>Yard Act</creator>
-    </track>
-    <track>
-      <title>Fair Game</title>
-      <creator>The Like</creator>
-    </track>
-    <track>
-      <title>Caretaker</title>
-      <creator>Mallory Hawk</creator>
-    </track>
-    <track>
-      <title>Danny Nedelko</title>
-      <creator>IDLES</creator>
-    </track>
-    <track>
-      <title>She Don't Use Jelly</title>
-      <creator>The Flaming Lips</creator>
-    </track>
-    <track>
-      <title>She Rex</title>
-      <creator>Sleepy Sun</creator>
-    </track>
-    <track>
-      <title>Cleaning Up My Mess</title>
-      <creator>Blank Realm</creator>
-    </track>
-    <track>
-      <title>If I Had The Hand Of God</title>
-      <creator>Julia Jacklin</creator>
-    </track>
-    <track>
-      <title>From A Little Room In Downtown</title>
-      <creator>Get Set Go</creator>
-    </track>
-    <track>
-      <title>Cowboy Song</title>
-      <creator>CCTV</creator>
-    </track>
-    <track>
-      <title>Sweet Potatoes</title>
-      <creator>The Peekers</creator>
-    </track>
-    <track>
-      <title>Drinking Beers</title>
-      <creator>Miguel Mendez</creator>
-    </track>
-    <track>
-      <title>Tropical Pets</title>
-      <creator>The Diableros</creator>
-    </track>
-    <track>
-      <title>Wait Up (Boots of Danger)</title>
-      <creator>Tokyo Police Club</creator>
-    </track>
-    <track>
-      <title>The Devil</title>
-      <creator>Fat Dog</creator>
-    </track>
-    <track>
-      <title>Molly's Chambers</title>
-      <creator>Kings Of Leon</creator>
-    </track>
-    <track>
-      <title>Walk With Love</title>
-      <creator>Radiator Hospital</creator>
-    </track>
-    <track>
-      <title>Don't Sit Down 'Cause I've Moved Your Chair</title>
-      <creator>Arctic Monkeys</creator>
-    </track>
-    <track>
-      <title>This Is The One</title>
-      <creator>The Stone Roses</creator>
-    </track>
-    <track>
-      <title>Pin</title>
-      <creator>Yeah Yeah Yeahs</creator>
-    </track>
-    <track>
-      <title>Hound</title>
+      <title>Black Bear</title>
       <creator>hey, nothing</creator>
     </track>
     <track>
-      <title>Diamond Hoo Ha Man</title>
-      <creator>Supergrass</creator>
+      <title>Hallowed Ground (Ft. Mai Diaz Langou of SWiiMS)</title>
+      <creator>Fairmont</creator>
     </track>
     <track>
-      <title>Mulberry</title>
-      <creator>Body Type</creator>
+      <title>Like a Movie</title>
+      <creator>BACKHOUSE</creator>
     </track>
     <track>
-      <title>Bytecry</title>
-      <creator>Weevil</creator>
+      <title>Complete Control</title>
+      <creator>The Clash</creator>
     </track>
     <track>
-      <title>Makr</title>
-      <creator>Terrene</creator>
+      <title>Remember When (Side B)</title>
+      <creator>The Black Keys</creator>
     </track>
     <track>
-      <title>Panic</title>
-      <creator>Annie Hamilton</creator>
+      <title>Accelerator</title>
+      <creator>Citizens Here &amp; Abroad</creator>
     </track>
     <track>
-      <title>Street Party</title>
-      <creator>Guided By Voices</creator>
+      <title>Radio</title>
+      <creator>Soft Palms</creator>
     </track>
     <track>
-      <title>Moths</title>
-      <creator>Kristin Hersh</creator>
+      <title>Meetings</title>
+      <creator>TVOD</creator>
     </track>
     <track>
-      <title>Motion Picture</title>
-      <creator>Night Beats</creator>
+      <title>Get Your Head Around It</title>
+      <creator>Headlights</creator>
     </track>
     <track>
-      <title>Blind Smile</title>
-      <creator>Cor de Lux</creator>
+      <title>All Inside Aquarium</title>
+      <creator>BODEGA</creator>
     </track>
     <track>
-      <title>Harm</title>
-      <creator>Loney, Dear</creator>
+      <title>Iskra Goodbye</title>
+      <creator>Grooms</creator>
     </track>
     <track>
-      <title>Karma Police (Remastered)</title>
-      <creator>Radiohead</creator>
+      <title>Take The Bit Between Your Teeth</title>
+      <creator>Electrelane</creator>
     </track>
     <track>
-      <title>Modafinil</title>
-      <creator>The Yeah Dads</creator>
+      <title>The Bomb</title>
+      <creator>Vandal Moon</creator>
     </track>
     <track>
-      <title>The Kid From Cinncy</title>
-      <creator>The Hatfields</creator>
+      <title>Hot Autism</title>
+      <creator>The Joggers</creator>
     </track>
     <track>
-      <title>Tall Poppies</title>
-      <creator>Yard Act</creator>
+      <title>Pins</title>
+      <creator>Gurriers</creator>
     </track>
     <track>
-      <title>I Wanna Be Sedated</title>
-      <creator>Ramones</creator>
+      <title>Frail and Bedazzled</title>
+      <creator>Smashing Pumpkins</creator>
     </track>
     <track>
-      <title>Myrtle Beach</title>
-      <creator>Soul Dive</creator>
+      <title>See Out Loud</title>
+      <creator>Interpol</creator>
     </track>
     <track>
-      <title>A Fear of Explosions</title>
-      <creator>Dead Anyway</creator>
+      <title>Something Good</title>
+      <creator>Alex the Astronaut</creator>
     </track>
     <track>
-      <title>Do As I Please</title>
-      <creator>Adult DVD</creator>
+      <title>Turnstile Blues</title>
+      <creator>Autolux</creator>
     </track>
     <track>
-      <title>Danger</title>
-      <creator>Panda Bear &amp; Sonic Boom</creator>
-    </track>
-    <track>
-      <title>Expectations</title>
-      <creator>Cut Off Your Hands</creator>
-    </track>
-    <track>
-      <title>Fulfillment Center</title>
-      <creator>Protomartyr</creator>
-    </track>
-    <track>
-      <title>Unwanted Number</title>
-      <creator>Elvis Costello &amp; The Imposters</creator>
-    </track>
-    <track>
-      <title>Sensational</title>
-      <creator>Wishy</creator>
-    </track>
-    <track>
-      <title>Adventure, Stamina &amp; Anger</title>
-      <creator>This Town Needs Guns</creator>
-    </track>
-    <track>
-      <title>Sarasota</title>
-      <creator>Fai Laci</creator>
-    </track>
-    <track>
-      <title>Reduction Agent</title>
-      <creator>Dion Lunadon</creator>
-    </track>
-    <track>
-      <title>Cities In Dust</title>
-      <creator>Siouxsie &amp; the Banshees</creator>
-    </track>
-    <track>
-      <title>Daddy</title>
-      <creator>Radium Dolls</creator>
-    </track>
-    <track>
-      <title>Gen-X Cops</title>
-      <creator>Vampire Weekend</creator>
-    </track>
-    <track>
-      <title>Camp Dog</title>
-      <creator>King Stingray</creator>
-    </track>
-    <track>
-      <title>Kick Stones (The Boys)</title>
-      <creator>Westside Cowboy</creator>
-    </track>
-    <track>
-      <title>Television Man</title>
-      <creator>Talking Heads</creator>
-    </track>
-    <track>
-      <title>Berkeley By Hearseback</title>
-      <creator>Why?</creator>
-    </track>
-    <track>
-      <title>Dream of You in Black</title>
-      <creator>Kestrels</creator>
-    </track>
-    <track>
-      <title>Las Ovejitas</title>
-      <creator>Los Salvages</creator>
-    </track>
-    <track>
-      <title>Twice Born</title>
-      <creator>The Black Ships</creator>
-    </track>
-    <track>
-      <title>MECHANICAL BULL</title>
-      <creator>Hannah Cole</creator>
-    </track>
-    <track>
-      <title>Spitting Games</title>
-      <creator>Snow Patrol</creator>
-    </track>
-    <track>
-      <title>Listen Honey</title>
-      <creator>A Beautiful Noise</creator>
-    </track>
-    <track>
-      <title>Transmaniacon MC</title>
-      <creator>The Fuzztones</creator>
-    </track>
-    <track>
-      <title>Wall Between Us</title>
-      <creator>Radiator Hospital</creator>
-    </track>
-    <track>
-      <title>It's Rough On Rats (If You're Asking)</title>
-      <creator>Jack White</creator>
-    </track>
-    <track>
-      <title>Familiar Fruit</title>
-      <creator>Vanishing Twin</creator>
-    </track>
-    <track>
-      <title>Better Than Mine</title>
-      <creator>Allah-Las</creator>
-    </track>
-    <track>
-      <title>Mutha Fukka On A Motorcycle</title>
-      <creator>Machine Gun Fellatio</creator>
-    </track>
-    <track>
-      <title>Life Is Brutal</title>
-      <creator>Dead Anyway</creator>
-    </track>
-    <track>
-      <title>Shoot You Down (The Soul Hooligan Remix)</title>
-      <creator>The Stone Roses</creator>
-    </track>
-    <track>
-      <title>Yoko</title>
-      <creator>Lemongrab</creator>
-    </track>
-    <track>
-      <title>Nothing People</title>
-      <creator>Fuzz</creator>
-    </track>
-    <track>
-      <title>Just Like Them</title>
-      <creator>British Birds</creator>
-    </track>
-    <track>
-      <title>Raising Arizona</title>
-      <creator>Hunting Club</creator>
-    </track>
-    <track>
-      <title>Once In A Lifetime</title>
-      <creator>Talking Heads</creator>
-    </track>
-    <track>
-      <title>Everybody Please Relax</title>
-      <creator>1990s</creator>
-    </track>
-    <track>
-      <title>Mr. Cool</title>
-      <creator>Raccoon Fighter</creator>
-    </track>
-    <track>
-      <title>Drugs</title>
-      <creator>Walter Daniels &amp; Jack Oblivian</creator>
-    </track>
-    <track>
-      <title>Are You a Bus? (tedit)</title>
-      <creator>Spider Noises</creator>
-    </track>
-    <track>
-      <title>Alogia</title>
-      <creator>Gilla Band</creator>
-    </track>
-    <track>
-      <title>Scenic Route To Nowhere</title>
-      <creator>Salad Boys</creator>
-    </track>
-    <track>
-      <title>Jersey Kid</title>
-      <creator>Dimes</creator>
-    </track>
-    <track>
-      <title>Hearts Like Ours</title>
-      <creator>The Naked and Famous</creator>
-    </track>
-    <track>
-      <title>Change</title>
-      <creator>The Young Veins</creator>
-    </track>
-    <track>
-      <title>The Band From Northampton</title>
-      <creator>Peel Dream Magazine</creator>
-    </track>
-    <track>
-      <title>NAILBITER</title>
-      <creator>Outer Shapes</creator>
-    </track>
-    <track>
-      <title>It's Gonna Rain</title>
-      <creator>Sonny &amp; Cher</creator>
-    </track>
-    <track>
-      <title>Since You're Gone</title>
-      <creator>The Cars</creator>
-    </track>
-    <track>
-      <title>Swim</title>
-      <creator>Surfer Blood</creator>
-    </track>
-    <track>
-      <title>Gammy Leg</title>
-      <creator>Scott &amp; Charlene's Wedding</creator>
-    </track>
-    <track>
-      <title>Mr. and Mrs. Anthrope</title>
-      <creator>Artichoke</creator>
-    </track>
-    <track>
-      <title>Labelled with Love</title>
-      <creator>Squeeze</creator>
-    </track>
-    <track>
-      <title>Codename Too Much</title>
-      <creator>Dorio</creator>
-    </track>
-    <track>
-      <title>St. Peter's Day Festival</title>
-      <creator>Ra Ra Riot</creator>
-    </track>
-    <track>
-      <title>What I Won</title>
-      <creator>Someone Still Loves You Boris Yeltsin</creator>
-    </track>
-    <track>
-      <title>Kreuzberg</title>
-      <creator>Bloc Party</creator>
-    </track>
-    <track>
-      <title>Son of a Bitch</title>
-      <creator>Highasakite</creator>
-    </track>
-    <track>
-      <title>Tongue</title>
-      <creator>Fontaines D.C.</creator>
-    </track>
-    <track>
-      <title>You're Just A Habit That I'm Trying To Break</title>
-      <creator>The Wedding Present</creator>
-    </track>
-    <track>
-      <title>Get Away From Me (I Think I'll Love You Soon)</title>
-      <creator>Julia Jacklin</creator>
-    </track>
-    <track>
-      <title>Nails</title>
-      <creator>Bush Tetras</creator>
-    </track>
-    <track>
-      <title>Behind Your Eyes</title>
-      <creator>Nine Black Alps</creator>
-    </track>
-    <track>
-      <title>Marching Bands Of Manhattan</title>
-      <creator>Death Cab For Cutie</creator>
-    </track>
-    <track>
-      <title>Hangover</title>
-      <creator>Cooper and The Night Owls</creator>
-    </track>
-    <track>
-      <title>Marginal Over</title>
-      <creator>Wilderness</creator>
-    </track>
-    <track>
-      <title>Clam Along</title>
-      <creator>Dinosaur Jr.</creator>
-    </track>
-    <track>
-      <title>Why Don't You Leave?</title>
-      <creator>battlements</creator>
-    </track>
-    <track>
-      <title>Love To Get Used</title>
-      <creator>matt pond PA</creator>
-    </track>
-    <track>
-      <title>Rodeo</title>
-      <creator>Momma</creator>
-    </track>
-    <track>
-      <title>Best of Intentions</title>
-      <creator>The Spook School</creator>
-    </track>
-    <track>
-      <title>Leviathan</title>
-      <creator>Hunter As A Horse</creator>
-    </track>
-    <track>
-      <title>Full Spectrum Dominance</title>
-      <creator>Dummy</creator>
-    </track>
-    <track>
-      <title>Island</title>
-      <creator>Surfer Blood</creator>
-    </track>
-    <track>
-      <title>Up The Down Escalator</title>
-      <creator>The Chameleons</creator>
-    </track>
-    <track>
-      <title>I Just Do</title>
-      <creator>girlpuppy</creator>
-    </track>
-    <track>
-      <title>Odd To Even</title>
-      <creator>Amber Arcades</creator>
-    </track>
-    <track>
-      <title>Shit Love</title>
-      <creator>Fat Dog</creator>
-    </track>
-    <track>
-      <title>Someone For You</title>
-      <creator>Warm Soda</creator>
-    </track>
-    <track>
-      <title>The Rain Felt Kind</title>
-      <creator>Foglights</creator>
-    </track>
-    <track>
-      <title>Thrones</title>
-      <creator>Us &amp; Us Only</creator>
-    </track>
-    <track>
-      <title>I Don't Wanna Call You Baby, Baby</title>
-      <creator>Kids On A Crime Spree</creator>
-    </track>
-    <track>
-      <title>Ms Haha</title>
-      <creator>Kristin Hersh</creator>
-    </track>
-    <track>
-      <title>Beat Change</title>
-      <creator>Dazy</creator>
-    </track>
-    <track>
-      <title>Mean To Be Mean</title>
-      <creator>Swansea Sound</creator>
-    </track>
-    <track>
-      <title>Natural Bridges</title>
-      <creator>Audiafauna</creator>
-    </track>
-    <track>
-      <title>Precious One</title>
-      <creator>Chapterhouse</creator>
-    </track>
-    <track>
-      <title>Everywhere</title>
-      <creator>Ex Hex</creator>
-    </track>
-    <track>
-      <title>Entertainer</title>
-      <creator>NewDad</creator>
-    </track>
-    <track>
-      <title>Antenna</title>
-      <creator>Ceremony</creator>
-    </track>
-    <track>
-      <title>Postcards</title>
-      <creator>An Horse</creator>
-    </track>
-    <track>
-      <title>The Same Boy You've Always Known</title>
-      <creator>The White Stripes</creator>
-    </track>
-    <track>
-      <title>China Girl</title>
-      <creator>Iggy Pop</creator>
-    </track>
-    <track>
-      <title>Drive-In Saturday</title>
-      <creator>David Bowie</creator>
-    </track>
-    <track>
-      <title>Alabaster</title>
-      <creator>Butchie</creator>
-    </track>
-    <track>
-      <title>Bad Day</title>
-      <creator>Autogramm</creator>
-    </track>
-    <track>
-      <title>Monster Man</title>
-      <creator>Soul Coughing</creator>
-    </track>
-    <track>
-      <title>Today Is The Day</title>
-      <creator>Eels</creator>
-    </track>
-    <track>
-      <title>Pretty Much It</title>
-      <creator>Bottom Of The Hudson</creator>
-    </track>
-    <track>
-      <title>Manchasm</title>
-      <creator>Future Of The Left</creator>
-    </track>
-    <track>
-      <title>Hipster Runoff</title>
-      <creator>Lex Walton</creator>
-    </track>
-    <track>
-      <title>Midnight Caller</title>
-      <creator>Honus Honus</creator>
-    </track>
-    <track>
-      <title>Be a Man</title>
-      <creator>Arab Strap</creator>
-    </track>
-    <track>
-      <title>You Shouldn't Have</title>
-      <creator>Sink Tapes</creator>
-    </track>
-    <track>
-      <title>Kill The Light</title>
+      <title>Throwing It All Away</title>
       <creator>Cheap Time</creator>
     </track>
     <track>
-      <title>Too Insistent</title>
-      <creator>The Dø</creator>
+      <title>Ordinary Life</title>
+      <creator>Ezra Furman</creator>
     </track>
     <track>
-      <title>Big Fan</title>
-      <creator>Stalefish</creator>
+      <title>Turn A Square</title>
+      <creator>The Shins</creator>
     </track>
     <track>
-      <title>Stadiums And Shrines II</title>
-      <creator>Sunset Rubdown</creator>
+      <title>Die This Way</title>
+      <creator>The Crooked Stuff</creator>
     </track>
     <track>
-      <title>No One's Ready</title>
-      <creator>Dinosaur Jr.</creator>
+      <title>You're Lying</title>
+      <creator>John Woolley &amp; Just Born</creator>
     </track>
     <track>
-      <title>Tachycardia</title>
-      <creator>Conor Oberst</creator>
+      <title>Safe and Sound</title>
+      <creator>Electric President</creator>
     </track>
     <track>
-      <title>Frosted Tips</title>
-      <creator>Califone</creator>
+      <title>Wake With</title>
+      <creator>TR/ST</creator>
     </track>
     <track>
-      <title>Zombie State of Mind</title>
-      <creator>BOAT</creator>
+      <title>Bog Dash</title>
+      <creator>Damaged Bug</creator>
     </track>
     <track>
-      <title>Rubin</title>
-      <creator>The Everyones</creator>
+      <title>Caught</title>
+      <creator>Soft Loft</creator>
     </track>
     <track>
-      <title>MMA</title>
-      <creator>Hannah Cole</creator>
+      <title>Nineties Children</title>
+      <creator>Mister Loveless</creator>
     </track>
     <track>
-      <title>History Eraser</title>
-      <creator>Courtney Barnett</creator>
+      <title>Operator</title>
+      <creator>Yves Tumor</creator>
     </track>
     <track>
-      <title>Sunset</title>
-      <creator>Hollow Star</creator>
+      <title>Y-Control</title>
+      <creator>Yeah Yeah Yeahs</creator>
     </track>
     <track>
-      <title>Future Peg</title>
-      <creator>Man Man</creator>
+      <title>Doing as I Do</title>
+      <creator>The Beets</creator>
     </track>
     <track>
-      <title>Arc Of Time</title>
-      <creator>Bright Eyes</creator>
+      <title>I Could Be Happy</title>
+      <creator>Nouvelle Vague</creator>
     </track>
     <track>
-      <title>Full Stop Blue</title>
-      <creator>Ollo</creator>
+      <title>Animals That Roam The Earth</title>
+      <creator>Dead Pioneers</creator>
     </track>
     <track>
-      <title>I Don't Work Here</title>
-      <creator>Cheekface</creator>
+      <title>Time</title>
+      <creator>Ty Segall &amp; White Fence</creator>
     </track>
     <track>
-      <title>Millionaire</title>
-      <creator>Thao &amp; The Get Down Stay Down</creator>
+      <title>Friends in Dark Places</title>
+      <creator>The Black Drumset</creator>
     </track>
     <track>
-      <title>Tangerine</title>
-      <creator>Islands</creator>
+      <title>It's Alright, It's OK</title>
+      <creator>Primal Scream</creator>
     </track>
     <track>
-      <title>Lost Cause</title>
-      <creator>The Persian Leaps</creator>
+      <title>War On Peace</title>
+      <creator>The Jesus &amp; Mary Chain</creator>
     </track>
     <track>
-      <title>Unstable Neighbour</title>
-      <creator>Railcard</creator>
+      <title>Great DJ</title>
+      <creator>The Ting Tings</creator>
     </track>
     <track>
-      <title>Loving Arm</title>
-      <creator>Metronomy</creator>
+      <title>Green</title>
+      <creator>Dilly Dally</creator>
     </track>
     <track>
-      <title>Rainbows</title>
-      <creator>Arctic Lights</creator>
+      <title>Polka Dot Eyes</title>
+      <creator>British Birds</creator>
     </track>
     <track>
-      <title>She's Hearing Voices</title>
-      <creator>Bloc Party</creator>
+      <title>Relative</title>
+      <creator>Wray</creator>
     </track>
     <track>
-      <title>There's Only One</title>
-      <creator>Tones On Tail</creator>
+      <title>Galaxy</title>
+      <creator>Fraught</creator>
     </track>
     <track>
-      <title>Septembre</title>
-      <creator>La Femme</creator>
+      <title>All I Wanna Do Is Live</title>
+      <creator>Flaamingos</creator>
     </track>
     <track>
-      <title>Badlands</title>
-      <creator>The Growlers</creator>
+      <title>Vietnam</title>
+      <creator>The Happy Hollows</creator>
     </track>
     <track>
-      <title>Memphis, Texas</title>
-      <creator>The Afghan Whigs</creator>
+      <title>The Plan (Fuck Jobs)</title>
+      <creator>The Front Bottoms</creator>
     </track>
     <track>
-      <title>No One Knows Her</title>
-      <creator>Heaven For Real</creator>
-    </track>
-    <track>
-      <title>dollhouse</title>
-      <creator>Slow Fiction</creator>
-    </track>
-    <track>
-      <title>Our Bodies Weren't Wrong</title>
-      <creator>ADULT.</creator>
-    </track>
-    <track>
-      <title>Mars Red Rust</title>
-      <creator>Human Television</creator>
-    </track>
-    <track>
-      <title>Just Don't Know (How To Be You)</title>
-      <creator>The Cords</creator>
-    </track>
-    <track>
-      <title>The Overload</title>
-      <creator>Yard Act</creator>
-    </track>
-    <track>
-      <title>Pure Michigan</title>
-      <creator>Kiwi Jr.</creator>
-    </track>
-    <track>
-      <title>Juveniles</title>
-      <creator>The Walkmen</creator>
-    </track>
-    <track>
-      <title>Giraffe</title>
-      <creator>Gilla Band</creator>
-    </track>
-    <track>
-      <title>Make It Right</title>
-      <creator>The Coathangers</creator>
-    </track>
-    <track>
-      <title>About A Girl</title>
-      <creator>Nirvana</creator>
-    </track>
-    <track>
-      <title>Romance Is Boring</title>
-      <creator>Los Campesinos!</creator>
-    </track>
-    <track>
-      <title>The Bridge</title>
-      <creator>SICKY</creator>
-    </track>
-    <track>
-      <title>Western Pepsi Cola Town</title>
-      <creator>The Convenience</creator>
-    </track>
-    <track>
-      <title>My Dead Astronaut</title>
-      <creator>Robyn Hitchcock</creator>
-    </track>
-    <track>
-      <title>Sense In Asking</title>
-      <creator>Otoliths</creator>
-    </track>
-    <track>
-      <title>Dobro</title>
-      <creator>Westside Cowboy</creator>
-    </track>
-    <track>
-      <title>Jackeyed</title>
-      <creator>Micah P Hinson</creator>
-    </track>
-    <track>
-      <title>Love Race</title>
-      <creator>The KABBs</creator>
-    </track>
-    <track>
-      <title>Comatose</title>
-      <creator>Ten Million Lights</creator>
-    </track>
-    <track>
-      <title>Wooden Spoon</title>
-      <creator>The Poets</creator>
-    </track>
-    <track>
-      <title>Everything You've Been</title>
-      <creator>Ty Segall</creator>
-    </track>
-    <track>
-      <title>Locomotion</title>
-      <creator>Orchestral Manoeuvres In The Dark</creator>
-    </track>
-    <track>
-      <title>Real Tree Lee</title>
-      <creator>Adult DVD</creator>
-    </track>
-    <track>
-      <title>Record Store</title>
-      <creator>Gold-Bears</creator>
-    </track>
-    <track>
-      <title>Stolen Mountains</title>
-      <creator>Chin Up Chin Up</creator>
-    </track>
-    <track>
-      <title>Carolina</title>
-      <creator>Royal Headache</creator>
-    </track>
-    <track>
-      <title>I Wish I Was An M80</title>
-      <creator>Lex Walton</creator>
-    </track>
-    <track>
-      <title>An Eluardian Instance</title>
-      <creator>of Montreal</creator>
-    </track>
-    <track>
-      <title>I Decline</title>
-      <creator>Cheekface</creator>
-    </track>
-    <track>
-      <title>Best Friend</title>
-      <creator>The English Beat</creator>
-    </track>
-    <track>
-      <title>Give Me Back My Man</title>
-      <creator>The B-52's</creator>
-    </track>
-    <track>
-      <title>Road To Joy</title>
-      <creator>Bright Eyes</creator>
-    </track>
-    <track>
-      <title>Scratchers</title>
-      <creator>Juliana Hatfield</creator>
-    </track>
-    <track>
-      <title>N of 1</title>
+      <title>Touch the Perfect Speed</title>
       <creator>Dummy</creator>
     </track>
     <track>
-      <title>So Far We Are</title>
-      <creator>French Kicks</creator>
+      <title>Captive Of The Sun</title>
+      <creator>Parquet Courts</creator>
     </track>
     <track>
-      <title>My Lover</title>
+      <title>Biking Through Berlin</title>
+      <creator>Time Thieves</creator>
+    </track>
+    <track>
+      <title>A Loosened Knot</title>
+      <creator>Pile</creator>
+    </track>
+    <track>
+      <title>Weirdo Libido</title>
+      <creator>The Lime Spiders</creator>
+    </track>
+    <track>
+      <title>Too Late Now</title>
+      <creator>Wet Leg</creator>
+    </track>
+    <track>
+      <title>Jungle Roux</title>
       <creator>The Afghan Whigs</creator>
     </track>
     <track>
-      <title>Flippers</title>
-      <creator>Art vs. Science</creator>
+      <title>Broken Chinese Chairz</title>
+      <creator>Ex Cops</creator>
     </track>
     <track>
-      <title>One Hundred Years</title>
-      <creator>The Cure</creator>
+      <title>Play Cowboys</title>
+      <creator>Ty Segall</creator>
     </track>
     <track>
-      <title>Compliments</title>
-      <creator>Band Of Horses</creator>
+      <title>Since You Broke My Ouija Board</title>
+      <creator>Replaced By Robots</creator>
+    </track>
+    <track>
+      <title>Wolf Like Me</title>
+      <creator>TV On the Radio</creator>
+    </track>
+    <track>
+      <title>Um Chagga Lagga</title>
+      <creator>Pixies</creator>
+    </track>
+    <track>
+      <title>Fashionista</title>
+      <creator>CHAI</creator>
+    </track>
+    <track>
+      <title>Twisted</title>
+      <creator>Pardoner</creator>
     </track>
   </trackList>
 </playlist>
